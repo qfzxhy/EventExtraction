@@ -1,0 +1,90 @@
+w - - - - - - - - - -1use_crf-----:Falseuse_fusiongate-----:True
+Val fscore:0.7872  Test_ta fscore:0.8174  Test_op fscore:0.8541
+Val fscore:0.7922  Test_ta fscore:0.8103  Test_op fscore:0.8394
+Val fscore:0.8065  Test_ta fscore:0.8268  Test_op fscore:0.8388
+Val fscore:0.8005  Test_ta fscore:0.8278  Test_op fscore:0.8465
+Val fscore:0.7955  Test_ta fscore:0.8210  Test_op fscore:0.8431
+Val Mean fscore:0.7964  Test_ta Mean fscore:0.8207  Test_op Mean fscore:0.8444
+Val fscore:0.8065  Test_ta fscore:0.8268  Test_ta fscore:0.8388
+two task average fscore:0.8328
+w - - - - - - - - - -1use_crf-----:Falseuse_fusiongate-----:True
+Val fscore:0.7872  Test_ta fscore:0.8174  Test_op fscore:0.8541
+Val fscore:0.7922  Test_ta fscore:0.8103  Test_op fscore:0.8394
+Val fscore:0.8065  Test_ta fscore:0.8268  Test_op fscore:0.8388
+Val fscore:0.8005  Test_ta fscore:0.8278  Test_op fscore:0.8465
+Val fscore:0.7955  Test_ta fscore:0.8210  Test_op fscore:0.8431
+Val Mean fscore:0.7964  Test_ta Mean fscore:0.8207  Test_op Mean fscore:0.8444
+Val fscore:0.8065  Test_ta fscore:0.8268  Test_ta fscore:0.8388
+two task average fscore:0.8328
+w - - - - - - - - - -1use_crf-----:Falseuse_fusiongate-----:True
+Val fscore:0.8026  Test_ta fscore:0.8176  Test_op fscore:0.8492
+Val fscore:0.8036  Test_ta fscore:0.8126  Test_op fscore:0.8616
+Val fscore:0.8081  Test_ta fscore:0.8236  Test_op fscore:0.8450
+Val fscore:0.8169  Test_ta fscore:0.8308  Test_op fscore:0.8594
+Val fscore:0.8087  Test_ta fscore:0.8251  Test_op fscore:0.8498
+Val Mean fscore:0.8080  Test_ta Mean fscore:0.8219  Test_op Mean fscore:0.8530
+Val fscore:0.8169  Test_ta fscore:0.8308  Test_ta fscore:0.8594
+two task average fscore:0.8451
+w - - - - - - - - - -1use_crf-----:Trueuse_fusiongate-----:True
+Val fscore:0.8042  Test_ta fscore:0.8309  Test_op fscore:0.8360
+Val fscore:0.8072  Test_ta fscore:0.8357  Test_op fscore:0.8192
+Val fscore:0.8137  Test_ta fscore:0.8345  Test_op fscore:0.8380
+Val fscore:0.8119  Test_ta fscore:0.8324  Test_op fscore:0.8400
+Val fscore:0.8093  Test_ta fscore:0.8375  Test_op fscore:0.8245
+Val Mean fscore:0.8093  Test_ta Mean fscore:0.8342  Test_op Mean fscore:0.8315
+Val fscore:0.8137  Test_ta fscore:0.8345  Test_ta fscore:0.8380
+two task average fscore:0.8363
+w - - - - - - - - - -1use_crf-----:Trueuse_fusiongate-----:True
+Val fscore:0.7928  Test_ta fscore:0.8145  Test_op fscore:0.8477
+Val fscore:0.7944  Test_ta fscore:0.8268  Test_op fscore:0.8394
+Val fscore:0.8060  Test_ta fscore:0.8315  Test_op fscore:0.8555
+Val fscore:0.8128  Test_ta fscore:0.8357  Test_op fscore:0.8320
+Val fscore:0.8041  Test_ta fscore:0.8324  Test_op fscore:0.8532
+Val Mean fscore:0.8020  Test_ta Mean fscore:0.8282  Test_op Mean fscore:0.8456
+Val fscore:0.8128  Test_ta fscore:0.8357  Test_ta fscore:0.8320
+two task average fscore:0.8339
+w - - - - - - - - - -1use_crf-----:Trueuse_fusiongate-----:True
+Val fscore:0.7919  Test_ta fscore:0.8150  Test_op fscore:0.8135
+Val fscore:0.7928  Test_ta fscore:0.8145  Test_op fscore:0.8477
+Val fscore:0.8060  Test_ta fscore:0.8315  Test_op fscore:0.8555
+Val fscore:0.8128  Test_ta fscore:0.8357  Test_op fscore:0.8320
+Val fscore:0.7944  Test_ta fscore:0.8268  Test_op fscore:0.8394
+Val Mean fscore:0.7996  Test_ta Mean fscore:0.8247  Test_op Mean fscore:0.8376
+Val fscore:0.8128  Test_ta fscore:0.8357  Test_ta fscore:0.8320
+two task average fscore:0.8339
+w - - - - - - - - - -1use_crf-----:Trueuse_fusiongate-----:True
+Val fscore:0.7919  Test_ta fscore:0.8150  Test_op fscore:0.8135
+Val fscore:0.7928  Test_ta fscore:0.8145  Test_op fscore:0.8477
+Val fscore:0.8060  Test_ta fscore:0.8315  Test_op fscore:0.8555
+Val fscore:0.8128  Test_ta fscore:0.8357  Test_op fscore:0.8320
+Val fscore:0.7944  Test_ta fscore:0.8268  Test_op fscore:0.8394
+Val Mean fscore:0.7996  Test_ta Mean fscore:0.8247  Test_op Mean fscore:0.8376
+Val fscore:0.8128  Test_ta fscore:0.8357  Test_ta fscore:0.8320
+two task average fscore:0.8339
+w - - - - - - - - - -0.1use_crf-----:Trueuse_fusiongate-----:True
+Val fscore:0.8142  Test_ta fscore:0.8279  Test_op fscore:0.8409
+Val fscore:0.8153  Test_ta fscore:0.8250  Test_op fscore:0.8491
+Val fscore:0.8181  Test_ta fscore:0.8332  Test_op fscore:0.8367
+Val fscore:0.8223  Test_ta fscore:0.8328  Test_op fscore:0.8559
+Val fscore:0.8189  Test_ta fscore:0.8407  Test_op fscore:0.8409
+Val Mean fscore:0.8177  Test_ta Mean fscore:0.8319  Test_op Mean fscore:0.8447
+Val fscore:0.8223  Test_ta fscore:0.8328  Test_ta fscore:0.8559
+two task average fscore:0.8444
+w - - - - - - - - - -0.6use_crf-----:Trueuse_fusiongate-----:True
+Val fscore:0.8025  Test_ta fscore:0.8244  Test_op fscore:0.8365
+Val fscore:0.8097  Test_ta fscore:0.8367  Test_op fscore:0.8612
+Val fscore:0.8119  Test_ta fscore:0.8400  Test_op fscore:0.8407
+Val fscore:0.8169  Test_ta fscore:0.8343  Test_op fscore:0.8570
+Val fscore:0.8169  Test_ta fscore:0.8488  Test_op fscore:0.8411
+Val Mean fscore:0.8116  Test_ta Mean fscore:0.8368  Test_op Mean fscore:0.8473
+Val fscore:0.8169  Test_ta fscore:0.8343  Test_ta fscore:0.8570
+two task average fscore:0.8457
+w - - - - - - - - - -0.5use_crf-----:Trueuse_fusiongate-----:True
+Val fscore:0.8005  Test_ta fscore:0.8302  Test_op fscore:0.8578
+Val fscore:0.8005  Test_ta fscore:0.8290  Test_op fscore:0.8475
+Val fscore:0.8316  Test_ta fscore:0.8393  Test_op fscore:0.8504
+Val fscore:0.8144  Test_ta fscore:0.8375  Test_op fscore:0.8552
+Val fscore:0.8076  Test_ta fscore:0.8200  Test_op fscore:0.8344
+Val Mean fscore:0.8109  Test_ta Mean fscore:0.8312  Test_op Mean fscore:0.8491
+Val fscore:0.8316  Test_ta fscore:0.8393  Test_ta fscore:0.8504
+two task average fscore:0.8448

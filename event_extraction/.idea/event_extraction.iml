@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.5.1 (H:\softWare\program\Python3.5.1\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cross-domain-multi-task-learning-for-absa" />
+    <orderEntry type="module" module-name="absa_semeval_baseline" />
+    <orderEntry type="module" module-name="event_extraction_baseline" />
+  </component>
+</module>

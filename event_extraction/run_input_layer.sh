@@ -1,0 +1,4 @@
+python -m train --use_postag False --use_suffix False --use_character_lstm False --is_interact False --interact_type 0 --exp_file exp_input_layer_4_7> log.txt
+python -m train --use_postag False --use_suffix True --use_character_lstm False --is_interact False --interact_type 0 --exp_file exp_input_layer_4_7> log.txt
+python -m train --use_postag True --use_suffix False --use_character_lstm False --is_interact False --interact_type 0 --exp_file exp_input_layer_4_7> log.txt
+python -m train --use_postag True --use_suffix True --use_character_lstm False --is_interact False --interact_type 0 --exp_file exp_input_layer_4_7> log.txt

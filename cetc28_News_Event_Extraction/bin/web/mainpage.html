@@ -1,0 +1,378 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<title>AGRA</title>
+<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<style type="text/css">
+
+#container{
+	
+	width: 1024px;
+}
+
+h1
+{
+    font-size:xx-large;
+    font-family:"华文新魏";
+    text-shadow: 2px 2px 4px #bbb; 
+    font-size:2.5em; 
+    text-align:center;
+}
+
+#copyright{
+	text-align:center; 
+	color:Gray; 
+	font-size:1.2em;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+}
+
+.hyperlink
+{
+    color:#5eb876;
+    font-size:1.3em;
+}
+.example{
+	border-style: solid;
+	border-width: 1px;
+}
+
+.conleft{
+word-wrap:break-word; 
+word-break:break-all; 
+}
+.label{
+	float: right;
+}
+</style>
+<script src="jquery-3.2.1.js">
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#postTitle").click(function(){
+
+	  $("#isworda").text("more");
+	  $("#length3a").text("more");
+	  $("#length4a").text("more");
+	  $("#length5a").text("more");
+	  $("#length6a").text("more");
+	  $("#length7a").text("more");
+	  var tit = $("#title").val()
+	  if(tit == ""){
+		  alert("please input the title");
+		  return;
+	  }
+	  $("#processbar").css("width","100%");
+	  $("#showprocess").show();
+	  $("#processbar").addClass("active");
+	  
+	  $.ajax({
+	        type : "get",
+	        async : false,
+	        cache : false,
+	        url : "http://114.212.189.224:8080/GenAbbrs/AbbrServlet?title="+tit,
+	        
+	        dataType : "jsonp",
+	        jsonp: "jsonpCallback",
+	        success : function(data) {
+	        	
+	        	$("#processbar").removeClass("active");
+	       	  	$("#processbar").css("width","0%");
+	       	 	$("#showprocess").hide();
+	       	 	
+	       	 	$("#result").show();
+	        	$.each(data,function(k,v){
+	        		$("#"+k).val(v);
+	        
+	        	});
+	        	
+	        	$("#result_title").text($("#title").val());
+	        	$("#title").val("")
+	        	$("#result_isword").text($("#len0top10").val());
+	        	$("#result_len3").text($("#len3top10").val());
+	        	$("#result_len4").text($("#len4top10").val());
+	        	$("#result_len5").text($("#len5top10").val());
+	        	$("#result_len6").text($("#len6top10").val());
+	        	$("#result_len7").text($("#len7top10").val());
+	        },
+	        error : function() {
+	            alert('invalid title');
+	        }
+	    });
+	  
+	  
+	 
+	  
+	  
+	  
+		
+		  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+    
+  });
+});
+
+
+function showIsword(){
+	var name = $("#isworda").text();
+
+	if(name == "more"){
+		$("#isworda").text("fold");
+		$("#result_isword").text($("#len0top50").val());
+	}else{
+		$("#isworda").text("more");
+		$("#result_isword").text($("#len0top10").val());
+	}
+}
+
+function showLength3(){
+	var name = $("#length3a").text();
+
+	if(name == "more"){
+		$("#length3a").text("fold");
+		$("#result_len3").text($("#len3top50").val());
+	}else{
+		$("#length3a").text("more");
+		$("#result_len3").text($("#len3top10").val());
+	}
+}
+
+function showLength4(){
+	var name = $("#length4a").text();
+
+	if(name == "more"){
+		$("#length4a").text("fold");
+		$("#result_len4").text($("#len4top50").val());
+	}else{
+		$("#length4a").text("more");
+		$("#result_len4").text($("#len4top10").val());
+	}
+}
+
+function showLength5(){
+	var name = $("#length5a").text();
+
+	if(name == "more"){
+		$("#length5a").text("fold");
+		$("#result_len5").text($("#len5top50").val());
+	}else{
+		$("#length5a").text("more");
+		$("#result_len5").text($("#len5top10").val());
+	}
+}
+
+function showLength6(){
+	var name = $("#length6a").text();
+
+	if(name == "more"){
+		$("#length6a").text("fold");
+		$("#result_len6").text($("#len6top50").val());
+	}else{
+		$("#length6a").text("more");
+		$("#result_len6").text($("#len6top10").val());
+	}
+}
+
+function showLength7(){
+	var name = $("#length7a").text();
+
+	if(name == "more"){
+		$("#length7a").text("fold");
+		$("#result_len7").text($("#len7top50").val());
+	}else{
+		$("#length7a").text("more");
+		$("#result_len7").text($("#len7top10").val());
+	}
+}
+
+</script>
+
+
+
+</head>
+<body>
+
+
+
+<div class = "container">
+	<div id = "example" >
+		<h1>The Abbreviation Generation System of English Titles</h1>
+	</div>
+	
+	
+	
+	<div class="panel panel-primary">
+	  <div class="panel-heading">
+	    <h3 class="panel-title">Examples used in paper</h3>
+	  </div>
+	  <div class="panel-body">
+	    <ul class="list-group">
+		  <li class="list-group-item list-group-item-info">FAWN: A Fast Array of Wimpy Nodes</li>
+		  <li class="list-group-item list-group-item-info">IPR: An Integrated Placement and Routing Algorithm</li>
+		  <li class="list-group-item list-group-item-info">SeRQL: A Second Generation RDF Query Language</li>
+		  <li class="list-group-item list-group-item-info">WBCSim: A Prototype Problem Solving Environment for Wood-Based Composites Simulations</li>
+		</ul>
+	  </div>
+	</div>
+	
+	<div class="panel panel-primary">
+	  <div class="panel-heading"><h3 class="panel-title">please input the title(only '-','.' and letters allowed)</h3></div>
+	  <div class="panel-body">
+	    <div class="col-lg-6">
+		    <div class="input-group">
+		      <input type="text" id = "title" class="form-control" style="width: 800px" placeholder="paper title">
+		      <span class="input-group-btn">
+		        <button id = "postTitle" class="btn btn-default" type="button">Go!</button>
+		      </span>
+		    </div><!-- /input-group -->
+  		</div><!-- /.col-lg-6 -->
+	  </div>
+	  <div class="panel-body" id = "showprocess" style="display:none;">
+	    <div class="progress">
+		  <div id="processbar" class="progress-bar progress-bar-striped " role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+		    <span class="sr-only">45% Complete</span>
+		  </div>
+		</div>
+	  </div>
+	  
+	</div>
+	
+	
+	
+	<div id = "result" style="display:none;" class="panel panel-primary">
+	  <div class="panel-heading">
+	  	<h3 class="panel-title">Results</h3>
+	  </div>
+	  <div class="panel-body">
+	    <!-- begin -->
+	    <div class="panel panel-info">
+		  <div class="panel-heading">
+		  	<h3 class="panel-title">title</h3>
+		  </div>
+		  <div  class="panel-body" >
+		    <div id = "result_title" class="conleft"></div>
+		  </div>
+		</div>
+	    <!-- exit words -->
+	    <div class="panel panel-success">
+		  <div class="panel-heading">
+		  	<h3 class="panel-title">existing words</h3>
+		  </div>
+		  <div  class="panel-body" >
+		    <div id = "result_isword" class="conleft"></div><span class="label label-warning"><a id ="isworda" href="JavaScript:showIsword();" class="navbar-link">more</a></span>
+		  </div>
+		</div>
+		<!-- len 3 -->
+		<div class="panel panel-success">
+		  <div class="panel-heading">
+		  	<h3 class="panel-title">length 3</h3>
+		  </div>
+		  <div  class="panel-body" >
+		    <div id = "result_len3" class="conleft"></div><span class="label label-warning"><a id ="length3a" href="JavaScript:showLength3();" class="navbar-link">more</a></span>
+		  </div>
+		</div>
+		<!-- len 4 -->
+		<div class="panel panel-success">
+		  <div class="panel-heading">
+		  	<h3 class="panel-title">length 4</h3>
+		  </div>
+		  <div  class="panel-body" >
+		    <div id = "result_len4" class="conleft"></div><span class="label label-warning"><a id ="length4a" href="JavaScript:showLength4();" class="navbar-link">more</a></span>
+		  </div>
+		</div>
+		<!-- len 5 -->
+		<div class="panel panel-success">
+		  <div class="panel-heading">
+		  	<h3 class="panel-title">length 5</h3>
+		  </div>
+		  <div  class="panel-body" >
+		    <div id = "result_len5" class="conleft"></div><span class="label label-warning"><a id ="length5a" href="JavaScript:showLength5();" class="navbar-link">more</a></span>
+		  </div>
+		</div>
+		<!-- len 6 -->
+		<div class="panel panel-success">
+		  <div class="panel-heading">
+		  	<h3 class="panel-title">length 6</h3>
+		  </div>
+		  <div  class="panel-body" >
+		    <div id = "result_len6" class="conleft"></div><span class="label label-warning"><a id ="length6a" href="JavaScript:showLength6();" class="navbar-link">more</a></span>
+		  </div>
+		</div>
+		<!-- len 7 -->
+	    <div class="panel panel-success">
+		  <div class="panel-heading">
+		  	<h3 class="panel-title">length 7</h3>
+		  </div>
+		  <div  class="panel-body" >
+		    <div id = "result_len7" class="conleft"></div><span class="label label-warning"><a id ="length7a" href="JavaScript:showLength7();" class="navbar-link">more</a></span>
+		  </div>
+		</div>
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    <!-- end -->
+	  </div>
+	</div>
+	<div class="panel panel-primary">
+	  <div class="panel-heading">
+	  	<h3 class="panel-title">The system is described in the following paper</h3>
+	  </div>
+	  <div  class="panel-body" >
+	    <a id = "getPaper" href="http://114.212.189.224/demo/AGRA/AGRA.pdf" target="_blank">AGRA: An Analysis-Generation-Ranking Framework for Automatic Abbreviation from Paper Titles</a>  accepted by IJCAI2017
+	  </div>
+	</div>
+	
+	<div id = "copyright">
+	
+	&copy;NJUNLP. created by 
+    <a id="HyperLink1" class="hyperlink" href="#" style="text-decoration:none;">Fang Qian</a> in 2018-4-29.
+    |
+    <a id="HyperLink2" class="hyperlink" href="mailto:sunyx@nlp.nju.edu.cn&amp;subject=[Reordering]Suggestion" style="text-decoration:none;">suggestions</a> 
+	
+	
+	</div>
+</div>
+
+
+
+
+
+	
+	
+
+
+<input type="hidden" id = "len0top10" />
+<input type="hidden" id = "len0top50" />
+<input type="hidden" id = "len3top10" />
+<input type="hidden" id = "len3top50" />
+<input type="hidden" id = "len4top10" />
+<input type="hidden" id = "len4top50" />
+<input type="hidden" id = "len5top10" />
+<input type="hidden" id = "len5top50" />
+<input type="hidden" id = "len6top10" />
+<input type="hidden" id = "len6top50" />
+<input type="hidden" id = "len7top10" />
+<input type="hidden" id = "len7top50" />
+
+
+
+</body>
+</html>

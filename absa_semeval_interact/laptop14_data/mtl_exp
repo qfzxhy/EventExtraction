@@ -1,0 +1,17 @@
+usecouple- - -- - - --------Falsew- - -- - - --------0.4
+Val fscore:0.7033  Test_ta fscore:0.7721  Test_op fscore:0.7732
+Val fscore:0.7093  Test_ta fscore:0.8027  Test_op fscore:0.7558
+Val fscore:0.7209  Test_ta fscore:0.8141  Test_op fscore:0.7836
+Val fscore:0.7162  Test_ta fscore:0.8037  Test_op fscore:0.7513
+Val fscore:0.7114  Test_ta fscore:0.7991  Test_op fscore:0.7593
+Val Mean fscore:0.7122  Test_ta Mean fscore:0.7983  Test_op Mean fscore:0.7646
+Val fscore:0.7209  Test_ta fscore:0.8141  Test_ta fscore:0.7836
+w - - - - - - - - - -1use_crf-----:Falseuse_fusiongate-----:True
+Val fscore:0.6667  Test_ta fscore:0.7780  Test_op fscore:0.7743
+Val fscore:0.6752  Test_ta fscore:0.7494  Test_op fscore:0.7841
+Val fscore:0.6767  Test_ta fscore:0.7429  Test_op fscore:0.7678
+Val fscore:0.6872  Test_ta fscore:0.7644  Test_op fscore:0.7794
+Val fscore:0.6779  Test_ta fscore:0.7729  Test_op fscore:0.7786
+Val Mean fscore:0.6767  Test_ta Mean fscore:0.7615  Test_op Mean fscore:0.7768
+Val fscore:0.6872  Test_ta fscore:0.7644  Test_ta fscore:0.7794
+two task average fscore:0.7719

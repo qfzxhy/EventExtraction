@@ -1,0 +1,126 @@
+lstm-crf laptop14
+- - - - - - - - - - - iter1
+@dep
+Val fscore:0.7705  Test fscore:0.7898
+Val fscore:0.7705  Test fscore:0.8046
+Val fscore:0.7736  Test fscore:0.7832
+Val fscore:0.7753  Test fscore:0.8035
+Val fscore:0.7719  Test fscore:0.7957
+Val Mean fscore:0.7724  Test Mean fscore:0.7954
+Val Max fscore:0.7753  Test Max fscore:0.8046
+Val fscore:0.6893  Test fscore:0.7365
+Val fscore:0.6931  Test fscore:0.7580
+Val fscore:0.6944  Test fscore:0.7443
+Val fscore:0.6966  Test fscore:0.7448
+Val fscore:0.7179  Test fscore:0.7492
+Val Mean fscore:0.6983  Test Mean fscore:0.7466
+Val Max fscore:0.7179  Test Max fscore:0.7580
+@indep
+target     0.8154362416107382      0.7476923076923077       0.7800963081861958        650
+opword     0.7547723935389133      0.7740963855421686       0.7643122676579925        664
+
+lstm-crf res14
+- - - - - - - - - - - iter1
+@dep
+Val fscore:0.8156  Test fscore:0.8411
+Val fscore:0.8163  Test fscore:0.8540
+Val fscore:0.8243  Test fscore:0.8355
+Val fscore:0.8181  Test fscore:0.8378
+Val fscore:0.8164  Test fscore:0.8315
+Val Mean fscore:0.8182  Test Mean fscore:0.8400
+Val Max fscore:0.8243  Test Max fscore:0.8540
+Val fscore:0.8896  Test fscore:0.8522
+Val fscore:0.8900  Test fscore:0.8563
+Val fscore:0.8974  Test fscore:0.8596
+Val fscore:0.8903  Test fscore:0.8579
+Val fscore:0.8954  Test fscore:0.8663
+Val Mean fscore:0.8925  Test Mean fscore:0.8585
+Val Max fscore:0.8974  Test Max fscore:0.8663
+@indep
+target     0.8152920962199313      0.8398230088495575       0.8273757628596338        1130
+opword     0.869140625      0.892678034102307       0.8807521029193469        997
+
+lstm-crf res15
+- - - - - - - - - - - iter1
+@dep
+Val fscore:0.7500  Test fscore:0.6879
+Val fscore:0.7520  Test fscore:0.7081
+Val fscore:0.7552  Test fscore:0.6957
+Val fscore:0.7570  Test fscore:0.7079
+Val fscore:0.7531  Test fscore:0.6830
+Val Mean fscore:0.7535  Test Mean fscore:0.6965
+Val Max fscore:0.7570  Test Max fscore:0.7081
+Val fscore:0.7654  Test fscore:0.7195
+Val fscore:0.7679  Test fscore:0.6991
+Val fscore:0.7699  Test fscore:0.7065
+Val fscore:0.7826  Test fscore:0.7066
+Val fscore:0.7680  Test fscore:0.7257
+Val Mean fscore:0.7708  Test Mean fscore:0.7115
+Val Max fscore:0.7826  Test Max fscore:0.7257
+Val fscore:0.7635  Test fscore:0.6994
+Val fscore:0.7656  Test fscore:0.7063
+Val fscore:0.7674  Test fscore:0.6959
+Val fscore:0.7692  Test fscore:0.7053
+Val fscore:0.7686  Test fscore:0.7018
+Val Mean fscore:0.7669  Test Mean fscore:0.7017
+Val Max fscore:0.7692  Test Max fscore:0.7063
+Val fscore:0.8000  Test fscore:0.7293
+Val fscore:0.8050  Test fscore:0.7331
+Val fscore:0.8216  Test fscore:0.7358
+Val fscore:0.8201  Test fscore:0.7386
+Val fscore:0.8067  Test fscore:0.7360
+Val Mean fscore:0.8107  Test Mean fscore:0.7346
+Val Max fscore:0.8216  Test Max fscore:0.7386
+Val fscore:0.7429  Test fscore:0.7120
+Val fscore:0.7462  Test fscore:0.6774
+Val fscore:0.7541  Test fscore:0.7135
+Val fscore:0.7521  Test fscore:0.6967
+Val fscore:0.7480  Test fscore:0.7002
+Val Mean fscore:0.7486  Test Mean fscore:0.7000
+Val Max fscore:0.7541  Test Max fscore:0.7135
+Val fscore:0.8000  Test fscore:0.7492
+Val fscore:0.8033  Test fscore:0.7470
+Val fscore:0.8101  Test fscore:0.7471
+Val fscore:0.8155  Test fscore:0.7390
+Val fscore:0.8291  Test fscore:0.7405
+@indep
+target     0.6882661996497373      0.7237569060773481       0.7055655296229804        543
+opword     0.7685589519650655      0.6915520628683693       0.7280248190279214        509
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type	precision	recall	f1-score	support
+
+0.7600596125186289      0.7680722891566265       0.7640449438202246
+type	precision	recall	f1-score	support
+
+0.8049180327868852      0.7553846153846154       0.7793650793650795
+
+
+
+
+
+
+
+0.8108527131782945      0.7876506024096386       0.799083269671505
+type	precision	recall	f1-score	support
+
+0.8064516129032258      0.7692307692307693       0.7874015748031495
+
+
+0.8476635514018691      0.9097291875626881       0.8776003870343493
+type	precision	recall	f1-score	support
+
+0.8385689354275742      0.8504424778761062       0.8444639718804919

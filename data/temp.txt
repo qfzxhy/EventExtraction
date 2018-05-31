@@ -1,0 +1,14 @@
+.*##
+#.*
+\+
+srctgt\+*	source
+srcloc	source
+evtloc	target
+tgtloc	target
+\tsource.*
+\texchange.*
+\ttarget.*
+\tcategory.*
+\trelscore.*
+\$\$\d 
+^\r\n

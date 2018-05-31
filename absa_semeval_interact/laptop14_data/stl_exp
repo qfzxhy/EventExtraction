@@ -1,0 +1,48 @@
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------target
+Val fscore:0.7459  Test fscore:0.7608
+Val fscore:0.7505  Test fscore:0.7944
+Val fscore:0.7495  Test fscore:0.8034
+Val fscore:0.7550  Test fscore:0.8012
+Val fscore:0.7520  Test fscore:0.7877
+Val Mean fscore:0.7506  Test Mean fscore:0.7895
+Val Max fscore:0.7550  Test Max fscore:0.8034
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------opword
+Val fscore:0.6638  Test fscore:0.6862
+Val fscore:0.6743  Test fscore:0.7296
+Val fscore:0.6909  Test fscore:0.7353
+Val fscore:0.6937  Test fscore:0.7471
+Val fscore:0.6889  Test fscore:0.7447
+Val Mean fscore:0.6823  Test Mean fscore:0.7286
+Val Max fscore:0.6937  Test Max fscore:0.7471
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------opword
+Val fscore:0.7277  Test fscore:0.7776
+Val fscore:0.7308  Test fscore:0.7778
+Val fscore:0.7349  Test fscore:0.7725
+Val fscore:0.7355  Test fscore:0.7672
+Val fscore:0.7346  Test fscore:0.7818
+Val Mean fscore:0.7327  Test Mean fscore:0.7754
+Val Max fscore:0.7355  Test Max fscore:0.7818
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------target
+Val fscore:0.6937  Test fscore:0.7641
+Val fscore:0.7016  Test fscore:0.7765
+Val fscore:0.7223  Test fscore:0.7868
+Val fscore:0.7073  Test fscore:0.7847
+Val fscore:0.7026  Test fscore:0.7862
+Val Mean fscore:0.7055  Test Mean fscore:0.7797
+Val Max fscore:0.7223  Test Max fscore:0.7868
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------opword
+Val fscore:0.7273  Test fscore:0.7808
+Val fscore:0.7347  Test fscore:0.7858
+Val fscore:0.7294  Test fscore:0.7763
+Val fscore:0.7619  Test fscore:0.7781
+Val fscore:0.7621  Test fscore:0.7761
+Val Mean fscore:0.7431  Test Mean fscore:0.7794
+Val Max fscore:0.7621  Test Max fscore:0.7858
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------target
+Val fscore:0.7033  Test fscore:0.7969
+Val fscore:0.7064  Test fscore:0.8211
+Val fscore:0.7403  Test fscore:0.8102
+Val fscore:0.7155  Test fscore:0.8065
+Val fscore:0.7281  Test fscore:0.8201
+Val Mean fscore:0.7187  Test Mean fscore:0.8109
+Val Max fscore:0.7403  Test Max fscore:0.8211

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../absa_semeval_baseline/.idea/absa_semeval_baseline.iml" filepath="$PROJECT_DIR$/../absa_semeval_baseline/.idea/absa_semeval_baseline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cross-domain-multi-task-learning-for-absa/.idea/cross-domain-multi-task-learning-for-absa.iml" filepath="$PROJECT_DIR$/../cross-domain-multi-task-learning-for-absa/.idea/cross-domain-multi-task-learning-for-absa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/event_extraction.iml" filepath="$PROJECT_DIR$/.idea/event_extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../event_extraction_baseline/.idea/event_extraction_baseline.iml" filepath="$PROJECT_DIR$/../event_extraction_baseline/.idea/event_extraction_baseline.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1464 @@
+美国/ns/B-nt 军方/n/I-nt 否认/v/TRIG 被/p/O 要求/v/TRIG 撤离/v/O 吉布提/ns/B-ns 军事基地/i/I-ns
+中/j/B-country 智/j/B-country 将/p/O 双边/n/O 关系/n/O 定位/v/O 提升/v/O 至/p/O 全面/a/O 战略/n/O 伙伴/n/O 关系/n/O
+中/j/B-country 加/j/B-country 将/p/O 双边/n/O 关系/n/O 定位/v/O 提升/v/O 至/p/O 全面/a/O 战略/n/O 伙伴/n/O 关系/n/O
+中/j/B-country 朝/j/B-country 将/p/O 双边/n/O 关系/n/O 定位/v/O 提升/v/O 至/p/O 全面/a/O 战略/n/O 伙伴/n/O 关系/n/O
+中/j/B-country 墨/j/B-country 将/p/O 双边/n/O 关系/n/O 定位/v/O 提升/v/O 至/p/O 全面/a/O 战略/n/O 伙伴/n/O 关系/n/O
+中/j/B-country 泰/j/B-country 将/p/O 双边/n/O 关系/n/O 定位/v/O 提升/v/O 至/p/O 全面/a/O 战略/n/O 伙伴/n/O 关系/n/O
+中/j/B-country 新/j/B-country 将/p/O 双边/n/O 关系/n/O 定位/v/O 提升/v/O 至/p/O 全面/a/O 战略/n/O 伙伴/n/O 关系/n/O
+印度/ns/B-nt 军方/n/I-nt 请求/v/TRIG 政府/n/B-nt 对抗/v/TRIG 中巴/n/B-ns
+外交部/ni/B-nt 发言人/n/B-role 就/p/O 朝鲜/ns/B-ns 半岛/n/I-ns 形势/n/O 答/v/O 问/v/O
+美国/ns/B-country 防长/n/B-role 称/v/TRIG 将/d/O 助力/v/O 奥巴马/nh/B-nr 任内/nl/O 关闭/v/O 关塔那摩/v/B-nt 监狱/n/I-nt
+美/j/B-nt 国防部/n/I-nt 拒绝/v/TRIG 就/p/O 俄/j/B-country 黑客/n/B-role 入侵/v/TRIG 其/r/O 网络/n/O 的/u/O 报道/n/O 发表/v/O 评论/n/TRIG
+美/j/B-nt 国防部/n/I-nt 赞赏/v/TRIG 中国/ns/B-country 国防/n/O 白皮书/n/O “/wp/O 透明/a/O ”/wp/O
+证监会/j/B-nt 新闻/n/O 发言人/n/B-role 指出/v/TRIG 各地/r/O 贵金属/n/O 类/n/O 交易所/n/O 应/v/TRIG 是/v/O 现货/n/O 市场/n/O
+印度/ns/B-nt 军方/n/I-nt 催促/v/TRIG 政府/n/B-nt 加速/v/O 采购/v/TRIG 军火/n/O 对抗/v/TRIG 中巴/n/B-ns
+潘/nh/B-nr 基文/nh/I-nr 敦促/v/TRIG 朝/j/B-country 韩/j/B-country 避免/v/O 朝鲜/ns/B-ns 半岛/n/I-ns 局势/n/O 升级/v/O
+印度/ns/B-country 2万/m/O 农民/n/B-role 请求/v/TRIG 总统/n/B-role "/wp/O 赐死/v/O "/wp/O ,/wp/O 因/p/O 向/p/O 政府/n/B-nt 征求/v/O 赔偿/v/O 未果/v/O
+印度尼西亚/ns/B-country 恳求/v/TRIG 美联储/j/B-nt 赶快/d/O 加息/v/O
+美/j/B-country 防长/j/B-role 访问/v/TRIG 越南/ns/B-country 承诺/v/TRIG 提供/v/TRIG 军事/n/O 援助/v/TRIG (/wp/O 图/n/O )/wp/O
+印度/ns/B-nt 政府/n/I-nt 同意/v/TRIG 与/p/O 法国/ns/B-country 、/wp/O 蒙古/ns/B-country 的/u/O 可/v/O 再生/v/O 能源/n/O 合作/v/TRIG
+印日/nt/O 中/nd/B-country 三/m/O 企业/n/O 就/d/O 光伏/v/O 发电/v/O 面板/n/O 生产/v/O 计划/n/O 进行/v/O 合作/v/TRIG 谈判/v/TRIG
+逾/v/O 7/m/O 成/q/O 台湾/ns/B-ns 民众/n/B-role 赞成/v/TRIG 强化/v/O 两岸/n/O 交流/v/O
+日/j/B-country 美/j/B-country 韩/j/B-country ,/wp/O 强化/v/O 对/p/O 北朝鲜/ns/B-country 压制/v/O 达成/v/TRIG 一致/a/O
+哥伦比亚/ns/B-nt 最/d/I-nt 大/a/I-nt 反/v/I-nt 政府/n/I-nt 武装/n/I-nt 承诺/v/TRIG 无条件/d/O 释放/v/TRIG 人质/n/B-role
+俄罗斯/ns/B-country 及/c/O 委内瑞拉/ns/B-country 与/p/O OPEC/ws/B-nt 商议/v/TRIG 油市/n/O 问题/n/O
+安倍/nh/B-nr 9月/nt/O 3日/nt/O 访华/v/TRIG 会见/v/TRIG 习/nh/B-nr 近平/nh/I-nr ,/wp/O 但/c/O 不/d/O 出席/v/TRIG 阅兵式/n/O
+奥巴马/nh/B-nr 就/p/O 斯诺登/nh/B-nr 问题/n/O "/wp/O 约谈/v/TRIG "/wp/O 普京/nh/B-nr
+缅甸/ns/B-country 外长/n/B-role 抵京/v/O 面/n/O 见习/v/O 近平/a/O ,/wp/O 中/j/B-country 缅/j/B-country 同意/v/TRIG 解决/v/O 电站/n/O 问题/n/O
+安倍晋三/nh/B-nr 拟/v/O 12月/nt/O 访问/v/TRIG 印度/ns/B-country ,/wp/O 推销/v/TRIG 日本/ns/B-country 新/a/B-dev 干线/n/I-dev
+中国/ns/B-country 已/d/O 与/p/O 46/m/O 国家/n/O 签订/v/TRIG 领事/n/B-role 条约/n/O
+澳大利亚/ns/B-country 同/p/O 伊朗/ns/B-country 达成/v/TRIG 反/v/O 恐/v/O 情报/n/O 共享/v/O 协议/n/O
+中国/ns/B-country 帮/v/O 巴基斯坦/ns/B-country 建/v/O 2/m/O 座/q/O 核电站/n/B-dev :/wp/TRIG 巴铁/j/B-nt 感激/v/O 不已/v/O
+澳大利亚/ns/B-country 与/p/O 伊朗/ns/B-country 携手/v/TRIG ,/wp/O 为/p/O 打击/v/TRIG 极端/d/O 组织/v/O 共享/v/O 情报/n/O
+俄罗斯/ns/B-country 过去/nt/O 10/m/O 年/q/O 向/p/O 35/m/O 个/q/O 国家/n/O 捐助/v/TRIG 30万/m/O 吨/q/O 物资/n/O
+美国/ns/B-country 向/p/O 加共体/j/B-nt 提供/v/TRIG 农业/n/O 技术/n/O 援助/v/TRIG
+驻/v/B-nt 缅甸/ns/I-nt 使馆/n/I-nt 为/p/O 缅甸/ns/B-country 实皆/n/B-ns 、/wp/O 若开/v/B-ns 、/wp/O 马圭/nh/B-ns 等/u/O 三/m/O 省/n/O 邦/n/O 提供/v/TRIG 紧急/a/O 人道主义/n/O 援助/v/TRIG
+厄瓜多尔/ns/B-country 前/nd/B-role 外长/n/I-role 称/v/TRIG 给予/v/TRIG 斯诺登/nh/B-nr 政治/n/O 庇护/v/O
+哥伦比亚/ns/B-nt 革命/v/I-nt 武装力量/i/I-nt 宣布/v/TRIG 无限期/n/O 单边/d/O 停火/v/TRIG ,/wp/O 望/v/TRIG 停战/v/TRIG
+俄罗斯/ns/B-country 对/p/O 新西兰/ns/B-country 多种/m/O 乳制品/n/O 解除/v/O 禁令/n/O
+德国/ns/B-country 因/p/O 证据/n/O 不足/a/O 放弃/v/TRIG 调查/v/TRIG 美监/n/O 听/v/O 默克尔/nh/B-nr
+安倍/nh/B-nr 道歉/v/TRIG ,/wp/O 迫于/v/O 多方/n/O 压力/n/O
+盼/v/O 了/u/O 53/m/O 年/q/O 的/u/O 藏南/nd/O 终于/d/O 传来/v/O 喜讯/n/O :/wp/TRIG 印度/ns/B-country 做出/v/O 罕见/a/O 让步/v/TRIG
+巴基斯坦/ns/B-nt 空军/n/I-nt 就/p/O 美国/ns/B-country 军机/n/B-dev 侵犯/v/O 领空/n/O 展开/v/O 调查/v/TRIG
+越南/ns/B-nt 研究/v/I-nt 机构/n/I-nt 研究/v/TRIG 该国/r/O 获得/v/O 的/u/O 侨汇/n/O 来源/n/O 与/c/O 用途/n/O
+巴西/ns/B-country 数万/m/O 人/n/O 游行/v/TRIG 要求/v/TRIG 弹劾/v/TRIG 总统/n/B-role 罗塞夫/nh/B-nr (/wp/O 高清/nh/O 组图/n/O )/wp/O
+伊朗/ns/B-country 核谈/n/O 前/nd/O 划/v/O 红/a/O 线/n/O ,/wp/O 不/d/O 同意/v/TRIG 运/v/O 核/n/O 材料/n/O 出国/v/O
+法/j/B-nt 美/j/I-nt 民众/n/B-role 对/p/O 阿富汗/ns/B-country 前景/n/O 持/v/O 怀疑/v/TRIG 态度/n/O
+民调/n/O 显示/v/O 大多数/m/O 法国/ns/B-role 人/n/I-role 不/d/O 赞成/v/TRIG 军事/n/O 干预/v/O 阿富汗/ns/B-country
+小布什/nh/B-nr 公开/a/O 抨击/v/TRIG 奥巴马/nh/B-nr 外交/n/O 政策/n/O ,/wp/O 白宫/n/B-ns 回击/v/O
+俄罗斯/ns/B-nt 官员/n/B-role 指责/v/TRIG 美国/ns/B-country 密谋/v/O 推翻/v/O 普/a/B-nr 京/j/I-nr
+高雄/ns/B-ns 市长/n/B-role 陈菊控/nh/B-nr 告/v/O 邱毅/nh/B-nr 诽谤/v/O 其/r/O 涉弊案/n/O ,/wp/O 检方/n/O 不/d/O 起诉/v/TRIG
+美国/ns/B-nt 国务院/n/I-nt 发言人/n/B-role 谴责/v/TRIG 日/j/B-country 大阪/ns/B-ns 市长/n/B-role “/wp/O 慰安妇/n/B-role ”/wp/O 言论/n/O
+日/j/B-nt 民间/n/I-nt 团体/n/I-nt 拟/v/O 集会/v/O 反对/v/TRIG 安保案/n/O
+韩国/ns/B-nt 大法院/n/I-nt 宣判/v/TRIG 天堂/n/O 3/m/O 泄/v/O 密案/n/O 涉案人员/n/B-role 有/v/O 罪/n/O
+美国/ns/B-country 财长/n/B-role :/wp/TRIG 美/a/B-country 不/d/O 同意/v/TRIG 人民币/n/O 被/p/O 纳入/v/O IMF/ws/B-nt 货币/n/O 篮子/n/O
+伊朗/ns/B-country 将/d/O 拒绝/v/TRIG 美国/ns/B-country 及/c/O 加拿大/ns/B-country 核监查/v/B-role 人员/n/I-role 进入/v/O 其/r/O 核/n/O 设施/n/O
+希腊/ns/B-country 拒绝/v/TRIG 援助/v/TRIG ,/wp/O 欧洲/ns/B-ns 陷入/v/O 两/m/O 难/a/O
+美国/ns/B-nt 政府/n/I-nt 拒绝/v/TRIG 17万/m/O 民众/n/B-role 赦免/v/O 斯诺登/nh/B-nr 请求/v/TRIG
+法国/ns/B-country 拒绝/v/TRIG 阿桑奇/nh/B-nr 避难/v/O 请求/v/TRIG
+希腊/ns/B-country 拒绝/v/TRIG 在/p/O 改革/v/O 方面/n/O 让步/v/TRIG ,/wp/O 短期/d/O 达成/v/TRIG 援助/v/TRIG 协议/n/O 希望/v/TRIG 渺茫/a/O
+日本/ns/B-country 不知/v/O 廉耻/n/O 再/d/O 提/v/O 入常/v/O ,/wp/O 遭/v/O 中国/ns/B-country 一/m/O 票/n/O 否决/v/TRIG
+乌克兰/ns/B-ns 东部/nd/I-ns 新/a/O 晋/j/O 停火/v/TRIG 协议/n/O 遭/v/O 亲/v/O 俄/j/B-country 叛军/n/O “/wp/O 无视/v/TRIG ”/wp/O
+欧盟/j/B-nt 拒绝/v/TRIG 延长/v/O 救助/v/TRIG 计划/n/O
+菲律宾/ns/B-country 推动/v/O 南海/ns/B-ns 争议/v/O 国际/n/O 仲裁/v/O ,/wp/O 中方/n/B-country 拒绝/v/TRIG 参与/v/O
+伊朗/ns/B-nt 军方/n/I-nt 警告/v/TRIG 以色列/ns/B-country 不要/d/O 试图/v/O 对/p/O 伊/j/B-country 进行/v/O 武力/n/O 打击/v/TRIG
+俄罗斯/ns/B-country “/wp/O 恐吓/v/TRIG ”/wp/O 丹麦/ns/B-country :/wp/TRIG 若/c/O 加入/v/O 北约/j/B-nt 防导/v/B-dev 系统/n/I-dev 将/d/O 发动/v/O 核/n/O 打击/v/TRIG
+朝鲜/ns/B-country 官方/n/O 对/p/O 美/j/B-country 韩/j/B-country 军演/n/TRIG 发出/v/O 警告/v/TRIG ,/wp/O 半岛/n/B-ns 气温/n/O 骤冷/v/O
+朝鲜/ns/B-country 向/p/O 韩国/ns/B-country 下/nd/O 最后通牒/i/TRIG ,/wp/O 威胁/v/TRIG 称/v/TRIG 将/d/O 直攻/v/O 美国/ns/B-country
+台湾/ns/B-ns 地区/n/O 举行/v/TRIG 反/v/O 日/j/B-country 集会/v/O 活动/v/O
+反课纲/v/O 学生/n/B-role 持续/v/O 静坐/v/TRIG ,/wp/O 勤务员/n/O 警/n/O 流露/v/O 疲态/n/O
+巴西/ns/B-country 部署/v/TRIG 两万/m/O 余/m/O 名/q/O 警力/n/O ,/wp/O 确保/v/O 世界杯/n/O 决赛/v/O 不/d/O 出/v/O 意外/a/O
+台军/n/B-nt 部署/v/TRIG 新型/b/B-dev 岸防/v/I-dev 武器/n/I-dev
+生物/n/O 燃料/n/O 在/p/O 美国/ns/B-country 遭/v/O 联合/v/O 抵制/v/TRIG
+大马/ns/B-nt 警方/n/I-nt 逮捕/v/TRIG 10/m/O 名/q/O 涉嫌/v/O 与/p/O “/wp/O 伊斯兰国/nz/B-nt ”/wp/O 有/v/O 关联/v/O 人员/n/B-role
+大陆/n/B-ns 渔船/n/B-dev “/wp/O 越界/v/O ”/wp/O 捕捞/v/O 遭/v/O 台湾/ns/B-ns 强制/v/TRIG 没收/v/TRIG 砸/v/O 毁/v/O (/wp/O 图/n/O )/wp/O
+索马里/ns/B-ns 南部/nd/I-ns 基斯马尤/n/B-ns 一/m/O 处/q/O 军事/n/B-ns 训练/v/I-ns 基地/n/I-ns 遭/v/O 汽车/n/B-dev 炸弹/n/I-dev 袭击/v/TRIG
+我国/n/O 南海/ns/B-ns 遭/v/O 海盗/n/B-role 骚扰/v/TRIG
+吉林/ns/B-ns 延边/ns/B-ns 现/nt/O 疑似/v/O 非法/d/O 越境/v/O 人员/n/B-role ,/wp/O 拒捕/v/O 被/p/O 驻军/n/B-role 击毙/v/TRIG
+朝/j/B-country 韩/j/B-country "/wp/O 动口/n/O 也/d/O 动手/v/O "/wp/O ,/wp/O 边境/nl/O 地区/n/O 互相/d/O 炮击/v/TRIG
+1965年/nt/O 印尼/ns/B-country 930/m/O 事件/n/O :/wp/TRIG 印尼/ns/B-nt 军方/n/I-nt 组织/v/O 骚乱/v/TRIG 屠杀/v/TRIG 百万/m/O 华人/n/B-role
+“/wp/O 伊斯兰国/ns/B-nt ”/wp/O 进行/v/O 种族/n/O 清洗/v/O ,/wp/O 杀害/v/TRIG 至少/d/O 300/m/O 雅兹迪/q/O 俘虏/n/O
+泰国/ns/B-nt 警方/n/I-nt 领/v/O 走/v/O 悬赏金/n/O 引/v/O 质疑/v/TRIG ,/wp/O 被/p/O 指/v/O “/wp/O 自己人奖/n/O 自己人/n/O ”/wp/O
+加拿大/ns/B-country 哥省/ns/B-ns 将/d/O 为/p/O 中小学生/n/B-role 提供/v/TRIG 个性化/v/O 教学/v/O
+马航/j/B-nt 宣布/v/TRIG 正式/a/O 易名/v/O “/wp/O 新/a/B-nt 马航/n/I-nt ”/wp/O ,/wp/O 盼/v/O 放下/v/O 沉重/a/O 包袱/n/O 再/d/O 出发/v/O
+菲律宾/ns/B-country 监察/v/B-role 专员/n/I-role 证实/v/TRIG 正/d/O 调查/v/TRIG 总统/n/B-role 阿基诺/nh/B-nr
+“/wp/B-nt 优步/nz/I-nt ”/wp/I-nt 公司/n/I-nt 首/m/O 次/q/O 遭/v/O 集体/n/O 诉讼/v/TRIG ,/wp/O 美国/ns/B-nt 政界/n/I-nt 关注/v/O
+美用/v/O 无人机/n/B-dev 在/p/O 叙利亚/ns/B-country 秘密/a/O 追杀/v/TRIG "/wp/O 伊斯兰国/ns/B-nt "/wp/O 头目/n/B-role
+加尼/nh/B-country 呼吁/v/TRIG 对/p/O 腐败/a/O “/wp/O 圣战/n/O ”/wp/O ,/wp/O 形容/v/O 腐败/a/O 是/v/O “/wp/O 癌症/n/O ”/wp/O
+俄/j/B-country 研发/v/O “/wp/O 野鸭子/n/B-dev ”/wp/O 专门/d/O 猎杀/v/O F35/ws/B-dev
+巴基斯坦/ns/B-ns 西北部/nd/I-ns 遭/v/O 美军/j/B-nt 无人机/n/B-dev 空袭/v/TRIG ,/wp/O 已/d/O 致/v/O 6/m/O 人/n/O 死亡/v/O
+习/nh/B-nr 近平/nh/I-nr 会见/v/TRIG 柬埔寨/ns/B-country 国王/n/B-role 西哈莫尼/nh/B-nr
+习/nh/B-nr 近平/nh/I-nr 会见/v/TRIG 塞尔维亚/ns/B-country 总统/n/B-role 尼科利奇/nh/B-nr
+24/m/O 小时/n/O 国际/n/O 要闻/n/O Top10/ws/O ：/wp/TRIG 欧洲/ns/B-ns 或/c/O 将/d/O 实行/v/O 火车票/n/O 实名制/n/O
+日本/ns/B-nt 政府/n/I-nt 就/p/O 民众/n/B-role 集会/v/O 表态/v/TRIG ,/wp/O 暗指/v/O 在野党/n/B-nt 煽动/v/O 民意/n/O
+奥巴马/nh/B-nr :/wp/TRIG 伊朗/ns/B-country 经济/n/O 到/v/O 2022年/nt/O 才/d/O 能/v/O 达到/v/O 制裁/v/TRIG 前/nd/O 水平/n/O
+美方/n/B-country 否认/v/TRIG 将/d/O 就/p/O 网络/n/O 问题/n/O 制裁/v/TRIG 中国/ns/B-country ,/wp/O 称/v/TRIG 需要/v/O 加强/v/TRIG 合作/v/TRIG
+境外/nl/B-nt 媒体/n/I-nt :/wp/TRIG 美国/ns/B-country 拟/v/O 以/p/O “/wp/O 涉/v/O 黑客/n/B-role ”/wp/O 为由/v/O 制裁/v/TRIG 部分/m/O 中企/j/B-nt
+难民/n/B-role 横渡/v/O 海峡/n/O 登陆/v/TRIG 希腊/ns/B-country 岛屿/n/O ,/wp/O 闯/v/O 开/v/O 欧洲/ns/B-ns 大门/n/O
+土耳其/ns/B-country 首/m/O 次/q/O 空袭/v/TRIG “/wp/O 伊斯兰国/ns/B-nt ”/wp/O
+金/nh/O 正/d/O 恩命/v/O 军队/n/B-nt 全面/a/O 负责/v/O 北部/nd/O 暴雨/n/O 救灾/v/O
+泰国/ns/B-country 新/d/O 锁定/v/TRIG 两/m/O 名/q/O 爆炸案/n/O 嫌疑人/n/O ,/wp/O 或/c/O 涉/v/O 更/d/O 多/a/O 阴谋/n/O
+阿桑奇/nh/B-nr 揭秘/v/TRIG 斯诺登/nh/B-nr 赴/v/TRIG 俄/j/B-country 避难/v/O 缘由/n/O
+联合国/ni/B-nt ２０１５年/nt/I-nt 第三/m/I-nt 轮/q/I-nt 气候/n/I-nt 谈判/v/I-nt 开幕/v/O
+秘鲁/ns/B-nt 强盗/n/I-nt 集团/n/I-nt 闯/v/O 机场/n/B-ns 抢走/v/O 运钞车/n/O 上/nd/O 123/m/O 公斤/q/O 黄金/n/O
+美/j/B-nt 国务院/n/I-nt 再/d/O 公开/v/O 希拉里/ns/B-nr 电邮/n/O 7000/m/O 页/q/O ,/wp/O 150/m/O 页/q/O 属/v/O “/wp/O 机密/n/O ”/wp/O
+24/m/O 小时/n/O 国际/n/O 要闻/n/O Top10/ws/O :/wp/TRIG 俄罗斯/ns/B-ns 拟派/v/O 航空/n/B-nt 分遣队/n/I-nt 入/v/O 叙/j/B-country 打击/v/TRIG "/wp/O 伊斯兰国/ns/B-nt "/wp/O
+BBC/ws/B-nt 称/v/TRIG 英国/ns/B-country 原本/d/O 可/v/O 搭/v/O 纳粹/n/B-nt 火箭/n/B-dev 上/v/O 太空/nl/O :/wp/TRIG 比/p/O 美/j/B-country 早/a/O 十/m/O 年/q/O
+IS/ws/B-nt 炸毁/v/TRIG 叙利亚/ns/B-country 两千/m/O 年/q/O 神庙/n/O 遭/v/O 怒斥/v/O ,/wp/O 历史学家/n/O 扼腕/v/O 叹息/v/O
+港媒/j/B-nt :/wp/TRIG 特朗普/nh/B-nr 抨击/v/TRIG 中国/ns/B-country 毫无/v/O 根据/n/O ,/wp/O 或/c/O 被/p/O 理性/n/O 选民/n/B-role 抛弃/v/TRIG
+中方/n/B-country 期待/v/TRIG 联合国/ni/B-nt 发展/v/O 峰会/n/B-nt 顺利/a/O 通过/v/O 2015/m/O 年/q/O 后/nd/O 发展/v/O 议程/n/O
+菲/j/B-country 总统/n/B-role 竞选人/n/I-role 对/p/O 华示/v/O 好/a/O ：/wp/TRIG 祖父/n/O 是/v/O 中国/ns/B-role 人/n/I-role ,/wp/O 无意/v/O 开战/v/O
+沙特/ns/B-country 埃及/ns/B-country 派/v/O 战机/n/B-dev 为/p/O 习/nh/B-nr 近平/nh/I-nr 护航/v/TRIG ,/wp/O 体现/v/O 对/p/O 贵宾/n/O 尊敬/v/O
+吴胜利/nh/B-nr ：/wp/TRIG 有/v/O 决心/n/O 有/v/O 能力/n/O 保卫/v/O 南沙/ns/B-ns 岛礁/n/I-ns 的/u/O 主权/n/O 和/c/O 安全/a/O
+张召忠/nh/B-nr 谈/v/TRIG 美军/j/B-nt 双/m/B-dev 航母/j/I-dev 部署/v/TRIG 东北亚/j/B-ns ：/wp/TRIG 差不多/i/O 就/d/O 行/a/O 了/u/O
+美军/j/B-nt 司令/n/B-role 煽动/v/O 他国/r/O 巡航/v/TRIG 南海/ns/B-ns 岛礁/n/I-ns 12/m/O 海里/q/O ,/wp/O 中方/n/B-country 回应/v/TRIG
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 已/d/O 向/p/O 永兴岛/ns/B-ns 派遣/v/TRIG 歼/v/B-dev -11/m/I-dev 和/c/O 飞豹/n/B-dev 战机/n/I-dev
+国防部/ni/B-nt 回应/v/TRIG 华阳礁/n/O 建/v/O 雷达/n/B-dev ：/wp/TRIG 美方/n/B-country 炒作/v/O ,/wp/O 蓄意/d/O 制造/v/O 议题/n/O
+美媒/j/B-nt 称/v/TRIG 埃及/ns/B-country 将/d/O 购/v/TRIG 俄/j/B-country 50/m/O 架/q/O 米格/nz/B-dev 29/m/I-dev 战机/n/I-dev 取代/v/O 中国/ns/B-country 歼/v/B-dev 7/m/I-dev
+韩/j/B-country 美/j/B-country 将/d/O 举行/v/TRIG 延伸/v/O 威慑/v/TRIG 运用/v/O 演习/v/TRIG ,/wp/O 防/v/O 朝/p/B-country 核武/j/B-dev 导弹/n/I-dev 威胁/v/TRIG
+俄罗斯/ns/B-country 国防部长/n/B-role 突访/v/TRIG 伊朗/ns/B-country ,/wp/O 传达/v/O 总统/n/B-role 普京/nh/B-nr “/wp/O 口信/n/O ”/wp/O
+日本/ns/B-country 各地/r/O 民众/n/B-role 举行/v/TRIG 大规模/d/O 集会/v/O ,/wp/O 抗议/v/TRIG 美军/j/B-ns 基地/n/I-ns 搬迁/v/O
+金/nh/B-nr 正恩/nh/I-nr 谈/v/TRIG 发射/v/TRIG 远程/b/B-dev 火箭/n/I-dev ：/wp/TRIG 要/v/O 更/d/O 多/a/O ！/wp/O 更/d/O 快/a/O ！/wp/O 更/d/O 痛快/a/O ！/wp/O
+韩称金/nh/O 正恩/nh/O 下令/v/TRIG 做/v/O 好/a/O 对/p/O 韩/j/B-country 恐袭/v/TRIG 准备/v/O ,/wp/O 公共/b/O 设施/n/O 成/v/O 目标/n/O
+韩媒/nh/B-nt ：/wp/TRIG 韩/j/B-country 美/j/B-country 正式/a/O 启动/v/O 有关/v/O 在/v/O 韩/j/B-country 部署/v/TRIG 萨德/nh/B-dev 系统/n/I-dev 的/u/O 磋商/v/TRIG
+美/j/B-nt 军方/n/I-nt “/wp/O 改口/v/O ”/wp/O 称/v/TRIG 韩/j/B-country 美/j/B-country 尚未/d/O 启动/v/O “/wp/O 萨德/nh/B-dev ”/wp/O 部署/v/TRIG 议程/n/O
+美/j/B-country 拟/v/O 向/p/O 半岛/n/B-ns 派遣/v/TRIG 四/m/O 架/q/O F-22/ws/B-dev 战机/n/I-dev ,/wp/O 强化/v/O 对/p/O 朝/j/B-country 军事/n/O 施压/v/TRIG
+俄/j/B-nt 媒/n/I-nt ：/wp/TRIG 美/j/B-country 韩/j/B-country 将/d/O 在/p/O 一/m/O 周/q/O 内/nd/O 就/d/O 在/v/O 韩/j/B-country 部署/v/TRIG 萨德/nh/B-dev 进行/v/O 谈判/v/TRIG
+日/j/B-country 防卫省/v/B-nt ：/wp/TRIG 日/q/B-ns 领海/n/I-ns 附近/nd/I-ns 有/v/O 外国/n/O 潜艇/n/B-dev 潜航/v/O ,/wp/O 应当/v/O 关注/v/O
+不爽/a/O 巴基斯坦/ns/B-country 买/v/TRIG F16/ws/B-dev ,/wp/O 印度/ns/B-country 或/c/O 购/v/TRIG 美/n/B-country 更/d/O 先进/a/O F16/ws/B-dev 对抗/v/TRIG
+沙特/ns/B-country 要/v/O 搞/v/O 中东/ns/B-ns “/wp/O 最/d/O 大/a/O 最/d/O 重要/a/O ”/wp/O 军演/n/TRIG ,/wp/O 20/m/O 国/n/O 军队/n/O 集结/v/O
+专家/n/B-role ：/wp/TRIG 美/j/B-country 在/p/O 叙/j/B-country 政策/n/O 拙劣/a/O 无比/z/O ,/wp/O 只/d/O 为/p/O 让/v/O 俄罗斯/ns/B-country 恶心/a/O
+土耳其/ns/B-country 总理/n/B-role 称/v/TRIG 将/d/O 继续/v/O 反击/v/TRIG 叙利亚/ns/B-ns 北部/nd/I-ns 的/u/O 挑衅/v/TRIG 行为/n/O
+日媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 或/c/O 在/p/O 华阳礁/nz/B-ns 建/v/O 雷达/n/B-dev 设施/n/O ,/wp/O 卫星/n/O 图/n/O 曝光/v/TRIG
+中国/ns/B-nt 海军/n/I-nt 战斗/v/B-dev 舰艇/n/I-dev 首访/v/TRIG 柬埔寨/ns/B-country ,/wp/O 增进/v/O 两/m/O 国/n/O 海军/n/B-nt 交流/v/O
+国防部/n/B-nt ：/wp/TRIG 中方/n/B-country 在/p/O 南沙/ns/B-ns 岛礁/n/I-ns 部署/v/TRIG 国土/n/O 防卫/v/O 设施/n/O 完全/a/O 正当/v/O 合法/a/O
+海军/n/B-nt 演练/v/O 海上/nl/O 攻防/v/O ,/wp/O 十/m/O 昼夜/n/O 拉/v/O 响/a/O 战斗/v/O 警报/n/O 80/m/O 余/m/O 次/q/O
+王毅/nh/B-nr ：/wp/TRIG 美方/n/B-country 驱逐舰/n/B-dev 、/wp/O 战略/n/B-dev 轰炸机/n/I-dev 几乎/d/O 每天/r/O 现身/v/O 南海/ns/B-ns
+外交部/ni/B-nt ：/wp/TRIG 希望/v/TRIG 俄/j/B-country 日/j/B-country 通过/p/O 和平谈判/i/O 妥善/a/O 解决/v/O 有关/v/O 岛屿/n/O 问题/n/O
+马鼎盛/nh/B-nr ：/wp/TRIG 朝鲜/ns/B-country 早已/d/O 抛开/v/O 中国/ns/B-country ,/wp/O 与/p/O 美/j/B-country 交易/v/O 出卖/v/TRIG 中/j/B-country 韩/j/B-country
+美/j/B-country 想/v/O 扶持/v/TRIG 印度/ns/B-country 当/v/O 亚太/j/B-ns 领导者/n/O ,/wp/O 称/v/TRIG 合作/v/TRIG 不/d/O 针对/v/O 中国/ns/B-country
+叙利亚/ns/B-nt 政府/n/I-nt 宣布/v/TRIG 接受/v/O 停火/v/TRIG 协议/n/O ,/wp/O 停止/v/TRIG 武装/v/O 行动/v/O
+安倍/nh/B-nr 拒/v/TRIG 奥巴马/nh/B-nr “/wp/O 勿/d/O 访/v/TRIG 俄/j/B-country ”/wp/O 要求/n/TRIG ,/wp/O 日/j/B-country 美/j/I-country 关系/n/O 或/c/O 脱轨/v/O
+俄罗斯/ns/B-country 将/d/O 向/p/O 伊朗/ns/B-country 出售/v/TRIG 防空/v/B-dev 导弹/n/I-dev ,/wp/O 防/v/O 北约/j/B-nt 精确/a/O 打击/v/TRIG
+韩青瓦台/nh/O 回应/v/TRIG 中国/ns/B-country 驻/v/B-role 韩/j/I-role 大使/n/I-role 言论/n/O ：/wp/TRIG 萨德/nh/B-dev 属/v/O 防卫/v/O 性质/n/O
+日本/ns/B-country 扣押/v/TRIG 一/m/O 艘/q/O 中国/ns/B-country 渔船/n/B-dev ,/wp/O 要求/v/TRIG 中方/n/B-country 削减/v/O 渔船/n/B-dev 数量/n/O
+中国/ns/B-country 驻/v/B-role 韩/j/I-role 大使/n/I-role ：/wp/TRIG 中/j/B-country 韩/j/B-country 关系/n/O 或/c/O 因/p/O 萨德/nh/B-dev 问题/n/O 而/c/O 瞬间/nt/O 遭/v/O 破坏/v/TRIG
+柬埔寨/ns/B-country 首相/n/B-role 洪森/nh/B-nr 会见/v/TRIG 中国/ns/B-nt 海军/n/I-nt 第２１/m/O 批/q/O 护航/v/B-role 编队/n/I-role 指挥员/n/I-role
+国防部/n/B-nt ：/wp/TRIG 韩/j/B-country 部署/v/TRIG 萨德/nh/B-dev 损害/v/O 中国/ns/B-country 战略/n/O 安全/a/O ,/wp/O 表/n/O 严重/a/O 关切/v/O
+国防部/n/B-nt ：/wp/TRIG 中国/ns/B-country 将/d/O 照常/v/O 派/v/O 军舰/n/B-dev 参加/v/TRIG 2016年/nt/O 环太/n/O 军演/n/TRIG
+国防部/n/B-nt ：/wp/TRIG 中国/ns/B-country 在/p/O 吉布提/ns/B-country 保障/v/O 设施/n/O 基础/n/O 工程/n/O 建设/v/O 已/d/O 启动/v/O
+澳大利亚/ns/B-country 决定/v/O 未来/nt/O 十/m/O 年/q/O 增加/v/TRIG 国防/n/O 预算/n/O
+国防部/n/B-nt 就/p/O 南海/ns/B-ns 及/c/O 美军/j/B-nt 部署/v/TRIG 萨德/nh/B-dev 等/u/O 问题/n/O 答问/v/TRIG (/wp/O 实录/n/O )/wp/O
+国防部/n/B-nt ：/wp/TRIG 不/d/O 存在/v/O 南海/ns/B-ns 人工岛/n/O 问题/n/O ,/wp/O 建设/v/O 出于/v/O 民事/b/O 目的/n/O
+中国/ns/B-nt 军方/n/I-nt 警告/v/TRIG 美/j/B-role 司令/n/I-role ：/wp/TRIG 别/d/O 为了/p/O 多/d/O 要/v/O 钱/n/O 就/d/O 肆意/d/O 抹黑/v/O 中国/ns/B-country
+军情室/n/B-nt ：/wp/TRIG 美军/j/B-nt 重/d/O 启/v/O 冷战/n/O 利器/n/O ,/wp/O 反舰/n/B-dev 版/n/I-dev 战斧/n/I-dev 专/d/O 打/v/O 中国/ns/B-country 航母/n/B-dev
+日媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 怎么/r/O 说/v/TRIG 不/d/O 重要/a/O ,/wp/O 实力/n/O 摆/v/O 在/p/O 那/r/O 没/v/O 人/n/O 敢/v/O 胡来/v/O
+克里米亚/ns/B-ns 乌克兰/ns/I-ns 军事基地/i/I-ns 频/d/O 遭袭/v/TRIG ,/wp/O 至少/d/O 一/m/O 人/n/O 死/v/O
+巴/j/B-country 以/j/I-country 双方/n/O 囚犯/n/B-role 日/n/O 再/d/O 酿/v/O 冲突/v/TRIG ,/wp/O 巴勒斯坦/ns/B-country 囚犯/n/B-role 绝食/v/TRIG 呼应/v/O
+朝鲜/ns/B-country ：/wp/TRIG 韩/j/B-country 美/j/B-country 军演/j/TRIG 是/v/O 在/p/O 制造/v/O 半岛/n/B-ns 紧张/a/O 局势/n/O
+伊朗/ns/B-country 建军节/nt/O 多/m/O 个/q/O 城市/n/O 举行/v/TRIG 阅兵式/n/O ,/wp/O 展示/v/O 最新/a/O 武器/n/B-dev 装备/n/O
+加拿大/ns/B-country 宣布/v/TRIG 向/p/O 北约/j/B-nt 派/v/O CF-18/ws/B-dev 战机/n/I-dev ,/wp/O 应/v/TRIG 对/p/O 乌克兰/ns/B-country 局势/n/O
+日本/ns/B-nt 参众两院/j/I-nt 拟/v/O 批准/v/O 猪木/n/B-nr 等/u/O 5/m/O 名/q/O 国会/n/B-role 议员/n/I-role 访问/v/TRIG 朝鲜/ns/B-country
+中国/ns/B-ns 沿海/nd/I-ns 受/v/O 威胁/v/TRIG ,/wp/O 日本/ns/B-country 战机/n/B-dev 到/v/O 中国/ns/B-country 沿海/nd/O 仅/d/O 需/v/O 45/m/O 分钟/q/O
+美国/ns/B-country 计划/n/O 向/p/O 乌克兰/ns/B-country 提供/v/TRIG 650万/m/O 美元/q/O 援助/v/TRIG
+日媒/j/B-nt ：/wp/TRIG 美/a/B-country 不/d/O 同意/v/TRIG 在/p/O 联合/v/O 文件/n/O 中/nd/O 写/v/O 明/a/O 钓鱼岛/ns/B-ns 防卫/v/O 义务/n/O
+国防部/ni/B-nt 回应/v/TRIG 海军/n/B-nt 包机/v/O 救/v/O 战士/n/B-role ：/wp/TRIG 生命/n/O 不/d/O 能/v/O 用/p/O 金钱/n/O 衡量/v/O
+中国/ns/B-nt 军方/n/I-nt ：/wp/TRIG 朝鲜/ns/B-ns 半岛/n/I-ns 生战生/n/O 乱/d/O 不/d/O 符合/v/O 任何/r/O 一/m/O 方/q/O 利益/n/O
+国防部/ni/B-nt 回应/v/TRIG 裁军/v/TRIG 30万/m/O 进展/v/O ：/wp/TRIG 今年/nt/O 干部/n/B-nt 转业/v/O 复员/v/O 数量/n/O 增加/v/TRIG
+媒体/n/B-nt ：/wp/TRIG 中国/ns/B-country 对/p/O 朝鲜/ns/B-country 尽力/v/O 了/u/O ,/wp/O 朝鲜/ns/B-country 受/v/O 严厉/a/O 制裁/v/TRIG 不可避免/i/O
+国防部/n/B-nt 证实/v/TRIG ：/wp/TRIG 中国/ns/B-nt 海军/n/I-nt 在/p/O 吉布提/ns/B-ns 保障/v/O 设施/n/O 已经/d/O 开建/v/O
+外媒/n/B-nt 称/v/TRIG 美国/ns/B-country 一/m/O 铁杆/n/O 盟友/n/B-nt 转向/v/TRIG 中国/ns/B-country ,/wp/O 谈/v/TRIG 大/a/O 单/b/O 军火/n/O 合同/n/O
+叙/j/B-nt 空军/n/I-nt 用/p/O 温压弹/n/B-dev 轰炸/v/TRIG 极端/n/B-role 分子/n/I-role
+美/j/B-country 司令/n/B-role 称/v/TRIG 中国/ns/B-country 在/p/O 太平洋/ns/B-ns 部署/v/TRIG 战略/n/B-dev 核潜艇/n/I-dev ,/wp/O 美/j/B-country 还/d/O 可以/v/O 抗衡/v/O
+少将/n/B-role 称/v/TRIG 日本/ns/B-country P3C/ws/B-dev 每年/r/O 侦察/v/TRIG 中国/ns/B-country 约/d/O 500/m/O 架次/q/O ,/wp/O 没法/v/O 阻止/v/TRIG
+王毅/nh/B-nr 在/p/O 美/j/B-country 演讲/v/O ：/wp/TRIG 中国/ns/B-country 已/d/O 停止/v/TRIG 填/v/O 岛/n/O 别的/r/O 国家/n/O 还/d/O 在/d/O 继续/v/O
+中方/n/B-country 对/p/O 澳/j/B-country 南海/ns/B-ns 言论/n/O 强烈/a/O 不满/a/TRIG ,/wp/O 罕见/a/O 一/m/O 天/q/O 两/m/O 度/q/O 批/v/O 澳/j/B-country
+中国/ns/B-nt 海军/n/I-nt 054A/ws/B-dev 舰/n/I-dev 访问/v/TRIG 柬埔寨/ns/B-country ,/wp/O 柬/j/B-country 向/p/O 中方/n/B-country 求购/v/TRIG 2/m/O 艘/q/O 军舰/n/B-dev
+外交部/ni/B-nt ：/wp/TRIG 安理会/j/B-nt 对/p/O 朝/j/B-country 制裁/v/TRIG 新/a/O 决议/n/O 将/d/O 很快/d/O 达成/v/TRIG 一致/a/O
+欧盟/j/B-nt 压倒性/n/O 优势/n/O 通过/v/O 决议/n/O ,/wp/O 禁止/v/TRIG 成员/n/O 向/p/O 沙特/ns/B-country 出售/v/TRIG 武器/n/B-dev
+王毅/nh/B-nr 在/p/O 美/j/B-country 批/v/O 菲律宾/ns/B-country ：/wp/TRIG 小国/n/O 不/d/O 能/v/O 以/p/O 小欺大/j/O
+美军/j/B-nt 司令/n/B-role 承认/v/TRIG ：/wp/TRIG 很/d/O 难/a/O 找到/v/O 盟友/n/B-role 与/p/O 美/j/B-country 一起/d/O 巡航/v/TRIG 南海/ns/B-ns
+国防部/ni/B-nt 新闻/n/B-role 发言人/n/I-role 就/p/O 南海/ns/B-ns 军事/n/O 活动/v/O 、/wp/O 干部/n/B-nt 转业/v/O 复员/v/O 工作/v/O 等/u/O 问题/n/O 答/v/O 记者/n/B-role 问/v/O
+专家/n/B-role ：/wp/TRIG 美国/ns/B-country 掌控/v/O 南海/ns/B-ns 舆论/n/O 主导权/n/O ,/wp/O 牺牲/v/O 中国/ns/B-country 利益/n/O
+美/j/B-nt 司令/n/B-role 称/v/TRIG 即使/c/O 中国/ns/B-country 划/v/O 设/v/O 南海/ns/B-ns 防空区/n/I-ns ,/wp/O 美军/j/B-nt 也/d/O 会/v/O 无视/v/TRIG
+美军/j/B-nt 司令/n/B-role 承认/v/TRIG ：/wp/TRIG 很/d/O 难/a/O 找到/v/O 盟友/n/B-role 一起/nl/O “/wp/O 巡航/v/TRIG 南海/ns/B-ns ”/wp/O
+制裁/v/TRIG 朝鲜/ns/B-country 协议/n/O 达成/v/TRIG 一致/a/O ,/wp/O 美方/n/B-country 改/v/O 口/n/O 称/v/TRIG 部署/v/TRIG 萨德/nh/B-dev 尚/d/O 需/v/O 时日/n/O
+国防部/n/B-nt ：/wp/TRIG 美军/j/B-nt 向/p/O 国会/n/B-nt 要/v/O 预算/n/O 我/r/O 不/d/O 管/v/O ,/wp/O 但/c/O 别/d/O 抹黑/v/O 中国/ns/B-country
+美/j/B-nt 司令/n/B-role 称/v/TRIG 考虑/v/O 向/p/O 南海/ns/B-ns 增派/v/TRIG 一/m/O 艘/q/O 核潜艇/n/B-dev 及/c/O 多/a/O 艘/q/O 驱逐舰/n/B-dev
+美军/j/B-nt 惧怕/v/O 中国/ns/B-country 导弹/n/B-dev 打击/v/TRIG ,/wp/O 在/p/O 小/a/O 岛/n/O 启动/v/O 对/p/O 华/j/B-nt 后备/b/O 作战/v/TRIG 计划/n/O
+日/j/B-country 澳/j/B-country 印/j/B-country 将/d/O 磋商/v/TRIG 中国/ns/B-country 建/v/O 海外/nl/B-ns 基地/n/I-ns ,/wp/O 探讨/v/O 印度洋/ns/B-country 安全/a/O 合作/v/TRIG
+日本/ns/B-country 紧张/a/O 中国/ns/B-country 向/p/O 西沙/ns/B-ns 部署/v/TRIG 战机/n/B-dev ,/wp/O 欲/d/O 拉/v/O 四/m/O 国/n/O 联合/v/O 对/p/O 华/j/B-nt 施压/v/TRIG
+法军/n/B-nt 特种部队/n/I-nt 与/p/O 美/j/B-country 英/j/B-country 联合/v/O 在/p/O 利比亚/ns/B-country 秘密/a/O 打击/v/TRIG IS/ws/B-nt
+美军/j/B-nt 中将/n/B-role 称/v/TRIG F35/ws/B-dev 战机/n/I-dev 在/p/O 空中无可匹敌/n/O ,/wp/O F22/ws/B-dev 也/d/O 赢/v/O 不/d/O 了/v/O
+叙利亚/ns/B-country 阿勒颇/ns/B-ns 附近/nd/I-ns 爆发/v/O 激战/v/TRIG ,/wp/O 政府军/n/B-nt 夺/v/O 回/v/O 唯一/b/O 补给线/n/O
+美国/ns/B-country 记者/n/B-role 探访/v/TRIG 大亚湾/ns/B-nt 核电站/n/I-nt 有/v/O 何/r/O 感受/v/O ,/wp/O 中国/ns/B-country 抱负/n/O 太/d/O 大/a/O 了/u/O
+澳大利亚/ns/B-country 斥/v/O 巨资/n/O 全面/a/O 复兴/v/O 海军/n/B-nt ,/wp/O 欲派舰/d/O 闯/v/O 中国/ns/B-country 南海/ns/B-ns 岛礁/n/I-ns
+美军/j/B-nt 驻/v/O 欧/j/B-ns 司令/n/B-role ：/wp/TRIG 美/j/B-country 已/d/O 准备/v/O 好/a/O 在/p/O 欧洲/ns/B-ns 战胜/v/O 俄罗斯/ns/B-country
+俄/j/B-dev 战机/n/I-dev 在/p/O 叙利亚/ns/B-country 挂弹/v/O 出击/v/TRIG ,/wp/O 官兵/n/B-role 住/v/O 集装箱/n/O
+金/nh/B-nr 正恩/nh/I-nr ：/wp/TRIG 敌/n/O 坦克/n/B-dev 在/p/O 朝/p/B-country 火箭/n/B-dev 前/nd/O 烂/v/O 得/u/O 像/v/O 煮/v/O 熟/a/O 的/u/O 南瓜/n/O
+朝鲜/ns/B-country 逾/v/O 150万/m/O 人/n/O 请愿/v/TRIG 参军/v/O ,/wp/O 金/nh/O 正/d/O 恩发/v/O 感谢信/n/O 赞扬/v/TRIG
+美媒/j/B-nt ：/wp/TRIG 美军/j/B-nt 宣传/v/O 洲际/b/B-dev 导弹/n/I-dev 试验/v/O ,/wp/O 安抚/v/O 日本/ns/B-country 威慑/v/TRIG 中国/ns/B-country
+美军/j/B-nt 高层/n/B-role 扬言/v/O 派/v/O 重兵/n/O 对付/v/O 中国/ns/B-country ,/wp/O 将/d/O 在/p/O 南海/ns/B-ns 部署/v/TRIG 航母/n/B-dev
+美军/j/B-nt 公布/v/TRIG 新/a/O 一代/n/O 隐轰/v/B-dev B21/ws/I-dev ,/wp/O 专家/n/B-role 称/v/TRIG 部署/v/TRIG 亚太/j/B-ns 是/v/O 活/v/O 靶子/n/O
+日菲/nh/B-country 今天/nt/O 签/v/TRIG 首/m/O 个/q/O 军备/n/O 合作/v/TRIG 协议/n/O ,/wp/O 特意/d/O 强调/v/O 不/d/O 针对/v/O 中国/ns/B-country
+韩媒/nh/B-nt 鼓动/v/TRIG 政府/n/B-nt 部署/v/TRIG 萨德/nh/B-dev ：/wp/TRIG 韩/j/B-country 美/j/B-country 同盟/n/O 不/d/O 该/v/O 听命/v/O 于/p/O 中国/ns/B-country
+印/j/B-country 称/v/TRIG 中国/ns/B-country 潜艇/n/B-dev 支援舰/n/I-dev 现身/v/O 安达曼/nz/B-ns 海/n/I-ns ,/wp/O 多/a/O 艘/q/O 潜艇/n/B-dev 在/p/O 此/r/O 活动/v/O
+中国/ns/B-country 朝鲜/ns/B-ns 半岛/n/I-ns 事务/n/O 特使/n/B-role ：/wp/TRIG 中/j/B-country 韩/j/B-country 一致/a/O 支持/v/TRIG 对/p/O 朝/j/B-country 制裁/v/TRIG 新/a/O 决议/n/O
+中/j/B-nt 欧/j/I-nt 护航/v/I-nt 编队/n/I-nt 在/p/O 亚丁湾/ns/B-ns 举行/v/TRIG 联合/v/O 反/v/O 海盗/n/B-role 演练/v/O
+印媒/j/B-nt 称/v/TRIG 中国/ns/B-country 潜艇/n/B-dev 支援舰/n/O 现身/v/O 安达曼海/ns/B-ns ,/wp/O 印军/n/B-nt 加强/v/TRIG 戒备/v/O
+日本/ns/B-country 最/d/O 快/a/O 下周/nt/O 与/c/O 菲签/v/O 协议/n/O ,/wp/O 允许/v/TRIG 转移/v/O 战斗/v/O 设备/n/O 给/v/O 菲/j/B-country
+特朗普/nh/B-nr ：/wp/TRIG 中国/ns/B-country 长城/ns/B-ns 有/v/O 1.3万/m/O 里/q/O ,/wp/O 我们/r/O 只要/c/O 建/v/O 1/m/O 千/m/O 里/q/O 就/d/O 行/a/O
+日/j/B-country 澳/j/B-country 印/j/B-country 南海/ns/B-ns 对/p/O 华/j/B-nt 达成/v/TRIG 一致/a/O ,/wp/O 日本/ns/B-country 欲/d/O 借机/d/O 称霸/v/O 东南亚/ns/B-nt
+伊朗/ns/B-nt 能源/n/I-nt 公司/n/I-nt 指责/v/TRIG 中企/j/B-nt 效率/n/O 低/a/O ,/wp/O 称/v/TRIG 今后/nt/O 将/d/O 与/p/O 美/j/B-country 日/j/B-country 合作/v/TRIG
+美/j/B-nt 空军/n/I-nt 宣布/v/TRIG 新/a/O 一代/n/O 隐形/b/B-dev 轰炸机/n/I-dev 正式/a/O 代号/n/O ：/wp/TRIG B-21/ws/B-dev
+外媒/n/B-nt 称/v/TRIG 中国/ns/B-country 正/d/O 考虑/v/O 调整/v/O 核武库/n/B-dev ,/wp/O 将/d/O 进入/v/O 备战/v/O 模式/n/O
+俄/j/B-nt 媒/j/I-nt 称/v/TRIG 中国/ns/B-country 航母/j/B-dev 已/d/O 在/p/O 亚太/j/B-ns 巡航/v/TRIG ,/wp/O 澳/j/B-nt 成/v/O 中/j/B-country 美/j/B-country 对抗/v/TRIG 牺牲品/n/O
+美国/ns/B-nt 空军/n/I-nt 公布/v/TRIG 新/a/O 轰炸机/n/B-dev B-21/ws/I-dev ,/wp/O 美/j/B-nt 参议院/n/I-nt 称/v/TRIG 绝不/d/O 批准/v/O
+美/j/B-country 阻止/v/TRIG IS/ws/B-nt 组织/n/O 发布/v/O 网络/n/O 视频/n/O ,/wp/O 设法/v/O 破坏/v/TRIG 加密/v/O 技术/n/O
+外媒/n/B-nt 称/v/TRIG 中/j/B-country 美/j/I-country 就/d/O 对/p/O 朝/j/B-country 制裁/v/TRIG 达成/v/TRIG 一致/a/O ,/wp/O 旨/n/O 将/d/O 朝/p/B-country 核/n/O 谈判/v/TRIG 拉/v/O 回/v/O 正轨/n/O
+美/j/B-country 称/v/TRIG 不/d/O 一定/d/O 在/v/O 韩/j/B-country 部署/v/TRIG 萨德/nh/B-dev 系统/n/I-dev ,/wp/O 前后/nd/O 说法/n/O 自相矛盾/i/O
+沙特/ns/B-country 等/u/O 国联军/n/O 空袭/v/TRIG 也门/ns/B-ns 首都/n/I-ns 集市/n/O ,/wp/O 38/m/O 人/n/O 死亡/v/O 30/m/O 多/m/O 伤/v/O
+英国/ns/B-country 数千/m/O 民众/n/B-role 游行/v/TRIG ,/wp/O 反对/v/TRIG 英国/ns/B-nt 政府/n/I-nt 保留/v/O 核武器/n/B-dev
+美国/ns/B-country 首/m/O 次/q/O 公布/v/TRIG 新/a/O 一代/n/O 隐形/b/B-dev 轰炸机/n/I-dev B-21/ws/I-dev ,/wp/O 雷达/n/B-dev 更/d/O 难/a/O 测/v/O
+叙/j/B-country 停火/v/TRIG 协议/n/O 生效/v/O 后/nd/O 响/v/O 零星/b/O 枪声/n/O ,/wp/O 打击/v/TRIG IS/ws/B-nt 行动/v/O 将/d/O 继续/v/O
+西媒/j/B-nt 专访/v/O 北约/j/B-nt 前/nd/O 司令/n/B-role ：/wp/TRIG 美国/ns/B-country 从来不/d/O 善于/v/O 理解/v/O 别国/r/O 历史/n/O
+俄/j/B-nt 空军/n/I-nt 停止/v/TRIG 空袭/v/TRIG 已/d/O 加入/v/O 停火/v/TRIG 协议/n/O 反对派/n/O 武装/n/O
+沙特/ns/B-country 等/u/O 国联军/n/O 空袭/v/TRIG 也门/ns/B-ns 首都/n/I-ns 集市/n/O ,/wp/O 造成/v/O 38/m/O 人/n/O 死亡/v/O
+英国/ns/B-country 数千/m/O 民众/n/B-role 游行/v/TRIG ,/wp/O 反对/v/TRIG 政府/n/B-nt 保留/v/O 更新/v/O 核武器/n/B-dev
+为/p/O 阻止/v/TRIG 安倍/nh/B-nr 修宪/v/O ,/wp/O 日/j/B-nt 两/m/I-nt 大/a/I-nt 在野党/n/I-nt 或/c/O 合并/v/O 对抗/v/TRIG 自民党/n/B-nt
+美国/ns/B-country 再/d/O 发/v/O 枪击案/n/O ,/wp/O 悍匪/n/B-nt 与/p/O 警方/n/B-nt 交火/v/TRIG ,/wp/O 4/m/O 死亡/v/O 14/m/O 受伤/v/O
+索马里/ns/B-ns 首都/n/I-ns 两/m/O 起/q/O 汽车/n/B-dev 炸弹/n/I-dev 造成/v/O 14/m/O 人/n/O 死亡/v/O 16/m/O 人/n/O 受伤/v/O
+叙利亚/ns/B-country 内战/n/O 5/m/O 年/q/O 终于/d/O 停火/v/TRIG ,/wp/O 士兵/n/B-role 称/v/TRIG 仿佛/d/O 是/v/O “/wp/O 梦境/n/O ”/wp/O
+俄/j/B-country 称/v/TRIG 美国/ns/B-country 要求/v/TRIG 叙现/v/O 总统/n/B-role 下台/v/O 是/v/O 在/p/O 利用/v/O “/wp/O 反/v/O 恐/v/O ”/wp/O 投机/v/O
+土/j/B-country 总统/n/B-role ：/wp/TRIG 俄/j/B-country 竟/d/O 因/p/O 两/m/O 名/q/O 飞行员/n/B-role 放弃/v/TRIG 土/n/B-country 这样/r/O 一个/m/O 朋友/n/O
+IS/ws/B-nt 向/p/O 火箭弹/n/B-dev 和/c/O 迫击/v/O 炮弹/n/O 填充/v/O 毒剂/n/B-dev ,/wp/O 炮击/v/TRIG 对象/n/O 含/v/O 平民/n/B-role
+美/j/B-country 向/p/O 安理会/j/B-nt 提交/v/O 制裁/v/TRIG 朝鲜/ns/B-country 决议/n/O ,/wp/O 制裁/v/TRIG 力度/n/O 史无前例/i/O
+东盟/ns/B-nt 外长/n/B-role 会议/n/O 声明/n/O 草案/n/O 曝光/v/TRIG ,/wp/O 称/v/TRIG 维持/v/O 南海/ns/B-ns 航行/v/O 自由/a/O
+普京/j/B-nr 密集/a/O 外交/n/O 斡旋/v/O 叙利亚/ns/B-country 停火/v/TRIG ,/wp/O 俄/j/B-country 外交/n/O 未/d/O 被/p/O 孤立/v/O
+沙特/ns/B-country 在/p/O 也门/ns/B-country 行动/v/O 伤/v/O 及/c/O 平民/n/B-role ,/wp/O 欧盟/j/B-nt 要/v/O 对/p/O 沙特/ns/B-country 禁售/v/TRIG 武器/n/B-dev
+澳/j/B-nt 警告/v/TRIG 称/v/TRIG 恐怖/a/B-role 分子/n/I-role 或/c/O 随时/d/O 袭/v/O 印尼/ns/B-country ,/wp/O 劝/v/O 游客/n/B-role 提高/v/O 警惕/v/O
+美/j/B-country 司令/n/B-role ：/wp/TRIG 韩/j/B-country 美/j/B-country 讨论/v/TRIG 部署/v/TRIG 萨德/nh/B-dev 不/d/O 意味着/v/O 一定/d/O 要/v/O 部署/v/TRIG
+俄/j/O 媒称/n/O 阿勒颇/ns/B-ns 附近/nd/I-ns 爆发/v/O 激战/v/TRIG ：/wp/TRIG 叙军/n/B-nt 夺/v/O 回/v/O 唯一/b/O 补给线/n/O
+美/j/B-country 欧洲/ns/B-ns 司令部/n/O 司令/n/O ：/wp/TRIG 美/j/B-country 准备/v/O 好/a/O 在/p/O 欧洲/ns/B-ns 战胜/v/O 俄罗斯/ns/B-country
+外媒/n/B-nt ：/wp/TRIG 美/j/B-country 韩/j/B-country 对/p/O 朝/j/B-country 只/d/O 挥舞/v/O 大/a/O 棒/n/O ,/wp/O 军事/n/O 打击/v/TRIG 风险/n/O 太/d/O 大/a/O
+中/j/B-country 美/j/B-country 就/d/O 对/p/O 朝/j/B-country 制裁/v/TRIG 草案/n/O 达成/v/TRIG 一致/a/O ,/wp/O 近日/nt/O 提交/v/O 安理会/j/B-nt
+日媒/j/B-nt ：/wp/TRIG 美军/j/B-nt 或/c/O 追加/v/O 部署/v/TRIG 攻击型/n/B-dev 核潜艇/n/I-dev 以/p/O 遏制/v/O 中国/ns/B-country
+冲绳县/ns/B-ns 知事/n/B-role 要求/v/TRIG 停/v/O 用/v/O 普天间/ns/B-ns 机场/n/I-ns ,/wp/O 反驳/v/TRIG 美/j/B-nt 军方/n/I-nt 言论/n/O
+美/j/B-country 专家/n/B-role ：/wp/TRIG 美/j/B-country 无法/v/O 让/v/O 韩/j/B-country 信赖/v/O ,/wp/O 韩/j/B-country 核武/j/O 装论/n/O 令人担忧/i/O
+驻/v/B-role 韩/j/I-role 美军/j/I-role 司令/n/I-role ：/wp/TRIG 韩/j/B-country 美/j/B-country 将/d/O 在/p/O 一/m/O 周/q/O 内/nd/O 讨论/v/TRIG 萨德/nh/B-dev 部署/v/TRIG 事宜/n/O
+埃及/ns/B-country 总统/n/B-role 承认/v/TRIG 俄/j/B-country A321/ws/B-dev 飞机/n/I-dev “/wp/O 被/p/O 击毁/v/O ”/wp/O ,/wp/O 224/m/O 人/n/O 死亡/v/O
+叙/j/B-nt 境内/nl/I-nt 武装/n/I-nt 陆续/d/O 提出/v/TRIG 停火/v/TRIG ,/wp/O 俄/j/B-country 空袭/v/TRIG 强度/n/O 大幅/d/O 降低/v/O
+北海/ns/B-nt 舰队/n/I-nt 紧急/a/O 出动/v/TRIG 2/m/O 艘/q/O 军舰/n/B-dev 搜救/v/O 青岛/ns/B-ns 翻沉/v/O 渔船/n/B-dev
+中国/ns/B-nt 军队/n/I-nt 人道主义/n/O 援助/v/TRIG 物资/n/O 顺利/a/O 运交/v/O 阿富汗/ns/B-country
+国防部/ni/B-nt 回应/v/TRIG 海军/n/B-nt 包机/v/O 救/v/O 战士/n/B-role ：/wp/TRIG 祖国/n/B-nt 为/p/O 你/r/O 遮风挡雨/i/O
+解放军/n/B-nt 是否/v/O 会/v/O 在/p/O 中/j/B-ns 朝/j/I-ns 边境/nl/I-ns 采取/v/O 措施/n/O ？/wp/O 国防部/n/B-nt 回应/v/TRIG
+中/j/B-country 俄/j/B-country 将/d/O 联合/v/O 演习/v/TRIG 应/v/TRIG 对/p/O 美/j/B-country 韩/j/B-country 军演/j/TRIG ？/wp/O 国防部/n/B-nt ：/wp/TRIG 是/v/O 猜测/v/O
+泛民/nh/B-role 竟疑/v/O 香港/ns/B-country 建/v/O 高铁/n/B-dev 是/v/O 为/p/O 运兵/n/O ,/wp/O 港府/n/B-nt 官员/n/B-role 予以/v/O 驳斥/v/TRIG
+解放军/n/B-nt 回应/v/TRIG 美/j/B-country 司令/n/B-role ：/wp/TRIG 你/r/O 不能/v/O 为/p/O 多/a/O 要/v/O 钱/n/O 就/d/O 抹黑/v/O 中国/ns/B-country
+国防部/ni/B-nt 回应/v/TRIG 裁军/v/TRIG 30万/m/O ：/wp/TRIG 将/d/O 加大/v/O 军队/n/B-nt 干部/n/B-role 退役/v/O 数量/n/O
+中方/n/B-country 回应/v/TRIG 澳/j/B-nt 白皮书/n/O 涉/v/O 南海/ns/B-ns ：/wp/TRIG 望/v/TRIG 澳方/n/O 珍惜/v/O 中/j/B-country 澳/j/B-country 关系/n/O
+国防部/ni/B-nt 回应/v/TRIG 三/m/B-ns 沙/n/I-ns 军用/b/I-ns 机场/n/I-ns 部分/m/O 改造/v/O 为/v/O 民用/b/B-ns 机场/n/I-ns
+国防部/n/B-nt 披露/v/TRIG 东部/nd/B-ns 战区/n/I-ns 国防/n/O 任务/n/O ：/wp/TRIG 遏制/v/O 战争/n/O 打/v/O 赢/v/O 战争/n/O
+国防部/n/B-nt ：/wp/TRIG 军队/n/O 改革/v/O 取得/v/O 很多/m/O 进展/v/O ,/wp/O 将/d/O 继续/v/O 稳步/d/O 推进/v/O
+国防部/n/B-nt ：/wp/TRIG 中方/n/B-country 在/p/O 南海/ns/B-ns 岛礁/n/I-ns 建设/v/O 主要/d/O 出于/v/O 民事/b/O 目的/n/O
+国防部/n/B-nt ：/wp/TRIG 美方/n/B-country 才/d/O 是/v/O 南海/ns/B-ns “/wp/O 军事化/v/O ”/wp/O 的/u/O 真正/b/O 推手/n/O
+中方/n/B-country 回应/v/TRIG 红旗9/n/B-dev 进驻/v/TRIG 永兴岛/ns/B-ns ：/wp/TRIG 美媒/j/B-nt 炒作/v/O 令/v/O 人/n/O 深思/v/O
+国防部/n/B-nt ：/wp/TRIG 中方/n/B-country 在/p/O 吉布提/ns/B-ns 保障/v/O 设施/n/O 工程/n/O 建设/v/O 已/d/O 启动/v/O
+军方/n/B-nt 回应/v/TRIG 永兴岛/ns/B-ns 部署/v/TRIG 歼/v/B-dev 11/m/I-dev ：/wp/TRIG 中方/n/B-country 正当/a/O 合法/a/O 权利/n/O
+军方/n/B-nt ：/wp/TRIG 萨德/nh/B-dev 系统/n/I-dev 入/v/O 韩/j/B-country 将/d/O 直接/a/O 损害/v/O 中国/ns/B-country 战略/n/O 安全/a/O 利益/n/O
+国防部/n/B-nt ：/wp/TRIG 中方/n/B-country 重视/v/O 环太/n/O 联合/v/O 军演/n/TRIG ,/wp/O 将/d/O 派/v/O 军舰/n/B-nt 参演/v/O
+解放军/n/B-nt 舰队/n/I-nt 护送/v/TRIG 商船/n/B-dev 航行/v/O ,/wp/O 一/m/O 周/q/O 两/m/O 次/q/O 逼/v/O 退/v/O 可疑/a/O 船只/n/O
+王毅/nh/B-nr 访/v/TRIG 美/j/B-country 就/d/O 朝/p/B-country 核/n/O 问题/n/O 发言/v/O :/wp/TRIG 不/d/O 承认/v/TRIG 朝鲜/ns/B-country 拥核/v/O 地位/n/O
+美/j/B-nt 坦克/n/I-nt 群/n/I-nt 在/p/O 北极圈/n/B-ns 演练/v/O ,/wp/O 准备/v/O 对付/v/O 俄军/j/B-nt
+美军/j/B-nt 在/p/O 一/m/O 周/q/O 内/nd/O 两/m/O 次/q/O 试射/v/TRIG 洲际/b/B-dev 导弹/n/I-dev ,/wp/O 安抚/v/O 日本/ns/B-country 别怕/v/O 中国/ns/B-country
+日本/ns/B-country 将/d/O 借/v/O 给/v/O 菲律宾/ns/B-country 3/m/O 架/q/O 军机/n/B-dev ,/wp/O 监视/v/TRIG 范围/n/O 覆盖/v/O 大半/m/O 个/q/O 南沙/ns/B-ns
+美/j/B-country 为何/r/O 三番/m/O 五/m/O 次/q/O 叫嚣/v/TRIG 南海/ns/B-ns 问题/n/O ,/wp/O 盟友/n/B-nt 拒绝/v/TRIG 与/p/O 美/j/B-country 共/d/O 闯/v/O 南海/ns/B-ns
+日菲/j/B-country 签/v/TRIG 首/m/O 个/q/O 军备/n/O 合作/v/TRIG 协议/n/O ,/wp/O 特意/d/O 强调/v/O 不/d/O 针对/v/O 中国/ns/B-country
+印度/ns/B-country 防展/v/O 拒/v/TRIG 邀/v/O 中国/ns/B-country 巴基斯坦/ns/B-country 展示/v/O 技术/n/O ,/wp/O 中国/ns/B-country 仍/d/O 派/v/O 代表团/n/B-nt
+中国/ns/B-country 少将/n/B-role 警告/v/TRIG 朝鲜/ns/B-country ：/wp/TRIG 别/d/O 吃/v/O 着/u/O 我们/r/O 的/u/O 东西/n/O 还/d/O 让/v/O 我们/r/O 不/d/O 痛快/a/O
+击败/v/O IS/ws/B-nt 靠/v/O 空中/nl/O 打击/v/TRIG 还/d/O 不够/a/O ,/wp/O 英军/j/B-nt 前/nd/B-role 总长/n/I-role 建议/v/TRIG 派/v/O 10万/m/O 精兵/n/O
+朝鲜/ns/B-country 超/v/O 150万/m/O 青年/n/O 请愿/v/TRIG 参军/v/O 入伍/v/O ,/wp/O 排长/n/B-role 龙/n/O 签名/v/O
+中情局/j/B-nt 前/nd/B-role 局长/n/I-role ：/wp/TRIG 若/c/O 特朗普/b/B-nr 当选/v/O 将/d/O 发生/v/O “/wp/O 军队/n/B-nt 暴乱/v/O ”/wp/O
+挪威/ns/B-country 情报/n/B-role 局长/n/I-role ：/wp/TRIG 中国/ns/B-country 黑客/n/B-role 窃取/v/TRIG 挪威/ns/B-ns 军事/n/O 技术/n/O 机密/n/O
+哈马斯/nz/B-nr 宣布/v/TRIG 对/p/O 爆炸/v/TRIG 袭击/v/TRIG 负责/v/O
+俄/j/B-country 放/v/O ：/wp/TRIG 在/p/O 埃及/ns/B-country 失事/v/O 俄/j/B-country 客机/n/B-dev 确认/v/TRIG 是/v/O 遭遇/v/O IS/ws/B-nt 炸弹/n/B-dev 袭击/v/TRIG
+IS/ws/B-nt 遭/v/O “/wp/O 恐怖/a/O 袭击/v/TRIG ”/wp/O ,/wp/O 叙利亚/ns/B-country 头目/n/B-role 被/p/O “/wp/O 基地/n/O ”/wp/O 分支/n/O 炸/v/O 死/v/O
+解放军/n/B-nt 17日/nt/O 在/p/O 渤海/ns/B-ns 北部/nd/I-ns 相关/v/O 水域/n/O 执行/v/O 军事/n/O 任务/n/O
+凤凰/n/O 军评/n/O ：/wp/TRIG 美/j/B-country 逼/v/O 土耳其/ns/B-country 弃/v/O 导弹/n/B-dev 远离/v/O 中国/ns/B-country ,/wp/O 欲/d/O 再/d/O 断/v/O 丝路/n/O
+台湾/ns/B-ns 首/m/O 颗/q/O 自主/v/O 研发/v/O 卫星/n/B-dev “/wp/B-dev 福卫/nz/I-dev 五/m/I-dev 号/q/I-dev ”/wp/I-dev 将/d/O 于/p/O 明年/nt/O 发射/v/TRIG
+中国/ns/B-country 首/m/O 例/q/O 燃烧器/n/B-dev 带/v/O 压/v/O 点火/v/O 试验/v/O 成功/a/O ,/wp/O 填补/v/O 国内/nl/O 空白/n/O
+中国/ns/B-country 最/d/O 大/a/O 磁力矩器/n/B-dev 研成/v/O ,/wp/O 用于/v/O 大型/b/O 航天器/n/B-dev 姿态/n/O 控制/v/TRIG
+中国/ns/B-country 暗/a/O 物质/n/O 探测/v/B-dev 卫星/n/I-dev 启程/v/O 运往/v/O 酒泉/ns/B-ns ,/wp/O 重/a/O 达/v/O 1.8/m/O 吨/q/O
+美媒/j/B-nt ：/wp/TRIG 水炮/n/B-dev 成/v/O 中国/ns/B-country 新/a/O 杀手锏/n/O ,/wp/O 美/j/B-nt 海警/n/I-nt 巡南海/n/O 太/d/O 荒唐/a/O
+中国/ns/B-country 实现/v/O “/wp/O 不/d/O 可能/v/O ”/wp/O 任务/n/O ,/wp/O 突破/v/O 高能/b/O 电磁/n/O 发射/v/TRIG 技术/n/O
+台军/n/B-nt 装甲车/n/B-dev 冲/v/O 进/v/O 湖中/nl/O 沉没/v/O ,/wp/O 士兵/n/B-role 站/n/O 车顶/n/O 待援/v/O 死亡/v/O
+以色列/ns/B-country 国安/nz/O 专家/n/B-role 批/v/O 法国/ns/B-country 情报/n/O 及/c/O 安保/j/O 漏洞/n/O 未/d/O 阻/v/O 袭击/v/TRIG
+实拍/v/O 中/j/B-country 美/j/B-country 两/m/O 军/n/O 神盾舰/n/B-dev 大西洋/ns/O 联演/v/O 画面/n/O ,/wp/O 气势恢宏/i/O
+200亿/m/O 订单/n/O 告吹/v/O ：/wp/TRIG 土耳其/ns/B-country 撕毁/v/O 购买/v/TRIG 中国/ns/B-country 导弹/n/B-dev 合约/n/O
+实拍/v/O ：/wp/TRIG 解放军/n/B-nt 演练/v/O 导弹/n/B-dev 炸/v/O 机场/n/B-ns ,/wp/O 跑道/n/O 被/p/O 拦腰/d/O 斩断/v/O
+中/j/B-nt 泰/j/I-nt 空军/n/I-nt 首/m/O 次/q/O 联训/v/O ,/wp/O 歼/v/B-dev -11/m/I-dev 和/c/O “/wp/O 鹰狮/n/O ”/wp/O 同/v/O 台/n/O 竞技/n/O
+美军/j/B-nt 太平洋/ns/B-ns 司令/n/B-role 今日/nt/O 抵达/v/TRIG 上海/ns/B-ns ,/wp/O 曾/d/O 乘/v/O P8A/ws/B-dev 巡航/v/TRIG 南海/ns/B-ns
+美媒/j/B-nt ：/wp/TRIG 巴黎/ns/B-ns 恐袭/v/B-role 主谋/n/I-role 或/c/O 来自/v/O 比利时/ns/B-country ,/wp/O 2/m/O 年/q/O 前/nd/O 加入/v/O IS/ws/B-nt
+日/j/B-country 专家/n/B-role ：/wp/TRIG 中国/ns/B-country 还/d/O 没/d/O 形成/v/O 现代/nt/O 装备/n/O 体系/n/O ,/wp/O 与/p/O 美/j/B-country 日/j/B-country 差距/n/O 大/a/O
+英媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 正/d/O 形成/v/O 全球/n/O 快速/d/O 打击/v/TRIG 能力/n/O ,/wp/O 进度/n/O 或/c/O 超/v/O 美/a/B-country
+奥朗德/nh/B-nr ：/wp/TRIG 法国/ns/B-country 已/d/O 处/v/O 战争/n/O 状态/n/O ,/wp/O 将/d/O 改/v/O 双重/b/O 国籍/n/O 等/u/O 条款/n/O
+中国/ns/B-country “/wp/B-dev 海巡01/nz/I-dev ”/wp/I-dev 轮/n/I-dev 赴/v/TRIG 西澳/ns/B-ns 海域/n/I-ns ,/wp/O 继续/v/O 相关/v/O 搜寻/v/O 任务/n/O
+外交部/ni/B-nt ：/wp/TRIG 欢迎/v/TRIG 俄/j/B-country 美/j/B-country 欧/j/B-ns 乌/j/B-country 四方/n/O 就/d/O 缓和/v/TRIG 乌/j/B-country 局势/n/O 达成/v/TRIG 共识/n/O
+下/v/O 金/b/O 蛋/n/O 的/u/O 鹅/n/O ：/wp/TRIG 韩国/ns/B-country 拼/v/O 速度/n/O 上马/v/O PX/ws/O 项目/n/O 抢占/v/O 中国/ns/B-country 市场/n/O
+F-35/ws/B-dev 飞行/v/O 超过/v/O 1.5万/m/O 小时/n/O ,/wp/O 明年/nt/O 将/d/O 具备/v/O 初始/v/O 作战/v/TRIG 能力/n/O
+普京/j/B-nr 称/v/TRIG 接纳/v/O 克里米亚/ns/B-nr 并入/v/O 俄/j/B-country 系/n/O 对/p/O 北约/j/B-nt 东/nd/O 扩/v/O 回应/v/TRIG
+朝鲜/ns/B-country ：/wp/TRIG 韩/j/B-country 美/j/B-country 军演/j/TRIG 是/v/O 在/p/O 制造/v/O 半岛/n/B-ns 紧张/a/O 局势/n/O
+俄罗斯/ns/B-country 两/m/O 艘/q/O 新式/a/O 攻击/v/B-dev 核潜艇/n/I-dev 年/q/O 中将/n/O 进行/v/O 海上/nl/O 试航/v/O
+高分一号/nz/B-dev 、/wp/O 风云三号/nz/B-dev C/ws/I-dev 正式/a/O 列为/v/O 中方/n/B-country 宪章/n/O 值班/v/O 卫星/n/B-dev
+“/wp/B-dev 科学号/n/I-dev ”/wp/I-dev 科考船/n/I-dev 在/p/O 冲绳/ns/B-ns 海槽/n/I-ns 发现/v/O 海底/n/O 黑/a/O 烟囱/n/O 线索/n/O
+台湾/ns/B-ns 军事/n/B-role 评论员/n/I-role ：/wp/TRIG “/wp/O 青帮/n/O ”/wp/O 在/p/O 台军/n/B-nt 中/nd/O 并非/v/O 传说/n/O
+俄/j/B-country 外长/n/B-role ：/wp/TRIG 四方/n/B-nt 会谈/v/I-nt 承认/v/TRIG 乌克兰/ns/B-country 危机/n/O 应/v/TRIG 自行/d/O 解决/v/O
+奥巴马/nh/B-nr 排除/v/O 军事/n/O 解决/v/O 乌/j/B-country 问题/n/O ,/wp/O 吁/v/TRIG 保障/v/O 俄语/nz/O 居民/n/B-role 权利/n/O
+日/j/B-nt 政府/n/I-nt 方针/n/O 不/d/O 写/v/O 具体/a/O 事例/n/O ,/wp/O 免使/v/O 集体/n/O 自卫权/n/O 范围/n/O 受限/v/O
+日媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 怎么/r/O 说/v/TRIG 不/d/O 重要/a/O ,/wp/O 实力/n/O 摆/v/O 在/p/O 那/r/O 没/v/O 人/n/O 敢/v/O 胡来/v/O
+解放军/n/B-nt 今日/nt/O 至/p/O 24日/nt/O 将/d/O 在/p/O 黄海/ns/B-ns 进行/v/O 2/m/O 次/q/O 例行性/n/O 训练/v/O
+朝鲜/ns/B-country 无人机/n/B-dev “/wp/O 来袭/v/O ”/wp/O ,/wp/O 韩/j/B-country 方面/n/O 临新/d/O 威胁/v/TRIG “/wp/O 进退失措/i/O ”/wp/O
+马航/j/B-nt 客机/n/B-dev 失联/v/O 暴露/v/O 安全/a/O 漏洞/n/O 多/a/O ,/wp/O 应用/v/O 考虑/v/O 亡羊补牢/i/O
+俄/j/B-country 专家/n/B-role ：/wp/TRIG 中国/ns/B-country 进步/v/O 迅速/a/O ,/wp/O 仅/d/O 中/j/B-country 美/j/B-country 掌握/v/O “/wp/O 宙斯盾/n/O ”/wp/O 技术/n/O
+俄/j/B-country 外长/n/B-role ：/wp/TRIG 向/p/O 乌克兰/ns/B-country 派兵/v/O 违背/v/O 俄/j/B-country 利益/n/O ,/wp/O 俄方/n/B-country 无/v/O 此/r/O 打算/v/O
+日本/ns/B-nt 政府/n/I-nt 欲/d/O 派/v/O 扫雷艇/n/B-dev 等/u/O 支援/v/TRIG 韩国/ns/B-country 客轮/n/B-dev 搜救/v/O ,/wp/O 遭/v/O 韩婉/nh/O 拒/v/TRIG
+伊朗/ns/B-country 建军节/nt/O 多/m/O 个/q/O 城市/n/O 举行/v/TRIG 阅兵式/n/O ,/wp/O 展示/v/O 最新/a/O 武器/n/B-dev 装备/n/O
+郝柏村/ns/B-ns 访/v/TRIG 衡阳/ns/B-ns 会战/v/O 遗迹/n/O ：/wp/TRIG 纪念碑/n/O 被/p/O 铲/v/O 平/v/O 造/v/O 气象站/n/O
+MH370/ws/B-dev 搜寻/v/O 重/d/O 启/v/O ,/wp/O “/wp/O 蓝鳍/nz/O 金枪鱼/n/O ”/wp/O 将/d/O 加大/v/O 潜水/v/O 深度/n/O
+英斥/v/O 巨资/n/O 打造/v/O 电子/n/O 边境/nl/O 项目/n/O ,/wp/O 问题/n/O 频出/v/O 将/d/O 被/p/O 终/v/O
+中国/ns/B-country 核潜艇/n/B-dev 两/m/O 代/q/O 记/v/O ：/wp/TRIG 094/m/O 性能/n/O 世界/n/O 最/d/O 差/a/O ,/wp/O 但/c/O 绝对/d/O 成功/a/O
+中国/ns/B-country 拓宽/v/O 马航/j/B-nt MH370/ws/B-dev 失联/v/O 客机/n/B-dev 搜索/v/O 范围/n/O
+中国/ns/B-dev 海监/j/I-dev 1117/m/I-dev 船/n/I-dev 举行/v/TRIG 弃/v/O 船/n/O 演练/v/O ,/wp/O 逃生/v/O 必须/d/O 带/v/O 国旗/n/O
+难忘/v/O 南沙/ns/B-ns 琼台礁/n/B-ns ：/wp/TRIG 中国/ns/B-country 海警/n/B-dev 船/n/I-dev 在/p/O 南沙/ns/B-ns 最/d/I-ns 南端/nd/I-ns 执法/v/O
+美国/ns/B-country 计划/n/O 向/p/O 乌克兰/ns/B-country 提供/v/TRIG 650万/m/O 美元/q/O 援助/v/TRIG
+克里米亚/ns/B-ns 乌克兰/ns/I-ns 军事基地/i/I-ns 频/d/O 遭袭/v/TRIG ,/wp/O 至少/d/O 一/m/O 人/n/O 死/v/O
+日本/ns/B-nt 参众两院/j/I-nt 拟/v/O 批准/v/O 猪木/n/B-nr 等/u/O 5/m/O 名/q/O 国会/n/B-nt 议员/n/B-role 访问/v/TRIG 朝鲜/ns/B-country
+南/nd/B-country 苏丹/ns/I-country 暴徒/n/B-role 袭击/v/TRIG 一/m/O 联合国/ni/B-ns 难民/n/I-ns 营地/n/I-ns ,/wp/O 致/v/O 12/m/O 人/n/O 死亡/v/O
+中国/ns/B-country 特种兵/n/B-role 战术/n/O 手语/n/O 曝光/v/TRIG ：/wp/TRIG 新/d/O 创/v/O 100/m/O 多/m/O 套/q/O 手语/n/O
+叙利亚/ns/B-country 将/d/O 登记/v/O 总统/n/B-role 候选人/n/I-role ,/wp/O 估计/v/O 阿萨德/nh/B-nr 将/d/O 轻松/a/O 获胜/v/O
+052/m/B-dev 驱逐舰/n/I-dev 诞生/v/O 记/v/O ：/wp/TRIG 中国/ns/B-country 水兵/n/O 首/m/O 遇/v/O “/wp/O 天顶星/n/O 科技/n/O ”/wp/O
+052/m/B-dev 驱逐舰/n/I-dev 诞生/v/O 记/v/O ：/wp/TRIG 中国/ns/B-country 第一/m/O 部/q/O 自动/d/O 指挥/v/O 系统/n/O 首/m/O 启/v/O
+美媒/j/B-nt :/wp/TRIG 乌/j/B-country 危机/n/O 搅乱/v/O 奥巴马/nh/B-nr 外交/n/O ,/wp/O 或/c/O 暂缓/v/O “/wp/O 重返/v/TRIG 亚洲/ns/B-ns ”/wp/O
+052/m/B-dev 驱逐舰/n/I-dev 诞生/v/O 记/v/O ：/wp/TRIG 吸取/v/O 马岛/ns/B-ns 教训/n/O ,/wp/O 解决/v/O 电磁/n/O 兼容/v/O
+韩媒/nh/B-nt ：/wp/TRIG 韩国/ns/B-country 客轮/n/B-dev 船体/n/O 进一步/d/O 下沉/v/O ,/wp/O 船头/nl/O 基本/a/O 沉没/v/O
+中国/ns/B-ns 沿海/nd/I-ns 受/v/O 威胁/v/TRIG ,/wp/O 日本/ns/B-country 战机/n/B-dev 到/v/O 中国/ns/B-ns 沿海/nd/I-ns 仅/d/O 需/v/O 45/m/O 分钟/q/O
+日本/ns/B-nt 政府/n/I-nt 因/p/O 乌克兰/ns/B-country 东部/nd/O 局势/n/O ,/wp/O 推迟/v/TRIG 外相/n/B-role 访/v/TRIG 俄/j/B-country 日程/n/O
+加拿大/ns/B-country 宣布/v/TRIG 向/p/O 北约/j/B-nt 派/v/O CF-18/ws/B-dev 战机/n/I-dev ,/wp/O 应/v/TRIG 对/p/O 乌克兰/ns/B-country 局势/n/O
+某/r/O 邻国/n/B-country 擅长/v/O 突袭/v/TRIG ,/wp/O 利剑/n/O 悬/v/O 中国/ns/B-country 脖子/n/O 上/nd/O 还/d/O 不许/d/O 躲/v/O ？/wp/O
+巴/j/B-country 以/j/I-country 双方/n/O 囚犯/n/B-role 日/n/O 再/d/O 酿/v/O 冲突/v/TRIG ,/wp/O 巴勒斯坦/ns/B-country 囚犯/n/B-role 绝食/v/TRIG 呼应/v/O
+052/m/B-dev 驱逐舰/n/I-dev 诞生/v/O 记/v/O ：/wp/TRIG 德商/n/O 天价/n/O 讹钱/n/O ,/wp/O 中国/ns/B-country 自/p/O 修齿/v/O 轮箱/n/O
+俄/j/B-country 六/m/O 架/q/O 战略/n/B-dev 轰炸机/n/I-dev 连续/a/O 5/m/O 天/q/O 分/v/O 3/m/O 条/q/O 路线/n/O 绕/v/O 飞/v/O 日本/ns/B-country
+日媒/j/B-nt ：/wp/TRIG 美/a/B-country 不/d/O 同意/v/TRIG 在/p/O 联合/v/O 文件/n/O 中/nd/B-country 写/v/O 明/a/O 钓鱼岛/ns/B-ns 防卫/v/O 义务/n/O
+052/m/B-dev 驱逐舰/n/I-dev 诞生/v/O 记/v/O ：/wp/TRIG 引进/v/TRIG 出/v/O 乌龙/n/O ,/wp/O 两/m/O 种/q/O LM-2500/ws/B-dev 搞/v/O 混/v/O
+中国/ns/B-country 首发/v/O 《/wp/O 空间/n/O 态势/n/O 评估/v/O 报告/n/O 》/wp/O ,/wp/O 评估/v/O 空间/n/O 发展/v/O 趋势/n/O
+乌克兰/ns/B-country 问题/n/O 四方/n/B-nt 会谈/v/I-nt 获/v/O 突破性/n/O 进展/v/O ,/wp/O 欲/d/O 缓解/v/TRIG 紧张/a/O 局势/n/O
+美国/ns/B-country 向/p/O 乌克兰/ns/B-country 提供/v/TRIG 更/d/O 多/a/O 军援/n/TRIG ,/wp/O 欲/v/O 与/p/O 波兰/ns/B-country 深化/v/O 防务/n/O 合作/v/TRIG
+韩/j/O 美/j/O 联合/v/O 军演今/n/O 落/v/O 下/v/O 帷幕/n/O ,/wp/O 半岛/n/B-ns 经历/v/O “/wp/O 紧张/a/O 春季/nt/O ”/wp/O
+土耳其/ns/B-country 防空/v/B-dev 系统/n/I-dev 老/a/O 旧/a/O 落后/a/O ,/wp/O 导弹/n/B-dev 离架/v/O 不久/m/O 就/d/O 爆炸/v/TRIG
+俄/j/B-nt 军/n/I-nt 出动/v/TRIG 3/m/O 种/q/O 战略/n/B-dev 轰炸机/n/I-dev 空袭/v/TRIG IS/ws/B-nt ,/wp/O 发射/v/TRIG 大量/m/O 巡航/v/B-dev 导弹/n/I-dev
+日媒/j/B-nt ：/wp/TRIG 日本/ns/B-country 支持/v/TRIG 菲/j/B-country 解决/v/O 南海/ns/B-ns 争端/n/O 以/p/O 牵制/v/TRIG 中国/ns/B-country 造/v/O 岛/n/O
+越媒/v/O ：/wp/TRIG 遭/v/O “/wp/O 无数/m/O 条/q/O ”/wp/O 中国/ns/B-country 渔船/n/B-dev 袭击/v/TRIG ,/wp/O 40/m/O 张/q/O 渔网/n/O 被/p/O 捣烂/v/O
+日媒/j/B-nt ：/wp/TRIG 安倍/nh/B-nr 向/p/O 美军/j/B-nt 敞开/v/O 空域/n/O ,/wp/O 东京/ns/B-ns 已/d/O 成/v/O “/wp/O 火药库/n/O ”/wp/O
+中国/ns/B-country 潜艇/n/B-dev 获/v/O 重大/a/O 突破/v/O ,/wp/O 首/m/O 次/q/O 在/p/O 一技术/n/O 上/nd/O 超越/v/O 美/j/B-country 俄/j/B-country
+疑/v/O 中国/ns/B-country 将/d/O 试验/v/O 新型/b/B-dev 隐身/v/I-dev 反舰/n/I-dev 导弹/n/I-dev ,/wp/O 实弹/n/O 打击/v/TRIG 战舰/n/B-dev
+中国/ns/B-country 电磁/n/O 发射/v/TRIG 进入/v/O 武器化/v/O 阶段/n/O ,/wp/O 可/v/O 用于/v/O 发射/v/TRIG 导弹/n/B-dev
+俄/j/B-country 确认/v/TRIG 客机/n/B-dev 因/p/O “/wp/O 恐怖/a/O 袭击/v/TRIG ”/wp/O 坠毁/v/O ,/wp/O 普京/j/B-nr 称/v/TRIG 将/d/O 全力/d/O 追凶/v/O
+专家/n/B-role ：/wp/TRIG 南海/ns/B-ns 本无事/r/O 美国/ns/B-country 来/v/O 搅局/n/TRIG ,/wp/O 其他人/r/O 都/d/O 不/d/O 想/v/O 挑事/v/TRIG
+外交部/ni/B-nt ：/wp/TRIG 敦促/v/TRIG 日方/n/B-country 停止/v/TRIG 在/p/O 南海/ns/B-ns 问题/n/O 上/nd/O 无端/d/O 指责/v/TRIG
+解放军/n/B-nt 首/m/O 次/q/O 赴/v/TRIG 美/j/B-country 本土/n/O 参加/v/TRIG 联合/v/O 演习/v/TRIG ,/wp/O 不/d/O 含/v/O 作战/v/TRIG 内容/n/O
+国际/n/B-nt 黑客/n/I-nt 组织/n/I-nt 向/p/O IS/ws/B-nt 宣战/v/O ,/wp/O 追击/v/O 其/r/O 每/r/O 一个/m/O 网络/n/O 账户/n/O
+奥巴马/nh/B-nr 宣布/v/TRIG 再/d/O 赠菲/v/O 二手/b/O 巡逻船/n/B-dev ,/wp/O 保证/v/O 南海/ns/B-ns 航行/v/O 自由/a/O
+日媒/j/B-nt ：/wp/TRIG 中方/n/B-country 称/v/TRIG 不/d/O 把/p/O 南海/ns/B-ns 岛礁/n/I-ns 作/v/O 军事基地/i/B-ns 针对/v/O 他国/r/O
+凤凰/n/O 军评/n/O ：/wp/TRIG 巡洋舰/n/B-dev 伴航/v/O 核/n/B-dev 航母/j/I-dev ,/wp/O 欧洲/ns/B-ns 沦为/v/O 俄反恐/j/O 跟班/v/B-role
+解放军/n/B-nt 18日/nt/O 起/nd/O 连续/a/O 3/m/O 天/q/O 将/d/O 在/p/O 渤海/ns/B-ns 进行/v/O 实弹/n/O 射击/v/TRIG
+日本/ns/B-country 间谍/n/B-dev 卫星/n/I-dev 拟/v/O 翻倍/v/O ,/wp/O 分析/v/O 称/v/TRIG 系日/n/O 军事/n/O 计划/n/O 重要/a/O 部分/n/O
+中国/ns/B-nt 空军/n/I-nt 17日/nt/O 及时/a/O 处置/v/O 一起/nl/O 无人机/n/B-dev “/wp/O 黑飞/i/O ”/wp/O 问题/n/O
+俄/j/B-nt 媒/n/I-nt ：/wp/TRIG 和平/a/B-nt 使命/n/I-nt 演习/v/I-nt 2016年/nt/O 将/d/O 在/p/O 吉尔吉斯斯坦/ns/B-country 举行/v/TRIG
+外交部/ni/B-nt ：/wp/TRIG 南海/ns/B-ns 42/m/I-ns 岛/n/I-ns 被/p/O 3/m/O 国/n/O 不法/b/O 占据/v/O ,/wp/O 中国/ns/B-country 有/v/O 能力/n/O 收回/v/O
+奥巴马/nh/B-nr 到/v/O APEC/ws/B-nt 记者会/n/I-nt 才/d/O 谈/v/TRIG 南海/ns/B-ns ,/wp/O 属于/v/O 走廊/n/O 里/nd/O 发牢骚/v/O
+日/j/B-country 专家/n/B-role ：/wp/TRIG 美国/ns/B-country 拖/v/O 了/u/O 5/m/O 个/q/O 月/n/O 才/d/O 巡航/v/TRIG 南海/ns/B-ns ,/wp/O 应对/v/O 过于/d/O 单调/a/O
+美/j/B-country 航母/j/B-dev 遭/v/O 中国/ns/B-country 潜艇/n/B-dev 跟踪/v/O ？/wp/O 专家/n/B-role 称/v/TRIG 技术/n/O 层面/n/O 不/d/O 可行/a/O
+美/j/B-country 高官/n/B-role ：/wp/TRIG 应/v/TRIG 简化/v/O 军售/j/O 流程/n/O ,/wp/O 否则/c/O 别人/r/O 要/v/O 买/v/TRIG 中国货/n/O
+美/j/B-country 高官/n/B-role ：/wp/TRIG 应/v/TRIG 简化/v/O 军售/j/O 流程/n/O ,/wp/O 否则/c/O 别人/r/O 要/v/O 买/v/TRIG 中国货/n/O
+中国/ns/B-country 又/d/O 被/p/O 俄/j/B-country 坑/v/O 了/u/O ？/wp/O 俄/j/B-country 即将/d/O 售华/v/O S-400/ws/B-dev 性能/n/O 缩水/v/O 一半/m/O
+解放军/n/B-nt 10/m/O 种/q/O 导弹/n/B-dev 专/d/O 打/v/O 美/j/B-country 日/j/B-country 大舰/n/B-dev ,/wp/O 对方/n/O 很/d/O 难/a/O 拦截/v/TRIG
+外交部/ni/B-nt 回应/v/TRIG “/wp/O IS/ws/B-nt 杀害/v/TRIG 中国/ns/B-country 人质/n/B-role ”/wp/O ：/wp/TRIG 将/d/O 进一步/d/O 核实/v/O
+官媒/j/B-nt 曝/v/O 中国/ns/B-country 高能/b/B-dev 电磁武器/n/I-dev ,/wp/O 打/v/O 出/v/O 密集/a/O 弹幕/n/O 可/v/O 反导/v/O
+日拟/v/O 试射/v/TRIG 超音速/n/B-dev 反舰/n/I-dev 导弹/n/I-dev ,/wp/O 或/c/O 针对/p/O 中国/ns/B-country 新型/b/B-dev 神盾舰/n/I-dev
+日媒/j/B-nt ：/wp/TRIG 中/j/B-country 俄/j/B-country 争夺/v/TRIG 中东/ns/O 武器/n/O 市场/n/O ,/wp/O 中国/ns/B-country 无人机/n/B-dev 最/d/O 畅销/a/O
+美/j/B-country 报告/n/O ：/wp/TRIG 依靠/v/O 南海/ns/B-ns 阴影/n/O ,/wp/O 中国/ns/B-country 悄然/d/O 加强/v/TRIG 在/p/O 钓鱼岛/ns/B-ns 存在/v/O
+法国/ns/B-country “/wp/B-dev 戴高乐/nh/I-dev ”/wp/I-dev 号/n/I-dev 航母/n/I-dev 出发/v/O ,/wp/O 将/d/O 加强/v/TRIG 对/p/O 叙利亚/ns/B-country 空袭/v/TRIG
+兰德/nh/B-nr ：/wp/TRIG 2017年/nt/O 美军/j/B-nt 需/v/O 2000/m/O 架/q/O 战机/n/B-dev 才/c/O 能/v/O 维持/v/O 台/n/O 海空权/n/O
+美/j/B-country 报告/n/O ：/wp/TRIG 中国/ns/B-country 侵入/v/O 美/j/B-nt 政府/n/I-nt 网络/n/O 使/v/O 美/j/B-country 损失/v/O 巨额/b/O 资金/n/O
+外交部/ni/B-nt ：/wp/TRIG 确认/v/TRIG 中国/ns/B-country 公民/n/B-role 樊京辉/nh/B-nr 被/p/O IS/ws/B-nt 极端/d/O 组织/v/O 杀害/v/TRIG
+凤凰/n/O 军评/n/O ：/wp/TRIG 俄/j/B-country 新/a/O 战法/n/O 炸断/v/O IS/ws/B-nt 命脉/n/O ,/wp/O 隔绝/v/O 美/j/B-country 沙土/n/O 支援/v/TRIG
+第三/m/B-nt 届/q/I-nt 海鹰/n/I-nt 论坛/n/I-nt 移师/v/O 深圳/ns/B-nt ,/wp/O 研讨/v/O 无/v/O 人/n/O 系统/n/O 技术/n/O
+1/m/O 名/q/O 外国/n/O 间谍/n/B-role 刺探/v/O 解放军/n/B-nt 边境/nl/O 兵力/n/O 分布/v/O ,/wp/O 在/p/O 吉林/ns/B-ns 被/p/O 擒/v/O
+凤凰/n/O 军评/n/O ：/wp/TRIG 苏/j/B-dev 35/m/I-dev 将/d/O 成/v/O 中国/ns/B-country 反面/n/O 参照/v/O ,/wp/O 反/d/O 向/p/O 助产歼/v/O 11D/ws/O
+俄媒/j/B-nt ：/wp/TRIG 俄/j/B-country 中/j/B-country 签署/v/TRIG 20亿/m/O 美元/q/O 24/m/O 架/q/O 苏/j/B-dev -35/m/I-dev 战机/n/I-dev 采购/v/TRIG 大单/n/O
+俄媒/j/B-nt ：/wp/TRIG 俄/j/B-country 中/j/B-country 签署/v/TRIG 20亿/m/O 美元/q/O 24/m/O 架/q/O 苏/j/B-dev -35/m/I-dev 战机/n/I-dev 采购/v/TRIG 大单/n/O
+外交部/ni/B-nt 回应/v/TRIG IS/ws/B-nt 杀害/v/TRIG 中国/ns/B-country 人质/n/B-role ：/wp/TRIG 定/d/O 将/p/O 罪犯/n/B-role 绳之以法/i/O
+英媒/j/B-nt ：/wp/TRIG 英/j/B-nt 地方/n/I-nt 议会/n/I-nt 拟/v/O 将/p/O 原/b/B-nt 国防部/ni/I-nt 土地/n/O 向/p/O 中国/ns/B-country 出售/v/TRIG
+空警/n/B-nt 500/m/I-nt 核心/n/O 技术/n/O 完全/a/O 国产化/v/O ,/wp/O 突破/v/O “/wp/O 卡/n/O 脖子/n/O ”/wp/O 局面/n/O
+巴黎/ns/B-country 恐袭/v/B-role 主谋/n/I-role 在/p/O 围剿/v/O 中/nd/O 毙命/v/O ,/wp/O 法/j/B-country 准备/v/O 应对/v/O 化武/j/O 袭击/v/TRIG
+俄/j/B-country 专家/n/B-role ：/wp/TRIG 歼20/m/B-dev 在/p/O 可见/v/O 的/u/O 未来/nt/O 不/d/O 会/v/O 成为/v/O 中国/ns/B-country 主力/n/B-dev 战机/n/I-dev
+俄媒/j/B-nt ：/wp/TRIG 苏/j/B-dev 35/m/I-dev 未/d/O 售华/v/O 生产/v/O 许可/v/O ,/wp/O 因/p/O 技术/n/O 和/c/O 价格/n/O 磋商/v/TRIG 3/m/O 年/q/O
+解放军/n/B-nt 距/p/O 攻打/v/TRIG IS/ws/B-nt 还有/v/O 几/m/O 步/q/O ,/wp/O 空袭/v/TRIG 或/c/O 成/v/O 最/d/O 可能/v/O 打击/v/TRIG 方式/n/O
+运/v/B-dev 20/m/I-dev 总/b/B-role 设计师/n/I-role 唐长红/nh/B-nr 突然/a/O 辞职/v/O ,/wp/O 独家/d/O 解析/v/O 其/r/O 去向/n/O
+实拍/v/O ：/wp/TRIG 最新/a/O 一/m/O 架/q/O 歼/v/B-dev -20/m/I-dev 低空/nl/O 试飞/v/O ,/wp/O 机腹/n/O 略/d/O 过/v/O 枝头/n/O
+评/v/O ：/wp/TRIG 歼/v/B-dev -20/m/I-dev 低空秀/a/O 绝活/n/O ,/wp/O 飞行员/n/B-role 有/v/O 信心/n/O 令人鼓舞/i/O
+运/v/B-dev -20/m/I-dev 总/b/B-role 设计师/n/I-role 与/c/O 总工程师/n/B-role 辞去/v/O 在/p/O 中航/j/B-nt 飞机/n/I-nt 公司/n/I-nt 职务/n/O
+兰德/nh/B-nr ：/wp/TRIG 现在/nt/O 美国/ns/B-nt 空军/n/I-nt 全/d/O 上阵/v/O ,/wp/O 也/d/O “/wp/O 协防/v/O ”/wp/O 不/d/O 了/v/O 台湾/ns/B-ns
+解放军/n/B-nt 新型/b/O “/wp/O 勇士/n/O ”/wp/O 越野车/n/B-dev 定型/v/O ,/wp/O 试车/v/O 120万/m/O 公里/q/O
+英国/ns/B-country 拟/v/O 投资/v/O 防务/n/O 1780亿/m/O 英镑/q/O ,/wp/O 购/v/TRIG P8/ws/B-dev 组建/v/O 快/d/O 反/v/O 突击队/n/B-role
+日媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 海警/n/B-dev 船/n/I-dev 今年/nt/O 第31/m/O 次/q/O 巡航/v/TRIG 钓鱼岛/ns/B-ns 12/m/O 海里/q/O
+日/j/B-country 防卫/v/B-role 大臣/n/I-role 妄/d/O 批/v/O 中国/ns/B-country 南海/ns/B-ns 行动/v/O ：/wp/TRIG 自以为是/i/O ,/wp/O 无法/v/O 容忍/v/O
+凤凰/n/O 军评/n/O ：/wp/TRIG 俄/j/B-country 导弹/n/B-dev 地毯/n/O 轰炸/v/TRIG 叙/j/B-country IS/ws/B-nt ,/wp/O 逼/v/O 欧洲/ns/B-ns 脱美/v/O 亲/n/O 俄/j/B-country
+杜文龙/nh/B-nr ：/wp/TRIG 中/j/B-country 俄/j/B-country 或/c/O 联合/v/O 改进/v/O 24/m/O 架/q/O 苏/j/B-dev -35/m/I-dev ,/wp/O 成/v/O 中国/ns/B-country 定制/n/O 版/n/O
+俄/j/B-country 专家/n/B-role ：/wp/TRIG 俄/j/B-country 在/p/O 合同/n/O 签署/v/TRIG 前/nd/O 就/d/O 开始/v/O 为/p/O 中国/ns/B-country 生产/v/O 苏/j/B-dev 35/m/I-dev
+印尼/ns/B-country 将/d/O 参与/v/O 韩国型/nz/O 战机/n/B-dev 开发/v/O 项目/n/O ,/wp/O 分担/v/O 二/m/O 成/q/O 费用/n/O
+学者/n/B-role ：/wp/TRIG 崛起/v/O 的/u/O 中国/ns/B-country 必须/d/O 忍辱负重/i/O ,/wp/O 中/j/B-country 美/j/B-country 冲突/v/TRIG 暂时/d/O 无解/v/O
+俄/j/B-country 地毯/n/O 轰炸/v/TRIG IS/ws/B-nt 比/p/O 精确/a/O 打击/v/TRIG “/wp/O 高/a/O 到/v/O 不/d/O 知道/v/O 哪里/r/O 去/v/O 了/u/O ”/wp/O
+许/v/B-nr 其/r/I-nr 亮/a/I-nr 赴/v/TRIG 俄/j/B-country 挑/v/O 发动机/n/O 现场/nl/O 曝光/v/TRIG ,/wp/O 补歼/v/O -20/m/O 最/d/O 大/a/O 短板/n/O
+首/m/O 曝/v/O 中国/ns/B-country 巨浪/n/B-dev -2/m/I-dev 导弹/n/I-dev ,/wp/O 具备/v/O 洲际/b/O 射程/n/O 携/v/O 多/a/O 弹头/n/B-dev
+救援/v/TRIG 马里/ns/B-country 被/p/O 劫/v/O 持/v/O 中国/ns/B-country 人质/n/B-role 始末/n/O ：/wp/TRIG 维和/j/B-nt 部队/n/I-nt 不/d/O 能/v/O 擅动/v/O
+李克强/nh/B-nr 在/p/O 东亚/ns/B-nt 峰会/n/I-nt 就/p/O 南海/ns/B-ns 问题/n/O 阐述/v/O 立场/n/O 提/v/O 五点/n/O 倡议/n/TRIG
+比利时/ns/B-country 将/d/O 安全/a/O 警戒/v/TRIG 维持/v/O 在/p/O 最/d/O 高级/a/O ,/wp/O 袭击/v/TRIG 威胁/v/TRIG 仍/d/O 存/v/O
+比利时/ns/B-country 将/d/O 安全/a/O 警戒/v/TRIG 维持/v/O 在/p/O 最/d/O 高级/a/O ,/wp/O 袭击/v/TRIG 威胁/v/TRIG 仍/d/O 存/v/O
+美/j/B-country 太平洋/ns/B-ns 司令/n/B-role 声称/v/TRIG 数/m/O 周/q/O 后/nd/O 将/d/O 再次/d/O “/wp/O 巡航/v/TRIG 南海/ns/B-ns ”/wp/O
+专访/v/O 反/v/O 恐/v/O 问题/n/O 专家/n/B-role ：/wp/TRIG 在/p/O 非中企/j/O 须/d/O 提高/v/O 反/d/O 恐/v/O 警惕/v/O
+日媒/j/B-nt ：/wp/TRIG 日本/ns/B-country 坚持/v/O 将/p/O TPP/ws/B-dev 写入/v/O APEC/ws/B-nt 声明/n/O ,/wp/O 惹/v/O 恼/v/O 中/j/B-country 俄/j/B-country
+美智库/n/B-nt ：/wp/TRIG 解放军/n/B-nt 投入/v/O 未/d/O 完全/a/O 转化/v/O 战力/n/O ,/wp/O 两极/n/O 分化/v/O 明显/a/O
+美媒/j/B-nt ：/wp/TRIG 美/j/B-country 阻止/v/TRIG 韩国/ns/B-country 出口/v/O T50/ws/B-dev 教练机/n/I-dev ,/wp/O 担心/v/O 中/j/B-country 俄/j/B-country 窃密/v/O
+俄媒/j/B-nt ：/wp/TRIG 俄/j/B-country 明年/nt/O 起/nd/O 向华/nh/O 交付/v/TRIG 苏/j/B-dev -35/m/I-dev ,/wp/O 3/m/O 年/q/O 内/nd/O 完成/v/O 合同/n/O
+安倍/nh/B-nr 明确/a/O 表示/v/TRIG 不/d/O 跟/p/O 美国/ns/B-country 巡航/v/TRIG 南海/ns/B-ns ,/wp/O 以/p/O 语言/n/O 配合/v/O 美国/ns/B-country
+日/j/B-role 防相/v/I-role ：/wp/TRIG 中国/ns/B-country 在/p/O 南海/ns/B-ns 行动/v/O “/wp/O 自以为/v/O 是/v/O 且/c/O 无法/v/O 容忍/v/O ”/wp/O
+南沙/ns/O 海战/n/O 第一/m/O 功臣/n/B-role 履新/v/O 南海/ns/B-dev 舰队/n/I-dev ,/wp/O 当年/nt/O 将/p/O 断臂/n/O 别/v/O 皮带/n/O
+美军/j/B-nt 新/a/O 一代/n/O “/wp/O 太空/nl/O 杀手/n/O ”/wp/O ,/wp/O 或/c/O 打破/v/O 对/p/O 中/j/B-country 俄/j/B-country 核/n/O 均衡/a/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 或/c/O 核/n/O 打击/v/TRIG 澳大利亚/ns/B-country ,/wp/O 澳/j/B-country 最/d/O 好/a/O 拥有/v/O 核武器/n/B-dev
+学者/n/B-role ：/wp/TRIG 美军/j/B-nt 有/v/O 群/q/O 好/a/B-nt 战派/n/I-nt ,/wp/O 不怕/v/O 因/p/O 南海/ns/B-ns 打/v/O 全球/n/O 战争/n/O
+美军/j/B-nt 战略/n/B-dev 轰炸机/n/I-dev 拟/v/O 进驻/v/TRIG 澳洲/ns/B-country ,/wp/O 对/p/O 华/j/B-country 构成/v/O 掎角/n/O 之/u/O 势/n/O
+英国/ns/B-country 计划/n/O 建立/v/O 两/m/O 支/q/O “/wp/O 快速/d/B-nt 打击/v/I-nt 部队/n/I-nt ”/wp/O 应/v/TRIG 对/p/O 恐怖/a/O 威胁/v/TRIG
+中国/ns/B-country 成功/a/O 研制/v/O 5千万亿/m/O 瓦/q/O 超/v/O 强/a/O 超短/v/O 激光/n/B-dev 放大/v/I-dev 系统/n/I-dev
+俄/j/B-nt 媒/n/I-nt ：/wp/TRIG 叙利亚/ns/B-country 成/v/O 俄/j/B-country 新/a/O 武器/n/B-dev 试验场/n/O ,/wp/O 已/d/O 投/v/O 千/m/O 吨/q/O 炸弹/n/B-dev
+法国/ns/B-country 恐袭/v/TRIG 自爆物/n/B-dev TATP/ws/I-dev 难/a/O 被/p/O 检/v/O ,/wp/O 中国/ns/B-country 已/d/O 有/v/O 相应/v/O 探测器/n/B-dev
+《/wp/O 科学/n/O 》/wp/O ：/wp/TRIG 美国/ns/B-nt 政府/n/I-nt 无端/d/O 冤枉/v/O 华人/n/B-role 科学家/n/B-role 泄密/v/O
+凤凰/n/O 军评/n/O ：/wp/TRIG 直/d/B-dev 18/m/I-dev 载/q/O C802/ws/B-dev 守卫/v/O 岛礁/n/O ,/wp/O 伊朗/ns/B-country 妙/a/O 想/v/O 适用/v/O 南海/ns/B-ns
+港媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 高超/a/O 音速/n/O 武器/n/B-dev 今年/nt/O 第3/m/O 次/q/O 试验/v/O ,/wp/O 进度/n/O 超/v/O 美/a/B-country
+土耳其/ns/B-nt 媒体/n/I-nt ：/wp/TRIG 一/m/O 架/q/O 战机/n/B-dev 在/p/O 土/j/B-country 叙/j/B-country 边界/n/O 叙利亚/ns/B-country 一侧/nd/O 坠毁/v/O
+外交部/ni/B-nt 回应/v/TRIG 南海/ns/B-ns 仲裁案/n/O 仲裁/v/O 结果/n/O ：/wp/TRIG 不/d/O 接受/v/O ,/wp/O 不/d/O 参与/v/O
+俄/j/B-nt 国防部/n/I-nt ：/wp/TRIG 俄/j/B-country 一/m/O 架/q/O 苏24/m/B-dev 在/p/O 叙/j/B-country 坠毁/v/O ,/wp/O 疑/v/O 遭/v/O 地面/n/O 武器/n/B-dev 击落/v/TRIG
+凤凰/n/O 军评/n/O ：/wp/TRIG 土击落/j/O 俄/j/B-country 苏/j/B-dev 24/m/I-dev 战机/n/I-dev 包庇/v/O IS/ws/B-nt ,/wp/O 将/d/O 被/p/O 世界/n/O 抛弃/v/TRIG
+港媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 第6/m/O 次/q/O 超高/b/B-dev 音速/n/I-dev 武器/n/I-dev 实验/v/O ,/wp/O 美/j/B-country 进度/n/O 或/c/O 落后/a/O
+专家/n/B-role ：/wp/TRIG 土击落/j/O 俄/j/B-country 战机/n/B-dev 或是/c/O 精心/a/O 策划/v/O ,/wp/O 两/m/O 国/n/O 是/v/O 历史/n/O 宿敌/n/O
+土耳其/ns/B-nt 空军/n/I-nt 为/p/O 北约/j/B-nt 第三/m/O ,/wp/O 俄/j/B-country 土/j/I-country 再次/d/O 擦枪/v/O 走火/v/O 可能性/n/O 大/a/O
+土耳其/ns/B-country 或/c/O 打开/v/O 潘多拉/nh/B-nr 盒子/n/O ,/wp/O 挑战/v/O 人类/n/O 危机/n/O 管理/v/O 能力/n/O
+俄/j/B-nt 军/n/I-nt 搜救/v/B-dev 直升机/n/I-dev 被/p/O 叙/v/B-country 武装/v/B-role 分子/n/I-role 击落/v/TRIG ,/wp/O 一/m/O 人/n/O 被/p/O 打/v/O 死/v/O
+日媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 反/v/B-dev 航母/j/I-dev 武器/n/I-dev 强大/a/O ,/wp/O 美军/j/B-nt 没有/v/O 效应/n/O 对/p/O 手段/n/O
+普京/j/B-nr ：/wp/TRIG 土/n/B-country 不/d/O 与/p/O 俄/j/B-country 接触/v/O ,/wp/O 难道/d/O 要/v/O 让/v/O 北约/j/B-nt 为/p/O IS/ws/B-nt 服务/v/O ？/wp/O
+俄罗斯/ns/B-country 会/v/O 报复/v/O 土耳其/ns/B-country 吗/u/O ？/wp/O 看看/v/O 当年/nt/O 苏巴空战/v/O 历史/n/O 吧/u/O
+俄/j/B-country 公布/v/TRIG 被/p/O 击落/v/TRIG 飞机/n/B-dev 飞行/v/O 路线图/n/O ,/wp/O 没/v/O 一/m/O 秒/q/O 钟/n/O 越境/v/O
+实拍/v/O 奥巴马/nh/B-nr 为/p/O 土耳其/ns/B-country 撑腰/v/O ：/wp/TRIG 有/v/O 权/n/O 击落/v/TRIG ,/wp/O 俄/j/B-country 得/v/O 不/d/O 到/v/O 支持/v/TRIG
+英国/ns/B-country 前/nd/B-role 驻/v/I-role 俄/j/I-role 大使/n/I-role ：/wp/TRIG 与/p/O 整个/b/O 北约/j/B-nt 为/v/O 敌/n/O 是/v/O 不/d/O 理智/n/O 的/u/O
+俄罗斯/ns/B-country 抗议/v/TRIG 土耳其/ns/B-country 击落/v/TRIG 战机/n/B-dev ,/wp/O 调动/v/O 巡洋舰/n/B-dev 戒备/v/O
+“/wp/O 红/a/O 脖子/n/O ”/wp/O 参议员/n/B-role 要求/v/TRIG 增强/v/O 对/p/O 台/j/B-ns 军售/j/O ,/wp/O 不惜/v/O 对/p/O 华/j/B-nt 紧张/a/O
+俄罗斯/ns/B-country 质问/v/TRIG 土耳其/ns/B-country 总统/n/B-role ：/wp/TRIG 你/r/O 儿子/n/O 给/p/O IS/ws/B-nt 走私/v/O 你/r/O 知道/v/O 吗/u/O ？/wp/O
+2017/m/B-dev 号/q/I-dev 歼/v/I-dev -20/m/I-dev 首/q/O 飞/v/O 仪式/n/O 特殊/a/O 隆重/a/O ,/wp/O 或/c/O 将/d/O 进入/v/O 小/a/O 批量/n/O 产/v/O
+土/j/B-country 总统/n/B-role 3/m/O 年/q/O 前/nd/O 称/v/TRIG 闯入/v/O 别国/r/O 领空/n/O 几/m/O 秒/q/O ,/wp/O 绝不/d/O 是/v/O 攻击/v/TRIG 借口/n/O
+专家/n/B-role 谈/v/TRIG 如何/r/O 评价/v/TRIG 土耳其/ns/B-country ：/wp/TRIG 首/m/O 鼠/n/O 两端/nd/O ,/wp/O 损人/n/O 害/v/O 己/r/O
+外媒/n/B-nt ：/wp/TRIG 俄罗斯/ns/B-country 被/p/O 击落/v/TRIG 战机/n/B-dev 的/u/O 第二/m/O 名/q/O 飞行员/n/B-role 获救/v/O
+伊朗/ns/B-country 最高/a/B-role 领袖/n/I-role 哈梅内伊/nh/B-nr 赞普京/v/O ：/wp/TRIG 粉碎/v/O 美/j/B-country 在/p/O 中东/ns/B-ns 阴谋/n/O
+外交部/ni/B-nt 回应/v/TRIG 土耳其/ns/B-country 击落/v/TRIG 俄/j/B-dev 军机/n/I-dev ：/wp/TRIG 望/v/TRIG 各方/r/O 加强/v/TRIG 沟通/v/O
+俄/j/B-country 国防部长/n/B-role ：/wp/TRIG 将/d/O 在/p/O 叙利亚/ns/B-ns 空军/n/I-ns 基地/n/I-ns 部署/v/TRIG S400/ws/B-dev 导弹/n/I-dev
+日/j/B-country 自/r/O 高官/n/B-role ：/wp/TRIG 日本/ns/B-country 有/v/O 能力/n/O 巡航/v/TRIG 南海/ns/B-ns ,/wp/O 但/c/O 需/v/O 美国/ns/B-country 下令/v/TRIG
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 再/d/O 射/v/O 高超/a/B-dev 音速/n/I-dev 导弹/n/I-dev ,/wp/O 一/m/O 小时/n/O 内/nd/O 打/v/O 遍/v/O 全球/n/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 再/d/O 射/v/O 高超/a/B-dev 音速/n/I-dev 导弹/n/I-dev ,/wp/O 一/m/O 小时/n/O 内/nd/O 打/v/O 遍/v/O 全球/n/O
+西方/nl/B-country 支持/v/TRIG 土耳其/ns/B-country 以/p/O 显/v/O “/wp/O 团结/a/O ”/wp/O ,/wp/O 同时/c/O 又/d/O 撇清/v/O 关系/n/O
+美军/j/B-nt 黑鹰/nz/B-dev 直升机/n/I-dev 胡德堡/ns/B-ns 基地/n/I-ns 附近/nd/I-ns 坠毁/v/O ,/wp/O 机上/nl/O 4/m/O 人/n/O 丧生/v/O
+巴铁/nh/B-nt 拒/v/TRIG 给/p/O 枭龙/n/O 换/v/O “/wp/O 中国/ns/B-country 核/n/O ”/wp/O ,/wp/O 斥/v/O 巨资/n/O 造/v/O 俄/j/O 发/v/O 工厂/n/O
+美/j/B-nt 军方/n/I-nt 高层/n/B-role 呼吁/v/TRIG 售/v/TRIG 台/j/B-ns F35/ws/B-dev ：/wp/TRIG 不用/d/O 管/v/O 中国/ns/B-country 大陆/n/O 反对/v/TRIG
+中国/ns/B-country 在/p/O 吉布提/ns/B-country 建/v/O 军事基地/i/B-ns ,/wp/O 美/j/B-country 专家/n/B-role 认为/v/O 合情合理/i/O
+港媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 打造/v/O 超级/b/O 太空/nl/B-dev 机器人/n/I-dev ,/wp/O 可/v/O 摧毁/v/TRIG 敌人/n/O 卫星/n/B-dev
+兰德/nh/B-nr 报告/n/O ：/wp/TRIG 美国/ns/B-country 在/p/O 亚洲/ns/B-ns 渐失/v/O 对/p/O 中国/ns/B-country 的/u/O 空中/nl/O 优势/n/O
+俄/j/B-country 在/p/O 土/j/B-ns 边境/nl/I-ns 不/d/O 具/v/O 空中/nl/O 优势/n/O ,/wp/O 面对/v/O 北约/j/B-nt 存致命/v/O 短板/n/O
+据/p/O 《/wp/O 海洋法/n/O 公约/n/O 》/wp/O ,/wp/O 仲裁/v/O 不/d/O 影响/v/O 中/j/B-country 菲/j/B-country 南海/ns/B-ns 领土/n/O 划界/n/O
+叙利亚/ns/B-country 外长/n/B-role ：/wp/TRIG 向/p/O 跳伞/v/O 俄/j/B-country 飞行员/n/B-role 扫射/v/TRIG 是/v/O “/wp/O 战争/n/O 罪行/n/O ”/wp/O
+国防部/n/B-nt ：/wp/TRIG 重视/v/O 发展/v/O 与/p/O 越南/ns/B-nt 军队/n/I-nt 的/u/O 友好/a/O 合作/v/TRIG 关系/n/O
+中国/ns/B-country 重点/n/O 型号/n/O 军机/n/B-dev 应用/v/O 自主/v/O 研发/v/O 新/a/O 技术/n/O ,/wp/O 国际/n/O 先进/a/O
+中国/ns/B-country 新/a/O 一代/n/O 北斗/nz/B-dev 卫星/n/I-dev 在轨/v/O 测试/v/O ,/wp/O 近/a/O 万/m/O 元/q/O 器件/n/O 自主/v/O 研制/v/O
+国防部/ni/B-nt 回应/v/TRIG 美军/j/B-nt 12月/nt/O 再/d/O 闯/v/O 南海/ns/B-ns ：/wp/TRIG 望/v/TRIG 美/j/B-country 勿/d/O 寻衅滋事/i/O
+国防部/n/B-nt ：/wp/TRIG 中/j/B-country 俄/j/B-country 苏/j/B-dev -35/j/I-dev 飞机/n/I-dev 合作/v/TRIG 项目/n/O 取得/v/O 阶段性/n/O 成果/n/O
+俄/j/B-country 或/c/O 向/p/O 叙利亚/ns/B-country 增派/v/TRIG 10/m/O 至/p/O 12/m/O 架/q/O 战机/n/B-dev 掩护/v/TRIG 24/m/O 架/q/O 轰炸机/n/B-dev
+国防部/n/B-nt ：/wp/TRIG 上合/v/B-nt 将/d/O 于/p/O 2016年/nt/O 在/p/O 吉尔吉斯斯坦/ns/B-country 反/v/O 恐/v/O 军演/n/TRIG
+国防部/ni/B-nt 回应/v/TRIG 中/j/B-country 俄/j/B-country 签/v/TRIG S-400/ws/B-dev 导弹/n/I-dev 合同/n/O ：/wp/TRIG 合作/v/TRIG 正/d/O 顺利/a/O 开展/v/O
+国防部/ni/B-nt 回应/v/TRIG 战机/n/B-dev 3500/m/O 米/q/B-dev 偶遇/v/O 无人机/n/B-dev ：/wp/TRIG 不/d/O 能/v/O 无/v/O 人/n/O 管/v/O
+国防部/ni/B-nt 回应/v/TRIG 南沙/ns/B-ns 建/v/O 多少/r/O 机场/n/B-ns ：/wp/TRIG 有/v/O 权/n/O 进行/v/O 必要/a/O 建设/v/O
+凤凰/n/O 军评/n/O ：/wp/TRIG 土击落/j/O 俄/j/B-country 战机/n/B-dev 有/v/O 预谋/v/O ,/wp/O 或/c/O 已/d/O 与/p/O IS/ws/B-nt 情报/n/O 共享/v/O
+国防部/ni/B-nt 回应/v/TRIG 在/p/O 非洲/ns/B-ns 建/v/O 后勤/n/B-ns 基地/n/I-ns ：/wp/TRIG 与/p/O 吉布提/ns/B-country 正在/d/O 协商/v/TRIG
+IS/ws/B-nt 再/d/O 发/v/O 声明/n/O ：/wp/TRIG 安倍/nh/B-nr 愚蠢/a/O 行径/n/O 将/d/O 致/v/O 所有/b/O 日本/ns/B-country 人/n/O 成/v/O 目标/n/O
+成都/ns/B-nt 天空/n/O 巨响/n/O 谜底/n/O 揭开/v/O ：/wp/TRIG 成飞/j/O 战机/n/B-dev 超音速/n/O 产生/v/O 音爆/n/O
+美国/ns/B-country 下月/nt/O 宣布/v/TRIG 对/p/O 台/j/B-ns 军售/j/O ,/wp/O 准备/v/O 应对/v/O 中国/ns/B-country “/wp/O 强烈/a/O 反对/v/TRIG ”/wp/O
+联合/v/O 作战/v/TRIG 任重道远/i/O ,/wp/O 俄罗斯/ns/B-country 为什么/r/O 不/d/O 派/v/O 地面/n/B-nt 部队/n/I-nt
+俄/j/B-country 大举/d/O 轰炸/v/TRIG ,/wp/O 称/v/TRIG 已/d/O 全歼/v/O 坠机区/ns/O 恐怖/a/B-role 分子/n/I-role 和/c/O 神秘/a/O 团伙/n/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 科研/n/O 处于/v/O “/wp/O 转折点/n/O ”/wp/O ,/wp/O 学术/n/O 影响/v/O 落后/a/O
+外交部/ni/B-nt ：/wp/TRIG 中国/ns/B-country 和/c/O 吉布提/ns/B-country 就/d/O 建设/v/O 保障/v/O 设施/n/O 进行/v/O 协商/v/TRIG
+“/wp/O 中国/ns/B-country 范/n/O ”/wp/O 军队/n/B-nt 改革/v/O ：/wp/TRIG 打造/v/O 民族/n/O 复兴/v/O 的/u/O 钢铁/n/O 柱石/n/O
+普京/nh/B-nr ：/wp/TRIG 飞行/v/O 任务/n/O 已/d/O 报/v/O 给/v/O 美国/ns/B-country ,/wp/O 土耳其/ns/B-country 称/v/TRIG 不知/v/O 是/v/O 胡扯/n/O
+曝/v/O 二炮/j/B-nt 导弹/n/B-dev 发射车/n/O 红外/n/O 伪装/v/O ：/wp/TRIG 敌方/n/O 卫星/n/B-dev 无法/v/O 探测/v/O
+国防部/n/B-nt 证实/v/TRIG 中国/ns/B-country 购买/v/TRIG 苏/j/B-dev -35/m/I-dev ,/wp/O 原因/n/O 系/v/O 俄方/n/B-country 急需/v/O 钱/n/O
+专家/n/B-role ：/wp/TRIG 歼/v/B-dev 20/m/I-dev 明年/nt/O 或/c/O 小/a/O 批量/d/O 生产/v/O ,/wp/O 2017年/nt/O 交付/v/TRIG 空军/n/B-nt
+港媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 强/a/O 激光/n/B-dev 可/v/O 分裂/v/O 原子/n/O ,/wp/O 探索/v/O 核能/n/O 新/a/O 方法/n/O
+习近平/nh/B-nr 定调/v/O 国防/n/O 和/c/O 军队/n/B-nt 改革/v/O ,/wp/O 六/m/O 大/a/O 看/v/O 点/n/O 高屋建瓴/i/O
+俄/j/B-nt 军/n/I-nt 光荣级/b/B-dev 巡洋舰/n/I-dev 抵达/v/TRIG 叙/j/B-ns 海岸/n/I-ns ,/wp/O 打开/v/O S-300/ws/B-dev 垂发/v/I-dev 系统/n/I-dev
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 公民/n/B-role 成/v/O 恐怖主义/n/O 受害者/n/B-role ,/wp/O 北京/ns/B-nt 摸索/v/O 反应/v/O
+凤凰/n/O 军事/n/O ：/wp/TRIG 俄/j/B-country 猎杀/v/O 土库曼旅/n/B-nt 正/b/B-role 副/b/I-role 旅长/n/I-role ,/wp/O 特种部队/n/B-nt 参战/v/O
+俄/j/B-nt 国防部/n/I-nt ：/wp/TRIG 土耳其/ns/B-nt 媒体/n/I-nt 公布/v/TRIG 的/u/O 空中/nl/O 通话/v/O 录音系/n/O 伪造/v/O
+俄罗斯/ns/B-ns 轰炸/v/TRIG 的/u/O “/wp/O 人道/n/O 救援/v/TRIG 车队/n/O ”/wp/O 真身/n/O 到底/d/O 是/v/O 谁/r/O ？/wp/O
+中国/ns/B-nt 空军/n/I-nt 轰/v/B-dev 6K/m/I-dev 飞/v/O 出/v/O 第一/m/O 岛链/n/O ,/wp/O 巡航/v/TRIG 东海/ns/B-ns 防空区/n/I-ns
+军武/j/B-nt 次位面/n/O ：/wp/TRIG 皮卡/n/O 风暴/n/O ,/wp/O 起底/v/O 恐怖/a/B-role 分子/n/I-role 的/u/O 最/d/O 爱/v/O 座驾/n/O
+普京/nh/B-nr 回应/v/TRIG 土耳其/ns/B-country 辩解/v/O ：/wp/TRIG 垃圾/n/O ,/wp/O 俄罗斯/ns/B-ns 开始/v/O 全面/a/O 制裁/v/TRIG
+俄/j/B-nt 军方/n/I-nt ：/wp/TRIG 土耳其/ns/B-country 跟踪/v/O 俄/j/B-country 战机/n/B-dev 34/m/O 分钟/q/O ,/wp/O 战机/n/B-dev 空中/nl/O 埋伏/v/O
+菲/j/B-country 专家/n/B-role 担忧/v/TRIG 美/j/B-country 日/j/B-country 介入/v/TRIG 南海/ns/B-ns ,/wp/O 菲律宾/ns/B-country 变为/v/O 次要/b/O 角色/n/O
+IS/ws/B-nt 声明/n/O ：/wp/TRIG 安倍/nh/B-nr 愚蠢/a/O 行径/n/O 将/d/O 致/v/O 所有/b/O 日本/ns/B-country 人/n/O 成为/v/O 目标/n/O
+美/j/B-country 媒评/n/O 土耳其/ns/B-country 最/d/O 惧怕/v/O 的/u/O 俄武器/n/O ,/wp/O 光荣舰/n/B-dev 成/v/O 大杀器/n/O
+美/j/O 媒评/n/O 土耳其/ns/B-country 最/d/O 惧怕/v/O 的/u/O 俄武器/n/O ,/wp/O 光荣舰/n/B-dev 成/v/O 大杀器/n/O
+军方/n/B-nt 证实/v/TRIG 中国/ns/B-country 正建/n/O 首/m/O 个/q/O 基地/n/B-ns ：/wp/TRIG 时机/n/O 已/d/O 成熟/a/O
+中国/ns/B-country 攻克/v/TRIG 先进/a/O 进气道/n/O 技术/n/O ,/wp/O 与/p/O B-2/ws/B-dev 轰炸机/n/I-dev 所/u/O 用/v/O 类似/a/O
+美/j/O 媒评/v/O 最/d/O 依赖/v/O 中国/ns/B-country 的/u/O 国家/n/O 和/c/O 地区/n/O ：/wp/TRIG 大多/d/O 是/v/O 美国/ns/B-country 盟友/n/B-role
+美/j/B-country 教授/n/B-role ：/wp/TRIG 买/v/TRIG 中国/ns/B-country 制造/v/O 等于/v/O 帮/v/O 中国/ns/B-country 制造/v/O 武器/n/B-dev 打/v/O 美国/ns/B-country
+日媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 3/m/O 年/q/O 抓/v/O 约/d/O 10/m/O 名/q/O 日本/ns/B-country 间谍/n/B-role ,/wp/O 已/d/O 全部/m/O 释放/v/TRIG
+美/j/B-country 专家/n/B-role ：/wp/TRIG 土击落/v/O 俄机/n/B-dev 超出/v/O 行为/n/O 规范/n/O ,/wp/O 是/v/O 早/a/O 有/v/O 预谋/n/O
+两/m/O 架/q/O 韩国/ns/B-country 战机/n/B-dev 到手/v/O ,/wp/O 菲律宾/ns/B-nt 空军/n/I-nt 重返/v/TRIG 超音速/n/O 时代/n/O
+土专家/n/O ：/wp/TRIG 红旗9/n/B-dev 可/v/O 摧毁/v/TRIG 爱国者/n/B-dev 和/c/O S300/ws/B-dev 无法/v/O 识别/v/O 的/u/O 导弹/n/B-dev
+歼/v/B-dev -31/m/I-dev 将/d/O 主要/d/O 用于/v/O 出口/v/O ,/wp/O 解放军/n/B-nt 也/d/O 可能/v/O 少量/m/O 装备/n/O
+土/j/B-country 总统/n/B-role 称/v/TRIG 有/v/O 买/v/TRIG IS/ws/B-nt 石油/n/B-dev 证据/n/O 就/d/O 下台/v/O ,/wp/O 普京/nh/B-nr 秘书/n/B-role 说/v/TRIG 有/v/O
+中国/ns/B-country 突破/v/O 战略/n/O 材料/n/O 石墨烯/n/O ,/wp/O 助力/b/O 下一代/n/O 发动机/n/O
+中国/ns/B-nt 军队/n/I-nt 改革/v/O 照抄/v/O 国外/nl/B-country ？/wp/O 看看/v/O 权威/a/B-role 人士/n/I-role 怎么/r/O 说/v/TRIG
+南海/ns/B-nt 舰队/n/I-nt 舰艇/n/B-dev 代表/n/B-role 直/d/O 指/v/O 6/m/O 大/a/O 问题/n/O ,/wp/O 官兵/n/B-role 脸红/v/O 出/v/O 汗/n/O
+三/m/O 大/a/O 舰队/n/B-dev 齐聚/v/O 反潜/v/O 合练/v/O ,/wp/O 拱卫/v/O 三亚/ns/B-ns 航母/j/I-ns 基地/n/I-ns 安全/a/O
+张召忠/nh/B-nr ：/wp/TRIG 美/j/B-country 科幻/j/B-dev 战舰/n/I-dev 虽/c/O 先进/a/O ,/wp/O 不如/v/O 中国/ns/B-country 052D/ws/O 务实/v/O
+美/j/B-country 学者/n/B-role 曝/v/O 奇葩/n/O 言论/n/O ：/wp/TRIG 买/v/TRIG 中国/ns/O 货/n/O 等于/v/O 武装/v/O 中国/ns/B-nt 军队/n/I-nt
+俄/j/B-nt 媒/n/I-nt ：/wp/TRIG 中国/ns/B-country 航天/n/O 潜力/n/O 遥遥领先/i/O ,/wp/O 速度/n/O 美/j/B-country 俄/j/B-country 无法/v/O 达到/v/O
+土耳其/ns/B-country 总统/n/B-role 首/m/O 次/q/O 对/p/O 俄罗斯/ns/B-country 战机/n/B-dev 被/p/O 击落/v/TRIG 表示/v/TRIG 遗憾/a/O
+俄/j/B-nt 媒/n/I-nt ：/wp/TRIG 中国/ns/B-country 研究/v/TRIG 对付/v/O 高超/a/B-dev 声速/n/I-dev 导弹/n/I-dev ,/wp/O 取得/v/O 重大/a/O 进展/v/O
+也门/ns/B-nt 胡塞/nh/I-nt 武装/n/I-nt 炮击/v/TRIG 沙特/ns/B-ns 边境/nl/I-ns 致/v/O 1/m/O 名/q/O 军人/n/B-role 2/m/O 名/q/O 平民/n/B-role 死亡/v/O
+空军/n/B-nt 擂响/v/O 五代机/n/B-dev 战鼓/n/O ：/wp/TRIG 歼/v/B-dev 20/m/I-dev 一不小心/i/O 就/d/O 超音速/v/O 了/u/O
+被迫/d/TRIG 取消/v/O 边境/nl/O 飞行/v/O ：/wp/TRIG 土耳其/ns/B-country “/wp/O 大国/n/O 梦/n/O ”/wp/O 的/u/O 代价/n/O
+阿富汗/ns/B-country 副/b/B-role 总统/n/I-role 自封/v/O "/wp/O 杀人/v/O 博士/n/B-role "/wp/O ,/wp/O 开/v/O 坦克/n/B-dev 大战/n/O 塔利班/nz/B-nt
+尼泊尔/ns/B-country 扣押/v/TRIG 13/m/O 名/q/O 越境/v/O 印度/ns/B-country 士兵/n/B-role ,/wp/O 印度/ns/B-country 称/v/TRIG 系/n/O 执行/v/O 任务/n/O
+中国/ns/B-country 长征五号/nz/B-dev 运载火箭/i/I-dev 合/v/O 练/v/O 箭/n/O 在/p/O 海南/ns/B-ns 顺利/a/O 转/v/O 场/n/O
+美/j/B-country 前/nd/B-role 情报/n/I-role 局长/n/I-role ：/wp/TRIG 说/v/TRIG 俄罗斯/ns/B-country 是/v/O “/wp/O 邪恶/a/O 祸害/n/O ”/wp/O 的/u/O 该/r/O 闭嘴/v/O
+长征七号/nz/B-dev 在/p/O “/wp/O 亚洲/ns/B-ns 第一/m/O 高/a/O 塔/n/O ”/wp/O 开展/v/O 全/a/O 箭/n/O 模态/n/O 试验/v/O
+韩媒/nh/B-nt ：/wp/TRIG 朝鲜/ns/B-country 潜艇/n/B-dev 在/p/O 日本/ns/B-country 海试/v/O 射/v/O 失败/v/O ,/wp/O 导弹/n/B-dev 未能/v/O 出/v/O 水/n/O
+“/wp/O 台/j/B-nt 军方/n/I-nt ”/wp/O ：/wp/TRIG 两岸/n/B-nt 首/m/O 次/q/O 秘密/a/O 交换/v/O 被俘/v/O 情报/n/O 人员/n/B-role
+中国/ns/B-country 潜艇/n/B-dev 远航/v/O 遭/v/O 外军/n/B-nt 全方位/n/O 监视/v/TRIG ,/wp/O 急速/z/O 下潜/v/O 突围/v/O
+一/m/O 架/q/O 俄罗斯/ns/B-country 战机/n/B-dev 误/d/O 入/v/O 以色列/ns/B-country 领空/n/O 1.6/m/O 公里/q/O ,/wp/O 安全/a/O 返航/v/O
+印媒/n/B-nt ：/wp/TRIG 中国/ns/B-country 没有/d/O 抢走/v/O 尼泊尔/ns/B-country ,/wp/O 没有/v/O 痛击/v/O 印度/ns/B-country 的/u/O 意思/n/O
+张召忠/nh/B-nr 斥/v/O 瑞士/ns/B-ns 反恐/v/O ：/wp/TRIG 空军/n/B-nt 曾/d/O 因/p/O 下班/v/O 拒/v/TRIG 护航/v/TRIG 被/p/O 劫/v/O 客机/n/B-dev
+安倍/nh/B-nr ：/wp/TRIG 修宪/v/O 改变/v/O 被/p/O 占领/v/TRIG 框架/n/O 是/v/O 自民党/n/B-nt 建党/v/O 出发点/n/O
+青岛/ns/B-ns 一/m/O 网民/n/B-role 捏造/v/O 谣言/n/O 严重/a/O 损害/v/O 海军/n/B-nt 形象/n/O 声誉/n/O 被/p/O 查处/v/O
+外媒/n/B-nt ：/wp/TRIG 印度/ns/B-country 反导/v/O 试验/v/O 成功/a/O 是/v/O 撒谎/v/O ,/wp/O 拦截/v/TRIG 导弹/n/B-dev 没/d/O 升空/v/O
+越/j/B-country 总理/n/B-role 声称/v/TRIG 不/d/O 谋求/v/O 在/p/O 南海/ns/B-ns 扩军/v/O ,/wp/O 欲/d/O 平息/v/O 中国/ns/B-country “/wp/O 怒气/n/O ”/wp/O
+火箭军/n/B-nt 十/m/O 多/m/O 发/q/O 导弹/n/B-dev 齐射/v/O 齐落/v/O ,/wp/O 时间/n/O 精度/n/O 突破/v/O 毫秒级/b/O
+联合国/ni/B-nt 维和/j/B-role 行动/v/I-role 负责人/n/I-role 将/d/O 访华/v/TRIG ,/wp/O 讨论/v/TRIG “/wp/O 借兵/v/O ”/wp/O 八千/m/O
+华媒/j/B-nt ：/wp/TRIG 英/j/B-country 首相/n/B-role 口出狂言/i/O 请/v/O 闭嘴/v/O ,/wp/O 已/d/O 不/d/O 是/v/O 日/n/B-country 不/d/O 落/v/O 帝国/n/O
+欧媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 战略/n/B-dev 核潜艇/n/I-dev 首航/v/O 太平洋/ns/B-ns ,/wp/O 对/p/O 美发/v/O 强烈/a/O 信号/n/O
+美/j/B-country 防长/n/B-role ：/wp/TRIG 将/d/O 长期/d/O 对抗/v/TRIG 中国/ns/B-country ,/wp/O 就/d/O 像/v/O 美/j/B-country 苏/j/I-country 冷战/n/O 50年/nt/O 那样/r/O
+朝/j/B-country 对/p/O 韩舰/nh/B-dev 闯/v/O 领海/n/O 发/v/O 最后通牒/i/TRIG ：/wp/TRIG 将/d/O 直接/a/O 开枪/v/O 还击/v/O
+中国/ns/B-nt 战舰/n/I-nt 编队/n/I-nt 在/p/O 南海/ns/B-ns 先后/d/O 遭/v/O 美/j/B-country 日/j/B-country 澳/j/B-country 舰机/n/B-dev 跟踪/v/O 尾随/v/O
+中国/ns/B-country 首/m/O 颗/q/O 量子/n/B-dev 卫星/n/I-dev 将/d/O 于/p/O 7月/nt/O 发射/v/TRIG ,/wp/O 首/m/O 次/q/O 实现/v/O 量子/n/O 通信/v/O
+外媒/n/B-nt ：/wp/TRIG 越南/ns/B-country 买/v/TRIG F16/ws/B-dev 可/v/O 改变/v/O 地区/n/O 平衡/a/O ,/wp/O 可惜/v/O 根本/d/O 没/v/O 钱/n/O
+台/j/B-ns 退役/v/B-role 中将/n/I-role ：/wp/TRIG 一旦/d/O 开战/v/O ,/wp/O 美军/j/B-nt 绝不/d/O 可能/v/O 力挺/v/O 台湾/ns/B-ns
+世界/n/O 服役/v/O 时间/n/O 最/d/O 长/a/O 军舰/n/B-dev ,/wp/O 美国/ns/B-country “/wp/B-dev 宪法/n/I-dev 号/n/I-dev ”/wp/I-dev 整修/v/O
+英媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 核武/j/B-dev 规模/n/O 太/d/O 小/a/O ,/wp/O 或/c/O 毫无/v/O 预知/v/O 就/d/O 被/p/O 全部/m/O 消灭/v/O
+台/j/B-ns 退役/v/B-role 将领/n/I-role ：/wp/TRIG 美/j/B-country 不/d/O 会/v/O 为/p/O “/wp/O 台独/j/O ”/wp/O 而/c/O 战/v/O ,/wp/O 日/j/O 只/d/O 想/v/O 捞/v/O 好处/n/O
+外媒/n/B-nt 曝/v/O 疑似/v/O 歼/v/B-dev -20/m/I-dev 舰载/q/O 版/n/O 卫星图/n/O ,/wp/O 专家/n/B-role 道破/v/O 天机/n/O
+外媒/n/B-nt ：/wp/TRIG 中美力/n/O 避/v/O 冲突/v/TRIG ,/wp/O 在/p/O “/wp/O 灰色/n/O 地带/n/O ”/wp/O 较量/v/O
+美智库/n/B-nt ：/wp/TRIG 中国/ns/B-country 60/m/O 枚/q/O 导弹/n/B-dev 针对/v/O 美国/ns/B-country ,/wp/O 12/m/O 枚/q/O 是/v/O 分导/v/O
+“/wp/O 两弹一星/j/B-nt ”/wp/O 元勋/n/B-role 陈能宽/nh/B-nr 逝世/v/O ,/wp/O 享年/n/O 94/m/O 岁/q/O
+感谢/v/TRIG 盖茨/nh/B-nr ,/wp/O 给/p/O 中国/ns/B-nt 空军/n/I-nt 送/v/O 来/v/O 至少/d/O 10/m/O 年/q/O 追赶/v/O 时间/n/O
+朝/j/B-nt 核六方/n/I-nt 会谈/v/I-nt 韩/j/B-country 美/j/B-country 日/j/B-country 团长/n/B-role 将/d/O 于/p/O 6月/nt/O 1日/nt/O 在/p/O 东京/ns/B-ns 会晤/v/TRIG
+歼10/nz/B-dev 首席/n/B-role 试飞员/n/I-role 寻/v/O 救命/v/O 恩人/n/B-role ,/wp/O 29/m/O 年/q/O 前/nd/O 坠落/v/O 云南/ns/B-ns 大山/n/O
+俄/j/B-country 专家/n/B-role ：/wp/TRIG 美军/j/B-nt 要/v/O 用/p/O 电磁炮/n/B-dev 对付/v/O 中国/ns/B-country ？/wp/O 只/d/O 是/v/O 场/q/O 心理战/n/O
+日媒/j/B-nt ：/wp/TRIG 美/j/B-country 警惕/v/O 中/j/B-country 俄/j/B-country 强化/v/O 潜艇/n/B-dev 动向/n/O ,/wp/O 欲/d/O 以/p/O 技术/n/O 优势/n/O 对抗/v/TRIG
+日媒/j/B-nt ：/wp/TRIG 美军/j/B-nt 没/v/O 钱/n/O 造/v/O 更/d/O 多/a/O 潜艇/n/B-dev ,/wp/O 欲/d/O 用/v/O 技术/n/O 优势/n/O 对抗/v/TRIG 中国/ns/B-country
+韩媒/nh/B-nt ：/wp/TRIG 朝鲜/ns/B-country 发射/v/TRIG 一/m/O 枚/q/O “/wp/O 舞水端/n/O ”/wp/O 导弹/n/B-dev ,/wp/O 发射/v/TRIG 失败/v/O
+美/j/B-country 防长/j/B-role 称/v/TRIG 中国/ns/B-country 构筑/v/O 自我/r/O 孤立/v/O 的/u/O 长城/ns/B-dev ,/wp/O 外交部/ni/B-nt 回应/v/TRIG
+简氏/nh/O ：/wp/TRIG 中国/ns/B-country 001A/ws/B-dev 航母/j/I-dev 重要/a/O 工作/v/O 未/d/O 完成/v/O ,/wp/O 今年/nt/O 难/a/O 下水/v/O
+2016/nt/O “/wp/O 强武堂/n/O ”/wp/O 论坛/n/O ：/wp/TRIG 互联网/n/O 时代/n/O 展望/v/O 军事/n/O 文化/n/O
+中国/ns/O 海监直/j/O -9/m/O 直升机/n/O 舟山/ns/B-ns 坠毁/v/O ,/wp/O 4/m/O 名/q/O 机组/n/B-role 人员/n/I-role 遇难/v/O
+埃航/j/B-nt 飞/v/O 北京/ns/B-nt 一/m/O 航班/n/O 受/v/O 爆炸/v/TRIG 威胁/v/TRIG 在/p/O 乌兹别克斯坦/ns/B-ns 降落/v/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 反舰/n/B-dev 导弹/n/I-dev 比/p/O 日本/ns/B-dev 神风/n/I-dev 特攻队/n/I-dev 还要/v/O 可怕/a/O
+美媒/j/B-nt :/wp/TRIG 中国/ns/B-country 导弹/n/B-dev "/wp/O 密集/a/O "/wp/O 打击/v/TRIG 对/p/O 美/j/B-country 航母/j/B-dev 构成/v/O "/wp/O 致命/v/O "/wp/O 威胁/v/TRIG
+外交部/ni/B-nt 发言人/n/B-role 回/v/O 应/v/TRIG 斯里兰卡/ns/B-country 举行/v/TRIG 议会/n/O 选举/v/TRIG
+美国/ns/B-nt 国防部/n/I-nt 官员/n/B-role :/wp/TRIG 美/j/B-country 韩/j/B-country 军演/j/TRIG 在/p/O 朝鲜/ns/B-country 炮击/v/TRIG 之后/nd/O 推迟/v/TRIG 进行/v/O ,/wp/O 但/c/O 可能/v/O 会/v/O 重新/d/O 启动/v/O
+俄/j/B-country 呼吁/v/TRIG 朝/j/B-country 韩/j/B-country 避免/v/O 采取/v/O 恶化/v/O 局势/n/O 的/u/O 行动/v/O
+拉登/nh/B-nr 之/u/O 子/n/O 发布/v/O 录音/n/O 号召/v/TRIG 基地/n/B-ns 袭击/v/TRIG 美国/ns/B-country 和/c/O 美国/ns/B-country 盟友/n/B-role
+马英九/nh/B-nr 及/c/O 朱立伦/nh/B-nr 力劝/v/TRIG 访/v/TRIG 美/j/B-country 洪秀柱/n/B-nr 盼/v/O 先/d/O “/wp/O 安/v/O 内/nd/O ”/wp/O
+美国/ns/B-country 请求/v/TRIG 澳大利亚/ns/B-country 参与/v/O 空袭/a/TRIG 打击/v/TRIG 叙利亚/ns/B-ns 境内/nl/I-ns IS/ws/B-nt
+伊拉克/ns/B-country :/wp/TRIG 反攻/v/O 安巴尔/nh/B-nr 向/p/O 俄罗斯/ns/B-country 寻求/v/TRIG 军事/n/O 援助/v/TRIG
+朝鲜/ns/B-country 称/v/TRIG 愿/v/TRIG 与/p/O 美国/ns/B-country 合作/v/TRIG 联手/v/TRIG 调查/v/TRIG 攻击/v/TRIG 索尼/nz/B-nt 影业/n/I-nt 真凶/n/O
+巴基斯坦/ns/B-nt 军方/n/I-nt 原则/n/O 上/nd/O 同意/v/TRIG 购买/v/TRIG 8/m/O 艘/q/O 中国/ns/B-country 潜艇/n/B-dev
+巴西/ns/B-country 和/c/O 德国/ns/B-country 将/d/O 在/p/O 气候/n/O 与/c/O 经济/n/O 方面/n/O 加强/v/TRIG 合作/v/TRIG
+韩国/ns/B-country 计划/n/O 与/p/O 俄/j/B-country 发展/v/O 军事/n/O 合作/v/TRIG 但/c/O 仍/d/O 视/v/O 美国/ns/B-country 为/v/O 主要/b/O 盟友/n/B-role
+中国/ns/B-country 将/d/O 为/p/O 白俄罗斯/ns/B-country 钾肥/n/O 项目/n/O 提供/v/TRIG 14亿/m/O 美元/q/O 资金/n/O （/wp/O 很/d/O 正确/a/O ）/wp/O
+韩国/ns/B-country 提议/v/TRIG 与/p/O 朝鲜/ns/B-country 举行/v/TRIG 将军级/b/O 会谈/v/O 磋商/v/TRIG 地雷/n/B-dev 事件/n/O
+巴西/ns/B-country 与/p/O 德国/ns/B-country 举行/v/TRIG 首/m/O 次/q/O 政府/n/O 磋商/v/TRIG
+习近平/nh/B-nr 致电/v/TRIG 马尔代夫/ns/B-country 总统/n/B-role 祝贺/v/TRIG 马尔代夫/ns/B-country 独立/v/O 50/m/O 周年/q/O
+中国/ns/B-country 与/p/O 尼日尔/ns/B-country 恢复/v/TRIG 外交/n/O 关系/n/O
+德国/ns/B-nt 政府/n/I-nt 首/m/O 次/q/O 就/p/O 纳粹/n/B-nt 罪行/n/O 向/p/O 白俄罗斯/ns/B-country 道歉/v/TRIG
+美国/ns/B-country 宣布/v/TRIG 与/p/O 古巴/ns/B-country 建立/v/O 外交/n/O 关系/n/O
+美国/ns/B-country 在/p/O 《/wp/O 辛丑/nt/O 条约/n/O 》/wp/O 签订/v/TRIG 中/nd/O 为什么/r/O 要/v/O 为/p/O 清廷/n/O 辩护/v/TRIG ?/wp/O
+中航/j/B-nt 国际/n/I-nt 与/p/O 哥伦比亚/ns/B-country 签订/v/TRIG 战略/n/O 合作/v/TRIG 协议/n/O 及/c/O 运/v/B-dev 12E/nt/I-dev 购机/j/O 备忘录/n/O
+菲日/nt/O 大举/d/O 加强/v/TRIG 军事/n/O 合作/v/TRIG 抗衡/v/O 中国/ns/B-country
+古巴/ns/B-country 履行/v/O 对/p/O 美/j/B-country 政治/n/O 承诺/v/TRIG 释放/v/TRIG 3/m/O 名/q/O 在押/v/O 政治犯/n/B-role
+日本/ns/B-country 与/p/O 意大利/ns/B-country 共享/v/O 军事/n/O 情报/n/O 全面/a/O 推进/v/O 安保/j/B-nt 合作/v/TRIG
+美军/j/B-nt 在/p/O 南海/ns/B-ns 动作/n/O 频频/d/O 与/p/O 马来西亚/ns/B-country 启动/v/O 海军/n/B-nt 联合/v/O 军演/n/TRIG
+欧盟/j/B-nt 向/p/O 约旦/ns/B-country 提供/v/TRIG 5500万/m/O 教育/v/O 资金/n/O 援助/v/TRIG 叙利亚/ns/B-country 难民/n/B-role
+美/j/B-country 加紧/v/O 运送/v/O 武器/n/B-dev 支援/v/TRIG 沙特/ns/B-nt 盟军/n/I-nt
+巴基斯坦/ns/B-nt 政府/n/I-nt 决定/v/O 为/p/O 驻/v/O 巴/j/O 中国/ns/O 公司/n/O 提供/v/TRIG 军事/n/O 保护/v/O
+韩国/ns/B-country 提反/v/O 建议/n/TRIG 要求/v/TRIG 黄炳誓/nh/B-nr 参会/v/O 朝鲜/ns/B-country 破例/v/TRIG 接受/v/O
+印度/ns/B-country 自产/v/O 炮弹/n/B-dev 无法/v/O 兼容/v/O T-90/ws/B-dev 被迫/d/TRIG 接受/v/O 俄/j/B-country 突然/a/O 涨价/v/O (/wp/O 1/m/O )/wp/O
+大陆/n/B-ns 应/v/TRIG 将/p/O 台湾/ns/B-ns 民众/n/B-role 抗日/v/O 进行/v/O 专门/b/O 研究/v/TRIG
+美/j/B-nt 国会/n/I-nt 要求/v/TRIG 加强/v/TRIG 美台/n/O 军事/n/O 合作/v/TRIG
+美/j/B-country 教授/n/B-role 独立日/d/O 发文/v/O 控诉/v/TRIG 美国/ns/B-country 不/d/O 自由/a/O 10/m/O 宗/q/O 罪/n/O
+朝/j/B-country 韩/j/B-country 打响/v/O “/wp/O 宣传战/n/O ”/wp/O 朝/p/O 军/n/O 向/p/O 韩/j/B-country 发出/v/O 最后通牒/i/TRIG
+埃及/ns/B-country 民众/n/B-role 举行/v/TRIG 大规模/d/O 反/v/O 贪污/v/O 游行/v/TRIG 要求/v/TRIG 解雇/v/TRIG 财政部长/n/B-role (/wp/O 高清/nh/O 组图/n/O )/wp/O
+非法/d/O “/wp/O 占/v/O 中/nd/O ”/wp/O 冲击/v/TRIG 政府/n/B-ns 总部/n/I-ns
+日本/ns/B-country 大学生/n/B-role 通过/p/O 绝食/v/TRIG 抗议/v/TRIG 安倍/nh/B-nr 政权/n/O
+中国/ns/B-country 抵制/v/TRIG 日货/j/O
+法国/ns/B-country 轮渡/n/B-role 工人/n/I-role 罢工/v/TRIG 致/v/O 货车/n/O 堵塞/v/O 车龙/n/O 绵延/v/O 逾/v/O 30/m/O 公里/q/O
+IS/ws/B-nt 点名/v/O 美/j/B-country 法吁/n/O 追随者/n/O 造反/v/TRIG 纽约/ns/B-nt 警方/n/I-nt 提高/v/O 警戒/v/TRIG 状态/n/O
+乌克兰/ns/B-ns 东部/nd/I-ns 局势/n/O 剑拔弩张/i/O 普京/nh/B-nr 下令/v/TRIG 军队/n/B-nt 进入/v/O 全面/a/O 警戒/v/TRIG
+英国/ns/B-country 正/d/O 组建/v/O 网络/n/B-nt 军队/n/I-nt 旨在/v/O 保护/v/O 网络/n/O 和/c/O 重要/a/O 数据/n/O 并/c/O 在/p/O 必要/a/O 时/n/O 发动/v/O 攻击/v/TRIG
+中国/ns/B-country 停/v/O 飞/v/O 或/c/O 减少/v/O 韩国/ns/B-country 航班/n/O
+潘基文/nh/B-nr 对/p/O 朝鲜/ns/B-country 取消/v/O 其/r/O 访问/v/TRIG
+联合国/ni/B-nt 因/p/O 资金/n/O 短缺/v/O 暂停/v/O 对/p/O 伊拉克/ns/B-country 人道主义/n/O 援助/v/TRIG
+德国/ns/B-country 欲/d/O 延缓/v/O 对/p/O 希腊/ns/B-country 援助/v/TRIG 或/c/O 推升/v/O 避险/v/O 情绪/n/O
+美/j/B-country 升级/v/O 对/p/O 俄/j/B-country 经济/n/O 制裁/v/TRIG 外媒/n/B-nt :/wp/TRIG 或/c/O 将/p/O 破坏/v/TRIG 双边/n/O 关系/n/O
+格鲁吉亚/ns/B-nt 议会/n/I-nt 驱逐/v/TRIG 俄罗斯/ns/B-nt 维和/j/I-nt 部队/n/I-nt
+朝鲜/ns/B-country 扣留/v/TRIG 一/m/O 名/q/O 反朝/nt/O 宣传/v/O 美国/ns/B-role 人/n/I-role 并/c/O 决定/v/O 将/p/O 其/r/O 驱逐/v/TRIG
+黎/j/B-nt 安全/a/I-nt 部队/n/I-nt 用/p/O 高压/n/B-dev 水枪/n/I-dev 驱散/v/TRIG 示威者/n/B-role
+朝鲜/ns/B-country 用/p/O 意大利/ns/B-country 黑客/n/B-role 技术/n/O 攻击/v/TRIG 韩国/ns/B-country 5/m/O 网站/n/O
+12/m/O 名/q/O 伊拉克/ns/B-country 基督徒/n/B-role 逃离/v/O ISIS/ws/B-nt 美国/ns/B-nt 政府/n/I-nt 或/c/O 将/p/O 其/r/O 驱逐/v/TRIG 出境/v/O
+日本/ns/B-country 忙/a/O 中/nd/O 出错/v/O 5/m/O 位/q/O 乘客/n/B-role 被/p/O 强制/v/TRIG 隔离/v/TRIG
+埃及/ns/B-nt 法院/n/I-nt 将/p/O 穆兄会/nh/B-nr 财产/n/O 充公/v/TRIG
+法国/ns/B-country 强制/v/TRIG 拆除/v/TRIG 加莱港/ns/B-ns 非法/b/I-ns 移民/n/I-ns 营地/n/I-ns
+泰国/ns/B-country 总理/n/B-role 承认/v/TRIG 政府/n/O 海上/nl/O 放逐/v/TRIG 缅甸/ns/B-country 难民/n/B-role (/wp/O 图/n/O )/wp/O
+香港/ns/B-ns 《/wp/O 成报/nz/O 》/wp/O 今日/nt/O 被迫/d/TRIG 暂停/v/O 出版/v/O 银行/n/O 账户/n/O 遭/v/O 冻结/v/TRIG
+塞拉利昂/ns/B-ns 北部/nd/I-ns 两/m/O 个/q/O 地区/n/O 重新/d/O 实施/v/O 宵禁/v/TRIG
+“/wp/O 伊斯兰国/nz/B-nt ”/wp/O 在/p/O 霍姆斯/nh/B-ns 绑架/v/TRIG 200/m/O 多/m/O 名/q/O 平民/n/B-role
+塔利班/nz/B-nt 到/v/O 巴基斯坦/ns/B-country 大/a/O 城市/n/O 避难/v/O 抢劫/v/TRIG 银行/n/O 敛/v/O 资金/n/O
+阿富汗/ns/B-nt 塔利班/nz/I-nt 袭击/v/TRIG 北约/j/B-ns 营地/n/I-ns
+女/b/O 律师/n/B-role 遭/v/O “/wp/O 伊斯兰国/nz/B-nt ”/wp/O 折磨/v/TRIG 杀害/v/TRIG
+伊拉克/ns/B-country 发生/v/O 自杀式/b/B-dev 汽车/n/I-dev 爆炸/v/TRIG 袭击/v/TRIG 造成/v/O 近/a/O 百/m/O 人/n/O 伤亡/v/TRIG
+美国/ns/B-nt 中情局/j/I-nt 曾/d/O 串通/v/O 黑手党/n/O 对/p/O 卡斯特罗/nh/B-nr 进行/v/O 暗杀/v/TRIG
+越南/ns/B-country 称霸/v/O 印支/v/B-ns 半岛/n/I-ns 之/u/O 梦/n/O :/wp/TRIG 入侵/v/TRIG 柬埔寨/ns/B-country
+日本/ns/B-country 将/d/O 延长/v/O 打击/v/TRIG 索马里/ns/B-country 海盗/n/B-role 活动/v/O 或/c/O 再/d/O 增/v/O 1/m/O 年/q/O (/wp/O 图/n/O )/wp/O
+以色列/ns/B-country 袭击/v/TRIG 戈兰/ns/B-country 高地/n/O 报复/v/O 叙利亚/ns/B-country 火箭/n/B-dev 攻击/v/TRIG
+以色列/ns/B-country 军事/n/O 打击/v/TRIG 叙利亚/ns/B-ns 境内/nl/I-ns 目标/n/O
+犹太/nz/B-country 极端/n/B-role 分子/n/I-role 袭击/v/TRIG 巴勒斯坦/ns/B-ns 村庄/n/I-ns :/wp/TRIG 巴向/v/O 国际/n/B-nt 刑事/b/I-nt 法院/n/I-nt 起诉/v/TRIG .../wp/O
+以色列/ns/B-country 继续/v/O 加强/v/TRIG 封锁/v/TRIG 加沙/ns/B-role 难民营/n/I-role 饮用水/n/O 极度/d/O 缺乏/v/O
+乌克兰/ns/B-nt 政府军/n/I-nt 攻克斯拉维扬斯克市/ns/O
+美国/ns/B-country 宣布/v/TRIG 空袭/v/TRIG 击毙/v/TRIG “/wp/O 伊斯兰国/ns/B-nt ”/wp/O 二/m/O 号/q/O 头目/n/B-role ,/wp/O 系/v/O 进攻/v/TRIG 摩苏尔/ns/B-ns 谋划人/n/O
+以色列/ns/B-country 连续/a/O 轰炸/v/TRIG 加沙/ns/B-country 动物园/n/O 动物/n/O 接连/d/O 死亡/v/O 成/v/O 干尸/n/O
+阿尔及利亚/ns/B-country 发生/v/O 大规模/b/O 种族/n/O 冲突/v/TRIG 致/v/O 22/m/O 人/n/O 丧生/v/O
+恐怖主义/n/B-role 分子/n/I-role 用/p/O 核武器/n/B-dev 来/v/O 袭击/v/TRIG 美国/ns/B-country 的/u/O 重要/a/O 部位/n/O 的/u/O 可能性/n/O 变/v/O 得/u/O 越来越/d/O 大/a/O
+希拉克/nh/B-nr 警告/v/TRIG 不/d/O 排除/v/O 动用/v/O 核武/j/B-dev 打击/v/TRIG 恐怖/a/O 袭击/v/TRIG 国家/n/O
+美国/ns/B-country 初步/d/O 断定/v/O 极端/d/B-nt 组织/v/I-nt 使用/v/O 生化/j/B-dev 武器/n/I-dev
+美/j/B-nt 航母/j/B-dev “/wp/B-dev 里根/nh/I-dev ”/wp/I-dev 号/n/I-dev 入/v/O 驻/v/O 日本/ns/B-country 曾/d/O 参与/v/O 日/j/B-country 311/m/O 大/a/O 地震/n/O 救援/v/TRIG （/wp/O 高清/nh/O 组图/n/O ）/wp/O 国际/n/O 频道/n/O
+印度/ns/B-country 12万/m/O 民众/n/B-role 请愿/v/TRIG （/wp/O 高清/nh/O 组图/n/O ）/wp/O 国际/n/O 频道/n/O
+欧洲/ns/B-ns 为/p/O 打击/v/TRIG 恐怖/a/O 活动/v/O 拟/v/O 实行/v/O 火车票/n/O 实名制/n/O
+潘基文/nh/B-nr 出席/v/TRIG 阅兵式/n/O
+24/m/O 小时/n/O 国际/n/O 要闻/n/O Top10/ws/O ：/wp/TRIG 俄罗斯/ns/B-country 拟派/v/O 航空/n/B-nt 分遣队/n/I-nt 入/v/O 叙/j/B-country 打击/v/TRIG "/wp/O 伊斯兰国/ns/B-nt "/wp/O
+BBC/ws/B-nt 称/v/TRIG 英国/ns/B-country 原本/d/O 可/v/O 搭/v/O 纳粹/n/B-nt 火箭/n/B-dev 上/v/O 太空/nl/O ：/wp/TRIG 比/p/O 美/j/B-country 早/a/O 十/m/O 年/q/O
+新加坡/ns/B-country 启动/v/O “/wp/O 后/nd/O 李/nh/B-nr 光耀/n/I-nr 时代/n/O ”/wp/O 大选/v/O
+涉/v/O 关税/n/O 腐败/a/O 引发/v/O 众怒危地马拉/ns/O 总统/n/B-role 被/p/O 夺/v/O 豁免权/n/O
+美/j/B-country 前/nd/B-role 高官/n/I-role 建议/v/TRIG 拉拢/v/O “/wp/O 基地/n/B-ns ”/wp/O 人员/n/O 受到/v/O 严重/a/O 质疑/v/TRIG
+第四/m/B-nt 次/q/I-nt 世界/n/I-nt 议长/n/I-nt 大会/n/I-nt 呼吁/v/TRIG 促进/v/O 和平/n/O 与/c/O 可/v/O 持续/v/O 发展/v/O
+俄罗斯/ns/B-country 加快/v/O “/wp/O 向/p/O 东/nd/O 看/v/O ”/wp/O 步伐/n/O
+习/nh/B-nr 近平/nh/I-nr 向/p/O 德国/ns/B-country 前/nd/B-role 总理/n/I-role 施罗德/nh/B-nr 等/u/O 外国/n/O 前/nd/O 政要/n/O 表示/v/TRIG 欢迎/v/TRIG
+中老/j/O 签署/v/TRIG 磨憨/n/O －磨丁/wp/O 经济/n/O 合作区/n/O 建设/v/O 共同/b/O 总体/n/O 方案/n/O
+“/wp/O 伊斯兰国/nz/B-nt ”/wp/O 损坏/v/O 叙利亚/ns/B-country 台德穆尔/ns/B-ns 又/d/O 一/m/O 古迹/n/O
+习近平/nh/B-nr 同/p/O 哈萨克斯坦/ns/B-country 总统/n/B-role 纳扎尔巴耶夫/nh/B-nr 举行/v/TRIG 会谈/v/O
+也门/ns/B-nt 政府/n/I-nt 为/p/O 收复/v/TRIG 全境/n/O 做/v/O 准备/v/O
+美/j/B-country 31/m/O 名/q/O 参议员/n/B-role 支持/v/TRIG 伊朗/ns/B-country 核/n/O 协议/n/O 协议/n/O 生效/v/O 更/d/O 近/a/O 一/m/O 步/q/O
+马里/ns/B-country 总统/n/B-role 称赞/v/TRIG 阿尔及利亚/ns/B-country 为/p/O 其/r/O 和平/n/O 进程/n/O 发挥/v/O 重要/a/O 作用/n/O
+主妇/n/B-role 与/p/O 学生/n/B-role 成/v/O 抗议/v/TRIG 安倍/nh/B-nr 的/u/O 新/a/O 面孔/n/O
+美/j/B-country 警民/j/O 关系/n/O 空前/a/O 紧张/a/O 得州/ns/B-ns 警官/n/B-role 遭/v/O 行刑式/n/O 枪杀/v/TRIG
+北约/j/B-nt 在/p/O 罗马尼亚/ns/B-country 成立/v/O 多/a/B-nt 国/n/I-nt 部队/n/I-nt 东南欧/ns/I-nt 指挥部/n/I-nt
+美方/n/B-country 声称/v/TRIG “/wp/O 中国/ns/B-country 黑客/n/B-role 窃取/v/TRIG 一切/r/O ”/wp/O 打算/v/O 对/p/O 华/j/B-country 使用/v/O 制裁/v/TRIG 语言/n/O
+英拉/nh/B-nr 再次/d/O 出庭/v/O 或/c/O 被/p/O 判/v/O 入狱/v/O 10/m/O 年/q/O 检方/n/O 提交/v/O 新/a/O 证据/n/O
+主妇/n/B-role 和/c/O 学生/n/B-role 成/v/O 抗议/v/TRIG 安倍/nh/B-nr 新/a/O 面孔/n/O 渐/d/O 成/v/O 政治/n/O 声势/n/O
+IS/ws/B-nt 再/d/O 毁/v/O 叙利亚/ns/B-country 古迹/n/O 居民/n/B-role :/wp/TRIG 这/r/O 是/v/O 完全/a/O 的/u/O 毁灭/v/O
+缉/v/TRIG 曼谷/ns/B-country 爆炸案/n/O 嫌疑人/n/B-role 有功泰/v/O 警方/n/O 自奖/v/O 8万/m/O 美元/q/O
+孟建柱/nh/B-nr 会见/v/TRIG 哈萨克斯坦/ns/B-country 总统/n/B-role 助理/n/I-role 兼/v/O 安全/a/O 会议/n/O 秘书/n/B-role 叶尔梅克巴耶夫/nh/B-nr
+直面/v/O 记忆/n/O 正视/v/O 责任/n/O ——/wp/O 访/v/TRIG 德国/ns/B-country 前/nd/B-role 总理/n/I-role 施罗德/nh/B-nr
+北约/j/B-nt 强化/v/O 波罗的海/ns/B-ns 前线/nl/I-ns 部署/v/TRIG
+沙特/ns/B-country 妇女/n/O 首/m/O 次/q/O 允许/v/TRIG 参加/v/TRIG 地方/n/O 选举/v/TRIG 仍/d/O 不/d/O 能/v/O 驾车/v/O
+中国/ns/B-country 驻/v/B-role 俄/j/I-role 大使/n/I-role :/wp/TRIG 中/j/B-country 俄/j/B-country 是/v/O 战后/nt/O 国际/n/O 新/a/O 秩序/n/O 的/u/O 建设者/n/O 与/c/O 维护者/n/O
+俄/j/B-country 称/v/TRIG 乌/j/B-nt 议会/n/I-nt 大楼/n/O 骚乱/v/TRIG 事件/n/O 系/v/O 内政/n/O 对/p/O 暴力/n/O 表示/v/TRIG 忧虑/v/O
+中国/ns/B-country 在/p/O 希腊/ns/B-country 企业/n/O 和/c/O 华侨/n/B-role 华人/n/B-role 向/p/O 难民/n/B-role 捐赠/v/TRIG 物资/n/O
+打击/v/TRIG 日本/ns/B-country 非法/d/O 捕鱼/v/O ，/wp/O 俄罗斯/ns/B-country 不/d/O 手软/a/O ！/wp/O
+巴基斯坦/ns/B-country 警官/n/B-role 车辆/n/O 遭/v/O 自杀/v/B-dev 式/k/I-dev 炸弹/n/I-dev 袭击/v/TRIG 致/v/O 3/m/O 死/v/O 35/m/O 伤/v/O
+叙利亚/ns/B-country 又/d/O 一/m/O 座/q/O 2000/m/O 年/q/O 历史/n/O 神庙/n/O 遭/v/O IS/ws/B-nt 炸毁/v/TRIG
+日本/ns/B-country 在/p/O 俄罗斯/ns/B-country 被/p/O 扣/v/O 渔船/n/B-dev 归国/v/O 全体/n/O 船员/n/B-role 获释/v/TRIG
+白宫/n/B-nt :/wp/TRIG 美国/ns/B-country 总统/n/B-role 奥巴马/nh/B-nr 离任/v/O 后/nd/O 计划/n/O 暂/d/O 未/d/O 确定/v/O
+专家/n/B-role 称/v/TRIG 美/j/B-country 总统/n/B-role 竞选人/n/I-role 对/p/O 华/j/B-country 措辞/v/O 强硬/a/O 忽视/v/O 经济/n/O 现实/n/O
+俄罗斯/ns/B-country 军事/n/O 介入/v/TRIG 叙利亚/ns/B-country 危机/n/O 拟派/v/O 航空/n/B-nt 分遣队/n/I-nt 打击/v/TRIG IS/ws/B-nt
+美/j/B-nt 海军/n/I-nt 陆战队/n/I-nt 举行/v/TRIG 海滩/n/O 突击/v/O 演习/v/TRIG 美/j/B-country 防长/n/B-role 观摩/v/O
+不满/a/TRIG 潘基文/nh/B-nr 出席/v/TRIG 阅兵式/n/O 日本/ns/B-country 再/d/O 遭/v/O 无视/v/TRIG
+打造/v/O 中/j/B-country 阿/j/B-country 网上/nl/O 丝绸之路/i/O （/wp/O 七/m/O ）/wp/O :/wp/TRIG 中/j/B-nt 阿/j/I-nt 博览会/n/I-nt 网上/nl/O 丝绸之路/i/O 论坛/n/O 开启/v/O 中/j/B-country 阿/j/B-country 合作/v/TRIG 新/a/O 梦想/n/O
+外交部/ni/B-nt 介绍/v/TRIG “/wp/O ９·３/m/O ”/wp/O 纪念/v/TRIG 活动/v/O 外国/n/O 嘉宾/n/B-role 出席/v/TRIG 情况/n/O 变化/v/O
+中国/ns/B-ns 东北/nl/I-ns 与/p/O 俄/j/B-ns 远东/ns/I-ns 地区/n/O 开发/v/O 合作/v/TRIG 将/d/O 进入/v/O 务实/v/O 推进/v/O 阶段/n/O
+外交部/ni/B-nt 发言人/n/B-role :/wp/TRIG 敦促/v/TRIG 日方/n/B-country 深刻/a/O 反省/v/O 军国主义/n/O 侵略/v/TRIG 历史/n/O
+格鲁吉亚/ns/B-country 总理/n/B-role 宣布/v/TRIG 重组/v/O 内阁/n/B-nt
+曼谷/ns/B-ns 四面佛/nz/I-ns 爆炸案/n/O 重要/a/O 嫌犯/n/B-role 落网/v/TRIG
+阿巴斯/nh/B-nr 不/d/O 谋求/v/O 连任/v/O 巴解组织/j/B-nt 执委会/n/I-nt 主席/n/B-role
+德国/ns/B-country 总理/n/B-role 默克尔/nh/B-nr :/wp/TRIG 难民/n/B-role 如果/c/O 搞/v/O 不/d/O 定/v/O 申根恐/v/O 玩/v/O 完/v/O
+缅甸/ns/B-country 禁止/v/TRIG 一/m/O 夫/n/O 多/a/O 妻/n/O 批评者/n/O 称/v/TRIG 涉嫌/v/O 歧视/v/O 少数/m/O 族裔/n/O
+美/j/B-country 古/j/B-country 恢复/v/TRIG 外交/n/O 关系/n/O 英语/nz/O 在/p/O 古巴/ns/O 校园/n/O 重现/v/O 生机/n/O
+日/j/B-country 再/d/O 表/v/O 不/d/O 满/v/O 并/c/O 吁/v/TRIG 中立/v/O 联合国/ni/B-nt 两/m/O 度/q/O 正色/n/O 回应/v/TRIG
+俄/j/B-country 开始/v/O 军事/n/O 介入/v/TRIG 叙/v/B-country 危机/n/O ？/wp/O
+叙利亚/ns/B-country 高调/n/O 揭幕/v/O “/wp/O 金日成/nh/B-nr 公园/n/O ”/wp/O 叙媒/v/B-nt :/wp/TRIG “/wp/O 理应/v/O 纪念/v/TRIG 他/r/O ”/wp/O
+“/wp/O 难民/n/B-role 列车/n/O ”/wp/O 涌入/v/O 德奥默克尔/nh/O :/wp/TRIG 解决/v/O 难民/n/B-role 危机/n/O 比/p/O 统一/a/O 德国/ns/B-country 还/d/O 难/a/O
+美国/ns/B-country 宣布/v/TRIG 加大/v/O 对/p/O 北极/n/B-ns 安全/a/O 投入/v/O 以/p/O 抗衡/v/O 俄罗斯/ns/B-country
+联合国/ni/B-nt 卫星/n/B-dev 图像/n/O 证实/v/TRIG IS/ws/B-nt 摧毁/v/TRIG 叙利亚/ns/B-country 千/m/O 年/q/O 神庙/n/O
+示威/v/O 游行/v/TRIG 无法/v/O 阻止/v/TRIG 安保/j/O 法案/n/O
+友谊/n/O 、/wp/O 和平/n/O 、/wp/O 交流/v/O 、/wp/O 合作/v/TRIG :/wp/TRIG 中国/ns/B-nt 海军/n/I-nt 15/m/I-nt 2/m/I-nt 舰艇/n/I-nt 编队/n/I-nt 到/v/O 访/v/TRIG 埃及/ns/B-country 国际/n/O 频道/n/O
+菲律宾/ns/B-country 总统/n/B-role 阿基诺/nh/B-nr 卸任/v/O 后/nd/O 将/d/O 遭/v/O 清算/v/O ？/wp/O 专家/n/B-role :/wp/TRIG 或/c/O 被/p/O 指控/v/TRIG
+美联储/j/B-nt “/wp/O 褐皮书/n/O ”/wp/O 说/v/TRIG 美国/ns/B-country 经济/n/O 继续/v/O 扩张/v/O
+涉/v/O 关税/n/O 腐败/a/O 引发/v/O 众怒危地马拉/ns/O 总统/n/B-role 被/p/O 夺/v/O 豁免权/n/O
+美/j/B-country 前/nd/B-role 高官/n/I-role 建议/v/TRIG 拉拢/v/O “/wp/O 基地/n/B-ns ”/wp/O 人员/n/O 受到/v/O 严重/a/O 质疑/v/TRIG
+日本/ns/B-country 逮捕/v/TRIG 《/wp/O 海豚湾/ns/O 》/wp/O 主演/v/O 或/c/O 因/p/O 酒驾/n/O 没/d/O 带/v/O 护照/n/O
+第四/m/B-nt 次/q/I-nt 世界/n/I-nt 议长/n/I-nt 大会/n/I-nt 呼吁/v/TRIG 促进/v/O 和平/n/O 与/c/O 可/v/O 持续/v/O 发展/v/O
+美/j/B-country 得州/ns/B-ns 又/d/O 一/m/O 警官/n/B-role 死亡/v/O 疑遭/v/O 谋杀/v/TRIG 联邦/n/B-nt 调查局/n/I-nt 介入/v/TRIG
+习/nh/B-nr 近平/nh/I-nr 向/p/O 德国/ns/B-country 前/nd/B-role 总理/n/I-role 施罗德/nh/B-nr 等/u/O 外国/n/O 前/nd/O 政要/n/O 表示/v/TRIG 欢迎/v/TRIG
+国际/n/O 新闻/n/O 早报/n/O :/wp/TRIG 巴/j/B-country 官员/n/B-role 说/v/TRIG 不/d/O 同意/v/TRIG 以色列/ns/B-country 恢复/v/TRIG 和谈/v/TRIG 的/u/O 要求/n/TRIG
+日本/ns/B-country 防卫/v/B-role 相/d/I-role 安保法/v/O 答辩/v/O 屡/d/O 现/v/O 漏洞/n/O 安倍/nh/B-nr 为/p/O 其/r/O 打/v/O 掩护/v/TRIG
+世界/n/B-nt 议长/n/I-nt 大会/n/I-nt 为/v/O 中国/ns/B-country 主张/v/O 喝彩/v/TRIG
+奥巴马/nh/B-nr 将/d/O 访/v/TRIG 北极/ns/B-ns 小镇/n/I-ns 徒步/d/O 看/v/O 正在/d/O 消融/v/O 的/u/O 冰河/n/O
+外媒/n/B-nt :/wp/TRIG 加沙/ns/B-country 饱受/v/O 战火/n/O 蹂躏/v/O 五/m/O 年/q/O 后/nd/O 或/c/O 不/d/O 适宜/v/O 居住/v/O
+外媒/n/B-nt 称/v/TRIG 澳/j/B-country 前/nd/B-role 总理/n/I-role 陆克文/nh/B-nr 遭/v/O 逼退/v/TRIG 时/n/O “/wp/O 曾/d/O 盼/v/O 希拉里/nh/B-nr 安慰/v/O ”/wp/O
+二战/j/B-nt 同盟国/n/I-nt 领袖/n/B-role 为何/r/O 同声/n/O 赞誉/v/TRIG 中国/ns/B-country
+俄/j/B-country 代表/n/B-role 说/v/TRIG 下届/b/O 联合国/ni/B-nt 秘书长/n/B-role 应/v/TRIG 从/p/O 东欧/ns/B-ns 选出/v/O
+中国/ns/B-country 和/c/O 中东欧/ns/B-ns 国家/n/B-role 代表/n/I-role 商讨/v/TRIG 加强/v/TRIG 旅游/v/O 合作/v/TRIG
+24/m/O 小时/n/O 国际/n/O 要闻/n/O Top10/ws/O :/wp/TRIG 世界/n/B-nt 议长/n/I-nt 大会/n/I-nt 落幕/v/O 为/v/O 中国/ns/B-country 主张/v/O 喝彩/v/TRIG
+巴基斯坦/ns/B-nt 军方/n/I-nt 空袭/v/TRIG 击毙/v/TRIG 至少/d/O 31/m/O 名/q/O 武装/v/B-role 分子/n/I-role
+海外/nl/B-nt 媒体/n/I-nt 看/v/O 阅兵/n/TRIG :/wp/TRIG 中国/ns/B-country 向/p/O 世界/n/O 展示/v/O 自信/v/O 强大/a/O 和平/n/O
+俄/j/B-country 专家/n/B-role :/wp/TRIG “/wp/O 9·3/m/O ”/wp/O 阅兵/v/TRIG 展现/v/O 中国/ns/B-nt 二战/j/O 战胜国/n/O 的/u/O 自信/v/O
+４/m/O 名/q/O 土耳其/ns/B-country 警察/n/B-role 在/p/O 库工党/n/O 武装/n/O 袭击/v/TRIG 中/nd/O 死亡/v/O
+美国/ns/B-country 加速/v/O 采购/v/TRIG 破冰船/n/B-dev 美媒/j/B-nt :/wp/TRIG 美/j/B-ns 俄/j/I-ns 北极/ns/I-ns 争夺战/n/O 来临/v/O
+时差/n/O 难/a/O 阻/v/O 埃及/ns/B-country 关注/v/O 中国/ns/B-country 阅兵/v/TRIG 埃媒赞/j/O 中/j/B-country 埃/j/B-country 合作/v/TRIG 新/a/O 成就/n/O
+澳/j/B-country 总理/n/B-role :/wp/TRIG IS/ws/B-nt 比/p/O 纳粹/n/B-nt 更/d/O 恶劣/a/O 将/d/O 决定/v/O 是否/v/O 扩大/v/O 空袭/v/TRIG
+危地马拉/ns/B-country 总统/n/B-role 宣布/v/TRIG 辞职/v/O 表示/v/TRIG 将/d/O 不/d/O 会/v/O 寻求/v/TRIG 政治/n/O 庇护/v/O
+外媒/n/B-nt :/wp/TRIG 中国/ns/B-country 阅兵/n/TRIG ，/wp/O 一切/r/O 为了/p/O 和平/n/O
+匈牙利/ns/B-country 民众/n/B-role 对/p/O 难民/n/B-role 表示/v/TRIG 声援/v/TRIG
+外媒/n/B-nt :/wp/TRIG 超级/b/O 大/a/O 罢工/v/TRIG 席卷/v/O 印度/ns/B-country 莫迪/nh/B-nr 改革/v/O 计划/n/O 受挫/v/O
+裁军/v/TRIG 30万/m/O :/wp/TRIG 中国/ns/B-country 对/p/O 和平/n/O 的/u/O 直接/a/O 宣示/v/O
+美方/n/B-country 回应/v/TRIG 中国/ns/B-country 裁军/v/TRIG 30万/m/O :/wp/TRIG 将/d/O 继续/v/O 关注/v/O 中国/ns/B-nt 军队/n/I-nt 现代化/v/O
+两/m/O 中国/ns/B-country 女/b/O 游客/n/B-role 在/p/O 泰国/ns/B-country 遭/v/O 抢劫/v/TRIG 性侵/v/TRIG 一/m/O 名/q/O 嫌犯/n/B-role 被捕/v/TRIG
+法/j/B-country 欲/d/O 售/v/TRIG “/wp/B-dev 西北风/n/I-dev ”/wp/I-dev 俄/j/B-country 要/v/O 搭售/v/O 俄/j/B-country 制机/n/O
+“/wp/O 博科/n/B-nt 圣地/n/I-nt ”/wp/O 杀害/v/TRIG 至少/d/O 26/m/O 人/n/O
+非盟/b/B-nt 部队/n/I-nt 遇袭/v/TRIG 致死/v/O 数十/m/O 士兵/n/B-role
+索马里/ns/B-nt “/wp/I-nt 青年党/n/I-nt ”/wp/I-nt 袭/v/O 非盟/j/B-nt 维和/j/I-nt 部队/n/I-nt 致/v/O 50/m/O 人/n/O 亡/v/O
+法国/ns/B-country 拟/v/O 转/v/O 售/v/TRIG “/wp/B-dev 西北风/n/I-dev ”/wp/I-dev 俄方/n/B-country 有/v/O 权/n/O 否决/v/TRIG 转售/v/TRIG 对象/n/O
+国际/n/O 新闻/n/O 早报/n/O :/wp/TRIG 北约/j/B-nt 在/p/O 立陶宛/ns/B-country 正式/a/O 成立/v/O 指挥/v/O 中心/n/O
+欧洲/ns/B-ns 难民潮/n/O :/wp/TRIG 难民/n/O 与/p/O 匈牙利/ns/B-country 警察/n/B-role 冲突/v/TRIG 欧洲/ns/B-ns 现/nt/O 分歧/n/O
+法国/ns/B-country 证实/v/TRIG 留尼汪岛/ns/B-ns 飞机/n/O 襟翼/n/O 属于/v/O MH370/ws/B-dev 编号/n/O 一致/a/O
+潘基文/nh/B-nr 呼吁/v/TRIG 危地马拉/ns/B-country 和平/n/O 举行/v/TRIG 选举/v/TRIG
+危地马拉/ns/B-country 前/nd/B-role 总统/n/I-role 被捕/v/TRIG 待审/v/O
+日本/ns/B-country 前/nd/B-role 最高/a/I-role 法院/n/I-role 院长/n/I-role :/wp/TRIG 安保法/j/O 违宪日/v/O 政府/n/O 逻辑/n/O 荒谬/a/O
+普京/nh/B-nr :/wp/TRIG 中国/ns/B-country 阅兵/v/TRIG 利于/v/O 民众/n/B-role 理解/v/O 反对/v/TRIG 淡化/v/O 二战/j/O 的/u/O 意义/n/O
+印尼/ns/B-country 高铁/n/B-dev 变/v/O “/wp/O 中铁/j/B-nt ”/wp/O 仍/d/O 欢迎/v/TRIG 中/j/B-country 日/j/B-country 两/m/O 国/n/O 提/v/O 方案/n/O 竞标/v/O
+埃及/ns/B-nt 军方/n/I-nt 空袭/v/TRIG 炸/v/O 死/v/O １３/m/O 名/q/O 极端/n/B-role 分子/n/I-role
+彭丽媛/nh/B-nr 会见/v/TRIG 联合国/ni/B-nt 教科文/j/I-nt 组织/n/I-nt 总/b/B-role 干事/n/I-role 博科娃/nh/B-nr 和/c/O 国际/n/B-nt 女童/n/I-nt 和/c/I-nt 妇女/n/I-nt 教育/v/I-nt 研讨班/n/I-nt 学员/n/B-role
+海外/nl/O 中国/ns/B-country 军人/n/B-role :/wp/TRIG 肩负/v/O 使命/n/O 接受/v/O 世界/n/O 检阅/v/O
+英国/ns/B-country 首相/n/B-role 卡梅伦/nh/B-nr 表示/v/TRIG 英/j/B-country 将/d/O 再/d/O 接收/v/O 数千/m/O 名/q/O 难民/n/B-role
+第六/m/B-nt 届/q/I-nt 阿富汗/ns/I-nt 区域/n/I-nt 经济/n/I-nt 合作/v/I-nt 会议/n/I-nt 在/p/O 喀布尔/ns/B-ns 举行/v/TRIG
+中国/ns/B-nt 企业/n/I-nt 捐/v/O 资/n/O 修建/v/O 纳米比亚/ns/B-country “/wp/O 希望/v/B-nt 小学/n/I-nt ”/wp/O
+印尼/ns/B-country 国企/j/B-nt 部长/n/B-role 称/v/TRIG 仍/d/O 将/d/O 推进/v/O 高铁/n/B-dev 建设/v/O
+斯诺登/nh/B-nr :/wp/TRIG 希拉里/nh/B-nr 认为/v/O 个人/n/O 电子/n/O 邮件/n/O 安全/a/O 的/u/O 想法/n/O 太/d/O 荒谬/a/O
+普京/j/B-nr 称/v/TRIG 远东/ns/B-ns 应/v/TRIG 为/p/O 俄/j/B-country 经济/n/O 发展/v/O 中心/n/O 宣布/v/TRIG 系列/n/O 投资/v/O 计划/n/O
+奥巴马/nh/B-nr 称/v/TRIG 美/j/B-country 将/d/O 确保/v/O 伊朗/ns/B-country 不/d/O 拥有/v/O 核武器/n/B-dev
+联合国/ni/B-nt 气候/n/O 谈判/v/TRIG 面临/v/O 提速/v/O 压力/n/O
+国际/n/O 新闻/n/O 早报/n/O :/wp/TRIG 西班牙/ns/B-country 首相/n/B-role 就/p/O 难民/n/B-role 问题/n/O 提出/v/TRIG 经济/n/O 援助/v/TRIG 建议/n/TRIG
+澳媒/j/B-nt :/wp/TRIG 若/c/O 无法/v/O 达成/v/TRIG 自贸/j/O 协定/n/O 中/j/B-country 澳/j/B-country 关系/n/O 将/d/O 进入/v/O "/wp/O 寒冬/n/O "/wp/O
+塔吉克斯坦/ns/B-country 恐怖/a/O 袭击/v/TRIG 事件/n/O 致/v/O 8/m/O 人/n/O 丧生/v/O
+外国/n/O 来宾/n/B-role 盛赞/v/TRIG 中国/ns/B-country 大阅兵/n/O
+纽约州/ns/B-nt 议会/n/I-nt 强调/v/O 中/j/B-country 美/j/B-country 维护/v/TRIG 友好/a/O 关系/n/O 的/u/O 重要性/n/O
+塔吉克斯坦/ns/B-country 副/b/B-role 防长/n/I-role 发动/v/O 恐袭/v/TRIG 已/d/O 有/v/O 8/m/O 名/q/O 军警/n/O 丧生/v/O
+朴/nh/B-nr 槿惠/nh/I-nr 访问/v/TRIG “/wp/O 大韩民国/ns/B-nt 临时/b/I-nt 政府/n/I-nt 旧址/n/O ”/wp/O
+英国/ns/B-country 首相/n/B-role 卡梅伦/nh/B-nr 表示/v/TRIG 英/j/B-country 将/d/O 再/d/O 接收/v/O 数千/m/O 名/q/O 难民/n/B-role
+匈牙利/ns/B-nt 政府/n/I-nt 表示/v/TRIG 愿/v/TRIG 提供/v/TRIG 汽车/n/B-dev 将/p/O 难民/n/B-role 送/v/O 至/p/O 奥地利/ns/B-ns 边境/nl/I-ns
+印尼/ns/B-country 总统/n/B-role 改口/v/O 称/v/TRIG 无/v/O 需/v/O 建/v/O 高铁/n/B-dev 日/j/B-country 中/j/B-country 方案/n/O 均/d/O 不/d/O 采用/v/O
+日本/ns/B-country 欲/d/O 从/p/O 太空/nl/O 监视/v/TRIG 海洋/n/O 搜集/v/O 中国/ns/B-country 在/p/O 东海/ns/B-ns 南海/ns/B-ns 信息/n/O
+沙特/ns/B-country 国王/n/B-role 萨勒曼/nh/B-nr 首/m/O 次/q/O 访/v/TRIG 美/j/B-country 两/m/O 国/n/O 接近/v/O 达成/v/TRIG 巨额/b/O 军售/j/O 协议/n/O
+联合国/ni/B-nt 强烈/a/O 谴责/v/TRIG 也门/ns/B-country 清真寺/n/O 爆炸/v/TRIG 袭击/v/TRIG
+叙/j/B-country 文物/n/O 保护/v/O 官员/n/B-role 称/v/TRIG IS/ws/B-nt 又/d/O 炸毁/v/TRIG 叙利亚/ns/B-ns 境内/nl/I-ns 三/m/O 座/q/O 塔墓/n/O
+普京/nh/B-nr :/wp/TRIG 难民/n/B-role 危机/n/O “/wp/O 意料之中/i/O ”/wp/O 警告/v/TRIG 过/u/O 会/v/O 有/v/O 此/r/O 后果/n/O
+马/n/B-country 交通/n/B-role 部长/n/I-role 重申/v/TRIG 马/j/B-nt 政府/n/I-nt 不/d/O 会/v/O 放弃/v/TRIG 将/d/O 继续/v/O 搜寻/v/O MH370/ws/B-dev
+德/j/B-country 法/j/B-country 联手/v/TRIG 推动/v/O 欧盟/j/B-nt 分配/v/O 难民/n/B-role 美/j/B-country 或/c/O 接纳/v/O 更/d/O 多/a/O 难民/n/B-role
+希拉里/nh/B-nr 对/p/O 邮件/n/O 门表/n/O 遗憾/a/O 但/c/O 拒/v/TRIG 不/d/O 道歉/v/TRIG 支持率/n/O 创新/v/O 低/a/O
+中国/ns/B-country “/wp/O 高铁/n/B-dev 梦/n/O 之/u/O 旅/n/O ”/wp/O 在/p/O 哈佛/ns/B-nt 启动/v/O
+玻利维亚/ns/B-country 士兵/n/B-role 欲驾机/n/O 偷运/v/O 360/m/O 公斤/q/O 毒品/n/O 被捕/v/TRIG
+联合国/ni/B-nt 2015年/nt/O 第三/m/O 轮/q/O 气候/n/O 谈判/v/TRIG 闭幕/v/O
+中东/ns/B-ns 难民/n/B-role 危机/n/O 发酵/v/O 多/a/O 国/n/O 放宽/v/TRIG 难民/n/B-role 入境/v/O 限制/v/O
+中外/j/B-role 学者/n/I-role 在/p/O 沪/j/B-nt 热议/n/TRIG “/wp/O 新/a/O 发展观/n/O 与/c/O 金/b/O 砖/n/O 合作/v/TRIG ”/wp/O
+中国/ns/B-country 与/p/O 澳/j/B-nt 新/a/I-nt 航空/n/I-nt 合作/v/TRIG 进入/v/O 爆发/v/O 期/n/O
+多/a/O 国/n/O 驻/v/B-role 蓉/j/I-role 领事/n/I-role 四川/ns/B-ns 藏区/n/B-ns 纪行/n/TRIG :/wp/TRIG 真/d/O 没/d/O 想到/v/O 藏区/j/O 发展/v/O 这么/r/O 好/a/O ！/wp/O
+中国/ns/B-nt 援助/v/I-nt 几内亚/ns/I-nt 第25/m/I-nt 批/q/I-nt 医疗队/n/I-nt 抵达/v/TRIG 科纳克里/ns/B-country
+“/wp/O 松绑/v/O ”/wp/O 之后/nd/O “/wp/O 再/d/O 踹/v/O 一/m/O 脚/n/O ”/wp/O 美国/ns/B-country 缘何/r/O 对/p/O 伊朗/ns/B-country 施加/v/O 新/a/O 制裁/v/TRIG
+中国/ns/B-country 驻/v/B-role 日/j/I-role 大使/n/I-role 回应/v/TRIG 南海/ns/B-ns 造岛/ns/O 试飞/v/O ：/wp/TRIG 保护/v/O 领土/n/O 主权/n/O
+中国/ns/B-country 战机/n/B-dev 东海/ns/B-ns 与/p/O 外军/j/B-nt 飞机/n/B-dev 迎面/d/O 对/p/O 突/v/O 谁/r/O 都/d/O 不/d/O 转向/v/TRIG
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 成/v/O 武装/n/O 无人机/n/B-dev 主要/d/O 出口/v/O 国令/n/O 美国/ns/B-country 不安/a/O
+菲方/n/B-country 飞机/n/B-dev 降落/v/O 中业岛/ns/B-ns 遭/v/O 解放军/n/B-nt 警告/v/TRIG 英/j/B-country 大使/n/B-role 对/p/O 华/j/B-country 喊话/v/O
+数/m/O 名/q/O 枪手/n/B-role 闯入/v/O 巴基斯坦/ns/B-country 一/m/O 大学/n/O 扫射/v/TRIG 已/d/O 20/m/O 人/n/O 遇难/v/O
+军情室/n/B-nt ：/wp/TRIG 苏/j/O 35年/nt/O 底/nd/O 交货/v/O 中国/ns/B-country 为何/r/O 先/d/O 部署/v/TRIG 东海/ns/B-ns 而/c/O 非/v/O 南海/ns/B-ns
+美/j/B-country 要求/n/TRIG 引渡/v/O 加拿大/ns/B-country 黑客/n/B-role 称/v/TRIG 其/r/O 助/v/O 解放军/n/B-nt 窃取/v/TRIG 美军/j/B-nt 技术/n/O
+越南/ns/B-country 对/p/O 中国/ns/B-country 南海/ns/B-ns 石油/n/O 钻井/v/O 提/v/O 抗议/v/TRIG 要求/v/TRIG 中方/n/B-country 撤走/v/O 设备/n/O
+美称/n/O 一带/n/O 一路/m/O 战略/n/O 为/p/O 中国/ns/B-country 带来/v/O 三/m/O 重/q/O 胜利/v/O 美/j/B-country 仍/d/O 陷入/v/O 泥潭/n/O
+日本/ns/B-country 指责/v/TRIG 中国/ns/B-country 南海/ns/B-ns 造岛/ns/O 试飞/v/O 我/r/O 驻/v/B-role 日/j/I-role 大使/n/I-role 如此/r/O 回应/v/TRIG
+美媒/j/B-nt 称/v/TRIG 中国/ns/B-country 为/v/O 收复/v/TRIG 最后/nd/O 一/m/O 块/q/O 失地/n/O 不惜/v/O 动武/v/TRIG 美/j/B-country 或/c/O 放弃/v/TRIG
+韩媒/nh/B-nt 鼓动/v/TRIG 韩国/ns/B-country “/wp/O 核武装/n/O ”/wp/O ：/wp/TRIG 靠/p/O 美国/ns/B-country 保护/v/O 伞/n/O 不/d/O 安全/a/O
+联合国/ni/B-nt ：/wp/TRIG 伊斯兰国/ns/B-nt 横行/v/O 伊拉克/ns/B-country 挟持/v/O 3500/m/O 人/n/O 为/v/O 奴/n/O
+菲/j/B-country 扩建/v/O 距/p/O 南沙/ns/B-ns 160/m/O 公里/q/O 海军/n/B-ns 基地/n/I-ns 美/j/B-country 日/j/B-country 越/j/B-country 军舰/n/B-dev 可/v/O 停泊/v/O
+叙利亚/ns/B-country 向/p/O 联合国/ni/B-nt 控诉土/n/O 侵犯/v/O 其/r/O 边境/nl/O ：/wp/TRIG 他们/r/O 在/p/O 侵略/v/TRIG
+俄/j/B-nt 国防部/n/I-nt 称/v/TRIG 俄/j/B-country 轰炸机/n/B-dev 摧毁/v/TRIG 23/m/O 辆/q/O 开/v/O 往/p/O 土耳其/ns/B-country 的/u/O 油罐车/n/B-dev
+印度/ns/B-country 计划/v/O 在/p/O 印/j/B-country 巴/j/B-country 边界/n/O 设/v/O 激光墙/n/B-dev 用于/v/O 防止/v/O 恐怖/a/O 袭击/v/TRIG
+外媒/n/B-nt ：/wp/TRIG 伊朗/ns/B-country 抓获/v/TRIG 沙特/ns/B-country 使馆/n/O 遭袭/v/TRIG 事件/n/O 主要/b/O 组织者/n/O
+印尼/ns/B-country 立法/v/O 加强/v/TRIG 反/v/O 恐禁/j/O 参与/v/O 海外/nl/O 极端/d/B-nt 组织/v/I-nt 公民/n/B-role 回国/v/O
+俄/j/B-country 驻/v/B-role 联合国/ni/I-role 代表/n/I-role ：/wp/TRIG 让/v/O 叙/j/B-country 总统/n/B-role 离职/v/O 是/v/O “/wp/O 寻滋/v/O 挑事/n/TRIG ”/wp/O
+台媒/n/B-nt ：/wp/TRIG 日本/ns/B-country 首相/n/B-role 安倍晋三/nh/B-nr 再/d/O 否认/v/TRIG 日军/n/B-nt 强征/v/O 慰安妇/n/B-role
+美/j/B-nt 海军/n/I-nt “/wp/O 大/a/O 绿/a/O 舰队/n/O ”/wp/O 航母/n/B-dev 将/d/O 试航/v/O 使用/v/O 替代/v/O 燃料/n/O
+美国/ns/B-country 对/p/O 伊/j/B-country 实施/v/O 新/a/O 制裁/v/TRIG 显其/n/O 阻止/v/TRIG 伊朗/ns/B-country 发展/v/O 核武/j/B-dev 决心/n/O
+“/wp/O 松绑/v/O ”/wp/O 后/nd/O “/wp/O 踹/v/O 一/m/O 脚/n/O ”/wp/O 美/j/B-country 缘何/r/O 对/p/O 伊朗/ns/B-country 施加/v/O 新/a/O 制裁/v/TRIG
+俄罗斯/ns/B-country 将/d/O 长期/d/O 驻军/v/O 叙利亚/ns/B-country 俄/j/B-country 军人/n/B-role 拥有/v/O 完全/a/O 豁免权/n/O
+美媒/j/B-nt ：/wp/TRIG 印度/ns/B-country 怕/v/O 失去/v/O 斯里兰卡/ns/B-country 后/nd/O 将/d/O 被/p/O 中国/ns/B-country 势力/n/O 包围/v/TRIG
+德国/ns/B-country 防长/n/B-role ：/wp/TRIG 德国/ns/B-country 将/d/O 援助/v/TRIG 利比亚/ns/B-country 打击/v/TRIG 极端/d/B-nt 组织/v/I-nt 成员/n/O
+外媒/n/B-nt ：/wp/TRIG 极端/d/B-nt 组织/v/I-nt 伊斯兰国/ns/B-nt 占领/v/TRIG 叙利亚/ns/B-country 东部/nd/O 部分/m/O 地区/n/O
+摩洛哥/ns/B-ns 逮捕/v/TRIG 一/m/O 名/q/O 比利时/ns/B-country 男子/n/O 其/r/O 与/p/O 巴黎/ns/B-ns 恐袭/v/TRIG 案/n/O 有关/v/O
+人权/n/B-nt 组织/n/I-nt 称/v/TRIG IS/ws/B-nt 突击/v/O 叙利亚/ns/B-country 一/m/O 城市/n/O 掳走/v/O 400/m/O 名/q/O 平民/n/B-role
+美军/j/B-nt 日裔/n/O 上/nd/B-role 将/d/I-role 拟/v/O 访/v/TRIG 日本/ns/B-country 着眼/v/O 安保法/n/O 强化/v/O 美/j/B-nt 日/j/I-nt 同盟/n/I-nt
+美/j/B-country 就/d/O 对/p/O 伊朗/ns/B-country 制裁/v/TRIG 翻脸/v/O 撤销/v/O 仅/d/O 一/m/O 天/q/O 后/nd/O 就/d/O 重新/d/O 制裁/v/TRIG
+伊朗/ns/B-country 履行/v/O 核/n/O 协议/n/O 准备/v/O 步骤/n/O 安理会/j/B-nt 取消/v/O 对/p/O 伊/j/B-country 银行/n/O 制裁/v/TRIG
+伊朗/ns/B-country 强硬/a/O 回击/v/O 美国/ns/B-country 新/a/O 制裁/v/TRIG ：/wp/TRIG 会/v/O 继续/v/O 升级/v/O 导弹/n/B-dev 性能/n/O
+外媒/n/B-nt ：/wp/TRIG 菲/j/B-nt 海军/n/I-nt 最/d/O 大/a/O 万/m/O 吨/q/O 舰下水/n/O 可/v/O 用于/v/O 南海/ns/B-ns 争端/n/O
+IS/ws/B-nt 在/p/O 叙利亚/ns/B-country 一/m/O 村庄/n/O 屠杀/v/TRIG 约/d/O 300/m/O 名/q/O 平民/n/B-role 叙/j/B-nt 政府/n/I-nt 谴责/v/TRIG
+日本/ns/B-country 拟/v/O 与/p/O 菲律宾/ns/B-country 越南/ns/B-country 等/u/O 国/n/O 首/m/O 次/q/O 签/v/TRIG 情报/n/O 共享/v/O 协定/n/O
+伊朗/ns/B-country 完成/v/O 伊核/ns/B-ns 协议/n/O 准备/v/O 步骤/n/O 美/j/B-country 欧/j/B-ns 宣布/v/TRIG 解除/v/O 制裁/v/TRIG
+台湾/ns/B-ns 大选/v/O 前/nd/O 美/j/B-nt 国务院/ni/I-nt 发言/v/O ：/wp/TRIG 连/d/O 说/v/TRIG 三/m/O 遍/q/O 一个/m/O 中国/ns/B-country
+菲律宾/ns/B-country 提议/v/TRIG 美菲/nh/O 共同/d/O 巡航/v/TRIG 南海/ns/B-ns 美军/j/B-nt 高官/n/B-role 不/d/O 吭声/v/O
+俄/j/B-country 防空兵/n/B-role 举行/v/TRIG 10/m/O 场/q/O 大军/n/O 演/v/O S400S300/ws/O 同时/d/O 出动/v/TRIG
+俄/j/B-country 称/v/TRIG 西方/nl/O 若/c/O 不/d/O 公布/v/TRIG 在/p/O 叙/j/B-country 空袭/v/TRIG 战果/n/O 就/d/O 由/p/O 俄/j/B-country 来/v/O 公布/v/TRIG
+俄/j/B-country 叙/j/B-country 首/m/O 次/q/O 对/p/O IS/ws/B-nt 实施/v/O 联合/v/O 空袭/v/TRIG 叙/j/B-country 战机/n/B-dev 为/v/O 俄机/n/O 护航/v/TRIG
+雅加达/ns/B-country 爆炸案/n/O 警方/n/B-nt 调查/v/TRIG ：/wp/TRIG 印尼籍/n/O IS/ws/B-role 分子/n/I-role 策划/v/O 袭击/v/TRIG
+美国/ns/B-nt 特种部队/n/I-nt 进驻/v/TRIG 伊拉克/ns/B-country 助打/v/O “/wp/O 伊斯兰国/nz/B-nt ”/wp/O 组织/n/O
+军媒/n/B-nt 曝/v/O 解放军/n/B-nt 王牌/n/O 战果/n/O ：/wp/TRIG 与/p/O 美军/j/B-nt 交战/v/TRIG 打/v/O 出/v/O 15/m/O 比0/m/O
+中国/ns/B-country 飞行员/n/B-role 东海/ns/B-ns 与/p/O 外军/j/B-nt 飞机/n/B-dev 迎面/d/O 对/p/O 突/v/O 谁/r/O 都/d/O 不/d/O 转向/v/TRIG
+成都/ns/B-nt 军区/n/I-nt 大批/m/O 能/v/O 战将/n/O 校履/n/O 新/a/O 成空/n/O 或/c/O 正/d/O 建制/v/O 改革/v/O
+中国/ns/B-country 驻/v/B-role 日/j/I-role 大使/n/I-role 回应/v/TRIG 南海/ns/B-ns 试飞/v/O ：/wp/TRIG 菲律宾/ns/B-country 等/u/O 国/n/O 先/d/O 挑事/v/TRIG
+外交部/ni/B-nt 回应/v/TRIG 美方/n/B-country 特使/n/B-role 访/v/TRIG 台/j/B-ns ：/wp/TRIG 不要/d/O 干涉/v/TRIG 中国/ns/B-country 内政/n/O
+中国/ns/B-nt 舰队/n/I-nt 抵达/v/TRIG 斯里兰卡/ns/B-country 访问/v/TRIG 将/d/O 在/p/O 科伦坡/ns/B-ns 外/nd/O 港/j/O 联演/v/O
+解放军/n/B-nt 战舰/n/B-dev 开进/v/O 东帝汶/ns/B-country 港口/n/O 东/nd/O 前/nd/B-role 总统/n/I-role 登舰/v/O 参观/v/O
+中国/ns/B-country 已/d/O 向/p/O 叙利亚/ns/B-country 危机/n/O 援助/v/TRIG 6.85亿/m/O 元/q/O 还/d/O 将/d/O 增加/v/TRIG 1亿/m/O
+外交部/ni/B-nt ：/wp/TRIG 中方/n/B-country 支持/v/TRIG 联合国/ni/B-nt 对/p/O 朝鲜/ns/B-country 核试/j/TRIG 作出/v/O 反应/v/O
+中方/n/B-country 再/d/O 回应/v/TRIG 永暑礁/ns/B-ns 机场/n/I-ns 试飞/v/O ：/wp/TRIG 对/p/O 越方/n/O 举动/n/O 震惊/v/O 不解/v/O
+中方/n/B-country ：/wp/TRIG 奉劝/v/TRIG 日本/ns/B-country 不要/d/O 在/p/O 钓鱼岛/ns/B-ns 挑衅/v/TRIG 否则/c/O 后果/n/O 自负/v/O
+７/m/O 国/n/O 防长/n/B-role 决定/v/O 加强/v/TRIG 对/p/O “/wp/O 伊斯兰国/nz/B-nt ”/wp/O 目标/n/O 的/u/O 打击/v/TRIG
+巴基斯坦/ns/B-country 大学/n/B-nt 遇/v/O 恐袭/v/TRIG 致/v/O 19/m/O 人/n/O 死亡/v/O 塔利班/nz/B-nt 宣称/v/O 制造/v/O 袭击/v/TRIG
+俄/j/B-country 派/v/O 机器人/n/B-dev 投入/v/O 叙/j/B-country 作战/v/TRIG 表明/v/O 未来/nt/O 战争/n/O 将/p/O 颠覆性/n/O 变化/v/O
+韩军/nh/B-nt 陆空/nh/O 协同/v/O 大/a/O 演习/v/TRIG 最新/a/O 坦克/n/B-dev 猛/d/O 冲/v/O 进/v/O 河/n/O
+直击/v/O 火箭军/n/B-nt 演习/v/TRIG ：/wp/TRIG 王牌/n/O 洲际/b/B-dev 导弹/n/I-dev DF-31/ws/B-dev 严寒/a/O 下/nd/O 遇/v/O 故障/n/O
+澳/j/B-country 总理/n/B-role ：/wp/TRIG 中国/ns/B-country 应/v/TRIG 设法/v/O 安抚/v/O 邻国/n/O 避免/v/O 与/p/O 美国/ns/B-country 冲突/v/TRIG
+英/j/B-country 大使/n/B-role ：/wp/TRIG 反对/v/TRIG 妨碍/v/O 南海/ns/B-ns 航行/v/O 和/c/O 飞行/v/O 自由/a/O 的/u/O 行动/v/O
+海军/n/B-nt 舰载/b/I-nt 航空兵/n/I-nt 某部/r/O 紧急/a/O 出动/v/TRIG 直升机/n/B-dev 转运/v/TRIG 地方/n/O 病人/n/O
+尹卓/nh/B-nr ：/wp/TRIG 未来/nt/O 可/v/O 发展/v/O 攻击性/n/O 较/d/O 强/a/O 的/u/O 弹射/v/B-dev 起飞型/b/I-dev 航母/n/I-dev
+中国/ns/B-country 驻/v/B-role 日/j/I-role 大使/n/I-role 回应/v/TRIG 南海/ns/B-ns 造岛/ns/O 试飞/v/O ：/wp/TRIG 守护/v/O 领土/n/O 主权/n/O
+美/j/B-nt 空军/n/I-nt 改革/v/O ：/wp/TRIG 通过/p/O “/wp/O 不/d/O 换/v/O 脑袋/n/O 就/d/O 换/v/O 人/n/O ”/wp/O 强势/n/O 推进/v/O
+朝鲜/ns/B-nt 军方/n/I-nt ：/wp/TRIG 若/c/O 发现/v/O 美/j/B-nt 韩/j/I-nt 军队/n/I-nt 有/v/O 异动/v/O 将/d/O 先发制人/i/O
+专家/n/B-role ：/wp/TRIG 美/j/B-country 南海/ns/B-ns 巡航/v/TRIG 就是/d/O 在/p/O 挑衅/v/TRIG 中国/ns/B-country 怎/r/O 能/v/O 不/d/O 反制/v/O ？/wp/O
+美/j/B-country 称/v/TRIG 解放军/n/B-nt 瞄准/v/O 美军/j/B-nt 唯一/b/O 弱点/n/O 战争/n/O 从/p/O 地球/n/O 打/v/O 到/v/O 太空/nl/O
+安倍/nh/B-nr 拒/v/TRIG 奥巴马/nh/B-nr “/wp/O 勿/d/O 访/v/TRIG 俄/j/B-country ”/wp/O 要求/v/TRIG 日/j/B-country 美/j/B-country 关系/n/O 或/c/O 脱离/v/TRIG 正轨/n/O
+美/j/B-country 俄/j/B-country 联合/v/O 声明/n/O 宣布/v/TRIG 叙利亚/ns/B-country 停火/v/TRIG 协议/n/O 自/p/O 27日/nt/O 起/nd/O 执行/v/O
+中国/ns/B-country 不能/v/O 空手/n/O 保卫/v/O 南海/ns/B-ns 美/j/B-country 对/p/O 华/j/B-country 指责/v/TRIG 几乎/d/O 是/v/O 羞辱/v/O
+伊朗/ns/B-country 欲/d/O 购歼/v/O 10/m/O 战机/n/B-dev 遭/v/O 中国/ns/B-country 婉拒/v/TRIG 转/v/O 购/v/TRIG 俄/j/B-country 制/v/O 苏/j/B-dev 30/m/I-dev
+一/m/O 艘/q/O 中国/ns/B-country 渔船/n/B-dev 遭/v/O 日本/ns/B-country 扣押/v/TRIG 日方/n/B-country 称/v/TRIG 其/r/O 非法/d/O 捕捞/v/O
+3万/m/O 日本/ns/B-role 人/n/I-role 包围/v/TRIG 国会/n/B-nt 反对/v/TRIG 美军/j/B-nt 在/p/O 冲绳/ns/B-ns 建造/v/O 新/a/O 基地/n/B-ns
+俄/j/B-country 专家/n/B-role 称/v/TRIG T-50/ws/B-dev 战机/n/I-dev 五代机/n/O 技术/n/O 很/d/O 少/a/O 难/a/O 在/p/O 亚洲/ns/B-ns 竞争/v/O
+英/j/B-country 美/j/B-country 澳/j/B-country 连/u/O 发/v/O 警告/v/TRIG ：/wp/TRIG 恐怖/a/B-role 分子/n/I-role 或/c/O 在/p/O 马泰/nh/O 发动/v/O 袭击/v/TRIG
+美/j/B-country 韩/j/B-country 部署/v/TRIG 萨德/nh/B-dev 遇阻/v/O 将/d/O 推迟/v/TRIG 中/j/B-country 俄/j/B-country 此前/nt/O 曾/d/O 强力/d/O 反对/v/TRIG
+朝鲜/ns/B-country 首度/nt/O 回应/v/TRIG 美/j/B-country 制裁/v/TRIG ：/wp/TRIG 美国/ns/B-country 疯了/v/O 必将/d/O 为此/d/O 受/v/O 审判/v/TRIG
+印媒/n/B-nt ：/wp/TRIG 印欲/n/O 造/v/O 6.5万/m/O 吨/q/O 国产/b/O 航母/n/B-dev 美国/ns/B-country 提供/v/TRIG 弹射器/n/O
+叙/j/B-country 恐袭/v/TRIG 死亡/v/O 人数/n/O 升/v/O 至/v/O 142/m/O ?/wp/O “/wp/O 伊斯兰国/ns/B-nt ”/wp/O 声称/v/TRIG 负责/v/O
+美/j/B-country 韩/j/B-country 重兵/n/O 模拟/v/O 赴/v/TRIG 韩/j/B-country 内陆/nl/O 作战/v/TRIG 演练/v/O 打击/v/TRIG 朝鲜/ns/B-country 核/n/O 设施/n/O
+俄/j/B-country 拟/v/O 对/p/O 伊朗/ns/B-country 出售/v/TRIG “/wp/O F15/ws/B-dev 杀手/n/O ”/wp/O 美国/ns/B-country 发/v/O 强硬/a/O 警告/v/TRIG
+奥巴马/nh/B-nr 签署/v/TRIG 制裁/v/TRIG 朝鲜/ns/B-country 法案/n/O 望/v/TRIG 能/v/O 对/p/O 朝/j/B-country 施加/v/O 更/d/O 大/a/O 压力/n/O
+日本/ns/B-nt 自卫队/n/I-nt 两/m/O 巡逻机/n/B-dev 访/v/TRIG 越南/ns/B-country 双方/n/O 拟/v/O 加强/v/TRIG 防务/n/O 合作/v/TRIG
+美军/j/B-nt 4/m/O 架/q/O F-22/ws/B-dev 抵/v/O 韩/j/B-country 震慑/v/TRIG 朝鲜/ns/B-country 要/v/O 向/p/O 朝鲜/ns/B-country “/wp/O 动手/v/O ”/wp/O ？/wp/O
+俄/j/B-nt 媒/n/I-nt ：/wp/TRIG 土耳其/ns/B-country 欲/d/O 出兵/v/TRIG 叙利亚/ns/B-country 或/c/O 将/d/O 与/p/O 俄/j/B-nt 军/n/I-nt 正面/d/O 冲突/v/TRIG
+俄/j/B-country 断然/d/O 否认/v/TRIG 轰炸/v/TRIG 叙/v/B-nt 医院/n/I-nt 指控/v/TRIG 称/v/TRIG 缺乏/v/O 事实/n/O 依据/n/O
+安倍/nh/B-nr ：/wp/TRIG 朝鲜/ns/B-country 射星/n/O 直接/a/O 威胁/v/TRIG 日本/ns/B-country 美/j/B-country 日/j/B-country 将/d/O 携手/v/TRIG 对待/v/O
+朴/nh/B-nr 槿惠/nh/I-nr 谴责/v/TRIG 朝鲜/ns/B-country 极端/d/O 挑衅/v/TRIG 称/v/TRIG 将/d/O 动用/v/O 一切/r/O 手段/n/O 制裁/v/TRIG
+日本/ns/B-country 考虑/v/O 引进/v/TRIG “/wp/O 萨德/nz/B-dev ”/wp/O 系统/n/O 强化/v/O 对/p/O 周边/n/O 国家/n/O 威慑/v/TRIG
+美/j/B-country 批准/v/O 向/p/O 巴基斯坦/ns/B-country 出售/v/TRIG 8/m/O 架/q/O F-16/ws/B-dev 战机/n/I-dev 引/v/O 印度/ns/B-country 不满/a/TRIG
+俄/j/B-country 总理/n/B-role 抨击/v/TRIG 西方/nl/O 制造/v/O “/wp/O 新/a/O 冷战/n/O ”/wp/O :/wp/TRIG 创造/v/O 信任/v/O 太/d/O 艰难/a/O
+解放军/n/B-nt 海外/nl/O 成/v/O 外国/n/O 船/n/O “/wp/O 守护神/n/O ”/wp/O 菲方/n/B-country 佩服/v/O 称赞/v/TRIG
+中国/ns/B-country 海警/n/B-dev 船/n/I-dev 今年/nt/O 第5/m/O 次/q/O 巡航/v/TRIG 钓岛/ns/B-ns 12/m/O 海里/q/O 驱离/v/O 日/n/B-country 船/n/O
+土耳其/ns/B-country 将/d/O 在/p/O 索马里/ns/B-country 设/v/O 军事基地/i/B-ns 对/p/O 当地/nl/O 官兵/n/B-role 进行/v/O 反/d/O 恐/v/O 训练/v/O
+外交部/ni/B-nt ：/wp/TRIG 日本/ns/B-country 应/v/TRIG 在/p/O 东海/ns/B-ns 、/wp/O 南海/ns/B-ns 问题/n/O 上/nd/O 谨言慎行/i/O
+美/j/B-country 日/j/B-country 军舰/n/B-dev 在/p/O 菲律宾/ns/B-country 海/n/O 展示/v/O 战力/n/O
+韩启德/nh/B-nr 会见/v/TRIG 尼泊尔/ns/B-country 前/nd/B-role 议长/n/I-role 内姆旺/nh/B-nr
+专家/n/B-role ：/wp/TRIG 萨德/nh/B-dev 入/v/O 韩/j/B-country 就/d/O 是/v/O 挑战/v/O 中国/ns/B-country 中方/n/B-country 不/d/O 可能/v/O 吞/v/O 苦果/n/O
+叙利亚/ns/B-country 反对派/n/O 宣布/v/TRIG 接受/v/O 停火/v/TRIG 协议/n/O 停火/v/TRIG 时间/n/O 为/v/O 两/m/O 周/q/O
+外交部/ni/B-nt ：/wp/TRIG 中方/n/B-country 在/p/O 西沙/ns/B-ns 群岛/n/I-ns 进行/v/O 建设/v/O 和/c/O 部署/v/TRIG 无可非议/i/O
+驻/v/B-nt 韩/j/I-nt 大使/n/I-nt 强硬/a/O 警告/v/TRIG ：/wp/TRIG 萨德/nh/B-dev 会/v/O 让/v/O 中/j/B-country 韩/j/B-country 关系/n/O 瞬间/nt/O 化乌有/v/O
+沙特/ns/B-country 拟/v/O 向/p/O 叙/j/B-country 反对派/n/O 提供/v/TRIG 防空/v/B-dev 武器/n/I-dev 抵消/v/O 政府军/n/B-nt 优势/n/O
+越/d/B-nt 媒/v/I-nt 称/v/TRIG 其/r/O 现行/b/O 教科书/n/O 篇幅/n/O 有限/a/O 将/d/O 增/v/O 与/p/O 华战争/nz/O 内容/n/O
+外媒/n/B-nt 称/v/TRIG 中国/ns/B-country 在/p/O 西沙/ns/B-ns 群岛/n/I-ns 部署/v/TRIG 战机/n/B-dev 外交部/ni/B-nt 回应/v/TRIG
+国防部/n/B-nt ：/wp/TRIG 中国/ns/B-country 在/p/O 吉布提/ns/B-country 补/v/O 给/p/O 保障/v/O 基地/n/B-ns 已/d/O 开工/v/O 建设/v/O
+韩/j/B-country 防长/v/B-role 参观/v/O 国家级/b/O 反恐/v/B-nt 部队/n/I-nt 演习/v/TRIG 吁/v/TRIG 保持/v/O 警戒/v/TRIG 态势/n/O
+国防部/n/B-nt ：/wp/TRIG 中国/ns/B-country 将/d/O 派/v/O 军舰/n/B-dev 参加/v/TRIG 环太/j/O 军演/n/TRIG
+国防部/n/B-nt ：/wp/TRIG 对/p/O 在/p/O 韩/j/B-country 部署/v/TRIG “/wp/O 萨德/nh/B-dev ”/wp/O 系统/n/O 表示/v/TRIG 严重/a/O 关切/v/O
+国防部/n/B-nt ：/wp/TRIG 美/j/B-country 一再/d/O 炒作/v/O 中国/ns/B-country 西沙/ns/B-ns 军事/n/O 部署/v/TRIG 别有用心/i/O
+国防部/n/B-nt ：/wp/TRIG 美方/n/B-country 炒作/v/O 南海/ns/B-ns 军事化/v/O 是/v/O 典型/a/O 的/u/O 双重/b/O 标准/n/O
+土/j/B-country 总统/n/B-role ：/wp/TRIG 土耳其/ns/B-country 不/d/O 是/v/O 俄/j/B-country 敌人/n/O 俄/j/B-country 失去/v/O 的/u/O 是/v/O 朋友/n/O
+美国/ns/B-nt 波音/b/I-nt 公司/n/I-nt 考虑/v/O 在/p/O 印度/ns/B-country 建厂/v/TRIG 生产/v/O 大黄蜂/n/B-dev 战机/n/I-dev
+澳/j/B-ns 增/v/O 300亿/m/O 军费/n/O 要/v/O 阻/v/O 中国/ns/B-country 南海/ns/B-ns 行动/v/O 解放军/n/B-nt 作/v/O 三/m/O 点/q/O 回应/v/TRIG
+朝鲜/ns/B-ns 半岛/n/I-ns 局势/n/O 恶化/v/O 中国/ns/B-nt 军方/n/I-nt 回应/v/TRIG 是否/v/O 加强/v/TRIG 边境/nl/O 部署/v/TRIG
+奥巴马/nh/B-nr 签/v/TRIG 新/a/O 法案/n/O ：/wp/TRIG 美国/ns/B-country 隐私/n/O 保护/v/O 范围/n/O 扩/v/O 至/v/O 盟国/n/O 公民/n/B-role
+国防部/n/B-nt 驳美/v/O 太平洋/ns/B-ns 总部/n/O 司令/n/B-role :/wp/TRIG 霸权主义/n/O 是/v/O 谁/r/O 谁/r/O 明白/v/O
+简氏/nh/O 称/v/TRIG 中国/ns/B-role 军工/n/O 巨头/n/O 海外/nl/O 爆买/v/O 并购/v/TRIG 多/m/O 架/q/O 航空/n/O 企业/n/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 巨型/b/O 巡逻船/n/B-dev 用/p/O “/wp/O 潜规则/n/O ”/wp/O 逼美舰/n/O 让/v/O 路/n/O
+简氏/nh/O ：/wp/TRIG 中国/ns/B-country 军工/n/O 巨头/n/O 海外/nl/O 爆/v/O 买/v/TRIG 西方/nl/B-nt 忧/v/O 技术/n/O 外泄/v/O
+中方/n/B-country 在/p/O 制裁/v/TRIG 朝鲜/ns/B-country 谈判/v/TRIG 中/nd/O 策略/n/O 高明/a/O 美国/ns/B-country 不断/d/O 做出/v/O 妥协/v/TRIG
+法国/ns/B-country 计划/n/O 9月/nt/O 向/p/O 埃及/ns/B-country 交付/v/TRIG 西北风/n/O 级/n/O 两/m/B-dev 栖/v/I-dev 攻击舰/n/I-dev
+王毅/nh/B-nr ：/wp/TRIG 不/d/O 关心/v/O 谁/r/O 在/p/O 台湾/ns/B-ns 执政/v/O 只/d/O 关心/v/O 两岸/n/O 同/d/O 属/v/O 一中/j/O
+担忧/v/TRIG 中国/ns/B-country 威胁/v/TRIG ：/wp/TRIG 印尼/ns/B-country 向/p/O 南海/ns/B-ns 纳土纳/ns/B-ns 群岛/n/I-ns 增兵/v/O 2/m/O 倍/q/O
+越南/ns/B-country 购买/v/TRIG 20/m/O 套/q/O 以色列/ns/B-country 精确/a/O 制导/v/O 火箭/n/B-dev 炮/n/I-dev 防卫/v/O 南沙/ns/B-ns 岛礁/n/O
+王毅/nh/B-nr ：/wp/TRIG 中/j/B-country 朝/j/I-country 关系/n/O 可能/v/O 因/p/O 新/a/O 制裁/v/TRIG 举措/n/O 受到/v/O 必要/a/O 影响/v/O
+中方/n/B-country ：/wp/TRIG 中/j/B-country 朝/j/I-country 关系/n/O 或/c/O 因/p/O 对/p/O 朝/p/B-country 新/a/O 制裁/v/TRIG 举措/n/O 受到/v/O 影响/v/O
+军情室/n/B-nt ：/wp/TRIG 中国/ns/B-country 首/m/O 个/q/O 海外/nl/O 军事基地/i/B-ns 开工/v/O 为何/r/O 要/v/O 选/v/O 在/p/O 吉布提/ns/B-country
+美/j/B-country 公布/v/TRIG B21/ws/B-dev 隐形/b/O 轰炸机/n/O 首/m/O 张/q/O 图像/n/O 曝光/v/TRIG 将/d/O 取代/v/O B52/ws/B-dev
+印媒/j/B-nt 称/v/TRIG 中国/ns/B-country 军舰/n/B-dev 潜艇/n/B-dev 逼近/v/O 安达曼/ns/B-ns 群岛/n/I-ns 印调/v/O 重兵/n/O 布防/v/TRIG
+美军/j/B-nt 高层/n/B-role 扬言/v/O 调整/v/O 兵力/n/O 对付/v/O 中国/ns/B-country 将/d/O 针对/p/O 南海/ns/B-ns 开展/v/O 行动/v/O
+面对/v/O 中国/ns/B-country 草木/n/O 皆/d/O 兵/n/O 越南/ns/B-country 购买/v/TRIG 以色列/ns/B-country 短程/b/B-dev 弹道导弹/n/I-dev
+解放军/n/B-nt 南部/nd/I-nt 战区/n/I-nt 司令员/n/B-role 称/v/TRIG 维护/v/TRIG 南海/ns/B-ns 权益/n/O 是/v/O 最/d/O 重要/a/O 使命/n/O
+中国/ns/B-country 外长/n/B-role 批/v/O 菲律宾/ns/B-country 寻求/v/TRIG 南海/ns/B-ns 仲裁/v/O 是/v/O 挑衅/v/TRIG
+俄罗斯/ns/B-nt 空军/n/I-nt 停止/v/TRIG 打击/v/TRIG 叙利亚/ns/B-country 申请/v/O 停火/v/TRIG 的/u/O 武装/n/O 组织/n/O
+美军/j/B-nt 加大/v/O 对/p/O IS/ws/B-nt 网络/n/O 战/v/O 力度/n/O 遏制/v/O 其/r/O 扩张/v/O 影响力/n/O
+边防团/n/B-nt 演习/v/TRIG 组织/n/O 宣誓/v/O 暴露/v/O 目标/n/O 战场/n/O 喊话/v/O 无/v/O 效果/n/O
+也门/ns/B-nt 军队/n/I-nt 攻占/v/TRIG 沙特/ns/B-ns 军事基地/i/I-ns 缴获/v/O 大批/m/O 武器/n/B-dev 弹药/n/O
+坠毁/v/O 歼/v/B-dev -10/m/I-dev 战机/n/I-dev 负伤/v/O 飞行员/n/B-role 时隔/v/O 50/m/O 天/q/O 重返/v/TRIG 蓝天/n/O
+全球/n/O 超级/b/O 计算机/n/O 榜单/n/O 公布/v/TRIG 中国/ns/B-country 天河/n/B-dev 二/m/I-dev 号/q/I-dev 获/v/O 六/m/O 连/v/O 冠/n/O
+美媒/j/B-nt ：/wp/TRIG 枭龙/n/O 在/p/O 低端/b/O 市场/n/O 已/d/O “/wp/O 足够/v/O 好/a/O ”/wp/O 更/d/O 具/v/O 竞争力/n/O
+中国/ns/B-country 战斗/v/O 机险/n/O 与/p/O 无人机/n/B-dev 空中/nl/O 相撞/v/O 距离/n/O 仅/d/O 数百/m/O 米/q/O
+中国/ns/B-country 新/a/O 智能/n/O 蒙皮/n/O 技术/n/O 或/c/O 已/d/O 实用/a/O 比/p/O F-22/ws/O 先进/a/O 一代/n/O
+中国/ns/B-country 航天/n/O 之/u/O 父/n/O 钱学森/nh/B-nr ：/wp/TRIG 有/v/O 种/q/O 大师/n/O 风范/n/O 叫/v/O 毫不留情/i/O
+核/n/O 开拓者/n/O 程开甲/nh/B-nr ：/wp/TRIG 回国/v/O 前/nd/O 玻恩/v/B-nr 叮嘱/v/O 多/a/O 买/v/TRIG 吃/v/O 的/u/O 带走/v/O
+MH370/ws/B-dev 失联/v/O 事件/n/O 的/u/O 启示/v/O ：/wp/TRIG 不能/v/O 再/d/O 让/v/O 另/r/O 一/m/O 架/q/O 飞机/n/B-dev 消失/v/O
+乌克兰/ns/B-country 问题/n/O 四方/n/B-nt 会谈/v/I-nt 通过/p/O 声明/n/O 将/d/O 采取/v/O 措施/n/O 缓和/v/TRIG 局势/n/O
+航发/n/O 是/v/O 试/v/O 出来/v/O 的/u/O 前端/nd/O 工作/v/O 任何/r/O 虚假/a/O 都/d/O 将/p/O 原形/n/O 毕露/nh/O
+中国/ns/B-country 无人机/n/B-dev 型号/n/O 数量/n/O 超国外/v/O 总和/n/O 在/p/O 世界/n/O 很/d/O 火爆/a/O
+军迷/n/O 拍歼/v/O 20/m/O 泄密/v/O ：/wp/TRIG 胜过/v/O 美/j/B-country 1/m/O 年/q/O 耗资/v/O 800亿/m/O 美元/q/O 情报业/n/O
+土耳其自研/ns/O 远程/b/B-dev 防空/v/I-dev 系统/n/I-dev ？/wp/O “/wp/O 还/d/O 能/v/O 再/d/O 抢救/v/O 一下/m/O ”/wp/O
+已/d/O 有/v/O 东风/nz/B-dev -21/m/I-dev 反舰/n/I-dev 导弹/n/I-dev 为什么/r/O 还要/v/O 发展/v/O 东风/nz/B-dev -26/m/I-dev ？/wp/O
+走/v/O 下/v/O 神坛/n/O 的/u/O 苏/j/B-dev -35/m/I-dev ：/wp/TRIG 仅/d/O 买/v/TRIG 24/m/O 架/q/O 是/v/O 为/p/O 弥补/v/O 产能/n/O 不足/a/O
+反恐/v/B-role 干警/n/I-role ：/wp/TRIG 两/m/O 声/q/O 枪响/n/O 维族/nz/O 同事/n/B-role 倒/v/O 在/p/O 地上/nl/O 满身/n/O 鲜血/n/O
+恐暴/a/B-role 份子/n/I-role 藏匿/v/O 棉花/n/O 地/n/O 中/nd/O 大/a/O 刀/n/O 擦/v/O 着/u/O 特警/n/B-role 头皮/n/O 掠过/v/O
+传/v/O 印度/ns/B-country 花/v/O 巨资/n/O 探歼/v/O -10/m/O 机密欲/n/O 抄袭/v/O 其/r/O 关键/a/O 技术/n/O
+日媒/j/B-nt ：/wp/TRIG 日本/ns/B-country 拟/v/O 对/p/O 中国/ns/B-country 形成/v/O 包围网/n/O 角逐/v/O 必将/d/O 更/d/O 激烈/a/O
+巴基斯坦/ns/B-country 绝/d/O 给/p/O 枭龙配/v/O 中国/ns/B-country 产/v/O 发动机/n/O 建/v/O 俄/j/B-country 发/v/O 大修厂/n/O
+美/j/B-country 探讨/v/O 采购/v/TRIG 200/m/O 架/q/O 下/v/O 新/a/O 一/m/O 代/q/O 轰炸机/n/B-dev 比/p/O 计划/n/O 多/a/O 100/m/O 架/q/O
+印媒/n/B-nt ：/wp/TRIG 歼/v/B-dev 11D/m/I-dev 战力/n/O 接近/v/O 歼/v/B-dev 20/m/I-dev 印度/ns/B-country 应/v/TRIG 升级/v/O 苏/j/B-dev 30MKI/m/I-dev
+土耳其/ns/B-country 招/v/O 各国/r/O 大使/n/B-nt 说明/v/O 情况/n/O 各国/r/O 表态/v/TRIG 说法/n/O 各异/z/O
+俄/j/B-country 被/p/O 击落/v/TRIG 战机/n/B-dev 部分/m/O 残骸/n/O 坠入/v/O 土耳其/ns/B-country 导致/v/O 2/m/O 人/n/O 受伤/v/O
+土耳其/ns/B-nt 军队/n/I-nt ：/wp/TRIG 当时/nt/O 并/d/O 不/d/O 知道/v/O 被/p/O 击落/v/TRIG 的/u/O 飞机/n/B-dev 隶属/v/O 俄/j/B-nt 军/n/I-nt
+普京/nz/B-nr 大/a/O 牌/n/O 不/d/O 多/a/O 小/a/O 牌/n/O 不少/m/O 土耳其/ns/B-country 总统/n/B-role 怪论/n/O 怎么/r/O 解/v/O
+凤凰/n/O 军评/n/O ：/wp/TRIG 日本/ns/B-country 为/p/O 反/v/O IS/j/B-nt 出血/v/O 中东/ns/B-nt 虚名/n/O 取代/v/O 亚洲/ns/B-ns 雄心/n/O
+专家/n/B-role ：/wp/TRIG 国防部/n/B-nt 表态/v/TRIG 显/v/O 军方/n/B-nt 已/d/O 对/p/O 南海/ns/B-ns 做/v/O 最/d/O 坏/a/O 打算/n/O
+土耳其/ns/B-country 机关/n/O 算/v/O 尽/d/O 却/d/O “/wp/O 百密百疏/i/O ”/wp/O 俄/j/B-country 不/d/O 会/v/O 善罢/v/O 甘休/v/O
+藏/v/O 在/p/O 字面/n/O 后/nd/O 的/u/O 玄机/n/O ：/wp/TRIG 精读/v/O 习/nh/B-nr 近平/nh/I-nr 主席/n/B-role 军改/nh/O 讲话/v/O
+谁/r/O 说/v/TRIG 土耳其/ns/B-country 态度/n/O 软化/v/O ？/wp/O 土/n/B-country 总统/n/B-role 要/v/O 侵犯/v/O 领空/n/O 的/u/O 人/n/O 道歉/v/TRIG
+歼/v/B-dev -20/m/I-dev 试飞/v/O 致/v/O 成都/ns/B-nt 巨响/n/O ？/wp/O 战机/n/B-dev 性能/n/O 或/c/O 已/d/O 相当/d/O 可靠/a/O
+普京/nh/B-nr ：/wp/TRIG IS/ws/B-nt 向/p/O 土耳其/ns/B-country 走私/v/O 石油/n/B-dev 将/d/O 成/v/O 重点/d/O 打击/v/TRIG 对象/n/O
+谈/v/TRIG 中国/ns/B-country 海上/nl/O 霸权/n/O 野心/n/O 太/d/O 可笑/a/O 美国/ns/B-ns 军事基地/i/I-ns 遍/v/O 全球/n/O
+民航/n/B-nt 局长/n/B-role 率先/d/O 试/v/O 乘/v/O ARJ-21/ws/B-dev “/wp/O 领导/n/O 先/d/O 飞/v/O ”/wp/O 树立/v/O 信心/n/O
+德国/ns/B-country 也/d/O 要/v/O 出手/v/O ：/wp/TRIG 将/d/O 派兵/v/O 与/c/O 法/n/B-country 打击/v/TRIG IS/ws/B-nt 不/d/O 参加/v/TRIG 美国/ns/B-country 联盟/n/O
+美军/j/B-nt 核弹/n/I-nt 部队/n/I-nt 仍/d/O 用/v/O 鼻祖级/n/O 软盘/n/O 每年/r/O 维护/v/TRIG 花/n/O 610亿/m/O
+外媒/n/B-nt ：/wp/TRIG 中国/ns/B-country 新/a/O 一代/n/O 导弹/n/B-dev 将/d/O 使/v/O 美/j/B-country 航母/j/B-dev 处于/v/O 次要/b/O 地位/n/O
+美媒/j/B-nt ：/wp/TRIG “/wp/B-dev 爱国者/n/I-dev ”/wp/I-dev 难/a/O 挡/v/O 中国/ns/B-country 导弹/n/B-dev 只能/v/O 靠/v/O 激光/n/B-dev
+美军/j/B-nt 痴迷/v/O 反/v/O 恐/d/O 荒废/v/O 主业/n/O 坦克/n/B-dev 大赛/v/O 输/v/O 给/v/O 预备役/n/O
+尹卓/nh/B-nr ：/wp/TRIG 第2/m/O 艘/q/O 国产/b/B-dev 航母/n/I-dev 或/c/O 用/p/O 电磁/n/O 弹射/v/O 取决于/v/O 最后/nd/O 决策/v/O
+菲/j/B-country 新/a/O 总统/n/B-role ：/wp/TRIG 或/c/O 让/v/O 中国/ns/B-country 帮忙/v/O 修/v/O 铁路/n/O 不/d/O 搁置/v/O 南海/ns/B-ns 问题/n/O
+外媒/n/B-nt ：/wp/TRIG 巴铁/j/B-country 采购/v/TRIG F16/ws/B-dev 计划/n/O 濒临/v/O 破产/v/O 或/c/O 选择/v/O 歼/v/B-dev 10/m/I-dev 代替/q/O
+五角大楼/n/B-nt 证实/v/TRIG ：/wp/TRIG 美军/j/B-nt 女/b/O 中校/n/B-role 举报/v/O 上级/n/O 强奸/v/O 后/nd/O 遭/v/O 报复/v/O
+外媒/n/B-nt ：/wp/TRIG 印法/n/O 阵风/n/B-dev 战机/n/I-dev 交易/n/O 还/d/O 在/p/O 扯皮/v/O 谈/v/TRIG 成/v/O 可能性/n/O 不/d/O 大/a/O
+美媒/j/B-nt ：/wp/TRIG 中/j/B-country 美/j/I-country 在/p/O 灰色/n/O 地带/n/O 频繁/a/O 交手/v/O 美方/n/B-country 先天不足/i/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 不断/d/O 获得/v/O 尖端/b/B-dev 武器/n/I-dev 像/v/O 科幻/n/O 小说/n/O 产物/n/O
+韩/j/B-country 称/v/TRIG 朝鲜/ns/B-country 导弹/n/B-dev 在/p/O 发射车/n/O 爆炸/v/TRIG 已/d/O 连续/a/O 3/m/O 次/q/O 试射/v/TRIG 失败/v/O
+王云飞/nh/B-nr ：/wp/TRIG 自行/b/B-dev 火炮/n/I-dev 可/v/O 自动/d/O 修正/v/O 仅/d/O 中国/ns/B-country 能/v/O 做到/v/O
+施洋/nh/B-nr ：/wp/TRIG 美军/j/B-nt EC-121/ws/B-dev 曾/d/O 抵近/v/O 侦察/v/TRIG 朝鲜/ns/B-country 被/p/O 朝军/n/O 击落/v/TRIG
+印尼/ns/B-nt 海军/n/I-nt 非法/d/O 抓/v/O 扣/v/O 中国/ns/B-country 渔船/n/B-dev 使用/v/O 机枪/n/O 野蛮/a/O 开火/v/O
+尹卓/nh/B-nr ：/wp/TRIG 中国/ns/B-country 电磁弹射/n/O 技术/n/O 比肩/v/O 美国/ns/B-country 用不用/d/O 看/v/O 决策/v/O
+外媒/n/B-nt ：/wp/TRIG 中国/ns/B-country 邀/v/O 东盟/ns/B-nt 国家/n/O 搞/v/O 海上/nl/O 演习/v/TRIG 各国/r/O 都/d/O 感/v/O 兴趣/n/O
+外媒/n/B-nt ：/wp/TRIG 阿基诺/nh/B-nr 因/p/O 黄岩岛/ns/B-ns 被/p/O 控/v/O 叛国/v/O 罪转/n/O 而/c/O 指责/v/TRIG 美国/ns/B-country
+俄/j/B-country 外长/n/B-role ：/wp/TRIG 不/d/O 会/v/O 对/p/O 日交/j/O 还/d/O 南/nd/B-ns 千岛/ns/I-ns 群岛/n/I-ns 也/d/O 不/d/O 签/v/TRIG 和平/n/O 条约/n/O
+中国/ns/B-country 多/a/O 艘/q/O 海警/n/B-dev 船/n/I-dev 30日/nt/O 赴/v/TRIG 钓岛/ns/B-ns 巡航/v/TRIG 编队/n/O 阵容/n/O 庞大/a/O
+阿基诺/nh/B-nr 被/p/O 指控/v/TRIG 叛国罪/v/O 辩称/v/O 因/p/O 美/j/B-country 介入/v/TRIG “/wp/O 放弃/v/TRIG ”/wp/O 黄岩岛/ns/B-ns
+专家/n/B-role ：/wp/TRIG 中国/ns/B-country 约/d/O 有/v/O 20/m/O 枚/q/O 东风/nz/B-dev 5/m/I-dev 导弹/n/I-dev 一半/m/O 是/v/O 东风/nz/B-dev 5B/ws/I-dev
+紫东/nh/B-nr ：/wp/TRIG 在/p/O 台湾/ns/B-ns 当兵/v/O 摸/v/O 扫把/n/O 的/u/O 时间/n/O 比/p/O 摸/v/O 枪/n/B-dev 的/u/O 时间/n/O 长/a/O
+英德/ns/O 领导人/n/O 纪念日/n/O 德兰/nh/O 海战/n/O ：/wp/TRIG 双方/n/O 近/a/O 万/m/O 水兵/n/B-role 阵亡/v/O
+外媒/n/B-nt ：/wp/TRIG 解放/v/O 费卢杰/nh/B-ns 之/u/O 战/n/O 打响/v/O IS/ws/B-nt 行刑队/n/I-nt 上街/v/O 督战/v/O
+国产/b/B-dev “/wp/I-dev 彩虹4/n/I-dev ”/wp/I-dev 首/m/O 次/q/O 进行/v/O 卫星/n/B-dev 遥控/v/O 打靶/v/O 杀敌千里外/i/O
+中国/ns/B-nt 空军/n/I-nt 首/m/O 次/q/O 提到/v/O 歼20/nz/B-dev 战机/n/I-dev ：/wp/TRIG 尚未/d/O 服役/v/O 但/c/O 快/a/O 了/u/O
+美/j/B-country 专家/n/B-role 推演/v/O 击沉/v/TRIG 中国/ns/B-country 航母/j/B-dev 美军/j/B-nt 也/d/O 要/v/O 搞/v/O 航母/j/B-dev 杀手/n/I-dev
+王毅/nh/B-nr ：/wp/TRIG 乐/a/O 见/v/O 菲律宾/ns/B-nt 新/a/I-nt 政府/n/I-nt 就/p/O 南海/ns/B-ns 问题/n/O 做出/v/O 明智/a/O 选择/v/O
+中国/ns/B-nt 军队/n/I-nt 参加/v/TRIG 维和/j/O 26年/nt/O 已/d/O 有/v/O 19/m/O 名/q/O 军人/n/B-role 不幸/a/O 牺牲/v/O
+中国/ns/B-country 在/p/O 马里/ns/B-country 牺牲/v/O 维和/j/B-role 战士/n/I-role 身份/n/O 曝光/v/TRIG 年/n/O 仅/d/O 29/m/O 岁/q/O
+凤凰/n/O 军评/n/O ：/wp/TRIG AG600/ws/B-dev 是/v/O 水上/nl/O Y8/ws/O 动力/n/O 差/a/O A40/ws/B-dev 实现/v/O 中国/ns/B-country 梦想/n/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 打造/v/O 重型/b/B-nt 支援/v/I-nt 舰队/n/I-nt 获/v/O 全球/n/O 攻击/v/TRIG 能力/n/O
+名家/n/B-role 谈/v/TRIG 南海/ns/B-ns │/n/O 王云飞/nh/B-nr ：/wp/TRIG 南海/ns/B-ns 军事/n/O 制敌/n/O ，/wp/O 中国/ns/B-country 一手/d/O 好/a/O 牌/n/O
+出租/v/O 司机/n/B-role 向/p/O 军官/n/B-role 炫耀/v/TRIG 手机/n/O 地图/n/O 收藏/v/O 数/m/O 个/q/O 机密/a/O 位置/n/O
+外媒/n/B-nt ：/wp/TRIG 美/j/B-country 十/m/O 年/q/O 内/nd/O 将/d/O 在/p/O 中/j/B-country 俄/j/B-country 后院/n/O 部署/v/TRIG 次/q/B-dev 世代/n/I-dev 电磁炮/n/I-dev
+印度/ns/B-country 最/d/O 大/a/O 亚洲/ns/B-ns 第二/m/O 大军/n/O 火库/n/O 起火/v/O 至/p/O 17/m/O 少/m/O 名/q/O 军人/n/B-role 丧生/v/O
+第二/m/O 艘/q/O 国产/b/B-dev 航母/n/I-dev 立项/v/O 内幕/n/O ：/wp/TRIG 总/d/O 设计/v/O 无/v/O 电磁弹射/n/O
+美智库/n/B-nt 建议/v/TRIG 蔡英文/nh/B-nr 裁撤/v/O 台/j/B-nt 空军/n/I-nt 仅/d/O 留/v/O F-16/ws/B-nt 机队/n/I-nt
+中国/ns/B-country 阻止/v/TRIG 印度/ns/B-country 加入/v/O 核/n/B-nt 供应/v/I-nt 国/n/I-nt 集团/n/I-nt 保持/v/O 主导/n/O 地位/n/O
+南沙/ns/B-ns 岛礁/n/O 吹/v/O 填/v/O 技术/n/O 申报/v/O 60/m/O 多/m/O 项/q/O 专利/n/O 鸟/n/O 飞来/v/O 都/d/O 不/d/O 走/v/O 了/u/O
+印度/ns/B-country 重/d/O 启/v/O 藏南/nl/B-ns 前沿/nl/I-ns 机场/n/I-ns 军舰/n/B-dev 驶入/v/O 南海/ns/B-ns 停靠/v/O 菲越/j/B-ns 基地/n/I-ns
+俄/j/B-country 专家/n/B-role ：/wp/TRIG 今天/nt/O 只有/c/O 中国/ns/B-role 人/n/I-role 考虑/v/O 在/p/O 太阳系/n/O 穿梭/v/O 问题/n/O
+英媒/j/B-nt ：/wp/TRIG 歼/v/B-dev -20/m/I-dev 即将/d/O 服役/v/O 将/d/O 助于/v/O 缩小/v/O 其/r/O 与/p/O 美军/j/B-nt 差距/n/O
+俄/j/B-country 商业/n/O 航天/n/O 成/v/O 西方/nl/O “/wp/O 打工仔/n/O ”/wp/O 中国/ns/B-country 直接/a/O 掀/v/O 桌子/n/O
+美/j/B-country 日/j/B-country 韩/j/B-country 联合/v/O 反导/v/O 跟踪/v/O 演习/v/TRIG 用/p/O 一/m/O 架/q/O 战机/n/B-dev 模拟/v/O 导弹/n/B-dev
+美军/j/B-nt 重返/v/TRIG 也门/ns/B-country 作战/v/TRIG 武装/n/B-dev 无人机/n/I-dev 持续/v/O 提供/v/TRIG 情报/n/O 支援/v/TRIG
+正是/v/O 新老交替/i/O 时/n/O 中国/ns/B-nt 海警/n/I-nt 还有/v/O 很/d/O 长/a/O 的/u/O 上坡路/n/O 要/v/O 走/v/O
+美/j/O 媒盘点/n/O 亚洲/ns/B-nt 军队/n/I-nt 那些/r/O “/wp/O 不/d/O 太/d/O 著名/a/O ”/wp/O 的/u/O 军事/n/B-dev 装备/n/I-dev
+中国/ns/B-nt 第十五/m/I-nt 批/q/I-nt 赴/v/I-nt 黎巴嫩/ns/I-nt 维和/j/I-nt 部队/n/I-nt 组织/v/O 应急/v/O 防卫/v/O 演练/v/O
+联合国/ni/B-nt ：/wp/TRIG 2/m/O 年/q/O 内/nd/O 针对/p/O 医疗/n/B-nt 机构/n/I-nt 袭击/v/TRIG 造成/v/O 近/a/O 千/m/O 人/n/O 丧生/v/O
+外媒/n/B-nt ：/wp/TRIG “/wp/B-nt 基地/n/I-nt ”/wp/I-nt 组织/n/I-nt 分支/n/O 在/p/O 叙/j/B-country 崛起/v/O 也/d/O 想/v/O “/wp/O 建国/v/O ”/wp/O
+美媒/j/B-nt ：/wp/TRIG 巴基斯坦/ns/B-country 考虑/v/O 五代机/n/B-dev “/wp/I-dev 鹘鹰/n/I-dev ”/wp/I-dev 可能性/n/O 很/d/O 大/a/O
+三菱/nz/B-nt 向/p/O 中国/ns/B-country 劳工/n/B-nt 谢罪/v/O 赔款/v/O 部分/m/O 受害者/n/B-role 不/d/O 接受/v/O 和解/v/O
+韩/j/B-nt 国防部/n/I-nt ：/wp/TRIG 朝鲜/ns/B-country 潜射/v/O 弹道导弹/n/B-dev 技术/n/O 已/d/O 取得/v/O 一定/b/O 进展/v/O
+安理会/j/B-nt 谴责/v/TRIG 朝鲜/ns/B-country 试射/v/TRIG 弹道导弹/n/B-dev 一点/m/O 与/p/O 以往/nt/O 不同/a/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 武器/n/B-dev 进口/v/O 下降/v/O 出口/v/O 暴增自研/v/O 能力/n/O 提升/v/O
+国防部/n/B-nt ：/wp/TRIG 维和/j/B-role 人员/n/I-role 伤亡/v/TRIG 为/v/O 1/m/O 死/v/O 5/m/O 伤/v/O 牺牲/v/O 战士/n/B-role 死守岗哨/n/O
+中国/ns/B-country 在/p/O 南海/ns/B-ns 建成/v/O 4/m/O 艘/q/O 不/d/O 沉/a/O 航母/n/B-dev 可/v/O 部署/v/TRIG 百架歼/m/O -11/m/O
+外/nd/B-nt 媒/n/I-nt 质疑/v/TRIG 中国/ns/B-country 划/v/O 南海/ns/B-ns 空识区/n/O ：/wp/TRIG 战机/n/B-dev 将/d/O 被/p/O 腐蚀/v/O 不/d/O 划算/a/O
+港媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 研究/v/TRIG 建/v/O 南海/ns/B-ns 识别区/ns/O 时机/n/O 取决于/v/O 威胁/v/TRIG
+中国/ns/B-nt 海军/n/I-nt 将/d/O 派/v/O 5/m/O 艘/q/O 主力/n/B-dev 舰/n/I-dev 参加/v/TRIG 环太/j/O 军演/j/TRIG 052C/ws/B-dev 领衔/v/O
+非洲/ns/B-ns 总统/n/B-role ：/wp/TRIG 被/p/O 西方/nl/O 武器/n/O 杀戮/v/TRIG 不如/v/O 用/p/O 中国/ns/O 武器/n/O 自卫/v/O
+香会/n/B-nt 即将/d/O 召开/v/O 中国/ns/B-country 军官/n/B-role 将/d/O 如何/r/O 反击/v/TRIG 美方/n/B-country 指责/v/TRIG ？/wp/O
+印度/ns/B-country 拟/v/O 卖/v/O 越南/ns/B-country 反舰/n/B-dev 导弹/n/I-dev 抗衡/v/O 中国/ns/B-country 向/p/O 南亚/ns/B-nt 出口/v/O 军备/n/O
+日媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 把/p/O 美/j/B-country 逼/v/O 入/v/O 窘境/n/O 面临/v/O 四/m/O 选/v/O 项/n/O 都/d/O 对/p/O 华/j/B-country 有利/a/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 新/a/B-dev 海警/n/I-dev 船/n/I-dev 比/p/O 军舰/n/B-dev 还/d/O 大/d/O 对峙/v/O 时/n/O 可/v/O 威慑/v/TRIG 外军/n/B-nt
+“/wp/O 阵风/n/O ”/wp/O 刮/v/O 来/v/O 的/u/O 钱/n/O 法国/ns/B-country 去年/nt/O 军火/n/O 出口额/n/O 创/v/O 纪录/n/O
+解读/v/O 香会/n/B-nt ：/wp/TRIG 美军/j/B-nt 调门/n/O 越/d/O 激烈/a/O 越/d/O 证明/v/O 中国/ns/B-country 战略/n/O 正确/a/O
+国产/b/B-dev 航母/j/I-dev 全景图/n/O 首/m/O 曝光/v/TRIG 中国/ns/B-country 或/c/O 有/v/O 三/m/O 大/a/O 航母/n/B-nt 造船厂/n/I-nt
+北大/j/B-nt 教授/n/B-role 质问/v/TRIG 美/j/B-country 防长/n/B-role 为何/r/O 抵近/v/O 侦察卡/n/O 特结巴/nh/O 回应/v/TRIG
+香会/n/B-nt 主办方/n/O 发/v/O 报告/n/O 一半/m/O 涉华/j/O 称/v/TRIG 中国/ns/B-country 是/v/O 南海/ns/B-ns 罪魁祸首/i/O
+韩国/ns/B-country 对/p/O 南海/ns/B-ns 仲裁案/n/O 持/v/O 保留/v/O 态度/n/O 实际/a/O 拒绝/v/TRIG 美/j/B-country 要求/n/TRIG
+欧洲/ns/B-nt 军火商/n/I-nt 拍/v/O 中国/ns/B-country 国产/b/B-dev 航母/n/I-dev 卫星/n/O 图/n/O ：/wp/TRIG 正/d/O 装/v/O 飞行/v/O 甲板/n/O
+凤凰/n/O 军评/n/O ：/wp/TRIG 美/j/B-country 欲/d/O 在/p/O 岘港/ns/B-ns 建/v/O 基地/n/B-ns 越南/ns/B-country 为/p/O 制华/v/O 放弃/v/TRIG 原则/n/O
+克里/nh/B-nr ：/wp/TRIG 中国/ns/B-country 若/c/O 设/v/O 南海/ns/B-ns 防识区/n/O 就/d/O 是/v/O 挑衅/v/TRIG 和/c/O 破坏/v/TRIG 稳定/a/O
+俄/j/B-nt 媒/n/I-nt ：/wp/TRIG 中国/ns/B-country 能/v/O 在/p/O 科技/n/O 上/nd/O 赶超/v/O 美国/ns/B-country 多方面/n/O 已/d/O 领先/v/O
+李杰/nh/B-nr ：/wp/TRIG 没有/v/O 超级/b/B-dev 航母/n/I-dev 的/u/O 大国/n/O 是/v/O 脆弱/a/O 的/u/O 看看/v/O 俄罗斯/ns/B-country
+名家/n/B-role 说/v/TRIG 南海/ns/B-ns │/n/O 应/v/TRIG 对/p/O 南海/ns/B-ns ，/wp/O 中国/ns/B-country 必须/d/O 打造/v/O 军民/n/O 联合/v/O 新/a/O 模式/n/O
+专家/n/B-role ：/wp/TRIG 国产/b/B-dev 航母/n/I-dev 看/v/O 起来/v/O 像/v/O 辽宁/ns/O 舰但/n/O 内容/n/O 完全/a/O 不同/a/O
+美媒/j/B-nt 曝/v/O 澳军/n/B-nt 秘密/a/O 计划/n/O ：/wp/TRIG 用/p/O 潜艇/n/B-dev 阻断/v/O 中国/ns/B-country 进出口/v/O
+外媒/n/B-nt ：/wp/TRIG 中国/ns/B-country 版/n/O B-2/ws/B-dev 遇/v/O 困境/n/O 难/a/O 超音速/d/O 突防/v/O 何时/r/O 成军/n/O ？/wp/O
+越/j/B-nt 军方/n/I-nt 称/v/TRIG 其/r/O 南海/ns/B-ns 政策/n/O 不/d/O 变/v/O 将/d/O 邀/v/O 中国/ns/B-country 军舰/n/B-dev 访/v/TRIG 金兰湾/ns/B-ns
+中/j/B-country 美/j/B-country 在/p/O 香会/n/B-nt 降低/v/O 调门/n/O 日本/ns/B-country 火上浇油/i/O 从中/d/O 渔利/v/O
+中/j/B-country 美/j/B-country 战略/n/O 与/p/O 经济/n/O 对话/v/O 今天/nt/O 开幕/v/O 双方/n/O 都/d/O 希望/v/TRIG 管控/j/O 分歧/n/O
+印度/ns/B-country 限制/v/O 官员/n/B-nt 使用/v/O 智能/n/O 手机/n/O 因/p/O 中国/ns/B-country 黑客/n/B-role “/wp/O 水平/n/O 高/a/O ”/wp/O
+五角大楼/n/B-nt 报告/n/O ：/wp/TRIG 中国/ns/B-country 或/c/O 在/p/O 太平洋/ns/B-ns 开展/v/O 核威慑/n/O 巡逻/v/TRIG
+美刊/n/O ：/wp/TRIG 3/m/O 场/q/O 战争/n/O 见证/n/O 俄军/j/B-nt 崛起/v/O 北极/ns/B-ns 中亚/ns/B-ns 是/v/O 安全/a/O 重点/n/O
+以/p/O 军花/n/O 20亿/m/O 美元/q/O 打/v/O 地/u/O 道战/v/O ：/wp/TRIG 高/a/O 技术/n/O 围栏/n/O 会/v/O 自动/d/O 开火/v/O
+FC-31/ws/B-dev 是/v/O 巴铁五代机/n/O 的/u/O 最/d/O 大/a/O 希望/v/TRIG ？/wp/O 情况/n/O 没/d/O 这么/r/O 乐观/a/O
+中国/ns/B-country 或/c/O 正/d/O 部署/v/TRIG 反导/v/B-dev 系统/n/I-dev 俄军/j/B-nt 试射/v/TRIG 实弹/n/O 争取/v/O 合作/v/TRIG
+美媒/j/B-nt ：/wp/TRIG 美国/ns/B-country 不/d/O 签/v/TRIG 国际/n/O 海洋法/n/O 公约/n/O 没/v/O 底气/n/O 指责/v/TRIG 中国/ns/B-country
+凤凰/n/O 军评/n/O ：/wp/TRIG 警惕/v/O 南海/ns/B-ns 新阴/ns/O 谋/v/O 日本/ns/B-country 疑/v/O 向/p/O 越南/ns/B-country 推销/v/TRIG 苍龙/n/B-dev
+以/p/O 小博大/j/O 日/j/B-country 越/d/B-country 潜艇/n/B-dev 能/v/O 给/p/O 中国/ns/B-nt 海军/n/I-nt 造成/v/O 多/d/O 大/a/O 麻烦/a/O ？/wp/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 歼/v/B-dev 10/m/I-dev 战机/n/I-dev 东海/ns/B-ns “/wp/O 不/d/O 安全/a/O ”/wp/O 拦截/v/TRIG 美/j/B-country 侦察机/n/B-dev
+美国/ns/B-country 两/m/O 艘/q/O 航母/n/B-dev 即将/d/O 开进/v/O 南海/ns/B-ns 中国/ns/B-country 应该/v/TRIG 提早/d/O 应/v/TRIG 对/v/O
+日媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 能/v/O 派/v/O 上百/m/O 海/n/B-dev 警船/n/I-dev 赴/v/TRIG 钓鱼岛/ns/B-ns 远/a/O 超/v/O 日本/ns/B-country
+日/j/B-country 专家/n/B-role 模拟/v/O 南海/ns/B-ns 大战/n/O ：/wp/TRIG 中国/ns/B-country 导弹/n/B-dev 黄岩岛/ns/B-ns 全歼/v/O 美军/j/B-nt
+L15/ws/B-dev 国产/b/I-dev 引擎/n/I-dev 重大/a/O 突破/v/O 歼/v/B-dev -20/m/I-dev 配套/v/O 军机/n/B-dev 进度/n/O 超/v/O 美/a/B-country
+卡特/nh/B-nr 威胁/v/TRIG 在/p/O 南海/ns/B-ns 周边/n/O 部署/v/TRIG B52/ws/B-dev 直接/a/O 对/p/O 华发/nz/O 军事/n/O 警告/v/TRIG
+专家/n/B-role ：/wp/TRIG 运/v/B-dev -20/m/I-dev 具备/v/O 后发/v/O 优势/n/O 技术/n/O 含量/n/O 居/v/O 第一/m/O 梯队/n/O
+外媒/n/B-nt ：/wp/TRIG IS/ws/B-nt 在/p/O 土叙/j/B-ns 边境/nl/I-ns 加强/v/TRIG 攻势/n/O 战火/n/O 烧/v/O 至/v/O 土耳其/ns/B-country
+外媒/n/B-nt ：/wp/TRIG 泰国/ns/B-country 考虑/v/O 购买/v/TRIG 日本/ns/B-country P-1/ws/B-dev 巡逻机/n/I-dev 及/c/O US-2/ws/B-dev 侦察机/n/I-dev
+美媒/j/B-nt ：/wp/TRIG 无法/v/O 打破/v/O 物理/n/O 法则/n/O 限制/v/O 美国/ns/B-country 将/d/O 放弃/v/TRIG 电磁炮/n/B-dev
+中国/ns/B-country 驻/v/B-role 印尼/ns/I-role 大使/n/I-role ：/wp/TRIG 菲/j/B-country 单方面/d/O 提出/v/TRIG 仲裁/v/O 不/d/O 守信不讲理/a/O
+埃航/j/B-nt 飞往/v/O 北京/ns/B-ns 客机/n/B-dev 炸弹/n/B-dev 威胁/v/TRIG 系/v/O 假/a/O 消息/n/O 将/d/O 恢复/v/TRIG 飞行/v/O
+运送/v/O 中国/ns/B-country 维和/j/O 牺牲/v/O 战士/n/B-role 灵柩/n/O 的/u/O 飞机/n/B-dev 从/p/O 马里/ns/B-country 起飞/v/O 回国/v/O
+凤凰/n/O 军评/n/O ：/wp/TRIG 歼/v/B-dev 31/m/I-dev 濒临/v/O 无用/v/O 战机/n/B-dev 动力/n/O 设计/v/O 需/v/O 推倒/v/O 重/d/O 来/v/O
+军武/j/O 次位面/n/O ：/wp/TRIG 从/p/O 球场/n/O 到/p/O 战场/n/O 英德/ns/O 百年/m/O 恩仇录/n/O
+独家/n/O ：/wp/TRIG 长征/n/O 5/m/O 大/a/O 火箭/n/B-dev 为何/r/O 采用/v/O 两/m/O 种/q/O 发动机/n/O 与/p/O 六/m/O 个/q/O 构型/n/O
+“/wp/O 中航/j/O 国际/n/O ”/wp/O 杯/n/O 遥控/v/O 飞行器/n/O 竞速/n/O 大奖赛/n/O 重庆/ns/B-ns 站/n/O 落幕/v/O
+外媒/n/B-nt ：/wp/TRIG 过半/v/O 澳/j/B-country 民众/n/B-role 视/v/O 中国/ns/B-country 为/v/O 亚洲/ns/B-ns 老大美/n/O 已/d/O 成/v/O 过去/nt/O
+美/j/B-nt 日/j/I-nt 同盟/n/I-nt 危害/v/O 亚太/j/B-ns 和平/n/O 中/j/B-country 俄/j/B-country 若/j/O 合作/v/TRIG 将/d/O 是/v/O 日本/ns/B-country 噩梦/n/O
+苏联/ns/B-country 曾/d/O 实施/v/O 河马/n/O 行动/v/O ：/wp/TRIG 核潜艇/n/B-dev 3/m/O 分钟/q/O 内/nd/O 连/d/O 射/v/O 16/m/O 枚/q/O 导弹/n/B-dev
+台湾/ns/B-nt 军方/n/I-nt 称/v/TRIG 将/d/O 运/v/O 4万/m/O 枚/q/O 炮弹/n/B-dev 至/p/O 太平岛/ns/B-ns 被/p/O 指/v/O 泄密/v/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 崛起/v/O 是/v/O 隐忧/n/O 美军/j/B-nt 重新/d/O 学习/v/O 正规/a/O 作战/v/TRIG
+捷克/ns/B-country 测试/v/O 新/a/O 战场/n/O 掩体/n/O 外形/n/O 犹如/v/O 冰屋/n/O 又/d/O 小/a/O 又/d/O 萌/a/O
+美/j/B-country 威胁/v/TRIG 在/p/O 南海/ns/B-ns 部署/v/TRIG B52/ws/B-dev 中国/ns/B-country 也/d/O 使/v/O 出/v/O 了/u/O 祖传/n/O 杀手/n/O 锏/n/O
+到底/d/O 怎么/r/O 了/u/O ？/wp/O 四/m/O 支/q/O 顶级/b/O 飞行/v/O 表演队/n/O 接连/d/O 发生/v/O 坠机/n/O
+印度/ns/B-nt 海军/n/I-nt 航母/n/B-dev 维护/v/TRIG 时/n/O 发生/v/O 毒气/n/O 泄漏/v/O 致/v/O 两/m/O 死/v/O 两/m/O 入院/v/O
+美国/ns/B-country 成功/a/O 发射/v/TRIG 一/m/O 枚/q/O 秘密/a/O 间谍/n/B-role 卫星/n/B-dev 增强/v/O 美/j/B-country 监控/v/O 能力/n/O
+名家/n/B-role 谈/v/TRIG 南海/ns/B-ns │/n/O 李杰/nh/B-nr ：/wp/TRIG 南海/ns/B-ns 的/u/O 价值/n/O ，/wp/O 有些/r/O 你/r/O 还/d/O 不/d/O 知道/v/O
+三/m/O 架/q/O 歼/v/B-dev -20/m/I-dev 同时/d/O 试飞/v/O 卫星/n/B-dev 照/n/O 曝光/v/TRIG 两/m/O 架/q/O 银色/n/O 一/m/O 架/q/O 黑色/n/O
+中国/ns/B-country 094型/b/B-dev 核潜艇/n/I-dev 打开/v/O 核弹/n/B-dev 发射井/n/O 画面/n/O 罕见/a/O 曝光/v/TRIG
+专家/n/B-role ：/wp/TRIG 运/v/B-dev -20/m/I-dev 已/d/O 完成/v/O 研制/v/O 工作/v/O 有望/v/O 年内/nt/O 正式/a/O 服役/v/O
+美媒/j/B-nt ：/wp/TRIG 美军/j/B-nt 犯/v/O 致命/v/O 失误/v/O 杀/v/O 出/v/O 条/q/O 血/n/O 路/n/O 才/d/O 能/v/O 支援/v/TRIG 台湾/ns/B-ns
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 仅/d/O 是/v/O 地区性/n/O 大国/n/O 军力/n/O 比/p/O 美国/ns/B-country 差/v/O 得/u/O 远/a/O
+菲/j/B-nt 青年团/n/I-nt 欲/d/O 登黄岩岛/v/O 插/v/O 国旗/n/O 被/p/O 中国/ns/B-country 海警/n/B-dev 船/n/I-dev 拦截/v/TRIG
+专家/n/B-role ：/wp/TRIG 印度/ns/B-nt 海军/n/I-nt 深陷日/nt/O 反/v/O 华/j/B-country 想/v/O 定/v/O 被/p/O 日本/ns/B-country 当/v/O 枪/n/O 使/v/O
+日媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 大型/b/O 海警/n/B-dev 船/n/I-dev 超/v/O 日本/ns/B-country 逆转/v/O 东海/ns/B-ns 力量/n/O 对比/v/O
+专家/n/B-role ：/wp/TRIG 中/j/B-country 菲/j/B-country 高层/n/B-role 释放/v/TRIG 善意/n/O 菲/j/B-country 可/v/O 停止/v/TRIG 仲裁/v/O 与/p/O 华/j/B-country 谈判/v/TRIG
+杜文龙/nh/B-nr ：/wp/TRIG 歼/v/B-dev -20/m/I-dev 研发/v/O 速度/n/O 超/v/O 美/j/B-country 俄/j/B-country 美/j/B-country 将/d/O 研制/v/O 六代机/n/B-dev
+专家/n/B-role ：/wp/TRIG 西方/nl/B-nt 多/a/I-nt 国/n/I-nt 欲/d/O 派/v/O 舰/n/B-dev 赴/v/TRIG 南海/ns/B-ns 或/c/O 现/nt/O 新/a/O 八国联军/n/O
+俄/j/B-dev 舰/n/I-dev 驶/v/O 近/a/O 钓鱼岛/ns/B-ns 令/v/O 日本/ns/B-country 不安/a/O 俄/j/B-country 回应/v/TRIG 只是/v/O “/wp/O 路过/v/O ”/wp/O
+巨资/n/O 研发/v/O 仅/d/O 装/v/O 6/m/O 门/q/O ？/wp/O 美军/j/B-nt 不/d/O 下马/v/O 电磁炮/n/B-dev 才/d/O 是/v/O 脑子/n/O 进/v/O 水/n/O
+为何/r/O 爱/v/O 画海/n/O ？/wp/O 画家/n/B-role 曾/d/O 是/v/O 水兵/n/B-role
+战鹰/n/B-dev 进化史/n/O 看/v/O “/wp/O 青涩/a/O 少年/n/O ”/wp/O 如何/r/O 变/v/O “/wp/O 男神/n/O ”/wp/O
+巴黎/ns/B-ns 恐袭者/n/B-role 网上/nl/O 炫耀/v/TRIG 武器/n/B-dev 金钱/n/O
+陆军/n/B-nt 主战/n/B-dev 坦克/n/I-dev 东北/nl/B-ns 大地/n/O 纵横驰/i/O 奔练/v/O 机动/a/O
+为何/r/O 美国/ns/B-nt “/wp/O 飞虎队/nz/I-nt ”/wp/O 战斗机/n/B-dev 上/nd/O 印/v/O 的/u/O 是/v/O 鲨鱼/n/O 图案/n/O ？/wp/O
+“/wp/O 天河/nz/B-dev 二/m/I-dev 号/q/I-dev ”/wp/O 成为/v/O 首/m/O 台/q/O 连续/a/O 六/m/O 次/q/O 排名/v/O 全球/n/O 第一/m/O 的/u/O 超级/b/B-dev 计算机/n/I-dev
+“/wp/O 伊斯兰国/nz/B-nt ”/wp/O 发布/v/O 视频/n/O 威胁/v/TRIG 美国/ns/B-country 称/v/TRIG 将/d/O 袭击/v/TRIG 华盛顿/ns/B-ns
+对/p/O 抗战/v/O 红方/n/O ：/wp/TRIG 我们/r/O 像/p/O 透明/a/O 的/u/O 被/p/O 蓝方/n/O 追/v/O 打/v/O 特别/d/O 窝囊/a/O
+诸葛亮/nh/B-nr 手下/n/O 最/d/O 神秘/a/O 的/u/O 一/m/O 支/q/O 王牌/n/B-nt 部队/n/I-nt ：/wp/TRIG 无/v/B-nt 当/v/I-nt 飞军/n/I-nt
+做好/v/O 退役/v/B-role 士兵/n/I-role “/wp/O 嘉奖/v/O ”/wp/O 加/v/O 分/v/O 工作/v/O
+军报/n/B-nt ：/wp/TRIG 陆军/n/B-nt 应有/v/O 激光/n/B-dev 电磁武器/n/I-dev 向/p/O 远程/n/O 无/v/O 人/n/O 隐形/b/O 发展/v/O
+简氏/nh/O ：/wp/TRIG 中国/ns/B-country 正/d/O 形成/v/O 全球/n/O 快速/d/O 打击/v/TRIG 能力/n/O 进度/n/O 或/c/O 超/v/O 美国/ns/O
+舰艇/n/B-dev 广播/v/O 十/m/O 宗/q/O “/wp/O 最/d/O ”/wp/O ，/wp/O 上/v/O 过/u/O 军舰/n/B-dev 的/u/O 人/n/O 都/d/O 知道/v/O
+组/n/O 图/n/O ：/wp/TRIG 菲律宾/ns/B-country 用/p/O 古董/n/B-dev 武器/n/I-dev 护卫/v/O APEC/ws/B-nt 会议/n/I-nt
+中国/ns/B-country 电磁/n/B-dev 发射/v/I-dev 技术/n/I-dev 获/v/O 突破性/n/O 进展/v/O 杀伤力/n/O 具/v/O 革命性/n/O
+“/wp/O 雄鹰/n/O 之/u/O 翼/n/O ”/wp/O 助力/b/O 空降兵/n/B-role “/wp/O 展翅/v/O 高/a/O 飞/v/O ”/wp/O
+空军/n/B-nt 某/r/O 雷达站/n/B-dev —/wp/O 10/m/O ℃/q/O 锤炼/v/O 高原/n/B-ns “/wp/O 千/m/O 里/q/O 眼/n/O ”/wp/O
+波兰/ns/B-nt 海军/n/I-nt 突击队/n/I-nt 配/v/O 一/m/O 水德制/n/B-dev 枪械/n/I-dev
+美军/j/B-nt 轰炸/v/TRIG IS/ws/B-nt 导弹/n/B-dev 上/nd/O 写/v/O “/wp/O 来自/v/O 巴黎/ns/B-ns 的/u/O 爱/v/O ”/wp/O
+北京/ns/B-nt 军区/n/I-nt 组织/v/O 医疗/n/B-nt 分队/n/I-nt 服务/v/O 革命/v/O 老区/n/O 树/v/O 起/v/O 人民/n/O 军医/n/B-role 好/a/O 样子/n/O
+空军/n/B-nt 总医院/n/I-nt 与/p/O 四季青/nz/B-nt 医院/n/I-nt 联合/v/O 举办/v/O “/wp/O 世界/n/O 慢阻/v/O 肺日/n/O ”/wp/O 义诊/v/O 活动/v/O
+军医/n/B-role 提醒/v/O ：/wp/TRIG 寒冷/a/O 季节/n/O 谨防/v/O 消化/v/O 道/n/O 出血/v/O
+军医/n/B-role 提醒/v/O ：/wp/TRIG 看/v/O 牙前/nt/O 应/v/TRIG 注意/v/O 的/u/O 那些/r/O “/wp/O 小/a/O ”/wp/O 事/n/O
+无人机/n/B-dev 偶遇/v/O 战斗机/n/B-dev “/wp/O 黑飞/j/O ”/wp/O 成风/v/O 监管/v/O 待/v/O “/wp/O 补课/v/O ”/wp/O
+坠毁/v/O 歼/v/B-dev 10/m/I-dev 战机/n/I-dev 负伤/v/O 飞行员/n/B-role 时隔/v/O 50/m/O 天/q/O 重返/v/TRIG 蓝天/n/O (/wp/O 图/n/O )/wp/O
+军人/n/B-role 军嫂/n/B-role 秀/a/O 恩爱/n/O 合影/v/O ：/wp/TRIG 蓝天/n/O 碧海/n/O 唯美/a/O 瞬间/nt/O
+巴黎/ns/B-ns 恐袭/v/TRIG 悼念/v/O 现场/nl/O 假/a/O 警报/n/O 引/v/O 恐慌/a/O 人群/n/O 四/m/O 散/v/O 奔/v/O 逃/v/O
+组图/n/O ：/wp/TRIG 巴基斯坦/ns/B-ns ZDK03/ws/B-dev 预警机/n/B-dev 内部/nd/O 罕见/a/O 曝光/v/TRIG
+第13/m/B-nt 军/n/I-nt 老牌/b/O 红军/n/B-nt 师/n/I-nt 大量/m/O 新锐/n/B-dev 装备/n/I-dev 激战/v/TRIG 雪域/n/O 高原/n/B-ns
+多/a/O 地/u/O 亮/v/O “/wp/O 法国/ns/B-country 色/n/O ”/wp/O 悼念/v/O 巴黎/ns/B-ns 恐袭/v/TRIG
+日/j/B-country 专家/n/B-role ：/wp/TRIG 中国/ns/B-country 武器/n/B-dev 实战/n/O 难/a/O 发挥/v/O 作用/n/O 与/p/O 美/j/B-country 日/j/B-country 差距/n/O 很/d/O 大/a/O
+武警/n/B-nt 战士/n/B-role 水中/nl/O 搏杀/v/O 摸/v/O 爬/v/O 滚/v/O 打/v/O 比赛/v/O 扛/v/O 圆木/n/O (/wp/O 图/n/O )/wp/O
+组/n/O 图/n/O ：/wp/TRIG 比利时/ns/B-nt 警方/n/I-nt 抓获/v/TRIG 一/m/O 名/q/O 巴黎/ns/B-ns 恐袭/v/TRIG 嫌疑人/n/B-role
+中国/ns/B-country 赴/v/TRIG 利比里亚/ns/B-country 维和部队/n/B-nt 运输/v/I-nt 大队/n/I-nt ：/wp/TRIG 艰苦/a/O ，/wp/O 却/d/O 不辱使命/i/O
+残酷/a/O 的/u/O 战争/n/O 武器/n/B-dev ：/wp/TRIG 美/j/B-country 苏/j/B-country “/wp/O 蝴蝶/n/O ”/wp/O 非致命/b/O 地雷/n/B-dev
+解放军/n/B-nt 战机/n/B-dev 闹市/n/B-ns 上空/nl/I-ns 险撞/n/O 无人机/n/B-dev 最近/nt/O 仅/d/O 距/v/O 百/m/O 米/q/O
+组/n/O 图/n/O ：/wp/TRIG 浙江/ns/B-ns 丽水/ns/B-ns 山体/n/O 滑坡/v/O 救援/v/B-role 犬/n/I-role 负伤/v/O 仍/d/O 坚持/v/O 搜救/v/O
+韩国/ns/B-country 即将/d/O 量产/v/O 105/m/B-dev 毫米/q/I-dev 卡车/n/I-dev 炮/n/I-dev 拟/v/O 2017年/nt/O 列装/n/O (/wp/O 图/n/O )/wp/O
+墨西哥/ns/B-nt 孤儿院/n/I-nt 小朋友/n/B-role 参观/v/O 中国/ns/B-nt 海军/n/I-nt 和平/n/B-dev 方舟/nz/I-dev 医院/n/I-dev 船/n/I-dev
+组/n/O 图/n/O ：/wp/TRIG 美国/ns/B-country 军舰/n/B-dev 访问/v/TRIG 上海/ns/B-ns
+美/j/B-nt 海军/n/I-nt 宙斯盾/n/B-dev 驱逐舰/n/I-dev 首/m/O 访/v/TRIG 上海/ns/B-ns 将/d/O 与/p/O 中国/ns/B-nt 海军/n/I-nt 联合/v/O 演练/v/O
+常万/nh/B-nr 全/d/I-nr 与/p/O 马里/ns/B-country 国防部长/n/B-role 举行/v/TRIG 会谈/v/O
+世界/n/O 最/d/O 大/a/O 黑客/n/B-nt 组织/v/I-nt “/wp/O 匿名者/n/O ”/wp/O 对/p/O IS/ws/B-nt 宣战/v/O ：/wp/TRIG 等/v/O 着/u/O 瞧/v/O
+美媒/j/B-nt 称/v/TRIG 中国/ns/B-country 努力/a/O 外销/v/O 歼/v/B-dev 31/m/I-dev ：/wp/TRIG 或/c/O 用/p/O 国产/b/v-dev 发动机/n/I-dev
+复仇/v/O ！/wp/O 俄/j/B-country 驻/v/O 叙利亚/ns/B-country 苏/j/B-dev 30SM/ws/I-dev 对/p/O 地/u/O 攻击/v/TRIG 首/m/O 曝光/v/TRIG (/wp/O 图/n/O )/wp/O
+坠毁/v/O 歼/v/B-dev 10/m/B-dev 战机/n/B-dev 负伤/v/O 飞行员/n/B-role 时隔/v/O 50/m/O 天/q/O 重返/v/TRIG 蓝天/n/O (/wp/O 图/n/O )/wp/O
+奢华/a/O 视觉/n/O 享受/v/O ：/wp/TRIG 中国/ns/B-nt 空军/n/I-nt 歼/v/B-dev 11B/m/I-dev 战机/n/I-dev 写真/v/O 大片/n/O
+美/j/B-country 航母/j/B-dev 南海/ns/B-ns 附近/nd/I-ns 实战/n/O 训练/v/O 战机/n/B-dev 频繁/a/O 起飞/v/O
+西藏/ns/B-nt 军区/n/I-nt 紧急/a/O 出动/v/TRIG 由/p/O “/wp/O 概略/n/O 瞄准/v/O ”/wp/O 走向/v/O “/wp/O 精确/a/O 打击/v/TRIG ”/wp/O
+学/v/O 雷锋/nh/B-nr 传人/n/O 与/p/O 湖南/ns/B-ns 长沙/ns/B-nt 雷锋/nh/I-nt 小学/n/I-nt 少先队员/n/B-role 共度/v/O "/wp/O 六一/m/O "/wp/O
+歼11/nz/B-dev 战机/n/I-dev 演习/v/TRIG 机库/n/O 多/a/O 到/v/O 数/v/O 不/d/O 清/a/O
+印度/ns/B-country 大型/b/O 军火库/n/B-dev 发生/v/O 火灾/n/O 导致/v/O 17/m/O 人/n/O 遇难/v/O 19/m/O 人/n/O 受伤/v/O
+英国/ns/B-country 一/m/O 架/q/O 轻型/b/B-dev 飞机/n/I-dev 坠毁/v/O 致/v/O 2/m/O 人/n/O 死亡/v/O
+天女散花/i/O ：/wp/TRIG 军机/n/B-dev 释放/v/TRIG 干扰/v/B-dev 弹/v/I-dev 对比/v/O
+日媒/j/B-nt ：/wp/TRIG 美军/j/B-nt 没/v/O 钱/n/O 造/v/O 更/d/O 多/a/O 潜艇/n/B-dev 欲/d/O 用/v/O 技术/n/O 优势/n/O 对抗/v/TRIG 中国/ns/B-country
+外媒/n/B-nt ：/wp/TRIG 印法/n/B-country 阵风/n/B-dev 交易/v/O 还/d/O 在/p/O 扯皮/v/O 谈/v/TRIG 成/v/O 可能性/n/O 不/d/O 大/a/O
+俄媒/j/B-nt ：/wp/TRIG 美军/j/B-nt 要/v/O 用/p/O 电磁炮/n/B-dev 对付/v/O 中国/ns/B-country ？/wp/O 只/d/O 是/v/O 场/q/O 心理战/n/O
+美/j/B-country 警察/n/B-role 巡逻车/n/B-dev 装备/n/O 精良/a/O 全面/a/O 配/v/O 猎枪/n/B-dev 和/c/O 步枪/n/B-dev （/wp/O 组图/n/O ）/wp/O/O
+外媒/n/B-nt ：/wp/TRIG 美军/j/B-nt 空袭/v/TRIG 支援/v/TRIG 下/v/O 伊拉克/ns/B-nt 军队/n/I-nt 攻/v/O 入/v/O IS/ws/B-ns 重镇/n/I-ns 南部/nd/I-ns
+伊拉克/ns/B-nt 空军/n/I-nt ：/wp/TRIG 消灭/v/O “/wp/O 伊斯兰国/ns/B-nt ”/wp/O 7/m/O 名/q/O 头目/n/B-role
+眼/n/O 观/v/O 八/m/O 方/q/O ！/wp/O 军报/n/B-nt 曝光/v/TRIG 国产/b/B-dev 夜视仪/n/I-dev 成像/v/O 图/n/O (/wp/O 组图/n/O )/wp/O
+美媒/j/B-nt :/wp/TRIG 中国/ns/B-country 尖端/b/O 武器/n/B-dev “/wp/O 井喷/v/O ”/wp/O 令/v/O 美/j/B-country 忌惮/j/O 已/d/O 威胁/v/TRIG 美/j/B-ns 本土/n/I-ns
+美媒/j/B-nt :/wp/TRIG "/wp/O 爱国者/n/O "/wp/O 难挡/v/O 中国/ns/B-country 先进/a/O 导弹/n/B-dev 只能/v/O 靠/p/O 激光/n/B-dev 武器/n/I-dev
+美媒/j/B-nt 称/v/TRIG 中国/ns/B-country “/wp/O 航母/j/B-dev 杀手/n/I-dev ”/wp/O 仍/d/O 在/d/O 改进/v/O ：/wp/TRIG 小型/b/B-dev 战舰/n/I-dev 也/d/O 难/a/O 逃/v/O
+华盛顿/ns/B-ns 举行/v/TRIG 阵亡/v/B-role 将士/n/I-role 纪念日/n/O 游行/v/TRIG （/wp/O 组图/n/O ）/wp/O
+“/wp/O 蓝色/n/O 突击/v/O 2016/m/O ”/wp/O 陆上/nl/O 联合/v/O 训练/v/O 见闻/n/O ：/wp/TRIG 行不行/v/O 由/p/O 战场/n/O 决定/n/O
+中国/ns/B-nt 海军/n/I-nt 第二十二/m/I-nt 批/q/I-nt 护航编队/n/I-nt 访问/v/TRIG 坦桑尼亚/ns/B-country
+陈赓大/nh/B-nr 将/d/O 让房/v/O 给/v/O 专家/n/B-role 自/r/O 住/v/O 小/a/O 平房/n/O
+俄/j/B-country 外长/n/B-role 说/v/TRIG 恢复/v/TRIG 俄/j/B-country 土/j/B-country 关系/n/O 需/v/O 土方/n/B-country 就/d/O 击落/v/TRIG 俄战机/n/B-dev 一/m/O 事/n/O 道歉/v/TRIG
+女空/n/B-role 降兵/v/I-role 背/v/O 上百/m/O 斤/q/O 大半天/m/O 下巴磕伞刀/q/O 流血/v/O 还/d/O 跳伞/v/O
+你/r/O 没/d/O 见/v/O 过/u/O 的/u/O 战舰/n/B-dev 干扰弹/n/I-dev 发射/v/TRIG 瞬间/nt/O
+预备役/n/B-nt 步兵师/n/I-nt 为啥/r/O 要/v/O 研发/v/O 机器人/n/B-dev 战士/n/B-role ？/wp/O
+雷锋/nh/B-nr 传人/n/B-role 谢正谊/nh/B-nr 开设/v/O 雷锋/nh/B-nt 班/n/I-nt 微博/v/O 粉丝/n/O 数百万/m/O
+"/wp/O 标兵/n/B-role "/wp/O 霸气/n/O ：/wp/TRIG 驾驭/v/O 8/m/O 种/q/O 车型/n/O 操作/v/O 36/m/O 种/q/O 通信/v/B-dev 装备/n/I-dev
+新兵/n/B-role 3/m/O 个/q/O 月/n/O 练成/v/O 重机枪/n/B-dev 神/n/B-role 枪手/n/I-role 雨/n/O 雾/n/O 中/nd/O 28/m/O 发/q/O 命中/v/O 19/m/O 发/q/O
+重温/v/O 入党/v/O 仪式/n/O ，/wp/O 这/r/O 11/m/O 名/q/O 老/a/O 党员/n/B-role 平均/a/O 党龄/n/O 7/m/O 1/m/O 年/q/O
+智取/v/O 日军/n/B-nt 据点/n/I-nt ，/wp/O 他们/r/O 送/v/O 去/v/O “/wp/O 铁/n/O 元宵/n/O ”/wp/O 和/c/O “/wp/O 长眠/v/O 药/n/O ”/wp/O
+小/a/O 难民/n/B-role 无处/d/O 安放/v/O 的/u/O 童年/nt/O
+勇士/n/B-role 军车/n/B-dev 走钢丝/i/O ！/wp/O 看/v/O 我军/n/B-nt 战士/n/B-role 如何/r/O 开/v/O 卡车/n/B-dev 玩/v/O 漂移/v/O
+神兵/n/B-role 从天而降/i/O ！/wp/O 王牌/n/O 38军/n/B-nt 特种/b/B-role 兵/n/I-role 伞/n/O 降/v/O 破袭/v/O 敌后/nl/O
+韩媒/nh/B-nt 称/v/TRIG 朝鲜/ns/B-country 试射/v/TRIG 导弹/n/B-dev 失败/v/O
+塔利班/nz/B-nt 在/p/O 阿富汗/ns/B-ns 北部/nd/I-ns 劫持/v/TRIG ４５/m/O 名/q/O 乘客/n/B-role 射杀/v/O １６/m/O 人/n/O
+斯诺登/nh/B-nr 披露/v/TRIG “/wp/O 棱镜/n/O ”/wp/O 美/j/B-country 前/a/B-role 司法部长/n/I-role 认为/v/O 其/r/O 有功/v/O 有/v/O 过/u/O
+中国/ns/B-nt 空军/n/I-nt ：/wp/TRIG 歼/v/B-dev 20/m/I-dev 尚未/d/O 装备/v/O 空军/n/B-nt 部队/n/I-nt 正/d/O 试验/v/O 和/c/O 试飞/v/O
+俄/j/B-country 未来/nt/O 5/m/O 年/q/O 国防/n/O 军工/n/O 计划/n/O 拨款/v/O 约/d/O 253亿/m/O 美元/q/O
+马里/ns/B-ns 维和/j/I-ns 营地/n/I-ns 遇袭/v/TRIG 已/d/O 致/v/O 1/m/O 死/v/O 3/m/O 重伤/n/O 驻/v/O 有/v/O 中国/ns/B-country 维和人员/n/B-role
+喷火/v/O 怒射/v/O ！/wp/O 新疆/ns/B-ns 边防/n/B-role 官兵/n/I-role 坐/v/O 打/v/O 高射机枪/n/B-dev
+俄/j/B-country 专家/n/B-role ：/wp/TRIG 中国/ns/B-country 能/v/O 在/p/O 未来/nt/O 10/m/O 年/q/O 内/nd/O 将/p/O 航天员/n/B-role 送/v/O 上/v/O 月球/n/B-ns
+歼10/nz/B-dev 首席/n/B-role 试飞员/n/I-role 寻/v/O 救命恩人/n/B-role 29/m/O 年/q/O 前/nd/O 坠落/v/O 云南/ns/B-ns 大山/n/I-ns
+军报/n/B-nt 谈/v/TRIG 新/a/O 旧/a/O 体制/n/O 转换/v/O ：/wp/TRIG 过去/nt/O 那/r/O 一/m/O 套/q/O 再/d/O 顺手/d/O 也/d/O 要/v/O 转/v/O
+海军/n/B-nt 某/r/O 试验/v/B-ns 基地/n/I-ns 把/p/O 准/a/B-role 官兵/n/I-role 思想/n/O 脉搏/n/O 展开/v/O 主题/n/O 教育/v/O 活动/v/O
+赴/v/B-role 南苏丹/ns/I-role 维和/j/I-role 官兵/n/I-role 儿童节/nt/O 万/m/O 里/q/O 寄语/v/O 子女/n/O
+海军/n/B-nt 总医院/n/I-nt 读/v/O 经典/n/O 讲/v/O 传统/n/O 深化/v/O “/wp/O 两/m/O 学/v/O 一/m/O 做/v/O ”/wp/O
+一切/r/O 为了/p/O 老区/n/O 人民/n/O ——/wp/O 武警/n/B-nt 部队/n/I-nt 左权县/ns/B-ns 精准/a/O 扶贫/v/O 记事/v/O
+马里/ns/B-ns 维和/j/I-ns 营区/n/I-ns 遇袭/v/TRIG ：/wp/TRIG 中国/ns/B-nt 蓝盔/n/I-nt 在/p/O 坚守/v/O
+解放军/n/B-nt 演习/v/TRIG 雨/n/O 中/nd/O 打/v/O 火箭炮/n/B-dev
+提前/v/O 领略/v/O 中国/ns/B-country 095A/ws/B-dev 核潜艇/n/I-dev 风采/n/O
+安理会/j/B-nt 谴责/v/TRIG 朝鲜/ns/B-country 再次/d/O 试射/v/TRIG 导弹/n/B-dev
+中国/ns/B-nt 第四/m/I-nt 支/q/I-nt 驻/v/I-nt 利比里亚/ns/I-nt 维和/j/I-nt 警察/n/I-nt 防暴队/ni/I-nt 展开/v/O 应急/v/O 处/n/O 突/d/O 演练/v/O
+俄罗斯/ns/B-country 大/a/O 火箭/n/B-dev 发动机/n/I-dev 密密麻麻/z/O
+由/p/O “/wp/O 死敌/n/O ”/wp/O 到/p/O “/wp/O 伙伴/n/O ”/wp/O ，/wp/O 美/j/B-country 越/j/B-country 军事/n/O 合作/v/TRIG 能/v/O 走/v/O 多/d/O 远/a/O
+欧洲/ns/B-ns 导弹/n/B-dev 防御/v/I-dev 系统/n/I-dev 部署/v/TRIG 到/v/O 家门口/n/O ，/wp/O 俄罗斯/ns/B-country 怎么办/r/O
+高清/nh/O :/wp/TRIG 俄军/j/B-nt 将/p/O 苏/j/B-dev 34/m/I-dev 战机/n/I-dev 部署/v/TRIG 远东/ns/B-ns 地区/n/I-ns
+美媒/j/B-nt :/wp/TRIG 潜艇/n/B-dev 将/d/O 成/v/O 美军/j/B-nt 航母/j/B-dev 杀手/n/I-dev 可/v/O 在/p/O 公海/n/B-ns 突击/v/O 水面/n/B-dev 舰艇/n/I-dev
+国产/b/B-dev 彩虹/n/I-dev 4/m/I-dev 无人机/n/I-dev 实现/v/O 千/m/O 里/q/O 外/nd/O 遥控/v/O 杀敌/v/O 打击/v/TRIG 精度/n/O 提高/v/O
+中国/ns/B-country 驻/v/B-role 马里/ns/I-role 维和人员/n/I-role 遇袭/v/TRIG [/wp/O 图/n/O ]/wp/O
+芬兰/ns/B-country 居民/n/B-role 误/d/O 将/p/O 本国/r/O 军演/n/TRIG 当/v/O 外敌/n/O 入侵/v/TRIG 军方/n/B-nt ：/wp/TRIG 忘/v/O 了/u/O 通知/n/O
+维和部队/n/B-nt 该/v/O 如何/r/O 应对/v/O 恐怖/a/O 威胁/v/TRIG
+外媒/n/B-nt ：/wp/TRIG 中国/ns/B-country 是/v/O 维和/j/O 的/u/O 坚定/a/O 支持者/n/B-role 是/v/O 维和/j/O 行动/v/O 的/u/O 积极/a/O 参与者/n/B-role
+还/d/O 能/v/O 再/d/O 近/a/O 吗/u/O ？/wp/O 近/a/O 距/p/O 实拍/v/O 武装/n/B-dev 直升机/n/I-dev 发射/v/TRIG 导弹/n/B-dev 瞬间/nt/O
+红/a/O 蓝/a/O 对抗/v/TRIG 演练/v/O ：/wp/TRIG 装甲/b/B-nt 战斗/v/I-nt 群/n/I-nt 向/p/O “/wp/O 敌/n/O ”/wp/O 发起/v/O 攻击/v/TRIG
+北部/nd/B-nt 战区/n/I-nt 空军/n/I-nt ：/wp/TRIG “/wp/O 铁甲/n/O ”/wp/O 千/m/O 里/q/O 入/v/O 大漠/n/B-ns “/wp/O 战味/n/O ”/wp/O 扑面而来/i/O
+猛图/n/O 曝光/v/TRIG ！/wp/O 海军/n/B-nt 陆战队/n/I-nt 两栖/b/B-dev 装甲/b/I-dev 装备/n/I-dev 大海/n/O 驰骋/v/O
+造型/n/O 科幻/b/O 威力/n/O 惊人/a/O ：/wp/TRIG 盘点/v/O 全球/n/O 军用/b/B-dev 无人机/n/I-dev
+新华/nz/B-nt 国际/n/I-nt 时评/n/O ：/wp/TRIG 马里/ns/B-country 恐袭/v/TRIG 凸显/v/O 中国/ns/B-nt 蓝盔/n/I-nt 重要/a/O 使命/n/O
+远望/v/B-dev 5/m/I-dev 号/q/I-dev 跨越/v/O 领海/n/O 线/n/O 驶/v/O 向/p/O 海上/nl/O 测控/v/O 任务/n/O 海域/n/O
+塔利班/nz/B-nt 袭击/v/TRIG 阿富汗/ns/B-nt 法院/n/I-nt 致/v/O ９/m/O 死/v/O １３/m/O 伤/n/O
+泰国/ns/B-nt 军警/n/I-nt 清剿/v/O 南部/nd/B-nt 激进/a/I-nt 武装/n/I-nt
+鹰/n/O 击/v/O 天山/ns/O ！/wp/O 新疆/ns/B-nt 军区/n/I-nt 武直/j/B-dev 19/m/I-dev 昼夜/n/O 发射/v/TRIG 导弹/n/B-dev
+外交部/ni/B-nt 发言人/n/B-role 就/p/O 中国/ns/B-country 驻/v/B-role 马里/ns/I-role 维和人员/n/I-role 遇袭/v/TRIG 发表/v/O 谈话/n/O
+陈虎点/nh/O 兵/n/O |/v/O 彩虹/n/O 无人机/n/B-dev ：/wp/TRIG 装备/n/O 研发/v/O 领域/n/O 内/nd/O 的/u/O 一/m/O 条/q/O “/wp/O 鲶鱼/n/O ”/wp/O
+用/p/O 海军/n/B-nt 反恐/v/O ？/wp/O 土耳其/ns/B-country 举行/v/TRIG 史/n/O 上/nd/O 最/d/O 大/a/O 军演/n/TRIG
+美军/j/B-nt 航母/j/B-dev 舰员/n/B-role 激情/n/O 热舞/n/O
+加剧/v/O 地区/n/O 冲突/v/TRIG ？/wp/O 外媒/n/B-nt 称/v/TRIG 以色列/ns/B-country 新/a/O 防长/n/B-role 或/c/O 走/v/O 强硬/a/O 路线/n/O
+美/j/O 媒盘点/n/O 在/p/O 亚洲/ns/B-ns 那些/r/O “/wp/O 不/d/O 太/d/O 著名/a/O ”/wp/O 的/u/O 军事/n/B-dev 装备/n/I-dev
+外媒/n/B-nt 称/v/TRIG “/wp/O 基地/n/B-nt ”/wp/O 组织/n/I-nt 分支/n/I-nt 在/p/O 叙/j/B-country 崛起/v/O ：/wp/TRIG 也/d/O 想/v/O “/wp/O 建国/v/O ”/wp/O
+联合国/ni/B-nt ：/wp/TRIG 2/m/O 年/q/O 内/nd/O 针对/p/O 医疗/n/B-nt 机构/n/I-nt 袭击/v/TRIG 造成/v/O 近/a/O 千/m/O 人/n/O 丧生/v/O
+安理会/j/B-nt 谴责/v/TRIG “/wp/O 青年党/n/B-nt ”/wp/O 在/p/O 索马里/ns/B-country 制造/v/O 爆炸/v/TRIG 袭击/v/TRIG
+中国/ns/B-nt 海军/n/I-nt 将/d/O 派/v/O 舰艇/n/B-dev 参加/v/TRIG “/wp/O 环/v/O 太平洋/ns/O －2016/m/O ”/wp/O 演习/v/TRIG
+“/wp/O 95/nt/O 后/nd/O ”/wp/O 消防/b/B-role 战士/n/I-role 火场/n/O 单/b/O 手/n/O 拎/v/O 出/v/O 喷火/v/O 煤气罐/n/B-dev
+国防部/n/B-nt 维和/j/I-nt 事务/n/I-nt 办公室/n/I-nt 披露/v/TRIG 中国/ns/B-nt 赴/v/I-nt 马里/ns/I-nt 维和部队/n/I-nt 遇袭/v/TRIG 伤亡/v/TRIG 官兵/n/B-role 信息/n/O
+美军/j/B-nt 飞行/v/I-nt 表演队/n/I-nt 2/m/O 架/q/O 战机/n/B-dev 坠毁/v/O
+中国/ns/B-country 军迷零/n/O 距离/n/O 参观/v/O 美/j/B-country 两栖/b/B-dev 战舰/n/I-dev
+美刊/n/B-nt 解析/v/O 中国/ns/B-nt 海警/n/I-nt 新舰/n/B-dev ：/wp/TRIG 军舰/n/B-dev 船体/n/O “/wp/O 战力/n/O ”/wp/O 强悍/a/O
+王毅/nh/B-nr 就/p/O 中国/ns/B-country 驻/v/B-role 马里/ns/I-role 维和人员/n/I-role 遭遇/v/O 恐怖/a/O 袭击/v/TRIG 发表/v/O 谈话/n/O
+马里/ns/B-country 华侨/n/B-role 华人/n/B-role 发起/v/O 向/p/O 中国/ns/B-country 伤亡/v/TRIG 维和战士/n/B-role 捐款/v/O 活动/v/O
+中国/ns/B-nt 军队/n/I-nt 工作组/n/I-nt 乘/v/O 军机/n/B-dev 赶赴/v/O 马里/ns/B-country
+美/j/B-country 新型/b/O 武器/n/B-dev 电磁钢/n/B-dev 轨炮/n/I-dev 是/v/O “/wp/O 奇迹/n/O ”/wp/O ？/wp/O 俄/j/B-country 专家/n/B-role 质疑/v/TRIG
+柏林/ns/B-ns ：/wp/TRIG 蓝天/n/O 下/nd/O 的/u/O 柏林/ns/B-nt 航展/n/I-nt
+叙利亚/ns/B-ns 中北部/nd/I-ns 地区/n/O 战事/n/O 升温/v/O
+也门/ns/B-country 内战/n/O ：/wp/TRIG 中东/ns/B-ns 典型/n/O 的/u/O 代理/v/O 战争/n/O 动荡/a/O 的/u/O 风暴/n/O 中心/n/O
+加榴炮/v/B-dev “/wp/O 很/d/O 生气/a/O ”/wp/O ，/wp/O 发射/v/TRIG 时/n/O 炮管/n/O 两边/nd/O 冒火/v/O
+和平/n/O 守护者/n/O ：/wp/TRIG 中国/ns/B-country 维和人员/n/B-role 在/p/O 海外/nl/O
+美/j/B-nt 海军/n/I-nt 舰队/n/I-nt 将/d/O 首/m/O 次/q/O 动用/v/O 地中海/ns/B-ns 航母/j/B-dev 打击/v/TRIG ＩＳ/ws/B-nt
+美/j/B-country 防长/j/B-role 所谓/v/O 中国/ns/B-country “/wp/O 自我/r/O 孤立/v/O ”/wp/O 说/v/TRIG 不符/v/O 实际/n/O
+剑指/v/O “/wp/O 伊斯兰国/nz/B-nt ”/wp/O 老巢叙/n/O 各方/r/O 展开/v/O “/wp/O 竞赛/v/O ”/wp/O ？/wp/O
+“/wp/O 可/v/O 汗/n/O 探索/v/O －2016/m/O ”/wp/O 多/a/O 国/n/O 维和/j/O 军演/j/TRIG 在/p/O 蒙古国/ns/B-country 落幕/v/O
+澳洲/ns/B-country “/wp/O 枪王/n/B-role 争霸赛/n/O ”/wp/O ：/wp/TRIG 魔/n/O 改/v/O “/wp/O 951/m/O Plus/ws/O ”/wp/O 显/v/O 神威/n/O
+中/j/B-ns 越/j/I-ns 边境/nl/I-ns 大/a/O 扫雷/v/O ：/wp/TRIG 排爆/v/O 1.8万/m/O 余/m/O 枚/q/O
+中国/ns/B-nt 海军/n/I-nt 陆战队/n/I-nt 女兵/n/B-role 首/m/O 次/q/O 亮相/v/O 国际/n/B-ns 演兵场/n/I-ns
+受伤/v/O 维和/j/B-role 士兵/n/B-role 给/p/O 父母/n/O 报/v/O 平安/a/O ：/wp/TRIG 爸妈/n/O 我/r/O 没事/v/O
+德国/ns/B-country 挫败/v/O 恐袭/v/TRIG 图谋/v/O 原/d/O 计划/v/O 2/m/O 人/n/O 自爆2/m/O 人/n/O 扫射/v/TRIG 人群/n/O
+美/j/B-nt 海/j/I-nt 空军/n/I-nt 表演队/n/I-nt 同日/d/O 坠机/v/O 1/m/O 架/q/O 正/d/O 为/p/O 奥巴马/nh/B-nr 演讲/v/O 助兴/v/O
+日海/ns/B-nt 自/p/I-nt 将/d/O 定期/d/O 参加/v/TRIG 美印/n/O 训练/v/O 3/m/O 国/n/O 加强/v/TRIG 防务/n/O 合作/v/TRIG
+空军/n/B-nt 首/m/O 批/q/O “/wp/O 清华班/n/B-nt ”/wp/O 飞行/v/O 学员/n/B-role 即将/d/O 加入/v/O 战斗/v/O 行列/n/O
+中国/ns/B-nt 军队/n/I-nt 工作组/n/I-nt 在/p/O 马里/ns/B-ns 首都/n/I-ns 巴马科/ns/B-ns 展开/v/O 工作/v/O
+马里/ns/O 稳定/a/O 团/n/O 将/p/O 加奥/nh/O 恐袭/v/TRIG 事件/n/O 死亡/v/O 人数/n/O 更/d/O 正/d/O 为/v/O 2/m/O 人/n/O
+印度/ns/B-country 推/v/O "/wp/O 东进/v/O "/wp/O 战略/n/O 称/v/TRIG 新加坡/ns/B-country 将/d/O 成/v/O "/wp/O 重要/a/O 支点/n/O "/wp/O
+俄罗斯/ns/B-country 年内/nt/O 为/p/O 伊朗/ns/B-country 装备/n/O 4/m/O 个/q/O S300/ws/B-nt 导弹/n/I-nt 营/n/I-nt
+中国/ns/B-nt 军队/n/I-nt 工作组/n/I-nt 抵达/v/TRIG 马里/ns/B-ns 首都/n/I-ns 巴马科/ns/B-ns
+海军/n/B-nt 第二十二/m/I-nt 批/q/I-nt 护航编队/n/I-nt 结束/v/O 对/p/O 坦桑尼亚/ns/B-country 友好/a/O 访问/v/TRIG
+印度/ns/B-ns 北部/nd/I-ns 发生/v/O 暴力/n/O 冲突/v/TRIG 造成/v/O 至少/d/O ２１/m/O 人/n/O 死亡/v/O
+日欲/n/O 在/p/O 石垣岛/ns/B-ns 部署/v/TRIG 岸舰/n/B-dev 导弹/n/I-dev 专家/n/B-role :/wp/TRIG 对/p/O 我/r/O 舰艇/n/B-dev 构成/v/O 威胁/v/TRIG
+时隔/v/O 逾/v/O 50/m/O 年/q/O 澳大利亚/ns/B-country 越战/j/O 老兵/n/B-role 遗骸/n/O 终/d/O “/wp/O 回家/v/O ”/wp/O
+孙建国/nh/B-nr 会见/v/TRIG 澳大利亚/ns/B-nt 国防军/n/I-nt 司令/n/B-role 宾斯金/n/B-nr
+孙建国/nh/B-nr 会见/v/TRIG 印度尼西亚/ns/B-country 国防部长/n/B-role 里亚/nh/B-nr 米扎尔德/nh/I-nr
+中方/n/B-country 对/p/O 美国/ns/B-country 反恐/v/O 报告/n/O 涉华/nh/O 不实之词/i/O 表示/v/TRIG 不满/a/TRIG
+韩/j/B-nt 国防部/n/I-nt ：/wp/TRIG 韩/j/B-country 美/j/B-country 就/d/O 萨德/nh/B-dev 一/m/O 事/n/O 立场/n/O 完全/a/O 一致/a/O
+跟/p/O 旧/a/O 弹壳/n/O 做/v/O 的/u/O “/wp/O 飞机/n/B-dev ”/wp/O “/wp/O 坦克/n/B-dev ”/wp/O 赛跑/v/O 是/v/O 什么/r/O 感受/v/O
+德/j/B-country 挫败/v/O 恐袭/n/TRIG 阴谋/n/O 逮捕/v/TRIG 3/m/O 名/q/O 嫌疑人/n/B-role
+MH17/ws/B-dev 事故/n/O 调查/v/TRIG 将/d/O 出炉/v/O 或/c/O 公布/v/TRIG 攻击/v/TRIG 导弹/n/B-dev 型号/n/O 及/c/O 发射/v/TRIG 地/u/O
+奥巴马/nh/B-nr 出席/v/TRIG 典礼/n/O 目睹/v/O 雷鸟/n/O 表演机/n/B-dev 坠毁/v/O （/wp/O 图/n/O ）/wp/O
+美女/n/O 军官/n/B-role 成/v/O 2016/m/O 美国/ns/B-country 小姐/n/O
+“/wp/O 马里/ns/B-country 人民/n/O 会/v/O 记得/v/O ”/wp/O ——/wp/O 马里/ns/B-country 民众/n/B-role 哀悼/v/O 遇害/v/O 中国/ns/B-country 维和战士/n/B-role
+俄/j/B-country 专家/n/B-role ：/wp/TRIG 德国/ns/B-nt 军方/n/I-nt 新版/b/O 防御/v/O 学说/n/O 没有/v/O 任何/r/O 新/a/O 内容/n/O
+日本/ns/B-country 冲绳县/ns/B-nt 议会/n/I-nt 改选/v/O 美军/j/B-ns 基地/n/I-ns 搬迁/v/O 或/c/O 再/d/O 添/v/O 变量/n/O
+国产/b/B-dev 运/v/I-dev 20/m/I-dev 先进/a/O 驾驶舱/n/I-dev 结构/n/O 曝光/v/TRIG 不/d/O 比/p/O C17/ws/B-dev 差/a/O
+俄/j/B-nt 国防部/n/I-nt 称/v/TRIG 加入/v/O 停火/v/TRIG 的/u/O 叙/j/B-country 居民点/n/O 增至/v/O 134/m/O 处/q/O
+俄/j/B-nt 空天军/n/I-nt 司令/n/B-role :/wp/TRIG 2017年/nt/O 接收/v/O T50/ws/B-dev 五代机/n/I-dev
+韩/j/B-country 最/d/O 新型/b/O 隐身/v/B-dev 护卫舰/n/I-dev 下水/v/O 采用/v/O 混合/v/B-dev 动力/n/I-dev 系统/n/I-dev
+哈萨克斯坦/ns/B-country 不明/v/O 身份/n/O 人员/n/B-role 与/p/O 军方/n/B-nt 持枪/v/O 互/d/O 射/v/O 6/m/O 死/v/O 多/a/O 伤/v/O
+国防/n/O 动员/v/O ，/wp/O 再不/d/O 牵/v/O 手/n/O 大/a/O 数据/n/O 就/d/O 晚/a/O 了/u/O
+解放军/n/B-nt 步兵/n/B-role 转型/v/O 特战兵/n/B-role 组建/v/O 无人机/n/B-nt 侦察队/n/I-nt
+中国/ns/B-country 女兵/n/B-role 参加/v/TRIG 中/j/B-country 泰/j/B-country 联训/v/O ：/wp/TRIG 喝/v/O 蛇/n/O 血/n/O 吃/v/O 蜥蜴/n/O 蜘蛛/n/O (/wp/O 图/n/O )/wp/O
+美/j/B-country 防长/n/B-role 称/v/TRIG “/wp/O 萨德/nh/B-dev ”/wp/O 很/d/O 快/a/O 入/v/O 韩/j/B-country 韩忙/nh/O 否认/v/TRIG 暴露/v/O 两难/z/O
+解放军/n/B-nt 陆海空/j/O 联训/v/O 常态化/v/O :/wp/TRIG 轰炸机/n/B-dev 更/d/O “/wp/O 耳聪目明/i/O ”/wp/O
+中国/ns/B-nt 军队/n/I-nt 工作组/n/I-nt 在/p/O 马里/ns/B-country 加奥/nh/I-country 展开/v/O 工作/v/O
+陆军/n/B-nt 试行/v/O 小/a/O 额/n/O 零星/b/O 物资/n/O 网上/nl/O 采购/v/TRIG
+美/j/B-country 俄/j/B-country 博弈/v/O 叙利亚/ns/B-country ：/wp/TRIG 若/c/O 不/d/O 合/v/O 或/c/O 致突/v/O 各方/r/O 混战/v/O 升级/v/O
+北约/j/B-nt 近期/nt/O 波罗的海/ns/B-ns 3/m/O 场/q/O 军演/j/TRIG 俄媒/j/B-nt :/wp/TRIG 俄/j/B-country 该/r/O 去/v/O 拉美/j/B-ns 军演/n/TRIG
+外国/n/O 学者/n/B-role :/wp/TRIG 美/j/B-country 防长/j/B-role 涉/v/O 华/j/B-country 言论/n/O 有/v/O 损/v/O 亚太/j/B-ns 和平/n/O 稳定/a/O
+中国/ns/B-country “/wp/O 两栖/b/B-role 霸王花/n/I-role ”/wp/O 首/m/O 次/q/O 走/v/O 出/v/O 国门/n/O 参加/v/TRIG 联合/v/O 训练/v/O
+驻/v/B-nt 日/j/I-nt 美军/j/I-nt 犯案/v/O 或/c/O 难/a/O 自/p/O 保/v/O 美/j/B-country 防长/n/B-role 道歉/v/TRIG 承诺/v/TRIG "/wp/O 磋商/v/TRIG "/wp/O
+叙/j/B-nt 政府军/n/I-nt 首/m/O 次/q/O 攻/v/O 入/v/O "/wp/O 伊斯兰国/nz/B-nt "/wp/O 老巢/n/O IS/ws/B-nt 四面楚歌/i/O
+美军/j/B-nt 派/v/O 驱逐舰/n/B-dev 进入/v/O 黑海/ns/B-ns 军演/n/TRIG 俄/j/B-country 尚未/d/O 回应/v/TRIG
+孙建国/nh/B-nr 会见/v/TRIG 老挝/ns/B-nt 国防部/n/I-nt 副/b/B-role 部长/n/I-role 兼/v/O 人民军/n/B-nt 总参谋长/n/B-nr 苏旺/nh/B-nr
+中国/ns/B-country 首/m/O 次/q/O 举办/v/O 联合国/ni/B-nt 维和/j/I-nt 特派团/n/B-nt 高级/a/B-role 官员/n/I-role 培训班/n/B-nt
+孙建国/nh/B-nr 会见/v/TRIG 英国/ns/B-country 国防/n/B-role 参谋长/n/I-role 霍顿/nh/B-nr
+孙建国/nh/B-nr 在/p/O 香格里拉/ns/B-nt 对话会/n/I-nt 上/nd/O 的/u/O 演讲/v/O
+哈萨克斯坦/ns/B-country 阿克托别市/ns/B-ns 武器/n/B-dev 商店/n/O 遭/v/O 袭/v/O
+策划/v/O |/wp/O 特技/n/O 飞行/v/O 哪家/r/O 强/a/O :/wp/TRIG 各国/r/O 飞行/v/O 表演队/n/O 炫技掠影/n/O
+外交部/ni/B-nt 就/p/O 香格里拉/ns/B-ns 对话会涉/v/O 南海/ns/B-ns 航行/v/O 和/c/O 飞越/v/O 自由/a/O 问题/n/O 答/v/O 问/v/O
+第六/m/O 次/q/O 中/j/B-country 美/j/B-country 战略/n/O 安全/a/O 对话/v/O 在/p/O 北京/ns/B-ns 举行/v/TRIG
+广东/ns/B-ns 中山/ns/B-nt 边防/n/I-nt 支队/n/I-nt 联合/v/O 驻地/n/B-nt 医院/n/I-nt 开展/v/O 全国/n/O 爱眼日/n/O 知识/n/O 宣传/v/O
+边防/n/B-role 战士/n/I-role 王友铖/nh/B-nr 为/p/O 配型/v/O 成功/a/O 白血病/n/O 患者/n/B-role 捐献/v/TRIG 造血/v/O 干细胞/n/O
+美国/ns/B-country 向/p/O 全体/n/O 驻/v/B-nt 日/j/I-nt 海军/n/I-nt 官兵/n/B-role 下达/v/O 禁酒令/n/O 还/d/O 将/d/O 限制/v/O 外出/v/O
+中国/ns/B-country 近期/nt/O 将/d/O 向/p/O 苏丹达尔富尔/ns/B-country 派遣/v/TRIG 直升机/n/B-nt 维和/j/I-nt 分队/n/I-nt
+斯里兰卡/ns/B-nt 军火库/n/I-nt 爆炸/v/TRIG 致/v/O 1/m/O 人/n/O 死/v/O
+解放军/n/B-nt 302/m/I-nt 医院/n/I-nt 专家/n/B-role 赴/v/TRIG 河北省/ns/B-ns 涉县/ns/B-ns 开展/v/O 医疗/n/O 服务/v/O
+安倍/d/B-nr 指责/v/TRIG 驻/v/B-nt 日/j/I-nt 美军/j/I-nt 女兵/n/B-role 酒驾/v/O 事件/n/O “/wp/O 荒谬绝伦/nh/O ”/wp/O
+日媒/j/B-nt :/wp/TRIG 负面/b/O 事件/n/O 不断/d/O 冲绳/ns/B-ns 民众/n/B-role 反对/v/TRIG 美军/j/B-nt 情绪/n/O 升温/v/O
+全球/n/O 首/m/O 架/q/O 3D/ws/O 打印/v/O 飞机/n/B-dev 亮相/v/O 柏林/ns/B-nt 航展/n/I-nt 重/a/O 约/d/O 21/m/O 公斤/q/O
+美军/j/B-nt 普天间/ns/B-ns 机场/n/I-ns 搬迁/v/O 计划/n/O 不/d/O 变/v/O 冲绳县/ns/B-ns 将/d/O 提出/v/TRIG 抗议/v/TRIG
+美媒/j/B-nt 称/v/TRIG 中国/ns/B-country 歼/v/B-dev 10/m/I-dev 战斗机/n/I-dev 在/p/O 东海/ns/B-ns 拦截/v/TRIG 美国/ns/B-country 侦察机/n/B-dev
+美/j/B-country 神秘/a/O 网军/n/B-nt 举步维艰/i/O :/wp/TRIG 缺乏/v/O 训练/v/O 环境/n/O 难以/d/O 开展/v/O 行动/v/O
+海军/n/B-nt 医学/n/O 专家良/a/O 恶性/b/O 乳腺/n/O 疾病/n/O 鉴别/v/O 技术/n/O 获/v/O 国际/n/O 认可/v/TRIG
+北约/j/B-nt 3万/m/O 士兵/n/B-role 在/p/O 华沙/ns/B-ns 举行/v/TRIG 军演系/n/O 冷战/n/O 后/nd/O 最/d/O 大/a/O 规模/n/O
+美/j/B-country 将/d/O 举行/v/TRIG 大型/b/O 网络/n/O 攻击/v/TRIG 演习/v/TRIG 模拟/v/O 核心/n/O 设备/n/O 遭/v/O 袭击/v/TRIG
+英国/ns/B-nt 皇家/n/I-nt 海军/n/I-nt 摄影/v/O 比赛/v/O 最佳/z/O 照片/n/O 出炉/v/O
+外媒/n/B-nt ：/wp/TRIG 美军/j/B-nt 研发/v/O 新/a/O 一/m/O 代/q/O 战略/n/B-dev 核潜艇/n/I-dev 耗资/v/O 千亿/m/O 美元/q/O
+外媒/n/B-nt 解读/v/O 最新/a/O 升级/v/O 版/n/O “/wp/O 鹰狮/n/B-dev ”/wp/O ：/wp/TRIG 欲/d/O 抢夺/v/TRIG F35/ws/B-dev 市场/n/O
+外媒/n/B-nt ：/wp/TRIG 泰国/ns/B-country 考虑/v/O 购买/v/TRIG 日本/ns/B-country P1/ws/B-dev 巡逻机/n/I-dev 及/c/O US2/ws/B-dev 侦察机/n/I-dev
+日本/ns/B-country 向/p/O 泰国/ns/B-country 推销/v/TRIG 多/a/O 款/n/O 军机/n/B-dev 技术/n/O 先进/a/O 可/v/O 配/v/O 多种/m/O 武器/n/B-dev
+韩海军/nh/B-nt 将/d/O 进行/v/O “/wp/O 独岛/ns/O 防御/v/O 演习/v/TRIG ”/wp/O 出动/v/TRIG 数/m/O 艘/q/O 水上/nl/B-dev 舰艇/n/I-dev
+美/j/B-country 将/d/O 研多/v/O 款/n/O 新型/b/O 舰载机/n/B-dev 对抗/v/TRIG 中国/ns/B-country 歼/v/B-dev 20/m/I-dev 和/c/O 东风/nz/B-dev 26/m/I-dev
+海军/n/B-nt 与/c/O 两/m/O 专业/n/O 机构/n/O 建立/v/O 海军/n/B-nt 使用/v/O 民航/n/B-nt 应急/v/O 救援/v/TRIG 合作/v/TRIG 机制/n/O
+自觉/a/O 看齐/v/O 追随/v/O 矢志/v/O 改革/v/O 强军/v/O ——/wp/O 全军/n/O 和/c/O 武警/n/B-nt 部队/n/I-nt 改革/v/O 强军/v/O 主题/n/O 教育/v/O 活动/v/O 全面/a/O 展开/v/O 持续/v/O 升温/v/O
+俄罗斯/ns/B-country 回应/v/TRIG 北约/j/B-nt 军演/v/TRIG ：/wp/TRIG 无助于/v/O 提高/v/O 欧洲/ns/B-ns 安全/a/O 气氛/n/O
+法国/ns/B-country 男子/n/O 持/v/O 大量/m/O 军火/n/O 涉嫌/v/O 欧锦赛/j/O 前/nd/O 夜/nt/O 发动/v/O 恐袭/v/TRIG
+北约/j/B-nt 在/p/O 波兰/ns/B-country 举行/v/TRIG 大规模/b/O 联合/v/O 军演/v/TRIG 为期/v/O 十/m/O 天/q/O
+马里/ns/B-nt 稳定团/n/I-nt 为/v/O 牺牲/v/O 中国/ns/B-country 维和战士/n/B-role 申亮亮/nh/B-nr 举行/v/TRIG 追悼会/n/O
+越南/ns/B-nt 大学/n/I-nt 欲/d/O 请/v/O 美国/ns/B-country 越战/j/O 老兵/n/B-role 当/v/O 校长/n/B-role 引发/v/O 激烈/a/O 反对/v/TRIG
+外媒/n/B-nt 称/v/TRIG IS/ws/B-nt 在/p/O 土叙/j/B-ns 边境/nl/I-ns 加强/v/TRIG 攻势/n/O ：/wp/TRIG 战火/n/O 烧/v/O 至/v/O 土耳其/ns/B-country
+美/j/B-country 防长/n/B-role 谈及/v/O 盟国/n/O 唯独/d/O 遗漏/v/O 韩国/ns/B-country 被/p/O 疑/v/O 搞/v/O 微妙/a/O 心理战/n/O
+土耳其/ns/B-country 发生/v/O 针对/p/O 警方/n/B-nt 炸弹/n/B-dev 袭击/v/TRIG 至少/d/O 2/m/O 人/n/O 死亡/v/O 多/m/O 人/n/O 伤/n/O
+俄/j/B-country 官员/n/B-role ：/wp/TRIG 俄/j/B-country 没有/v/O 任何/r/O 进攻/v/TRIG 波兰/ns/B-country 计划/v/O 这/r/O 很/d/O 荒谬/a/O
+把/p/O 俄罗斯/ns/B-country 逼/v/O 到/v/O 墙角/n/O 北约/j/B-nt 引爆/v/O “/wp/O 新/a/O 冷战/n/O ”/wp/O ？/wp/O
+洪水/n/O 围困/v/O 珍宝岛/n/B-ns 官兵/n/B-role 水中/nl/O 巡边/v/O 升/v/O 国旗/n/O
+驻/v/B-nt 日/j/I-nt 美军/j/I-nt 横行/v/O 日本/ns/B-country 自食其果/i/O
+军事/n/O 专家/n/B-role 解读/v/O 仅/d/O 靠/p/O 计算机/n/B-dev 模拟/v/O 能/v/O 达成/v/TRIG 演习/v/TRIG 目的/n/O 吗/u/O
+中国/ns/B-nt 人民/n/I-nt 解放军/n/I-nt 空军/n/I-nt 八一/nt/I-nt 飞行/v/I-nt 表演队/n/I-nt 向/p/O 中小学生/n/B-role 开放/v/TRIG
+中国/ns/B-nt 军队/n/I-nt 现有/v/O 2882/m/O 名/q/O 官兵/n/B-role 正在/d/O 执行/v/O 维和/j/O 任务/n/O
+千/m/O 余/m/O 名/q/O 军校/n/B-nt 毕业/v/B-role 学员/n/I-role 长征/n/O 路上/nl/O 练/v/O 指挥学/n/O 打仗/v/O
+我国/n/B-country 科学家/n/B-role 发现/v/O 新/a/O 的/u/O 抗/v/O 乙肝/n/O 病毒/n/O 基因/n/O
+“/wp/O 蓝色/n/O 突击/v/O －2016/m/O ”/wp/O 中/nd/B-nt 泰/j/I-nt 海军/n/I-nt 陆战队/n/I-nt 联合/v/O 训练/v/O 圆满/a/O 落幕/v/O
+“/wp/O 兄弟/n/O 连/n/O ”/wp/O 势如破竹/i/O ：/wp/TRIG 直击/v/O 中/nd/B-nt 泰/j/I-nt 海军/n/I-nt 陆战队/n/I-nt 联训/v/O 实兵/n/O 实弹/n/O 演练/v/O
+海军/n/B-nt 与/p/O 国际/n/B-nt SOS/ws/I-nt 等/u/O 组织/n/O 建立/v/O 航空/n/B-nt 应急/v/I-nt 救援/v/I-nt 合作/v/I-nt 机制/n/I-nt
+“/wp/O 追梦/v/O 起航/v/O ——/wp/O 2016/nt/O 全国/n/O 航空/n/O 科普/b/O 文化/n/O 月/n/O ”/wp/O 系列/n/O 活动/v/O 全景/n/O 扫描/v/O
+潘基文/nh/B-nr ：/wp/TRIG 尽管/c/O 扩张/v/O 行动/v/O 受/v/O 遏制/v/O IS/ws/O 对/p/O 全球/n/O 威胁/v/TRIG 仍/d/O 严峻/a/O
+韩军方/n/B-nt 送/v/O 回/v/O 越过/v/O “/wp/O 北方/nl/B-ns 界线/n/I-ns ”/wp/O 的/u/O 朝鲜/ns/B-country 渔船/n/B-dev
+中国/ns/B-country 有望/v/O 造/v/O 出/v/O 全球/n/O 最/d/O 强大/a/O 预警机/n/B-dev 或/c/O 用/p/O 俄/j/B-country 伊尔/nh/B-dev 96/m/I-dev
+接运/v/O 中国/ns/B-country 维和战士/n/B-role 申亮亮/nh/B-nr 灵柩/n/O 回国/v/O 的/u/O 中国/ns/B-nt 空军/n/I-nt 飞机/n/B-dev 从/p/O 马里/ns/B-country 起飞/v/O 回国/v/O
+德/j/B-country 否认/v/TRIG 新版/b/O 白皮书/n/O 称/v/TRIG 俄罗斯/ns/B-country 为/v/O 敌人/n/O ：/wp/TRIG 翻译/n/O 不/d/O 正确/a/O
+英/j/B-nt 海军/n/I-nt 驱逐舰/n/B-dev 在/p/O 北海/ns/B-ns 追踪/v/O 俄/j/B-country 潜艇/n/B-dev 称/v/TRIG 系/v/O “/wp/O 常规/n/O 程序/n/O ”/wp/O
+法国/ns/B-country 劫匪/n/B-role 打劫/v/TRIG 麦当劳/nz/B-nt 碰上/v/O 精英/n/B-nt 部队/n/I-nt 在/p/O 店/n/O 里/nd/O 吃/v/O 汉堡/n/O
+纪念诺/nz/O 曼底/ns/O 登陆/v/TRIG 二战/j/O “/wp/O 老兵/n/B-role ”/wp/O 再次/d/O 升空/v/O
+以色列/ns/B-nt 多/a/I-nt 兵种/n/I-nt 举行/v/TRIG 联合/v/O 演习/v/TRIG 战车/n/B-dev 轰鸣/v/O 炮声/n/O 阵阵/q/O
+法国/ns/B-country 举行/v/TRIG 安保/j/O 演习/v/TRIG 为/v/O 欧洲杯/nz/B-nt 保驾/v/O 护航/v/TRIG
+美军/j/B-nt 出动/v/TRIG 地中海/ns/B-ns 航母/j/B-dev 舰载机/n/I-dev 打击/v/TRIG 极端组织/d/B-nt 武装/v/I-nt
+扫雷兵/v/B-role 清理/v/O 爆沟/ns/O 泥土/n/O ，/wp/O 差点/d/O 铲/v/O 爆/v/O 一/m/O 颗/q/O 雷/n/B-dev ！/wp/O
+沈阳/ns/B-nt 军区/n/I-nt 善后办/j/I-nt 举行/v/TRIG 中国/ns/B-country 梦/n/O 强/a/O 军梦/n/O 我/r/O 的/u/O 梦/n/O “/wp/O 三/m/O 梦/n/O 对接/v/O ”/wp/O 先进/a/O 事迹/n/O 报告会/n/O
+“/wp/O 蓝色/n/O 突击/v/O 2016/m/O ”/wp/O 中/nd/O 泰/j/O 联训/v/O 进行/v/O 多/a/O 兵种/n/O 实兵/n/O 实弹/n/O 综合/v/O 演练/v/O
+德国/ns/B-country 狙击手/n/B-role 隐藏力/n/O 惊人/a/O 据说/v/O 99%/m/O 的/u/O 人/n/O 找/v/O 不/d/O 到/v/O
+当/p/O “/wp/O 粽子/n/O ”/wp/O 遇/v/O 上/v/O 训练场/n/O 江苏/ns/B-nt 海警/n/I-nt 这样/r/O 过/v/O 端午/nt/O
+上合/v/B-nt 组织/n/I-nt 成员国/n/O 国防部长/n/B-nt 会议/n/I-nt 在/p/O 哈萨克斯坦/ns/B-country 举行/v/TRIG
+阿富汗/ns/B-country 一/m/O 长途汽车/i/B-dev 被/p/O 不明/v/O 身份/n/O 武装/v/B-role 人员/n/I-role 绑架/v/TRIG 车上/nl/O 有/v/O 至少/d/O 47/m/O 名/q/O 乘客/n/B-role
+最后/nd/O 一/m/O 只/q/O 911/m/O 搜救犬/n/B-role 被/p/O 安乐/a/O 死/v/O 消防员/n/B-role 夹道/n/O 送行/v/O
+实拍/v/O 4/m/O 艘/q/O 最新/a/O 入役/n/O 海警/n/B-dev 船/n/I-dev 056/n/O 版/n/O 和/c/O 万/m/B-dev 吨/q/I-dev 大舰/n/I-dev 同时/d/O 现身/v/O
+日/j/B-nt 华媒/j/I-nt ：/wp/TRIG 日/j/B-country 韩/j/B-country 慰安妇/n/B-role 协议/n/O 难/a/O 解困局/n/O 仍/d/O 需/v/O 正视/v/O 历史/n/O
+驻扎/v/O 在/p/O 艰苦/a/O 地区/n/O 的/u/O 和平/n/B-role 卫士/n/I-role ——/wp/O 记/v/O 中国/ns/B-nt 赴/v/I-nt 南苏丹/ns/I-nt 维和/j/I-nt 步兵/n/I-nt 营/n/I-nt
+利比亚/ns/B-nt 卫队/n/I-nt 攻/v/O 入/v/O "/wp/O 伊斯兰国/nz/B-nt "/wp/O 大本营/n/O 收复/v/TRIG 在望/v/O
+美/j/B-country 军用/b/O “/wp/O 便宜/a/O 弹/v/O ”/wp/O 打/v/O 普通/a/O 恐怖分子/n/B-role 用/p/O 导弹/n/B-dev 炸/v/O 头目/n/B-role
+奥巴马/nh/B-nr 扩大/v/O 美军/j/B-nt 在/p/O 阿/j/B-country 作战/v/TRIG 权限/n/O 允许/v/TRIG 协助/v/TRIG 进攻/v/TRIG 塔利班/nz/B-nt
+中国/ns/O 赴/v/TRIG 黎/j/O 维和/j/O 工兵/n/O 获/v/O 扫雷/v/O 资质/n/O 推进/v/O 1/m/O 厘米/q/O 挥/v/O 铲/v/O 300/m/O 下/q/O
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 导弹/n/B-dev 超/v/O 美/a/B-country 防御/v/O 能力/n/O 对/p/O 航母/j/B-dev 构/v/O 致命/v/O 威胁/v/TRIG
+央视/j/B-nt 曝光/v/TRIG 东风/nz/B-dev 21D/ws/I-dev 导弹/n/I-dev 起/v/O 竖/n/O 画面/n/O
+解放军/n/B-nt 新/a/O 成果/n/O 助大/v/O 容量/n/O 数据/n/O 传输/v/O 速率/n/O 提高/v/O 40/m/O 多/m/O 倍/q/O
+中/j/B-country 俄/j/B-country 军舰/n/B-dev 联航/v/O 钓岛/ns/B-ns 令/v/O 安倍/nh/B-nr 紧张/a/O 日急/a/O 召/v/O 中国/ns/B-country 大使/n/B-role
+美媒/j/B-nt ：/wp/TRIG 中国/ns/B-country 导弹/n/B-dev “/wp/O 密集/a/O ”/wp/O 打击/v/TRIG 对/p/O 美/j/B-country 航母/j/B-dev 构成/v/O “/wp/O 致命/v/O ”/wp/O 威胁/v/TRIG
+日本/ns/O 出/v/O 招离间/j/O 中/j/O 泰/j/O 关系/n/O ：/wp/TRIG 欲/d/O 阻止/v/TRIG 中/j/O 泰/j/O 军事/n/O 交流/v/O
+中/j/B-country 美/j/B-country 最/d/O 强/a/O 神盾舰/n/B-dev 舱/n/O 内/nd/O 设施/n/O 谁/r/O 更/d/O 好/a/O
+美国/ns/B-country 军舰/n/B-dev 进入/v/O 黑海/ns/B-ns 水域/n/B-ns 俄方/n/B-country 将/d/O 作出/v/O “/wp/O 回应/v/TRIG ”/wp/O
+中国/ns/B-country 驻/v/B-role 英/j/I-role 大使/n/I-role 呼吁/v/TRIG 通过/p/O 协商/v/TRIG 谈判/v/TRIG 解决/v/O 南海/ns/B-ns 问题/n/O
+印度/ns/B-country 航空母舰/n/B-dev 发生/v/O 毒气/n/O 泄漏/v/O 事件/n/O 造成/v/O 两/m/O 人/n/O 死亡/v/O
+美/j/B-nt 海军/n/I-nt 陷史/n/O 上/nd/O 最/d/O 大/a/O 规模/n/O 腐败/a/O 丑闻/n/O
+英媒/j/B-nt ：/wp/TRIG 印/j/B-country 不顾/v/O 华/i/B-country 反对/v/TRIG 加紧/v/O 向/p/O 越/d/B-country 出售/v/TRIG 航母/j/B-dev 杀手/n/I-dev 导弹/n/I-dev
+美国/ns/B-country 女子/n/O 被/p/O 控/v/O 试图/v/O 对/p/O 华/j/B-country 非法/b/O 出口/v/O F22/ws/B-dev 发动机/n/I-dev 技术/n/O
+尼日利亚/ns/B-nt 军方/n/I-nt 打/v/O 死/v/O 10/m/O 名/q/O “/wp/O 博科/n/B-nt 圣地/n/I-nt ”/wp/O 武装分子/n/B-role
+数千/m/O 人/n/O “/wp/O 包围/v/TRIG ”/wp/O 在/p/O 德/j/B-ns 美军/j/I-ns 基地/n/I-ns 抗议/v/TRIG 美军/j/B-nt 无人机/n/B-dev 戮害/v/O 平民/n/B-role
+陆军/n/B-nt 大型/b/O 训练/v/B-ns 基地/n/I-ns 实现/v/O 多/a/O 军/n/O 兵种/n/O 油料/n/O 联保/v/O
+维和/j/B-role 烈士/n/I-role 申亮亮/nh/B-nr 火化/v/O 家人/n/O 曾/d/O 准备/v/O 让/v/O 他/r/O 维和/j/O 回来/v/O 就/d/O 结婚/v/O
+日媒/j/B-nt :/wp/TRIG 中国/ns/B-country 大型/b/O 海警船/n/B-dev 数/n/O 超/v/O 日本/ns/B-country 力量/n/O 对比/v/O 逆转/v/O
+美军/j/B-nt 改革/v/O 军人/n/B-role 晋升/v/O 制度/n/O 试图/v/O 留住/v/O 优秀/a/O 人才/n/O
+巴军方/n/B-country 要求/v/TRIG 美国/ns/B-country 将/d/O 阿富汗/ns/B-ns 境内/nl/I-ns 的/u/O 巴基斯坦/ns/B-nt 塔利班/nz/I-nt 作为/v/O 打击/v/TRIG 目标/n/O
+哈萨克斯坦/ns/B-country 击毙/v/TRIG 5/m/O 名/q/O 潜逃/v/O 中/nd/O 的/u/O 恐怖分子/n/B-role
+非盟/j/B-ns 驻/v/I-ns 索/j/I-ns 基地/n/I-ns 遇/v/O 袭击/v/TRIG 毙/v/O 上百/m/O 名/q/O 极端/n/B-role 人员/n/I-role
+三/m/O 名/q/O 男子/n/O 彻夜/d/O 狂欢/v/O 搭/v/O 错/v/O 船漂/n/O 到/v/O 叙利亚/ns/B-country 被/p/O 安置/v/O 俄军/j/B-ns 基地/n/I-ns
+伊朗/ns/B-country 将/d/O 继续/v/O 为/p/O 叙利亚/ns/B-country 打击/v/TRIG 恐怖主义/n/O 提供/v/TRIG 军事/n/O 顾问/n/O 支持/v/TRIG
+受伤/v/O 回国/v/O 维和战士/n/B-role 杨占成/nh/B-nr 伤情/n/O 稳定/a/O 已/d/O 住院/v/O 治疗/v/O
+俄军/j/B-nt 苏27/nz/B-dev 战机/n/I-dev 坠毁/v/O 飞行员/n/B-role 牺牲/v/O
+中国/ns/B-country 首/m/O 套/q/O 水下/nl/B-dev 监听/v/I-dev 系统/n/I-dev 模型/n/O 曝光/v/TRIG
+越南/ns/B-country 邀/v/O 中国/ns/B-country 军舰/n/B-dev 访/v/TRIG 金兰湾/ns/B-ns 美媒/n/B-nt ：/wp/TRIG 平衡/a/O 与/c/O 中/j/B-country 美/j/B-country 关系/n/O
+圆满/a/O 完成/v/O “/wp/O 蓝色/n/O 突击/v/O 2016/m/O ”/wp/O 中/nd/B-country 泰/j/B-country 联训/v/O 官兵/n/B-role 凯旋/v/O 回国/v/O
+美/j/B-country 发射/v/TRIG 侦察/v/B-dev 卫星/n/I-dev 全面/a/O 监听/v/O 各类/r/O 电子/n/O 信号/n/O
+贺兰山/ns/B-ns 下/nd/O ，/wp/O 我军/n/B-nt 现役/b/O 全部/m/O 型号/n/O 反坦/v/B-dev 导弹/n/I-dev 齐/d/O 上阵/v/O ——/wp/O 南京/ns/B-ns 炮兵/n/I-ns 学院/n/I-ns 廊坊/ns/I-ns 校区/n/I-ns “/wp/O 红箭/nz/O —/wp/O 2016/nt/O ”/wp/O 实兵/n/O 实弹/n/O 战术/n/O 演习/v/TRIG 亮点/n/O 扫描/v/O
+外观/n/O 以假乱真/i/O ！/wp/O 成都/ns/B-ns 工匠/n/B-role 打造/v/O 歼/v/B-dev 15/m/I-dev 歼/v/B-dev 20/m/I-dev 模型/n/O
+专家/n/B-role ：/wp/TRIG 歼/v/B-dev 20/m/I-dev 研发/v/O 速度/n/O 超/v/O 美/j/B-country 俄/j/B-country 美/j/B-country 将/d/O 研制/v/O 六代机/n/B-dev 以/p/O 应对/v/O
+美国/ns/B-nt 军舰/n/B-dev 进/v/O 黑海/ns/B-ns 俄罗斯/ns/B-country 会/v/O 怎么办/r/O ？/wp/O
+英国/ns/B-country 举行/v/TRIG 盛大/b/O 阅兵式/n/O 为/p/O 女王/n/B-role 庆生/v/O 士兵/n/B-role 晕倒/v/O 被/p/O 抬/v/O 走/v/O
+印尼/ns/B-nt 军方/n/I-nt 招收/v/O 街头/nl/O “/wp/O 小/a/B-role 混混/n/I-role ”/wp/O 军训/v/O ：/wp/TRIG 保护/v/O 国家/n/O “/wp/O 流氓/n/O ”/wp/O 有/v/O 责/n/O
+美/j/B-country 日/j/B-country 印/j/B-country 冲绳/ns/B-ns 集结/v/O 重兵/n/O 联合/v/O 军演/n/TRIG 被/p/O 指/v/O 联合/v/O 对/p/O 华/j/B-country 施压/v/TRIG
+港媒/j/B-nt ：/wp/TRIG 安倍/nh/B-nr 应/v/TRIG 为/p/O 和平/n/O 在/p/O 大屠杀/n/TRIG 80/m/O 周年/q/O 访问/v/TRIG 南京/ns/B-ns
+美军/j/O 备战/v/O 大规模/b/O 混合战争/n/O 美媒/j/O ：/wp/TRIG 中国/ns/O 崛起/v/O 是/v/O 隐忧/n/O
+美/j/B-nt 日/j/I-nt 同盟/n/I-nt 危害/v/O 亚太/j/B-ns 和平/n/O 中/j/B-country 俄/j/B-country 若/c/O 合作/v/TRIG 将/d/O 是/v/O 日本/ns/B-country 噩梦/n/O
+俄/j/B-country 专家/n/B-role 眼中/nl/O 的/u/O 南海/ns/B-ns 问题/n/O 解决/v/O 之/u/O 道/n/O
+边防/n/B-role 官兵/n/I-role 过/u/O 端午/nt/O ：/wp/TRIG 喂/v/O 军犬/n/B-role 粽子/n/O 爬山/v/O 陷/v/O 雪坑/n/O
+“/wp/O 火龙/n/O ”/wp/O 出击/v/TRIG 侦察兵/n/B-role 夜间/nt/O 实弹/n/O 射击/v/TRIG 场面/n/O 壮观/a/O
+塞拉利昂/ns/B-country 支持/v/TRIG 中国/ns/B-country 在/p/O 南海/ns/B-ns 问题/n/O 上/nd/O 的/u/O 立场/n/O
+专访/v/O ：/wp/TRIG 中国/ns/B-ns 不/d/O 接受/v/O 南海/ns/B-ns 仲裁/v/O 是/v/O 明智/a/O 的/u/O ——/wp/O 访/v/TRIG 阿根廷/ns/B-country 中国/ns/B-country 问题/n/O 专家/n/B-role 古斯塔沃·吉拉/nh/B-nr 多/a/O
+专访/v/O ：/wp/TRIG 南海/ns/B-ns 仲裁案/n/O 损害/v/O 争端/n/O 和平/a/O 解决/v/O ——/wp/O 访/v/TRIG 美国/ns/B-country 国际/n/O 问题/n/O 专家/n/B-role 威廉·琼斯/nh/B-nr
+外媒/n/B-nt ：/wp/TRIG 叙利亚/ns/B-country 已/d/O 向/p/O 英/j/B-country 议员/n/B-role 转交/v/O IS/ws/B-nt 外国/n/O 支持者/n/B-role 名单/n/O
+美国/ns/B-country 成功/a/O 发射/v/TRIG 一/m/O 枚/q/O 秘密/n/O 间谍卫星/n/B-dev 增强/v/O 美/j/B-country 监控/v/O 能力/n/O
+高原/n/O 怒吼/v/O ！/wp/O 空降兵/n/B-role 大批/m/O 速射/v/B-dev 迫击炮/n/I-dev 开火/v/O
+维和/j/B-role 英雄/n/I-role 申亮亮/nh/B-nr ：/wp/TRIG 用/p/O 生命/n/O 最后/nd/O 37/m/O 秒/q/O 换/v/O 回/v/O 战友/n/B-nr 平安/a/O
+武警/n/B-nt 新/a/O 臂章/n/O 做/v/O 手机/n/O 壁纸/n/O ，/wp/O 这种/r/O 风格/n/O 你/r/O 喜欢/v/O 吗/u/O ？/wp/O
+美国/ns/B-country 奥兰多/ns/B-nt 警方/n/I-nt 称/v/TRIG 酒吧/n/B-ns 枪手/n/B-role 已/d/O 身亡/v/O
+美国/ns/B-country 奥兰多市/ns/B-ns 发生/v/O 枪击/v/TRIG 事件/n/O 致数/v/O 人/n/O 受伤/v/O
+日/j/B-country 韩/j/B-country 慰安妇/n/B-role 协议/n/O 难/a/O 解困局/v/O 日本/ns/B-country 仍/d/O 需/v/O 正视/v/O 历史/n/O
+维和/j/B-role 烈士/n/I-role 申亮亮/v/B-nr 骨灰/n/O 到达/v/O 老家/n/O 河南/ns/B-ns 明日/nt/O 安葬/v/O (/wp/O 图/n/O )/wp/O
+国防/n/B-nt 科大/j/I-nt 青年/n/O 人才/n/O 群体/n/O 平均/a/O 年龄/n/O 不/d/O 到/v/O 35/m/O 岁/q/O
+300/m/O 米/q/O 1/m/O 挺/q/O 机枪/n/B-dev ！/wp/O 外媒/n/B-nt 称/v/TRIG 土耳其/ns/B-country 堵/v/O 死/a/O 叙/j/B-country 难民/n/B-role 逃生路/v/O
+看/v/O 图/n/O ！/wp/O 狙击手/n/B-role 为/p/O 啥/r/O 是/v/O 两/m/O 个/q/O 人/n/O ？/wp/O
+外媒/n/B-nt ：/wp/TRIG “/wp/O 伊斯兰国/nz/B-nt ”/wp/O 称/v/TRIG 对/p/O 奥兰/ns/B-ns 多/a/I-ns 枪击/v/TRIG 事件/n/O 负责/v/O
+火箭军/n/B-nt 某/r/O 导弹旅/n/B-nt 组建/v/O “/wp/B-nt 蓝军/n/I-nt ”/wp/I-nt 督导组/n/I-nt 专门/d/O “/wp/O 找茬/v/O ”/wp/O
+我国/n/B-country 成功/a/O 发射/v/TRIG 第二十三/m/O 颗/q/O 北斗/nz/B-dev 导航/v/I-dev 卫星/n/I-dev
+“/wp/O 坦克/n/O 猎手/n/O ”/wp/O 咋/r/O 练/v/O 成/v/O ？/wp/O 导弹/n/O 飞行/v/O 读/v/O 秒/q/O 训练/v/O 误差/n/O 不/d/O 出/v/O 0.2/m/O 秒/q/O
+世界/n/O 很/d/O 危险/a/O ！/wp/O 美/j/B-country 将军/n/B-role 成/v/O 反/v/O 核/n/O 先锋/n/O 曾/d/O 掌控/v/O 上万/m/O 核武/j/B-dev
+无人机/n/B-dev 既/c/O 可/v/O 侦察/v/TRIG 拍照/v/O ,/wp/O 对抗/v/TRIG 中/nd/O 又/d/O 能/v/O 长/v/O 出/v/O "/wp/O 三头六臂/i/O "/wp/O
+维和/j/B-role 牺牲/v/I-role 烈士/n/I-role 申亮亮/v/B-nr 魂/n/O 归/v/O 故里/n/O
+场面/n/O 科幻/b/O ：/wp/TRIG 中外军/j/O 夜训/v/O 美图/n/O
+叙利亚/ns/B-ns 首都/n/I-ns 南郊/nl/I-ns 连环/b/O 爆炸/v/TRIG 袭击/v/TRIG 死伤/v/O 人数/n/O 已/d/O 逾/v/O ６０/m/O 人/n/O
+美/j/B-nt 特战/j/I-nt 部队/n/I-nt 想/v/O 装备/n/O 美/j/B-country 版/n/O AK47/ws/B-dev 装/v/O 成/v/O 俄罗斯/ns/B-country 人/n/O ？/wp/O

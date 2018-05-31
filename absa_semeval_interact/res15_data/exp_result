@@ -1,0 +1,1140 @@
+info- - -- - - False	False
+Val fscore:0.7500  Test fscore:0.7103
+Val fscore:0.7510  Test fscore:0.7006
+Val fscore:0.7692  Test fscore:0.6919
+Val fscore:0.7884  Test fscore:0.6942
+Val fscore:0.7631  Test fscore:0.7025
+Val Mean fscore:0.7643  Test Mean fscore:0.6999
+Val Max fscore:0.7884  Test Max fscore:0.7103
+0.6942
+Val fscore:0.7807  Test fscore:0.7273
+Val fscore:0.7869  Test fscore:0.7251
+Val fscore:0.7869  Test fscore:0.7230
+Val fscore:0.7888  Test fscore:0.7299
+Val fscore:0.7869  Test fscore:0.7359
+Val Mean fscore:0.7860  Test Mean fscore:0.7282
+Val Max fscore:0.7888  Test Max fscore:0.7359
+0.7299
+info- - -- - - False	False
+Val fscore:0.7469  Test fscore:0.6955
+Val fscore:0.7490  Test fscore:0.7004
+Val fscore:0.7729  Test fscore:0.7033
+Val fscore:0.7510  Test fscore:0.6805
+Val fscore:0.7742  Test fscore:0.7015
+Val Mean fscore:0.7588  Test Mean fscore:0.6962
+Val Max fscore:0.7742  Test Max fscore:0.7033
+0.7015
+Val fscore:0.7807  Test fscore:0.7288
+Val fscore:0.7819  Test fscore:0.7449
+Val fscore:0.7932  Test fscore:0.7327
+Val fscore:0.8085  Test fscore:0.7363
+Val fscore:0.7869  Test fscore:0.7326
+Val Mean fscore:0.7902  Test Mean fscore:0.7350
+Val Max fscore:0.8085  Test Max fscore:0.7449
+0.7363
+info- - -- - - False	False
+Val fscore:0.7600  Test fscore:0.6816
+Val fscore:0.7661  Test fscore:0.7016
+Val fscore:0.7737  Test fscore:0.7032
+Val fscore:0.7755  Test fscore:0.7077
+Val fscore:0.7686  Test fscore:0.6897
+Val Mean fscore:0.7688  Test Mean fscore:0.6967
+Val Max fscore:0.7755  Test Max fscore:0.7077
+0.7077
+Val fscore:0.7529  Test fscore:0.7053
+Val fscore:0.7595  Test fscore:0.7153
+Val fscore:0.7550  Test fscore:0.7266
+Val fscore:0.7619  Test fscore:0.7406
+Val fscore:0.7615  Test fscore:0.7283
+Val Mean fscore:0.7582  Test Mean fscore:0.7232
+Val Max fscore:0.7619  Test Max fscore:0.7406
+0.7406
+info- - -- - - False	False
+Val fscore:0.7490  Test fscore:0.7155
+Val fscore:0.7541  Test fscore:0.6972
+Val fscore:0.7568  Test fscore:0.6871
+Val fscore:0.7627  Test fscore:0.6842
+Val fscore:0.7603  Test fscore:0.6972
+Val Mean fscore:0.7566  Test Mean fscore:0.6963
+Val Max fscore:0.7627  Test Max fscore:0.7155
+0.6842
+Val fscore:0.7686  Test fscore:0.7090
+Val fscore:0.7692  Test fscore:0.7245
+Val fscore:0.7764  Test fscore:0.7345
+Val fscore:0.7782  Test fscore:0.7346
+Val fscore:0.7692  Test fscore:0.7239
+Val Mean fscore:0.7723  Test Mean fscore:0.7253
+Val Max fscore:0.7782  Test Max fscore:0.7346
+0.7346
+info- - -- - - True	False
+Val fscore:0.7529  Test fscore:0.7166
+Val fscore:0.7541  Test fscore:0.7242
+Val fscore:0.7586  Test fscore:0.7001
+Val fscore:0.7592  Test fscore:0.7249
+Val fscore:0.7559  Test fscore:0.7025
+Val Mean fscore:0.7561  Test Mean fscore:0.7137
+Val Max fscore:0.7592  Test Max fscore:0.7249
+0.7249
+Val fscore:0.8016  Test fscore:0.7417
+Val fscore:0.8033  Test fscore:0.7482
+Val fscore:0.8052  Test fscore:0.7366
+Val fscore:0.8133  Test fscore:0.7451
+Val fscore:0.8117  Test fscore:0.7378
+Val Mean fscore:0.8070  Test Mean fscore:0.7419
+Val Max fscore:0.8133  Test Max fscore:0.7482
+0.7482
+info- - -- - - True	False
+Val fscore:0.7470  Test fscore:0.7105
+Val fscore:0.7480  Test fscore:0.7180
+Val fscore:0.7490  Test fscore:0.7033
+Val fscore:0.7552  Test fscore:0.6996
+Val fscore:0.7550  Test fscore:0.7191
+Val Mean fscore:0.7508  Test Mean fscore:0.7101
+Val Max fscore:0.7552  Test Max fscore:0.7191
+0.6996
+Val fscore:0.7654  Test fscore:0.7438
+Val fscore:0.7686  Test fscore:0.7380
+Val fscore:0.7787  Test fscore:0.7490
+Val fscore:0.7811  Test fscore:0.7474
+Val fscore:0.7787  Test fscore:0.7476
+Val Mean fscore:0.7745  Test Mean fscore:0.7452
+Val Max fscore:0.7811  Test Max fscore:0.7490
+info- - -- - - True	False
+Val fscore:0.7287  Test fscore:0.7104
+Val fscore:0.7287  Test fscore:0.7207
+Val fscore:0.7377  Test fscore:0.7108
+Val fscore:0.7451  Test fscore:0.7079
+Val fscore:0.7459  Test fscore:0.7147
+Val Mean fscore:0.7372  Test Mean fscore:0.7129
+Val Max fscore:0.7459  Test Max fscore:0.7207
+0.7147
+Val fscore:0.7897  Test fscore:0.7330
+Val fscore:0.7932  Test fscore:0.7589
+Val fscore:0.7903  Test fscore:0.7460
+Val fscore:0.7951  Test fscore:0.7529
+Val fscore:0.7949  Test fscore:0.7490
+Val Mean fscore:0.7926  Test Mean fscore:0.7480
+Val Max fscore:0.7951  Test Max fscore:0.7589
+info- - -- - - True	False
+Val fscore:0.7386  Test fscore:0.6951
+Val fscore:0.7469  Test fscore:0.7168
+Val fscore:0.7429  Test fscore:0.6926
+Val fscore:0.7500  Test fscore:0.7121
+Val fscore:0.7490  Test fscore:0.7079
+Val Mean fscore:0.7455  Test Mean fscore:0.7049
+Val Max fscore:0.7500  Test Max fscore:0.7168
+0.7147
+Val fscore:0.8000  Test fscore:0.7320
+Val fscore:0.8017  Test fscore:0.7540
+Val fscore:0.8085  Test fscore:0.7428
+Val fscore:0.8174  Test fscore:0.7343
+Val fscore:0.8035  Test fscore:0.7508
+Val Mean fscore:0.8062  Test Mean fscore:0.7428
+Val Max fscore:0.8174  Test Max fscore:0.7540
+info- - -- - - True	True
+Val fscore:0.7440  Test fscore:0.6848
+Val fscore:0.7490  Test fscore:0.6883
+Val fscore:0.7500  Test fscore:0.6891
+Val fscore:0.7598  Test fscore:0.6838
+Val fscore:0.7500  Test fscore:0.6879
+Val Mean fscore:0.7506  Test Mean fscore:0.6868
+Val Max fscore:0.7598  Test Max fscore:0.6891
+0.6838
+Val fscore:0.7837  Test fscore:0.7438
+Val fscore:0.7869  Test fscore:0.7517
+Val fscore:0.7863  Test fscore:0.7459
+Val fscore:0.7899  Test fscore:0.7523
+Val fscore:0.7920  Test fscore:0.7378
+Val Mean fscore:0.7878  Test Mean fscore:0.7463
+Val Max fscore:0.7920  Test Max fscore:0.7523
+info- - -- - - True	True
+Val fscore:0.7456  Test fscore:0.7110
+Val fscore:0.7470  Test fscore:0.7101
+Val fscore:0.7510  Test fscore:0.7109
+Val fscore:0.7592  Test fscore:0.7107
+Val fscore:0.7479  Test fscore:0.7261
+Val Mean fscore:0.7501  Test Mean fscore:0.7137
+Val Max fscore:0.7592  Test Max fscore:0.7261
+0.7107
+Val fscore:0.8097  Test fscore:0.7671
+Val fscore:0.8133  Test fscore:0.7555
+Val fscore:0.8279  Test fscore:0.7530
+Val fscore:0.8270  Test fscore:0.7614
+Val fscore:0.8194  Test fscore:0.7414
+Val Mean fscore:0.8195  Test Mean fscore:0.7557
+Val Max fscore:0.8279  Test Max fscore:0.7671
+info- - -- - - True	True
+Val fscore:0.7442  Test fscore:0.6986
+Val fscore:0.7459  Test fscore:0.6868
+Val fscore:0.7460  Test fscore:0.6963
+Val fscore:0.7552  Test fscore:0.6967
+Val fscore:0.7530  Test fscore:0.6884
+Val Mean fscore:0.7489  Test Mean fscore:0.6934
+Val Max fscore:0.7552  Test Max fscore:0.6986
+0.6967
+Val fscore:0.7448  Test fscore:0.7233
+Val fscore:0.7459  Test fscore:0.7004
+Val fscore:0.7480  Test fscore:0.7198
+Val fscore:0.7600  Test fscore:0.7099
+Val fscore:0.7611  Test fscore:0.7174
+Val Mean fscore:0.7520  Test Mean fscore:0.7142
+Val Max fscore:0.7611  Test Max fscore:0.7233
+info- - -- - - True	True
+Val fscore:0.7280  Test fscore:0.6925
+Val fscore:0.7309  Test fscore:0.6980
+Val fscore:0.7395  Test fscore:0.6880
+Val fscore:0.7552  Test fscore:0.7082
+Val fscore:0.7459  Test fscore:0.7203
+Val Mean fscore:0.7399  Test Mean fscore:0.7014
+Val Max fscore:0.7552  Test Max fscore:0.7203
+0.7082
+Val fscore:0.7577  Test fscore:0.7080
+Val fscore:0.7600  Test fscore:0.7470
+Val fscore:0.7631  Test fscore:0.7515
+Val fscore:0.7706  Test fscore:0.7280
+Val fscore:0.7792  Test fscore:0.7178
+Val Mean fscore:0.7661  Test Mean fscore:0.7305
+Val Max fscore:0.7792  Test Max fscore:0.7515
+info- - -- - - True	False
+Val fscore:0.7377  Test fscore:0.7031
+Val fscore:0.7448  Test fscore:0.6836
+Val fscore:0.7490  Test fscore:0.7200
+Val fscore:0.7561  Test fscore:0.7088
+Val fscore:0.7541  Test fscore:0.7106
+Val Mean fscore:0.7483  Test Mean fscore:0.7052
+Val Max fscore:0.7561  Test Max fscore:0.7200
+Val fscore:0.7950  Test fscore:0.7425
+Val fscore:0.7950  Test fscore:0.7574
+Val fscore:0.8163  Test fscore:0.7409
+Val fscore:0.8099  Test fscore:0.7381
+Val fscore:0.8101  Test fscore:0.7286
+Val Mean fscore:0.8053  Test Mean fscore:0.7415
+Val Max fscore:0.8163  Test Max fscore:0.7574
+info- - -- - - True	True
+Val fscore:0.7510  Test fscore:0.7059
+Val fscore:0.7570  Test fscore:0.7150
+Val fscore:0.7519  Test fscore:0.7088
+Val fscore:0.7631  Test fscore:0.7101
+Val fscore:0.7680  Test fscore:0.7148
+Val Mean fscore:0.7582  Test Mean fscore:0.7109
+Val Max fscore:0.7680  Test Max fscore:0.7150
+Val fscore:0.7920  Test fscore:0.7493
+Val fscore:0.7931  Test fscore:0.7137
+Val fscore:0.8000  Test fscore:0.7211
+Val fscore:0.8033  Test fscore:0.7043
+Val fscore:0.7932  Test fscore:0.7303
+Val Mean fscore:0.7963  Test Mean fscore:0.7237
+Val Max fscore:0.8033  Test Max fscore:0.7493
+info- - -- - - True	False
+Val fscore:0.7490  Test fscore:0.7070
+Val fscore:0.7565  Test fscore:0.6935
+Val fscore:0.7581  Test fscore:0.6909
+Val fscore:0.7750  Test fscore:0.6945
+Val fscore:0.7724  Test fscore:0.6974
+Val Mean fscore:0.7622  Test Mean fscore:0.6967
+Val Max fscore:0.7750  Test Max fscore:0.7070
+Val fscore:0.7934  Test fscore:0.7570
+Val fscore:0.7950  Test fscore:0.7271
+Val fscore:0.8051  Test fscore:0.7331
+Val fscore:0.7967  Test fscore:0.7403
+Val fscore:0.7967  Test fscore:0.7552
+Val Mean fscore:0.7974  Test Mean fscore:0.7425
+Val Max fscore:0.8051  Test Max fscore:0.7570
+info- - -- - - False	True
+Val fscore:0.7480  Test fscore:0.7053
+Val fscore:0.7519  Test fscore:0.7208
+Val fscore:0.7607  Test fscore:0.6850
+Val fscore:0.7656  Test fscore:0.7213
+Val fscore:0.7600  Test fscore:0.7053
+Val Mean fscore:0.7572  Test Mean fscore:0.7076
+Val Max fscore:0.7656  Test Max fscore:0.7213
+Val fscore:0.7673  Test fscore:0.7325
+Val fscore:0.7731  Test fscore:0.7321
+Val fscore:0.7871  Test fscore:0.7505
+Val fscore:0.7795  Test fscore:0.7495
+Val fscore:0.7918  Test fscore:0.7382
+Val Mean fscore:0.7798  Test Mean fscore:0.7406
+Val Max fscore:0.7918  Test Max fscore:0.7505
+info- - -- - - False	True
+Val fscore:0.7251  Test fscore:0.7039
+Val fscore:0.7355  Test fscore:0.7008
+Val fscore:0.7404  Test fscore:0.6983
+Val fscore:0.7438  Test fscore:0.6966
+Val fscore:0.7419  Test fscore:0.7143
+Val Mean fscore:0.7374  Test Mean fscore:0.7028
+Val Max fscore:0.7438  Test Max fscore:0.7143
+Val fscore:0.7647  Test fscore:0.7105
+Val fscore:0.7673  Test fscore:0.7190
+Val fscore:0.7765  Test fscore:0.7597
+Val fscore:0.7935  Test fscore:0.7416
+Val fscore:0.7787  Test fscore:0.7309
+Val Mean fscore:0.7761  Test Mean fscore:0.7323
+Val Max fscore:0.7935  Test Max fscore:0.7597
+info- - -- - - False	True
+Val fscore:0.7417  Test fscore:0.7032
+Val fscore:0.7426  Test fscore:0.6748
+Val fscore:0.7462  Test fscore:0.7214
+Val fscore:0.7490  Test fscore:0.7045
+Val fscore:0.7490  Test fscore:0.7045
+Val Mean fscore:0.7457  Test Mean fscore:0.7017
+Val Max fscore:0.7490  Test Max fscore:0.7214
+Val fscore:0.7711  Test fscore:0.7354
+Val fscore:0.7792  Test fscore:0.7347
+Val fscore:0.7795  Test fscore:0.7348
+Val fscore:0.7815  Test fscore:0.7545
+Val fscore:0.8069  Test fscore:0.7472
+Val Mean fscore:0.7836  Test Mean fscore:0.7413
+Val Max fscore:0.8069  Test Max fscore:0.7545
+info- - -- - - False	True
+Val fscore:0.7273  Test fscore:0.7011
+Val fscore:0.7280  Test fscore:0.6852
+Val fscore:0.7381  Test fscore:0.6874
+Val fscore:0.7470  Test fscore:0.6991
+Val fscore:0.7419  Test fscore:0.7064
+Val Mean fscore:0.7365  Test Mean fscore:0.6958
+Val Max fscore:0.7470  Test Max fscore:0.7064
+Val fscore:0.7747  Test fscore:0.7493
+Val fscore:0.7805  Test fscore:0.7438
+Val fscore:0.7791  Test fscore:0.7356
+Val fscore:0.7967  Test fscore:0.7488
+Val fscore:0.7915  Test fscore:0.7351
+Val Mean fscore:0.7845  Test Mean fscore:0.7425
+Val Max fscore:0.7967  Test Max fscore:0.7493
+info- - -- - - False	False
+Val fscore:0.7398  Test fscore:0.6891
+Val fscore:0.7398  Test fscore:0.6929
+Val fscore:0.7619  Test fscore:0.7195
+Val fscore:0.7433  Test fscore:0.7018
+Val fscore:0.7410  Test fscore:0.7065
+Val Mean fscore:0.7452  Test Mean fscore:0.7019
+Val Max fscore:0.7619  Test Max fscore:0.7195
+Val fscore:0.7760  Test fscore:0.7476
+Val fscore:0.7797  Test fscore:0.7437
+Val fscore:0.7866  Test fscore:0.7495
+Val fscore:0.8000  Test fscore:0.7432
+Val fscore:0.7851  Test fscore:0.7358
+Val Mean fscore:0.7855  Test Mean fscore:0.7440
+Val Max fscore:0.8000  Test Max fscore:0.7495
+info- - -- - - False	True
+Val fscore:0.5688  Test fscore:0.5412
+Val fscore:0.6102  Test fscore:0.6351
+Val fscore:0.6207  Test fscore:0.6184
+Val fscore:0.6277  Test fscore:0.6988
+Val fscore:0.6457  Test fscore:0.6824
+Val fscore:0.6769  Test fscore:0.6842
+Val fscore:0.6715  Test fscore:0.6909
+Val fscore:0.6341  Test fscore:0.6731
+Val fscore:0.6619  Test fscore:0.6936
+Val fscore:0.6765  Test fscore:0.6837
+Val fscore:0.6765  Test fscore:0.6820
+Val fscore:0.6963  Test fscore:0.6979
+Val fscore:0.7206  Test fscore:0.7043
+Val fscore:0.6815  Test fscore:0.6881
+Val fscore:0.6718  Test fscore:0.6632
+Val fscore:0.6825  Test fscore:0.6695
+Val fscore:0.6528  Test fscore:0.7130
+Val fscore:0.6857  Test fscore:0.7096
+Val Mean fscore:0.6590  Test Mean fscore:0.6738
+Val Max fscore:0.7206  Test Max fscore:0.7130
+Val fscore:0.7424  Test fscore:0.7164
+Val fscore:0.7442  Test fscore:0.7190
+Val fscore:0.7597  Test fscore:0.7103
+Val fscore:0.7445  Test fscore:0.7157
+Val fscore:0.7500  Test fscore:0.7459
+Val Mean fscore:0.7482  Test Mean fscore:0.7214
+Val Max fscore:0.7597  Test Max fscore:0.7459
+info- - -- - - True	True
+Val fscore:0.6715  Test fscore:0.6791
+Val fscore:0.6797  Test fscore:0.7000
+Val fscore:0.6950  Test fscore:0.7429
+Val fscore:0.6929  Test fscore:0.6710
+Val fscore:0.6897  Test fscore:0.7158
+Val Mean fscore:0.6858  Test Mean fscore:0.7018
+Val Max fscore:0.6950  Test Max fscore:0.7429
+Val fscore:0.7231  Test fscore:0.7077
+Val fscore:0.7286  Test fscore:0.7570
+Val fscore:0.7832  Test fscore:0.7495
+Val fscore:0.7310  Test fscore:0.7418
+Val fscore:0.7862  Test fscore:0.7560
+Val Mean fscore:0.7504  Test Mean fscore:0.7424
+Val Max fscore:0.7862  Test Max fscore:0.7570
+info- - -- - - True	True
+Val fscore:0.7246  Test fscore:0.7021
+Val fscore:0.7266  Test fscore:0.7097
+Val fscore:0.7313  Test fscore:0.7110
+Val fscore:0.7410  Test fscore:0.6823
+Val fscore:0.7294  Test fscore:0.6983
+Val Mean fscore:0.7306  Test Mean fscore:0.7007
+Val Max fscore:0.7410  Test Max fscore:0.7110
+Val fscore:0.7500  Test fscore:0.7366
+Val fscore:0.7619  Test fscore:0.7390
+Val fscore:0.7729  Test fscore:0.7380
+Val fscore:0.7626  Test fscore:0.7160
+Val fscore:0.7674  Test fscore:0.7559
+Val Mean fscore:0.7630  Test Mean fscore:0.7371
+Val Max fscore:0.7729  Test Max fscore:0.7559
+info- - -- - - True	True
+Val fscore:0.7280  Test fscore:0.7207
+Val fscore:0.7368  Test fscore:0.7170
+Val fscore:0.7286  Test fscore:0.7040
+Val fscore:0.7597  Test fscore:0.7123
+Val fscore:0.7385  Test fscore:0.7025
+Val Mean fscore:0.7383  Test Mean fscore:0.7113
+Val Max fscore:0.7597  Test Max fscore:0.7207
+Val fscore:0.7435  Test fscore:0.7383
+Val fscore:0.7491  Test fscore:0.7403
+Val fscore:0.7500  Test fscore:0.7415
+Val fscore:0.7547  Test fscore:0.7415
+Val fscore:0.7594  Test fscore:0.7540
+Val Mean fscore:0.7513  Test Mean fscore:0.7431
+Val Max fscore:0.7594  Test Max fscore:0.7540
+info- - -- - - True	True
+Val fscore:0.7481  Test fscore:0.7187
+Val fscore:0.7500  Test fscore:0.7079
+Val fscore:0.7600  Test fscore:0.6987
+Val fscore:0.7681  Test fscore:0.7180
+Val fscore:0.7529  Test fscore:0.7227
+Val Mean fscore:0.7558  Test Mean fscore:0.7132
+Val Max fscore:0.7681  Test Max fscore:0.7227
+Val fscore:0.7470  Test fscore:0.7546
+Val fscore:0.7481  Test fscore:0.7549
+Val fscore:0.7769  Test fscore:0.7425
+Val fscore:0.7623  Test fscore:0.7344
+Val fscore:0.7500  Test fscore:0.7612
+Val Mean fscore:0.7569  Test Mean fscore:0.7495
+Val Max fscore:0.7769  Test Max fscore:0.7612
+info- - -- - - True	True
+Val fscore:0.7240  Test fscore:0.7223
+Val fscore:0.7259  Test fscore:0.6960
+Val fscore:0.7538  Test fscore:0.7035
+Val fscore:0.7413  Test fscore:0.7161
+Val fscore:0.7266  Test fscore:0.7364
+Val Mean fscore:0.7343  Test Mean fscore:0.7149
+Val Max fscore:0.7538  Test Max fscore:0.7364
+Val fscore:0.7473  Test fscore:0.7218
+Val fscore:0.7611  Test fscore:0.7367
+Val fscore:0.7717  Test fscore:0.7393
+Val fscore:0.7826  Test fscore:0.7562
+Val fscore:0.7645  Test fscore:0.7474
+Val Mean fscore:0.7654  Test Mean fscore:0.7403
+Val Max fscore:0.7826  Test Max fscore:0.7562
+info- - -- - - True	True
+Val fscore:0.7237  Test fscore:0.7025
+Val fscore:0.7243  Test fscore:0.7006
+Val fscore:0.7325  Test fscore:0.6891
+Val fscore:0.7356  Test fscore:0.7233
+Val fscore:0.7273  Test fscore:0.6961
+Val Mean fscore:0.7287  Test Mean fscore:0.7023
+Val Max fscore:0.7356  Test Max fscore:0.7233
+Val fscore:0.7490  Test fscore:0.7325
+Val fscore:0.7531  Test fscore:0.7497
+Val fscore:0.7698  Test fscore:0.7498
+Val fscore:0.7698  Test fscore:0.7413
+Val fscore:0.7586  Test fscore:0.7522
+Val Mean fscore:0.7601  Test Mean fscore:0.7451
+Val Max fscore:0.7698  Test Max fscore:0.7522
+info- - -- - - False	False
+Val fscore:0.7431  Test fscore:0.7220
+Val fscore:0.7451  Test fscore:0.6918
+Val fscore:0.7500  Test fscore:0.7162
+Val fscore:0.7692  Test fscore:0.7044
+Val fscore:0.7656  Test fscore:0.7013
+Val Mean fscore:0.7546  Test Mean fscore:0.7071
+Val Max fscore:0.7692  Test Max fscore:0.7220
+Val fscore:0.7521  Test fscore:0.7166
+Val fscore:0.7529  Test fscore:0.7213
+Val fscore:0.7530  Test fscore:0.7334
+Val fscore:0.7734  Test fscore:0.7093
+Val fscore:0.7532  Test fscore:0.7147
+Val Mean fscore:0.7569  Test Mean fscore:0.7191
+Val Max fscore:0.7734  Test Max fscore:0.7334
+info- - -- - - False	False
+Val fscore:0.7460  Test fscore:0.7131
+Val fscore:0.7460  Test fscore:0.7005
+Val fscore:0.7510  Test fscore:0.7053
+Val fscore:0.7576  Test fscore:0.6988
+Val fscore:0.7576  Test fscore:0.6903
+Val Mean fscore:0.7516  Test Mean fscore:0.7016
+Val Max fscore:0.7576  Test Max fscore:0.7131
+Val fscore:0.7680  Test fscore:0.7087
+Val fscore:0.7747  Test fscore:0.7022
+Val fscore:0.7778  Test fscore:0.7027
+Val fscore:0.7791  Test fscore:0.6990
+Val fscore:0.7984  Test fscore:0.6983
+Val Mean fscore:0.7796  Test Mean fscore:0.7022
+Val Max fscore:0.7984  Test Max fscore:0.7087
+info- - -- - - False	False
+Val fscore:0.7473  Test fscore:0.7055
+Val fscore:0.7480  Test fscore:0.6965
+Val fscore:0.7480  Test fscore:0.7063
+Val fscore:0.7480  Test fscore:0.6852
+Val fscore:0.7673  Test fscore:0.6932
+Val Mean fscore:0.7517  Test Mean fscore:0.6973
+Val Max fscore:0.7673  Test Max fscore:0.7063
+Val fscore:0.7742  Test fscore:0.7227
+Val fscore:0.7811  Test fscore:0.7098
+Val fscore:0.7819  Test fscore:0.7152
+Val fscore:0.8066  Test fscore:0.7202
+Val fscore:0.7903  Test fscore:0.7246
+Val Mean fscore:0.7868  Test Mean fscore:0.7185
+Val Max fscore:0.8066  Test Max fscore:0.7246
+info- - -- - - True	True
+Val fscore:0.7490  Test fscore:0.7220
+Val fscore:0.7510  Test fscore:0.7231
+Val fscore:0.7538  Test fscore:0.7083
+Val fscore:0.7570  Test fscore:0.7102
+Val fscore:0.7570  Test fscore:0.7166
+Val Mean fscore:0.7536  Test Mean fscore:0.7160
+Val Max fscore:0.7570  Test Max fscore:0.7231
+Val fscore:0.7674  Test fscore:0.7401
+Val fscore:0.7686  Test fscore:0.7371
+Val fscore:0.7729  Test fscore:0.7452
+Val fscore:0.7920  Test fscore:0.7485
+Val fscore:0.7787  Test fscore:0.7446
+Val Mean fscore:0.7759  Test Mean fscore:0.7431
+Val Max fscore:0.7920  Test Max fscore:0.7485
+info- - -- - - True	True
+Val fscore:0.7490  Test fscore:0.7213
+Val fscore:0.7490  Test fscore:0.7059
+Val fscore:0.7550  Test fscore:0.7214
+Val fscore:0.7581  Test fscore:0.6985
+Val fscore:0.7549  Test fscore:0.7044
+Val Mean fscore:0.7532  Test Mean fscore:0.7103
+Val Max fscore:0.7581  Test Max fscore:0.7214
+Val fscore:0.7782  Test fscore:0.7400
+Val fscore:0.7840  Test fscore:0.7594
+Val fscore:0.7874  Test fscore:0.7188
+Val fscore:0.7903  Test fscore:0.7495
+Val fscore:0.7869  Test fscore:0.7380
+Val Mean fscore:0.7854  Test Mean fscore:0.7412
+Val Max fscore:0.7903  Test Max fscore:0.7594
+info- - -- - - True	True
+Val fscore:0.7570  Test fscore:0.6980
+Val fscore:0.7572  Test fscore:0.6895
+Val fscore:0.7769  Test fscore:0.6831
+Val fscore:0.7755  Test fscore:0.6842
+Val fscore:0.7597  Test fscore:0.7001
+Val Mean fscore:0.7652  Test Mean fscore:0.6910
+Val Max fscore:0.7769  Test Max fscore:0.7001
+Val fscore:0.7692  Test fscore:0.7738
+Val fscore:0.7699  Test fscore:0.7327
+Val fscore:0.7871  Test fscore:0.7218
+Val fscore:0.7750  Test fscore:0.7583
+Val fscore:0.7718  Test fscore:0.7354
+Val Mean fscore:0.7746  Test Mean fscore:0.7444
+Val Max fscore:0.7871  Test Max fscore:0.7738
+info- - -- - - True	True
+Val fscore:0.7559  Test fscore:0.7298
+Val fscore:0.7559  Test fscore:0.7210
+Val fscore:0.7667  Test fscore:0.7066
+Val fscore:0.7747  Test fscore:0.6995
+Val fscore:0.7698  Test fscore:0.7302
+Val Mean fscore:0.7646  Test Mean fscore:0.7174
+Val Max fscore:0.7747  Test Max fscore:0.7302
+Val fscore:0.7638  Test fscore:0.7379
+Val fscore:0.7656  Test fscore:0.7550
+Val fscore:0.7705  Test fscore:0.7376
+Val fscore:0.7661  Test fscore:0.7404
+Val fscore:0.7692  Test fscore:0.7345
+Val Mean fscore:0.7671  Test Mean fscore:0.7411
+Val Max fscore:0.7705  Test Max fscore:0.7550
+info- - -- - - False	False
+Val fscore:0.7462  Test fscore:0.7113
+Val fscore:0.7481  Test fscore:0.7181
+Val fscore:0.7619  Test fscore:0.7144
+Val fscore:0.7589  Test fscore:0.6916
+Val fscore:0.7589  Test fscore:0.7163
+Val Mean fscore:0.7548  Test Mean fscore:0.7104
+Val Max fscore:0.7619  Test Max fscore:0.7181
+Val fscore:0.7731  Test fscore:0.7296
+Val fscore:0.7745  Test fscore:0.7253
+Val fscore:0.7759  Test fscore:0.7360
+Val fscore:0.7874  Test fscore:0.7283
+Val fscore:0.7866  Test fscore:0.7196
+Val Mean fscore:0.7795  Test Mean fscore:0.7278
+Val Max fscore:0.7874  Test Max fscore:0.7360
+info- - -- - - False	False
+Val fscore:0.7449  Test fscore:0.6867
+Val fscore:0.7537  Test fscore:0.6983
+Val fscore:0.7541  Test fscore:0.6980
+Val fscore:0.7649  Test fscore:0.6890
+Val fscore:0.7540  Test fscore:0.6772
+Val Mean fscore:0.7543  Test Mean fscore:0.6898
+Val Max fscore:0.7649  Test Max fscore:0.6983
+Val fscore:0.7519  Test fscore:0.7073
+Val fscore:0.7608  Test fscore:0.7029
+Val fscore:0.7549  Test fscore:0.7213
+Val fscore:0.7661  Test fscore:0.7289
+Val fscore:0.7654  Test fscore:0.7101
+Val Mean fscore:0.7598  Test Mean fscore:0.7141
+Val Max fscore:0.7661  Test Max fscore:0.7289
+info- - -- - - True	True
+Val fscore:0.7686  Test fscore:0.6967
+Val fscore:0.7752  Test fscore:0.7266
+Val fscore:0.7704  Test fscore:0.6957
+Val fscore:0.7797  Test fscore:0.7244
+Val fscore:0.7773  Test fscore:0.7073
+Val Mean fscore:0.7742  Test Mean fscore:0.7102
+Val Max fscore:0.7797  Test Max fscore:0.7266
+Val fscore:0.7724  Test fscore:0.7510
+Val fscore:0.7750  Test fscore:0.7433
+Val fscore:0.7851  Test fscore:0.7508
+Val fscore:0.7903  Test fscore:0.7485
+Val fscore:0.7791  Test fscore:0.7469
+Val Mean fscore:0.7804  Test Mean fscore:0.7481
+Val Max fscore:0.7903  Test Max fscore:0.7510
+info- - -- - - True	True
+Val fscore:0.7368  Test fscore:0.7048
+Val fscore:0.7377  Test fscore:0.7244
+Val fscore:0.7520  Test fscore:0.7296
+Val fscore:0.7581  Test fscore:0.7245
+Val fscore:0.7405  Test fscore:0.7120
+Val Mean fscore:0.7450  Test Mean fscore:0.7190
+Val Max fscore:0.7581  Test Max fscore:0.7296
+Val fscore:0.7752  Test fscore:0.7468
+Val fscore:0.7857  Test fscore:0.7512
+Val fscore:0.7918  Test fscore:0.7377
+Val fscore:0.7953  Test fscore:0.7309
+Val fscore:0.8230  Test fscore:0.7482
+Val Mean fscore:0.7942  Test Mean fscore:0.7430
+Val Max fscore:0.8230  Test Max fscore:0.7512
+info- - -- - - True	True
+Val fscore:0.7109  Test fscore:0.6995
+Val fscore:0.7181  Test fscore:0.7202
+Val fscore:0.7252  Test fscore:0.7000
+Val fscore:0.7245  Test fscore:0.7223
+Val fscore:0.7191  Test fscore:0.7233
+Val Mean fscore:0.7196  Test Mean fscore:0.7131
+Val Max fscore:0.7252  Test Max fscore:0.7233
+Val fscore:0.7626  Test fscore:0.7353
+Val fscore:0.7654  Test fscore:0.7535
+Val fscore:0.7656  Test fscore:0.7278
+Val fscore:0.7773  Test fscore:0.7520
+Val fscore:0.7737  Test fscore:0.7356
+Val Mean fscore:0.7689  Test Mean fscore:0.7408
+Val Max fscore:0.7773  Test Max fscore:0.7535
+info- - -- - - True	True
+Val fscore:0.7594  Test fscore:0.7203
+Val fscore:0.7597  Test fscore:0.7188
+Val fscore:0.7654  Test fscore:0.6952
+Val fscore:0.7826  Test fscore:0.7047
+Val fscore:0.7656  Test fscore:0.7148
+Val Mean fscore:0.7666  Test Mean fscore:0.7107
+Val Max fscore:0.7826  Test Max fscore:0.7203
+Val fscore:0.7845  Test fscore:0.7410
+Val fscore:0.7848  Test fscore:0.7412
+Val fscore:0.7897  Test fscore:0.7424
+Val fscore:0.8050  Test fscore:0.7533
+Val fscore:0.8000  Test fscore:0.7282
+Val Mean fscore:0.7928  Test Mean fscore:0.7412
+Val Max fscore:0.8050  Test Max fscore:0.7533
+info- - -- - - True	True
+Val fscore:0.7385  Test fscore:0.7236
+Val fscore:0.7385  Test fscore:0.6928
+Val fscore:0.7711  Test fscore:0.7288
+Val fscore:0.7469  Test fscore:0.6869
+Val fscore:0.7490  Test fscore:0.7034
+Val Mean fscore:0.7488  Test Mean fscore:0.7071
+Val Max fscore:0.7711  Test Max fscore:0.7288
+Val fscore:0.7471  Test fscore:0.7604
+Val fscore:0.7490  Test fscore:0.7337
+Val fscore:0.7510  Test fscore:0.7463
+Val fscore:0.7638  Test fscore:0.7290
+Val fscore:0.7597  Test fscore:0.7104
+Val Mean fscore:0.7541  Test Mean fscore:0.7360
+Val Max fscore:0.7638  Test Max fscore:0.7604
+info- - -- - - True	True
+Val fscore:0.7413  Test fscore:0.7136
+Val fscore:0.7424  Test fscore:0.7000
+Val fscore:0.7471  Test fscore:0.7252
+Val fscore:0.7490  Test fscore:0.7109
+Val fscore:0.7449  Test fscore:0.7050
+Val Mean fscore:0.7449  Test Mean fscore:0.7110
+Val Max fscore:0.7490  Test Max fscore:0.7252
+Val fscore:0.7561  Test fscore:0.7490
+Val fscore:0.7649  Test fscore:0.7446
+Val fscore:0.7642  Test fscore:0.7391
+Val fscore:0.7857  Test fscore:0.7485
+Val fscore:0.7729  Test fscore:0.7376
+Val Mean fscore:0.7688  Test Mean fscore:0.7437
+Val Max fscore:0.7857  Test Max fscore:0.7490
+info- - -- - - True	True
+Val fscore:0.7479  Test fscore:0.7003
+Val fscore:0.7480  Test fscore:0.7232
+Val fscore:0.7500  Test fscore:0.7221
+Val fscore:0.7570  Test fscore:0.7125
+Val fscore:0.7529  Test fscore:0.7214
+Val Mean fscore:0.7512  Test Mean fscore:0.7159
+Val Max fscore:0.7570  Test Max fscore:0.7232
+Val fscore:0.7589  Test fscore:0.7517
+Val fscore:0.7698  Test fscore:0.7462
+Val fscore:0.7782  Test fscore:0.7490
+Val fscore:0.7840  Test fscore:0.7535
+Val fscore:0.7809  Test fscore:0.7500
+Val Mean fscore:0.7744  Test Mean fscore:0.7501
+Val Max fscore:0.7840  Test Max fscore:0.7535
+info- - -- - - True	True
+Val fscore:0.7416  Test fscore:0.7356
+Val fscore:0.7422  Test fscore:0.7128
+Val fscore:0.7597  Test fscore:0.7260
+Val fscore:0.7550  Test fscore:0.7174
+Val fscore:0.7500  Test fscore:0.7083
+Val Mean fscore:0.7497  Test Mean fscore:0.7200
+Val Max fscore:0.7597  Test Max fscore:0.7356
+Val fscore:0.7638  Test fscore:0.7507
+Val fscore:0.7642  Test fscore:0.7593
+Val fscore:0.7801  Test fscore:0.7594
+Val fscore:0.7727  Test fscore:0.7366
+Val fscore:0.7660  Test fscore:0.7333
+Val Mean fscore:0.7694  Test Mean fscore:0.7479
+Val Max fscore:0.7801  Test Max fscore:0.7594
+info- - -- - - True	True
+Val fscore:0.7237  Test fscore:0.7016
+Val fscore:0.7355  Test fscore:0.7163
+Val fscore:0.7480  Test fscore:0.7185
+Val fscore:0.7481  Test fscore:0.7035
+Val fscore:0.7433  Test fscore:0.7008
+Val Mean fscore:0.7397  Test Mean fscore:0.7081
+Val Max fscore:0.7481  Test Max fscore:0.7185
+Val fscore:0.7510  Test fscore:0.7419
+Val fscore:0.7581  Test fscore:0.7440
+Val fscore:0.7600  Test fscore:0.7502
+Val fscore:0.7823  Test fscore:0.7431
+Val fscore:0.7752  Test fscore:0.7556
+Val Mean fscore:0.7653  Test Mean fscore:0.7470
+Val Max fscore:0.7823  Test Max fscore:0.7556
+info- - -- - - True	True
+Val fscore:0.7642  Test fscore:0.6777
+Val fscore:0.7724  Test fscore:0.7023
+Val fscore:0.7851  Test fscore:0.7025
+Val fscore:0.7747  Test fscore:0.6975
+Val fscore:0.7737  Test fscore:0.7003
+Val Mean fscore:0.7740  Test Mean fscore:0.6961
+Val Max fscore:0.7851  Test Max fscore:0.7025
+Val fscore:0.7635  Test fscore:0.7454
+Val fscore:0.7654  Test fscore:0.7535
+Val fscore:0.7724  Test fscore:0.7570
+Val fscore:0.7750  Test fscore:0.7425
+Val fscore:0.7692  Test fscore:0.7550
+Val Mean fscore:0.7691  Test Mean fscore:0.7507
+Val Max fscore:0.7750  Test Max fscore:0.7570
+info- - -- - - True	True
+Val fscore:0.7308  Test fscore:0.7117
+Val fscore:0.7315  Test fscore:0.7061
+Val fscore:0.7347  Test fscore:0.7105
+Val fscore:0.7462  Test fscore:0.6873
+Val fscore:0.7390  Test fscore:0.7075
+Val Mean fscore:0.7364  Test Mean fscore:0.7046
+Val Max fscore:0.7462  Test Max fscore:0.7117
+Val fscore:0.7674  Test fscore:0.7381
+Val fscore:0.7787  Test fscore:0.7515
+Val fscore:0.7773  Test fscore:0.7435
+Val fscore:0.7833  Test fscore:0.7263
+Val fscore:0.7791  Test fscore:0.7545
+Val Mean fscore:0.7772  Test Mean fscore:0.7428
+Val Max fscore:0.7833  Test Max fscore:0.7545
+info- - -- - - True	True
+Val fscore:0.7306  Test fscore:0.7013
+Val fscore:0.7352  Test fscore:0.6884
+Val fscore:0.7581  Test fscore:0.7131
+Val fscore:0.7519  Test fscore:0.6917
+Val fscore:0.7405  Test fscore:0.7197
+Val Mean fscore:0.7433  Test Mean fscore:0.7028
+Val Max fscore:0.7581  Test Max fscore:0.7197
+Val fscore:0.7760  Test fscore:0.7533
+Val fscore:0.7778  Test fscore:0.7309
+Val fscore:0.7952  Test fscore:0.7568
+Val fscore:0.7799  Test fscore:0.7502
+Val fscore:0.7782  Test fscore:0.7458
+Val Mean fscore:0.7814  Test Mean fscore:0.7474
+Val Max fscore:0.7952  Test Max fscore:0.7568
+info- - -- - - True	True
+Val fscore:0.7500  Test fscore:0.7026
+Val fscore:0.7541  Test fscore:0.7072
+Val fscore:0.7600  Test fscore:0.6878
+Val fscore:0.7638  Test fscore:0.7056
+Val fscore:0.7592  Test fscore:0.7093
+Val Mean fscore:0.7574  Test Mean fscore:0.7025
+Val Max fscore:0.7638  Test Max fscore:0.7093
+Val fscore:0.7490  Test fscore:0.7519
+Val fscore:0.7490  Test fscore:0.7483
+Val fscore:0.7541  Test fscore:0.7532
+Val fscore:0.7640  Test fscore:0.7360
+Val fscore:0.7500  Test fscore:0.7565
+Val Mean fscore:0.7532  Test Mean fscore:0.7492
+Val Max fscore:0.7640  Test Max fscore:0.7565
+info- - -- - - True	True
+Val fscore:0.7266  Test fscore:0.6965
+Val fscore:0.7302  Test fscore:0.7094
+Val fscore:0.7336  Test fscore:0.7156
+Val fscore:0.7520  Test fscore:0.7225
+Val fscore:0.7381  Test fscore:0.7247
+Val Mean fscore:0.7361  Test Mean fscore:0.7137
+Val Max fscore:0.7520  Test Max fscore:0.7247
+Val fscore:0.7823  Test fscore:0.7518
+Val fscore:0.7935  Test fscore:0.7559
+Val fscore:0.8016  Test fscore:0.7418
+Val fscore:0.8080  Test fscore:0.7385
+Val fscore:0.7984  Test fscore:0.7457
+Val Mean fscore:0.7968  Test Mean fscore:0.7467
+Val Max fscore:0.8080  Test Max fscore:0.7559
+info- - -- - - True	True
+Val fscore:0.7213  Test fscore:0.6860
+Val fscore:0.7287  Test fscore:0.7187
+Val fscore:0.7462  Test fscore:0.7218
+Val fscore:0.7442  Test fscore:0.6952
+Val fscore:0.7344  Test fscore:0.7114
+Val Mean fscore:0.7349  Test Mean fscore:0.7066
+Val Max fscore:0.7462  Test Max fscore:0.7218
+Val fscore:0.7704  Test fscore:0.7370
+Val fscore:0.7757  Test fscore:0.7465
+Val fscore:0.7769  Test fscore:0.7393
+Val fscore:0.7871  Test fscore:0.7405
+Val fscore:0.7905  Test fscore:0.7502
+Val Mean fscore:0.7801  Test Mean fscore:0.7427
+Val Max fscore:0.7905  Test Max fscore:0.7502
+info- - -- - - True	True
+Val fscore:0.7231  Test fscore:0.7106
+Val fscore:0.7300  Test fscore:0.7168
+Val fscore:0.7368  Test fscore:0.7140
+Val fscore:0.7352  Test fscore:0.7015
+Val fscore:0.7348  Test fscore:0.6824
+Val Mean fscore:0.7320  Test Mean fscore:0.7050
+Val Max fscore:0.7368  Test Max fscore:0.7168
+Val fscore:0.7549  Test fscore:0.7522
+Val fscore:0.7557  Test fscore:0.7425
+Val fscore:0.7586  Test fscore:0.7306
+Val fscore:0.7692  Test fscore:0.7510
+Val fscore:0.7638  Test fscore:0.7475
+Val Mean fscore:0.7604  Test Mean fscore:0.7448
+Val Max fscore:0.7692  Test Max fscore:0.7522
+info- - -- - - True	True
+Val fscore:0.7266  Test fscore:0.7287
+Val fscore:0.7294  Test fscore:0.7045
+Val fscore:0.7405  Test fscore:0.7219
+Val fscore:0.7429  Test fscore:0.7054
+Val fscore:0.7339  Test fscore:0.7143
+Val Mean fscore:0.7346  Test Mean fscore:0.7150
+Val Max fscore:0.7429  Test Max fscore:0.7287
+Val fscore:0.7519  Test fscore:0.7233
+Val fscore:0.7541  Test fscore:0.7373
+Val fscore:0.7600  Test fscore:0.7440
+Val fscore:0.7692  Test fscore:0.7443
+Val fscore:0.7857  Test fscore:0.7430
+Val Mean fscore:0.7642  Test Mean fscore:0.7384
+Val Max fscore:0.7857  Test Max fscore:0.7443
+info- - -- - - True	True
+Val fscore:0.7568  Test fscore:0.7231
+Val fscore:0.7570  Test fscore:0.7053
+Val fscore:0.7615  Test fscore:0.7355
+Val fscore:0.7663  Test fscore:0.7261
+Val fscore:0.7667  Test fscore:0.7280
+Val Mean fscore:0.7616  Test Mean fscore:0.7236
+Val Max fscore:0.7667  Test Max fscore:0.7355
+Val fscore:0.7795  Test fscore:0.7413
+Val fscore:0.7869  Test fscore:0.7500
+Val fscore:0.7901  Test fscore:0.7451
+Val fscore:0.7901  Test fscore:0.7409
+Val fscore:0.7884  Test fscore:0.7389
+Val Mean fscore:0.7870  Test Mean fscore:0.7433
+Val Max fscore:0.7901  Test Max fscore:0.7500
+info- - -- - - True	True
+Val fscore:0.7209  Test fscore:0.7031
+Val fscore:0.7287  Test fscore:0.7115
+Val fscore:0.7229  Test fscore:0.7079
+Val fscore:0.7712  Test fscore:0.7311
+Val fscore:0.7500  Test fscore:0.7022
+Val Mean fscore:0.7387  Test Mean fscore:0.7111
+Val Max fscore:0.7712  Test Max fscore:0.7311
+Val fscore:0.7510  Test fscore:0.7271
+Val fscore:0.7510  Test fscore:0.7419
+Val fscore:0.7586  Test fscore:0.7455
+Val fscore:0.7705  Test fscore:0.7413
+Val fscore:0.7597  Test fscore:0.7608
+Val Mean fscore:0.7581  Test Mean fscore:0.7433
+Val Max fscore:0.7705  Test Max fscore:0.7608
+info- - -- - - True	True
+Val fscore:0.7356  Test fscore:0.7227
+Val fscore:0.7368  Test fscore:0.7135
+Val fscore:0.7645  Test fscore:0.7124
+Val fscore:0.7589  Test fscore:0.7290
+Val fscore:0.7416  Test fscore:0.7052
+Val Mean fscore:0.7475  Test Mean fscore:0.7165
+Val Max fscore:0.7645  Test Max fscore:0.7290
+Val fscore:0.7581  Test fscore:0.7343
+Val fscore:0.7594  Test fscore:0.7285
+Val fscore:0.7717  Test fscore:0.7294
+Val fscore:0.7674  Test fscore:0.7431
+Val fscore:0.7623  Test fscore:0.7449
+Val Mean fscore:0.7638  Test Mean fscore:0.7360
+Val Max fscore:0.7717  Test Max fscore:0.7449
+info- - -- - - True	True
+Val fscore:0.7280  Test fscore:0.7096
+Val fscore:0.7356  Test fscore:0.7023
+Val fscore:0.7444  Test fscore:0.7171
+Val fscore:0.7568  Test fscore:0.7129
+Val fscore:0.7402  Test fscore:0.7148
+Val Mean fscore:0.7410  Test Mean fscore:0.7113
+Val Max fscore:0.7568  Test Max fscore:0.7171
+Val fscore:0.7811  Test fscore:0.7392
+Val fscore:0.7869  Test fscore:0.7407
+Val fscore:0.7884  Test fscore:0.7419
+Val fscore:0.7984  Test fscore:0.7397
+Val fscore:0.7871  Test fscore:0.7515
+Val Mean fscore:0.7884  Test Mean fscore:0.7426
+Val Max fscore:0.7984  Test Max fscore:0.7515
+info- - -- - - True	True
+Val fscore:0.7460  Test fscore:0.6997
+Val fscore:0.7490  Test fscore:0.7109
+Val fscore:0.7519  Test fscore:0.7094
+Val fscore:0.7717  Test fscore:0.7171
+Val fscore:0.7529  Test fscore:0.7152
+Val Mean fscore:0.7543  Test Mean fscore:0.7105
+Val Max fscore:0.7717  Test Max fscore:0.7171
+Val fscore:0.7860  Test fscore:0.7500
+Val fscore:0.7903  Test fscore:0.7376
+Val fscore:0.7920  Test fscore:0.7443
+Val fscore:0.8163  Test fscore:0.7503
+Val fscore:0.7951  Test fscore:0.7393
+Val Mean fscore:0.7959  Test Mean fscore:0.7443
+Val Max fscore:0.8163  Test Max fscore:0.7503
+info- - -- - - True	True
+Val fscore:0.7449  Test fscore:0.7041
+Val fscore:0.7456  Test fscore:0.6922
+Val fscore:0.7739  Test fscore:0.7264
+Val fscore:0.7686  Test fscore:0.7165
+Val fscore:0.7608  Test fscore:0.7084
+Val Mean fscore:0.7588  Test Mean fscore:0.7095
+Val Max fscore:0.7739  Test Max fscore:0.7264
+Val fscore:0.7540  Test fscore:0.7369
+Val fscore:0.7572  Test fscore:0.7300
+Val fscore:0.7623  Test fscore:0.7433
+Val fscore:0.7797  Test fscore:0.7343
+Val fscore:0.7699  Test fscore:0.7284
+Val Mean fscore:0.7646  Test Mean fscore:0.7346
+Val Max fscore:0.7797  Test Max fscore:0.7433
+info- - -- - - True	True
+Val fscore:0.7460  Test fscore:0.7056
+Val fscore:0.7540  Test fscore:0.7217
+Val fscore:0.7520  Test fscore:0.7269
+Val fscore:0.7760  Test fscore:0.7177
+Val fscore:0.7615  Test fscore:0.7038
+Val Mean fscore:0.7579  Test Mean fscore:0.7151
+Val Max fscore:0.7760  Test Max fscore:0.7269
+Val fscore:0.7742  Test fscore:0.7488
+Val fscore:0.7787  Test fscore:0.7564
+Val fscore:0.7787  Test fscore:0.7531
+Val fscore:0.7797  Test fscore:0.7455
+Val fscore:0.7884  Test fscore:0.7468
+Val Mean fscore:0.7799  Test Mean fscore:0.7501
+Val Max fscore:0.7884  Test Max fscore:0.7564
+info- - -- - - True	True
+Val fscore:0.7550  Test fscore:0.7009
+Val fscore:0.7642  Test fscore:0.6960
+Val fscore:0.7661  Test fscore:0.7034
+Val fscore:0.7742  Test fscore:0.6995
+Val fscore:0.7760  Test fscore:0.6922
+Val Mean fscore:0.7671  Test Mean fscore:0.6984
+Val Max fscore:0.7760  Test Max fscore:0.7034
+Val fscore:0.7541  Test fscore:0.7262
+Val fscore:0.7619  Test fscore:0.6992
+Val fscore:0.7627  Test fscore:0.6964
+Val fscore:0.7642  Test fscore:0.7261
+Val fscore:0.7639  Test fscore:0.7087
+Val Mean fscore:0.7614  Test Mean fscore:0.7113
+Val Max fscore:0.7642  Test Max fscore:0.7262
+info- - -- - - True	True
+Val fscore:0.7286  Test fscore:0.7016
+Val fscore:0.7295  Test fscore:0.7018
+Val fscore:0.7478  Test fscore:0.6735
+Val fscore:0.7458  Test fscore:0.6893
+Val fscore:0.7360  Test fscore:0.7030
+Val Mean fscore:0.7375  Test Mean fscore:0.6938
+Val Max fscore:0.7478  Test Max fscore:0.7030
+Val fscore:0.7600  Test fscore:0.7271
+Val fscore:0.7642  Test fscore:0.7297
+Val fscore:0.7667  Test fscore:0.7275
+Val fscore:0.7692  Test fscore:0.7304
+Val fscore:0.7699  Test fscore:0.7259
+Val Mean fscore:0.7660  Test Mean fscore:0.7281
+Val Max fscore:0.7699  Test Max fscore:0.7304
+info- - -- - - True	True
+Val fscore:0.7416  Test fscore:0.7124
+Val fscore:0.7451  Test fscore:0.6941
+Val fscore:0.7589  Test fscore:0.7122
+Val fscore:0.7568  Test fscore:0.7208
+Val fscore:0.7469  Test fscore:0.7081
+Val Mean fscore:0.7498  Test Mean fscore:0.7095
+Val Max fscore:0.7589  Test Max fscore:0.7208
+Val fscore:0.7711  Test fscore:0.7419
+Val fscore:0.7752  Test fscore:0.7419
+Val fscore:0.7765  Test fscore:0.7260
+Val fscore:0.7843  Test fscore:0.7357
+Val fscore:0.7938  Test fscore:0.7365
+Val Mean fscore:0.7802  Test Mean fscore:0.7364
+Val Max fscore:0.7938  Test Max fscore:0.7419
+info- - -- - - True	True
+Val fscore:0.7500  Test fscore:0.6995
+Val fscore:0.7510  Test fscore:0.7115
+Val fscore:0.7705  Test fscore:0.7117
+Val fscore:0.7680  Test fscore:0.7036
+Val fscore:0.7566  Test fscore:0.7046
+Val Mean fscore:0.7592  Test Mean fscore:0.7062
+Val Max fscore:0.7705  Test Max fscore:0.7117
+Val fscore:0.7854  Test fscore:0.7594
+Val fscore:0.7886  Test fscore:0.7456
+Val fscore:0.7935  Test fscore:0.7455
+Val fscore:0.7951  Test fscore:0.7542
+Val fscore:0.7886  Test fscore:0.7367
+Val Mean fscore:0.7903  Test Mean fscore:0.7483
+Val Max fscore:0.7951  Test Max fscore:0.7594
+info- - -- - - True	True
+Val fscore:0.7398  Test fscore:0.7287
+Val fscore:0.7431  Test fscore:0.7243
+Val fscore:0.7550  Test fscore:0.7156
+Val fscore:0.7669  Test fscore:0.7323
+Val fscore:0.7479  Test fscore:0.7191
+Val Mean fscore:0.7506  Test Mean fscore:0.7240
+Val Max fscore:0.7669  Test Max fscore:0.7323
+Val fscore:0.8000  Test fscore:0.7608
+Val fscore:0.8051  Test fscore:0.7597
+Val fscore:0.8115  Test fscore:0.7570
+Val fscore:0.8182  Test fscore:0.7587
+Val fscore:0.8151  Test fscore:0.7528
+Val Mean fscore:0.8100  Test Mean fscore:0.7578
+Val Max fscore:0.8182  Test Max fscore:0.7608
+info- - -- - - True	True
+Val fscore:0.7619  Test fscore:0.7175
+Val fscore:0.7638  Test fscore:0.7143
+Val fscore:0.7773  Test fscore:0.7048
+Val fscore:0.7773  Test fscore:0.7037
+Val fscore:0.7673  Test fscore:0.7164
+Val Mean fscore:0.7695  Test Mean fscore:0.7114
+Val Max fscore:0.7773  Test Max fscore:0.7175
+Val fscore:0.7661  Test fscore:0.7303
+Val fscore:0.7673  Test fscore:0.7425
+Val fscore:0.7698  Test fscore:0.7332
+Val fscore:0.7854  Test fscore:0.7273
+Val fscore:0.7698  Test fscore:0.7498
+Val Mean fscore:0.7717  Test Mean fscore:0.7366
+Val Max fscore:0.7854  Test Max fscore:0.7498
+info- - -- - - True	True
+Val fscore:0.7442  Test fscore:0.7230
+Val fscore:0.7490  Test fscore:0.6952
+Val fscore:0.7661  Test fscore:0.6924
+Val fscore:0.7680  Test fscore:0.7006
+Val fscore:0.7668  Test fscore:0.7004
+Val Mean fscore:0.7588  Test Mean fscore:0.7023
+Val Max fscore:0.7680  Test Max fscore:0.7230
+Val fscore:0.7760  Test fscore:0.7412
+Val fscore:0.7760  Test fscore:0.7373
+Val fscore:0.7813  Test fscore:0.7514
+Val fscore:0.7795  Test fscore:0.7400
+Val fscore:0.7837  Test fscore:0.7572
+Val Mean fscore:0.7793  Test Mean fscore:0.7454
+Val Max fscore:0.7837  Test Max fscore:0.7572
+info- - -- - - True	True
+Val fscore:0.7300  Test fscore:0.7041
+Val fscore:0.7308  Test fscore:0.7147
+Val fscore:0.7419  Test fscore:0.6949
+Val fscore:0.7435  Test fscore:0.6986
+Val fscore:0.7373  Test fscore:0.6910
+Val Mean fscore:0.7367  Test Mean fscore:0.7007
+Val Max fscore:0.7435  Test Max fscore:0.7147
+Val fscore:0.7581  Test fscore:0.7258
+Val fscore:0.7627  Test fscore:0.7271
+Val fscore:0.7612  Test fscore:0.7355
+Val fscore:0.7711  Test fscore:0.7210
+Val fscore:0.7801  Test fscore:0.7329
+Val Mean fscore:0.7666  Test Mean fscore:0.7284
+Val Max fscore:0.7801  Test Max fscore:0.7355
+info- - -- - - True	True
+Val fscore:0.7231  Test fscore:0.6952
+Val fscore:0.7308  Test fscore:0.7219
+Val fscore:0.7540  Test fscore:0.7060
+Val fscore:0.7540  Test fscore:0.7139
+Val fscore:0.7323  Test fscore:0.6996
+Val Mean fscore:0.7388  Test Mean fscore:0.7073
+Val Max fscore:0.7540  Test Max fscore:0.7219
+Val fscore:0.7611  Test fscore:0.7558
+Val fscore:0.7647  Test fscore:0.7470
+Val fscore:0.7626  Test fscore:0.7357
+Val fscore:0.7722  Test fscore:0.7324
+Val fscore:0.7724  Test fscore:0.7403
+Val Mean fscore:0.7666  Test Mean fscore:0.7422
+Val Max fscore:0.7724  Test Max fscore:0.7558
+info- - -- - - True	True
+Val fscore:0.7654  Test fscore:0.6959
+Val fscore:0.7661  Test fscore:0.6901
+Val fscore:0.7837  Test fscore:0.6775
+Val fscore:0.7760  Test fscore:0.7251
+Val fscore:0.7699  Test fscore:0.6912
+Val Mean fscore:0.7722  Test Mean fscore:0.6960
+Val Max fscore:0.7837  Test Max fscore:0.7251
+Val fscore:0.7833  Test fscore:0.7431
+Val fscore:0.7848  Test fscore:0.7401
+Val fscore:0.8120  Test fscore:0.7412
+Val fscore:0.7869  Test fscore:0.7350
+Val fscore:0.7869  Test fscore:0.7566
+Val Mean fscore:0.7908  Test Mean fscore:0.7432
+Val Max fscore:0.8120  Test Max fscore:0.7566
+info- - -- - - True	True
+Val fscore:0.7273  Test fscore:0.7134
+Val fscore:0.7293  Test fscore:0.7106
+Val fscore:0.7638  Test fscore:0.7248
+Val fscore:0.7540  Test fscore:0.7231
+Val fscore:0.7419  Test fscore:0.7095
+Val Mean fscore:0.7433  Test Mean fscore:0.7163
+Val Max fscore:0.7638  Test Max fscore:0.7248
+Val fscore:0.7765  Test fscore:0.7661
+Val fscore:0.7854  Test fscore:0.7580
+Val fscore:0.7816  Test fscore:0.7438
+Val fscore:0.7888  Test fscore:0.7649
+Val fscore:0.7869  Test fscore:0.7536
+Val Mean fscore:0.7838  Test Mean fscore:0.7573
+Val Max fscore:0.7888  Test Max fscore:0.7661
+info- - -- - - True	True
+Val fscore:0.7023  Test fscore:0.6768
+Val fscore:0.7089  Test fscore:0.6922
+Val fscore:0.7287  Test fscore:0.7175
+Val fscore:0.7410  Test fscore:0.7248
+Val fscore:0.7368  Test fscore:0.7075
+Val Mean fscore:0.7235  Test Mean fscore:0.7038
+Val Max fscore:0.7410  Test Max fscore:0.7248
+Val fscore:0.7667  Test fscore:0.7528
+Val fscore:0.7692  Test fscore:0.7355
+Val fscore:0.7742  Test fscore:0.7320
+Val fscore:0.7787  Test fscore:0.7515
+Val fscore:0.7724  Test fscore:0.7318
+Val Mean fscore:0.7722  Test Mean fscore:0.7407
+Val Max fscore:0.7787  Test Max fscore:0.7528
+info- - -- - - True	True
+Val fscore:0.7419  Test fscore:0.7203
+Val fscore:0.7490  Test fscore:0.7183
+Val fscore:0.7704  Test fscore:0.7053
+Val fscore:0.7611  Test fscore:0.7119
+Val fscore:0.7611  Test fscore:0.7076
+Val Mean fscore:0.7567  Test Mean fscore:0.7127
+Val Max fscore:0.7704  Test Max fscore:0.7203
+Val fscore:0.7521  Test fscore:0.7369
+Val fscore:0.7550  Test fscore:0.7389
+Val fscore:0.7611  Test fscore:0.7363
+Val fscore:0.7635  Test fscore:0.7467
+Val fscore:0.7769  Test fscore:0.7322
+Val Mean fscore:0.7617  Test Mean fscore:0.7382
+Val Max fscore:0.7769  Test Max fscore:0.7467
+info- - -- - - True	True
+Val fscore:0.7393  Test fscore:0.7148
+Val fscore:0.7431  Test fscore:0.7108
+Val fscore:0.7626  Test fscore:0.7239
+Val fscore:0.7510  Test fscore:0.7196
+Val fscore:0.7481  Test fscore:0.6994
+Val Mean fscore:0.7488  Test Mean fscore:0.7137
+Val Max fscore:0.7626  Test Max fscore:0.7239
+Val fscore:0.7597  Test fscore:0.7447
+Val fscore:0.7782  Test fscore:0.7275
+Val fscore:0.7752  Test fscore:0.7319
+Val fscore:0.7951  Test fscore:0.7490
+Val fscore:0.7863  Test fscore:0.7472
+Val Mean fscore:0.7789  Test Mean fscore:0.7401
+Val Max fscore:0.7951  Test Max fscore:0.7490

@@ -1,0 +1,1 @@
+实体抽取结果：印度/ns/b_country 2万/m/other 农民/n/b_role 请求/v/other 总统/n/b_role "/wp/other 赐死/v/other "/wp/other 因/p/other 向/p/other 政府/n/b_nt 征求/v/other 赔偿/v/other 未果/v/other

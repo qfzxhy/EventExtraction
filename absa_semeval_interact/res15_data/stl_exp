@@ -1,0 +1,32 @@
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------target
+Val fscore:0.7218  Test fscore:0.7065
+Val fscore:0.7451  Test fscore:0.6843
+Val fscore:0.7286  Test fscore:0.6998
+Val fscore:0.7500  Test fscore:0.6920
+Val fscore:0.7452  Test fscore:0.6963
+Val Mean fscore:0.7382  Test Mean fscore:0.6958
+Val Max fscore:0.7500  Test Max fscore:0.7065
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------opword
+Val fscore:0.7449  Test fscore:0.6962
+Val fscore:0.7449  Test fscore:0.6910
+Val fscore:0.7583  Test fscore:0.6853
+Val fscore:0.7686  Test fscore:0.7066
+Val fscore:0.7511  Test fscore:0.6791
+Val Mean fscore:0.7536  Test Mean fscore:0.6916
+Val Max fscore:0.7686  Test Max fscore:0.7066
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------target
+Val fscore:0.7873  Test fscore:0.7008
+Val fscore:0.7882  Test fscore:0.6540
+Val fscore:0.7884  Test fscore:0.6777
+Val fscore:0.7961  Test fscore:0.6667
+Val fscore:0.7946  Test fscore:0.6846
+Val Mean fscore:0.7909  Test Mean fscore:0.6768
+Val Max fscore:0.7961  Test Max fscore:0.7008
+----------------- -- -- -- -- --- -- -- ------- ------- ----- ------ ----------opword
+Val fscore:0.7354  Test fscore:0.7013
+Val fscore:0.7368  Test fscore:0.7387
+Val fscore:0.7545  Test fscore:0.7045
+Val fscore:0.7719  Test fscore:0.7155
+Val fscore:0.7414  Test fscore:0.7198
+Val Mean fscore:0.7480  Test Mean fscore:0.7160
+Val Max fscore:0.7719  Test Max fscore:0.7387

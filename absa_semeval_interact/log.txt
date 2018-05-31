@@ -1,0 +1,117 @@
+trainsize2744
+False
+eval data size 304.000000
+shuffle-  - - - - - - - - - - - - -  -   
+[1502 1357 1823 ...,  843  909 2000]
+current batch_time: 2744
+every loss:1.410877,1.384370
+evalution on eval data, target_eval_loss:2.795,precison:0.623,recall:0.684,fscore:0.661
+evalution on test data, target_eval_loss:2.194,precison:0.740,recall:0.765,fscore:0.743
+evalution on eval data, opword_eval_loss:2.795,precison:0.705,recall:0.719,fscore:0.716
+evalution on test data, opword_eval_loss:2.194,precison:0.735,recall:0.787,fscore:0.786
+shuffle-  - - - - - - - - - - - - -  -   
+[ 906 2430 2112 ..., 1749  137 1066]
+current batch_time: 5488
+every loss:1.271222,1.228841
+evalution on eval data, target_eval_loss:2.500,precison:0.612,recall:0.691,fscore:0.667
+evalution on test data, target_eval_loss:1.926,precison:0.742,recall:0.780,fscore:0.763
+evalution on eval data, opword_eval_loss:2.500,precison:0.699,recall:0.723,fscore:0.720
+evalution on test data, opword_eval_loss:1.926,precison:0.704,recall:0.770,fscore:0.769
+shuffle-  - - - - - - - - - - - - -  -   
+[ 652  934 1743 ..., 2216 1954 2610]
+current batch_time: 8232
+every loss:1.244719,1.197495
+evalution on eval data, target_eval_loss:2.442,precison:0.643,recall:0.701,fscore:0.678
+evalution on test data, target_eval_loss:1.833,precison:0.766,recall:0.797,fscore:0.783
+evalution on eval data, opword_eval_loss:2.442,precison:0.683,recall:0.724,fscore:0.722
+evalution on test data, opword_eval_loss:1.833,precison:0.686,recall:0.758,fscore:0.757
+shuffle-  - - - - - - - - - - - - -  -   
+[2375 1247 2152 ..., 1378  109  677]
+current batch_time: 10976
+every loss:1.148723,1.206885
+evalution on eval data, target_eval_loss:2.356,precison:0.670,recall:0.721,fscore:0.695
+evalution on test data, target_eval_loss:1.800,precison:0.787,recall:0.801,fscore:0.788
+evalution on eval data, opword_eval_loss:2.356,precison:0.713,recall:0.732,fscore:0.732
+evalution on test data, opword_eval_loss:1.800,precison:0.721,recall:0.780,fscore:0.779
+shuffle-  - - - - - - - - - - - - -  -   
+[ 608  732 1321 ..., 1737  338 1424]
+current batch_time: 13720
+every loss:1.058901,1.132051
+evalution on eval data, target_eval_loss:2.191,precison:0.653,recall:0.709,fscore:0.686
+evalution on test data, target_eval_loss:1.810,precison:0.794,recall:0.809,fscore:0.800
+evalution on eval data, opword_eval_loss:2.191,precison:0.674,recall:0.721,fscore:0.719
+evalution on test data, opword_eval_loss:1.810,precison:0.685,recall:0.757,fscore:0.756
+shuffle-  - - - - - - - - - - - - -  -   
+[ 408 2403 2673 ..., 1992 2690 2165]
+current batch_time: 16464
+every loss:1.113705,1.264979
+evalution on eval data, target_eval_loss:2.379,precison:0.669,recall:0.728,fscore:0.703
+evalution on test data, target_eval_loss:1.916,precison:0.770,recall:0.785,fscore:0.772
+evalution on eval data, opword_eval_loss:2.379,precison:0.692,recall:0.735,fscore:0.732
+evalution on test data, opword_eval_loss:1.916,precison:0.701,recall:0.774,fscore:0.773
+shuffle-  - - - - - - - - - - - - -  -   
+[1596 1996 1050 ..., 2578 2019 2589]
+current batch_time: 19208
+every loss:1.101849,1.183637
+evalution on eval data, target_eval_loss:2.285,precison:0.697,recall:0.729,fscore:0.716
+evalution on test data, target_eval_loss:1.860,precison:0.801,recall:0.814,fscore:0.804
+evalution on eval data, opword_eval_loss:2.285,precison:0.656,recall:0.703,fscore:0.702
+evalution on test data, opword_eval_loss:1.860,precison:0.673,recall:0.752,fscore:0.751
+shuffle-  - - - - - - - - - - - - -  -   
+[1398  769  481 ...,  927  451 1187]
+current batch_time: 21952
+every loss:1.091353,1.155432
+evalution on eval data, target_eval_loss:2.247,precison:0.676,recall:0.726,fscore:0.709
+evalution on test data, target_eval_loss:1.887,precison:0.795,recall:0.813,fscore:0.803
+evalution on eval data, opword_eval_loss:2.247,precison:0.673,recall:0.722,fscore:0.716
+evalution on test data, opword_eval_loss:1.887,precison:0.680,recall:0.757,fscore:0.756
+shuffle-  - - - - - - - - - - - - -  -   
+[ 743 2157 1921 ...,  415 2582  678]
+current batch_time: 24696
+every loss:1.191454,1.186252
+evalution on eval data, target_eval_loss:2.378,precison:0.686,recall:0.742,fscore:0.721
+evalution on test data, target_eval_loss:1.822,precison:0.810,recall:0.821,fscore:0.814
+evalution on eval data, opword_eval_loss:2.378,precison:0.696,recall:0.731,fscore:0.729
+evalution on test data, opword_eval_loss:1.822,precison:0.722,recall:0.785,fscore:0.784
+shuffle-  - - - - - - - - - - - - -  -   
+[2142  622 1673 ..., 2354 1105 1431]
+current batch_time: 27440
+every loss:1.092127,1.215878
+evalution on eval data, target_eval_loss:2.308,precison:0.687,recall:0.707,fscore:0.688
+evalution on test data, target_eval_loss:2.037,precison:0.786,recall:0.771,fscore:0.761
+evalution on eval data, opword_eval_loss:2.308,precison:0.686,recall:0.728,fscore:0.727
+evalution on test data, opword_eval_loss:2.037,precison:0.700,recall:0.777,fscore:0.776
+shuffle-  - - - - - - - - - - - - -  -   
+[2450 1314  122 ..., 1183 1064  847]
+current batch_time: 30184
+every loss:1.088164,1.221841
+evalution on eval data, target_eval_loss:2.310,precison:0.688,recall:0.726,fscore:0.711
+evalution on test data, target_eval_loss:1.900,precison:0.803,recall:0.809,fscore:0.799
+evalution on eval data, opword_eval_loss:2.310,precison:0.665,recall:0.705,fscore:0.704
+evalution on test data, opword_eval_loss:1.900,precison:0.691,recall:0.761,fscore:0.759
+shuffle-  - - - - - - - - - - - - -  -   
+[2021 2145 1319 ...,  328  352 2429]
+current batch_time: 32928
+every loss:1.133356,1.328356
+evalution on eval data, target_eval_loss:2.462,precison:0.675,recall:0.711,fscore:0.694
+evalution on test data, target_eval_loss:1.944,precison:0.794,recall:0.801,fscore:0.786
+evalution on eval data, opword_eval_loss:2.462,precison:0.707,recall:0.729,fscore:0.725
+evalution on test data, opword_eval_loss:1.944,precison:0.711,recall:0.784,fscore:0.781
+shuffle-  - - - - - - - - - - - - -  -   
+[ 581 1820  829 ..., 1352  399  802]
+current batch_time: 35672
+every loss:1.328210,1.209871
+evalution on eval data, target_eval_loss:2.538,precison:0.655,recall:0.728,fscore:0.701
+evalution on test data, target_eval_loss:2.052,precison:0.758,recall:0.795,fscore:0.763
+evalution on eval data, opword_eval_loss:2.538,precison:0.692,recall:0.733,fscore:0.729
+evalution on test data, opword_eval_loss:2.052,precison:0.699,recall:0.767,fscore:0.765
+shuffle-  - - - - - - - - - - - - -  -   
+[2222  587    2 ..., 1906 1109 1450]
+current batch_time: 38416
+every loss:1.193364,1.178526
+evalution on eval data, target_eval_loss:2.372,precison:0.658,recall:0.697,fscore:0.680
+evalution on test data, target_eval_loss:1.879,precison:0.796,recall:0.803,fscore:0.791
+evalution on eval data, opword_eval_loss:2.372,precison:0.726,recall:0.746,fscore:0.747
+evalution on test data, opword_eval_loss:1.879,precison:0.710,recall:0.778,fscore:0.776
+early stop!
+Train Finished!!

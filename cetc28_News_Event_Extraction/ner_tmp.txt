@@ -1,0 +1,565 @@
+坠毁/other 歼/b_dev 10/other 飞行员/b_role 50/other 天/other 后/other 驾机/other 升空/other ,/other 画面/other 激动人心/other
+港媒/b_nt ：/other 中国/b_country 要求/other 加强/other 反恐/other 预警/other ,/other 保持/other 高压/other 威慑/other 态势/other
+美/b_country 神盾舰/b_dev 挂/other 五星红旗/other 访问/other 上海/b_ns ,/other 司令/b_role 拜会/other 中方/b_country 将领/b_role
+范长/b_nr 龙晤印/i_nr 防长/b_role ：/other 望/other 妥善/other 管控/other 分歧/other ,/other 加强/other 边防/other 合作/other
+武警/other 北京/b_ns 总队/other 再/other 获/other 神/other 枪手/b_role ,/other 新兵/b_role 连续/other 打/other 出/other 5/other 个/other 10/other 环/other
+台军/b_nt 装甲车/b_dev 疑/other 因/other 故障/other 坠湖/b_ns ,/other 两/other 士兵/b_role 站/other 在/other 车顶/other 被/other 淹死/other
+海军/b_nt 预警机/b_dev 近期/other 频赴/other 大洋/other ,/other 飞行/other 时间/other 已/other 到/other 极限/other
+军报/b_nt ：/other 陆军/b_nt 应有/other 激光/b_dev 电磁/other 武器/b_dev ,/other 向/other 无/other 人/other 隐形/other 发展/other
+两/other 栖/other 战车/other 直/other 扑/other 20/other 米/other 外/other 登陆舰/b_dev ,/other 官兵/b_role 拼死/other 一/other 撑免/other 相撞/other
+解放军/b_nt 新型/b_dev 迫榴炮/i_dev 列装/other 5月/other 形成/other 战力/other ,/other 正常/other 需/other 两三/other 年/other
+日媒/b_nt ：/other 中国/b_country 情报船/b_dev 在/other 东海/b_ns 巡航/other 欲/other 搜集/other 美/b_country 日/b_country 情报/other
+中国/b_country 战舰/b_dev 访/other 古巴/b_country ,/other 战士/b_role 表演/other 中国/b_country 功夫/other 民众/b_role 欢呼雀跃/other
+空军/b_nt 原/other 副/b_role 司令员/i_role 李永泰/b_nr 同志/other 逝世/other ：/other 曾/other 参加/other 抗美援朝/other
+解放军/b_nt 潜艇/b_dev 首/other 次/other 连/other 射/other 四/other 枚/other 导弹/b_dev ,/other 艇身/other 猛烈/other 震动/other
+印尼/b_nt 军方/i_nt 招收/other 街头/other “/other 小/other 混混/other ”/other 军训/other ：/other 保护/other 国家/other “/other 流氓/other ”/other 有/other 责/other
+美/b_country 日/b_country 印/b_country 冲绳/b_ns 集结/other 重兵/other 联合/other 军演/other ,/other 被/other 指/other 联合/other 对/other 华/b_country 施压/other
+港媒/b_nt ：/other 安倍/b_nr 应/other 为/other 和平/other 在/other 大屠杀/other 80/other 周年/other 访问/other 南京/b_ns
+美军/b_nt 备战/other 大规模/other 混合战争/other ,/other 美媒/b_nt ：/other 中国/b_country 崛起/other 是/other 隐忧/other
+美/b_nt 日/i_nt 同盟/i_nt 危害/other 亚太/b_ns 和平/other ,/other 中/b_country 俄/b_country 若/other 合作/other 将/other 是/other 日本/b_country 噩梦/other
+俄/b_country 专家/b_role 眼中/other 的/other 南海/b_ns 问题/other 解决/other 之/other 道/other
+边防/b_role 官兵/i_role 过/other 端午/other ：/other 喂/other 军犬/other 粽子/other ,/other 爬山/other 陷/other 雪坑/other
+男子/other 彻夜/other 狂欢/other 后/other 搭/other 错/other 船漂/other 到/other 叙利亚/b_country ,/other 被/other 俄/b_nt 军/i_nt 请/other “/other 喝茶/other ”/other
+“/other 火龙/other ”/other 出击/other ,/other 侦察兵/b_role 夜间/other 实弹/other 射击/other 场面/other 壮观/other ,/other
+塞拉利昂/b_country 支持/other 中国/b_country 在/other 南海/b_ns 问题/other 上/other 的/other 立场/other
+专访/other ：/other 南海/b_ns 仲裁案/other 损害/other 争端/other 和平/other 解决/other ——/other 访/other 美国/b_country 国际/other 问题/other 专家/b_role 威廉·琼斯/b_nr
+外媒/b_nt ：/other 叙利亚/b_country 已/other 向/other 英/b_country 议员/b_role 转交/other IS/b_nt 外国/other 支持者/other 名单/other
+美国/b_country 成功/other 发射/other 一/other 枚/other 秘密/other 间谍/b_role 卫星/b_dev ,/other 增强/other 美/b_country 监控/other 能力/other
+高原/other 怒吼/other ！/other 空降兵/b_role 大批/other 速射/b_dev 迫击炮/i_dev 开火/other ,/other
+维和/b_nt 英雄/other 申亮亮/b_nr ：/other 用/other 生命/other 最后/other 37/other 秒/other 换/other 回/other 战友/other 平安/other
+武警/b_nt 新/other 臂章/other 做/other 手机/other 壁纸/other ，/other 这种/other 风格/other 你/other 喜欢/other 吗/other ？/other ,/other
+美国/b_country 奥兰多/b_nt 警方/i_nt 称/other 酒吧/other 枪手/b_role 已/other 身亡/other
+美国/b_country 奥兰多市/b_ns 发生/other 枪击/other 事件/other 致数/other 人/other 受伤/other
+日/b_country 韩/b_country 慰安妇/b_role 协议/other 难/other 解困局/other ,/other 日本/b_country 仍/other 需/other 正视/other 历史/other
+维和/b_role 烈士/i_role 申亮亮/other 骨灰/other 到达/other 老家/other 河南/b_ns ,/other 明日/other 安葬/other (/other 图/other )/other
+国防/other 科大/other 青年/other 人才/other 群体/other 平均/other 年龄/other 不/other 到/other 35/other 岁/other
+300/other 米/other 1/other 挺/other 机枪/b_dev ！/other 外媒/b_nt 称/other 土耳其/b_country 堵/other 死/other 叙/b_country 难民/b_role 逃生路/other
+看/other 图/other ！/other 狙击手/other 为/other 啥/other 是/other 两/other 个/other 人/other ？/other ,/other
+外媒/b_nt ：/other “/other 伊斯兰国/b_nt ”/other 称/other 对/other 奥兰/b_ns 多/other 枪击/other 事件/other 负责/other
+我国/other 成功/other 发射/other 第二十三/other 颗/other 北斗/other 导航/other 卫星/b_dev
+世界/other 很/other 危险/other ！/other 美/b_nt 将军/i_nt 成/other 反/other 核/other 先锋/other ,/other 曾/other 掌控/other 上万/other 核武/b_dev
+维和/b_role 牺牲/i_role 烈士/i_role 申亮亮/other 魂/other 归/other 故里/other ,/other
+场面/other 科幻/other ：/other 中外军/b_nt 夜训/other 美图/other ,/other
+叙利亚/b_ns 首都/i_ns 南郊/i_ns 连环/other 爆炸/other 袭击/other 死伤/other 人数/other 已/other 逾/other ６０/other 人/other
+美特战/b_nt 部队/i_nt 想/other 装备/other 美/b_country 版/other AK47/b_dev ,/other 装/other 成/other 俄罗斯/b_country 人/other ？/other
+英派/other 单价/other 10亿/other 镑45型/b_dev 驱逐舰/i_dev 打/other IS/b_nt ,/other 竟/other 被/other 高温/other 击败/other
+“/other 违规/other ”/other |/other 希拉里/b_nr 被/other 曝/other 用/other 私人/other 手机/other 授权/other 空袭/other
+外交部/b_nt 发言人/b_role 洪/b_nr 磊/i_nr 就/other 核/other 供应/other 国/other 集团/other 扩员/other 相关/other 问题/other 答/other 记者/b_role 问/other
+分析/other ：/other 欧盟/b_nt 若/other 失去/other 英国/b_country ,/other 全球/other 影响力/other 将/other 大/other 减/other
+美国/b_country 奥兰多市/b_ns 发生/other 枪击/other 事件/other 致数/other 人/other 受伤/other
+阿联酋/b_country 航企/other 推出/other 全球/other 最/other 贵/other 机票/other ,/other 伦敦/b_ns 墨尔本/b_ns 往返/other 52万/other 元/other
+比利时/b_country 埃马勒/other 苏于镇/b_ns ５日/other 晚/other 发生/other 火车/other 相撞/other 事故/other 造成/other 至少/other ３０/other 人/other 受伤/other
+赴/other 美/b_country 留学/other 需/other 警惕/other “/other 野鸡/b_nt 大学/i_nt ”/other
+英脱/b_nt 欧公/other 投/other 民调/other ：/other 支持率/other 上升/other ,/other 移民/other 系/other 最/other 关切/other 问题/other
+美/b_country 国务卿/b_role 出席/other 蒙古/b_country 那/other 达慕/other 大会/other ,/other 眯眼学/other 射箭/other 超/other 认真/other （/other 组图/other ）/other
+土耳其/b_nt 学校/i_nt 大巴/other 坠入/other 水渠/other ,/other 至少/other 12/other 死/other 23/other 伤/other (/other 组图/other )/other
+中/b_country 美/b_country 战略/other 与/other 经济/other 对话/other 今天/other 开幕/other ,/other 双方/other 都/other 希望/other 管控/other 分歧/other
+北约/b_nt 一月/other 内在/other 波罗的海/b_ns 三/other 场/other 军演/other ,/other 俄/b_country 专家/b_role 称/other 应/other 做出/other 回应/other
+印度/b_country 限制/other 官员/b_role 使用/other 智能/other 手机/other ,/other 称/other 面临/other “/other 中国/b_country 黑客/b_role ”/other 攻击/other 威胁/other
+西非/b_ns 经货联盟/b_nt 通过/other 多/other 国/other 混合/other 部队/b_nt 建立/other 原则/other
+土耳其/b_country 凭/other 啥/other 弃/other 购/other 防空/b_dev 系统/i_dev ？/other 老/other 旧/other 导弹/b_dev 只能/other 威胁/other 自己/other
+法/b_country 回应/other 恐袭/other 前/other 曾/other 获/other 伊方/other 情报/other ：/other 类似/other 情报/other 每天/other 都/other 有/other
+日/b_country 右翼/other 妄评/other 慰安妇/b_role 惹/other 恼/other 韩媒/b_nt ,/other 曾/other 称/other 慰安妇/b_role 为/other 挣钱/other
+日本/b_country 打造/other 亚洲/b_ns 最/other 强/other 常规/other 潜艇/b_dev ,/other 中国/b_country 需/other 重点/other 发展/other 反潜/other
+奥巴马/b_nr 普京/b_nr 两/other 次/other 私聊/other 叙利亚/b_country ,/other 美/b_country 俄/b_country 携手/other 打击/other IS/b_nt ？/other
+美国/b_country DDG-1000/b_dev 隐身/other 驱逐舰/b_dev 计划/other 12月/other 将/other 进行/other 海试/other
+奥朗德欲联/b_nt 美/b_country 俄/b_country 与/other IS/b_nt 全面/other 开战/other ,/other 奥巴马/b_nr 借/other 伊战/other 告诫/other
+巴黎/b_ns 恐袭/other 嫌犯/b_role 母亲/other 称/other 儿子/other 没/other 想/other 杀人/other ,/other 只是/other 压力/other 大/other
+日本/b_country 外相/b_role 为/other 菲律宾/b_country 状告/other 中国/b_country 站台/other ,/other 菲/b_country 外长/b_role ：/other 感谢/other
+美媒/b_nt ：/other 同样/other 遭受/other 恐怖/other 袭击/other ,/other 黎巴嫩人/other 感叹/other 被/other 忽略/other
+乌克兰/b_country 总理/b_role 指/other 俄罗斯/b_country 是/other 全球/other 恐怖主义/other 的/other 刺激/other 因素/other
+普京/b_nr ：/other 打击/other 恐怖主义/other ,/other 俄/b_country 需/other 美国/b_country 沙特/b_country 和/other 伊朗/b_country 支援/other
+巴黎/b_ns 恐袭/other 引发/other 美国/b_country 对/other 国土/other 安全/other 关注/other ,/other 忧/other 本土/other 遭/other 袭击/other
+巴黎/b_ns 恐袭/other 嫌疑/other 恶行/other 昭著/other ,/other 13/other 岁/other 弟弟/other 成/other 最/other 年幼/other 参战者/other
+巴黎/b_ns 恐袭/other 伤者/b_role 受/other 重创/other ,/other 医生/b_role 形容/other 接收/other 时/other 如/other 战争/other 画面/other
+IS/b_nt 威胁/other 袭击/other 华盛顿/b_ns ,/other 攻击/other 其他/other 参与/other 叙/b_country 空袭/other 行动/other 国家/other
+叙利亚/b_nt 政府军/i_nt 被/other 围困/other 3/other 年/other 终获/other 自由/other ,/other 誓死/other 与/other IS/b_nt 作战/other
+法军/b_nt 回击/other IS/b_nt 选择/other 多/other ：/other 航母/b_dev 战机/i_dev 空袭/other 难派/b_nt 地面/i_nt 部队/i_nt
+叙利亚/b_country 人为背/other 巴黎/b_ns 恐袭/other 黑锅/other 愤怒/other ,/other 因/other 内战/other 苦不堪言/other
+美军/b_nt 定点/other 清除/other 利比亚/b_country IS/b_nt 头目/b_role ,/other 导弹/b_dev 涂/other 有/other 法国旗/other 颜色/other
+英媒/b_nt ：/other IS/b_nt 称/other 将/other 在/other 英/b_country 发动/other 致命/other 袭击/other ,/other 成员/other 现身/other 英国/b_country
+日/b_country 俄/b_country 首脑/other 举行/other 会谈/other ,/other 探讨/other 普京/b_nr 访/other 日/b_country 及/other 争议/other 岛屿/other 问题/other
+法国/b_country 对/other 叙/b_country “/other 伊斯兰国/b_nt ”/other 空袭/other ,/other 摧毁/other 指挥所/other 和/other 训练营/b_nt
+德媒/b_nt ：/other 伊斯兰国/b_nt 向/other 所有/other 欧洲/b_ns 人/other 宣战/other ,/other 地球/other 面临/other 三/other 战/other
+韩媒/b_nt ：/other 朝鲜/b_country 或/other 准备/other 用/other 发射台/other 试射/other 潜射/other 弹道导弹/b_dev
+韩/b_country 强化/other 对/other 朝/b_country 反导/other 被/other 指/other 有心/other 无力/other ：/other 将/other 更/other 依靠/other 美国/b_country 保护/other
+美国/b_country 宙斯盾/b_dev 反导舰/i_dev 被/other 指/other 潜力/other 不足/other ,/other 与/other 俄机/b_dev 过/other 招/other 失败/other
+美国/b_country 伊朗/b_country 默契/other 解决/other “/other 扣押/other 水兵/b_role ”/other 事件/other ,/other 一/other 天/other 内/other 释放/other
+土/b_country 逮捕/other 3/other 名/other 俄/b_country “/other 恐怖/b_role 分子/i_role ”/other ,/other 或/other 涉及/other 伊斯坦布尔恐袭/b_ns
+六方/other 会谈/other 美/b_country 日/b_country 韩/b_country 团长/b_role 同意/other 力促/other 安理会/b_nt 从严/other 制裁/other 朝鲜/b_country
+伊斯坦布尔/b_ns 恐袭/other ：/other 数十/other 名/other 嫌犯/b_role 被捕/other ,/other IS/b_nt 撇清/other 责任/other
+慰安妇/b_role 受害者/b_role ：/other 日本/b_country 无诚心/other 谢罪/other ,/other 千亿/other 日元/other 也/other 没用/other
+印尼/b_country 总统/b_role 称/other 雅加达/b_ns 袭击/other 为/other 恐袭/other ,/other 下令/other 擒获/other 袭击者/other
+印尼/b_ns 首都/i_ns 发生/other 多/other 起/other 爆炸/other 袭击/other 至少/other 7/other 人/other 死/other ,/other 或/other 与/other IS/b_nt 有关/other
+朝/b_nt 媒/i_nt 称/other 美/b_country 对/other 拥核/other 的/other 朝鲜/b_country 无可奈何/other ,/other 将/other 举行/other 演练/other
+日本/b_nt 大学/i_nt 将/other 联合/other 8/other 国/other 发射/other 50/other 颗/other 卫星/b_dev ,/other 建/other 太空/other 监测网/other
+日本/b_nt 众院/i_nt 将/other 表决/other 新年/other 预算案/other ,/other 高额/other 军费/other 助/other 推/other 安保法/other
+韩媒/b_nt ：/other 朝/b_country 向/other 韩/b_country 散发/other 传单派/other 无人机/b_dev 侦查/other ,/other 或/other 意/other 在/other 试探/other
+特种部队/b_nt 抵达/other 伊拉克/b_country ,/other 协助/other 伊军/b_nt 打击/other “/other 伊斯兰国/b_nt ”/other
+两/other 艘/other 美国/b_country 军舰/b_dev 被/other 伊朗/b_country 扣押/other ,/other 伊方/other ：/other 非法/other 进入/other 伊/b_ns 海域/i_ns
+伊朗/b_country 彪悍/other 扣留/other 美国/b_nt 海军/i_nt 俩/other 快艇/b_dev ,/other 型号/other 解读/other 抢先/other 看/other
+土耳其/b_country 伊斯坦布尔/b_ns 遭/other 爆炸/other 恐袭/other ,/other 袭击者/other 系/other IS/b_nt 成员/other
+日/b_nt 海上/i_nt 自卫队/i_nt 军官/b_role 遭/other 上级/other 虐待/other 潜艇/b_dev 内/other 开枪/other 自杀/other
+2015/other 外/other 军/b_dev 核潜艇/i_dev ：/other 美/b_country 俄/b_country 规划/other 新/other 一代/other ,/other 印度/b_country 连造/other 带/other 租/other
+朝鲜/b_country 曝/other “/other 美籍/b_role 间谍/i_role ”/other ：/other 拍/other 军事/other 机密/other 、/other 知朝/other 核试验/other
+金/b_nr 正恩/i_nr 首/other 次/other 就/other 国际/other 社会/other 制裁/other 表态/other ,/other 要/other 强化/other 核武/b_dev 应对/other
+伊朗/b_country 将/other 释放/other 美国/b_country 船员/b_role ,/other 美/b_country 官员/b_role ：/other 天亮/other 后/other 移交/other 较/other 安全/other
+叙利亚/b_ns 小镇/i_ns 一/other 公斤/other 大米/other 卖/other 150/other 美元/other ,/other 村民/b_role 吃/other 草/other 度日/other
+安倍/b_nr 向/other 普京/b_nr 致/other 亲笔信/other 邀/other 其/other 访/other 日/b_country ,/other 谈及/other 两/other 国/other 争议/other 领土/other
+美/b_country 韩/b_country 对/other 朝/b_country 密集/other 投放/other 高/other 科技/other 装备/other ,/other 以/other 核/other 打击/other 进行/other 威慑/other
+土耳其/b_country 建造/other 28000/other 吨/other 两/other 栖/other 攻击舰/other ,/other 可/other 搭载/other F-35/b_dev 战机/i_dev
+IS/b_nt 宣布/other 在/other 菲律宾/b_country “/other 设/other 省/other ”/other ,/other 澳/b_country 学者/b_role ：/other IS/b_nt 已/other 改变/other 战略/other
+美/b_nt 海军/i_nt 有望/other 5/other 年/other 内/other 推出/other 实用型/other 电磁炮/b_dev ,/other 搭载/other 军舰/b_dev 未定/other
+俄/b_nt 军/i_nt ：/other 2016年/other 前/other 10/other 天/other 打击/other 叙/b_country 极端/other 组织/other 设施/other 1097/other 处/other
+人权/b_nt 组织/i_nt 称/other IS/b_nt 突击/other 叙利亚/b_country 一/other 城市/other ,/other 掳走/other 400/other 名/other 平民/b_role
+美军/b_nt 日裔/other 上/other 将/other 拟/other 访/other 日本/b_country ,/other 着眼/other 安保法/other 强化/other 美/b_country 日/b_country 同盟/other
+美军/b_nt 拟/other 扩展/other 电磁导/other 轨炮/other 应用/other ,/other 适应/other 127/other 毫米/other 舰炮/b_dev
+伊朗/b_country 履行/other 核/other 协议/other 准备/other 步骤/other ,/other 安理会/b_nt 取消/other 对/other 伊/b_nt 银行/i_nt 制裁/other
+外媒/b_nt ：/other 菲/b_nt 海军/i_nt 最/other 大/other 万/other 吨/other 舰下水/other ,/other 可/other 用于/other 南海/b_ns 争端/other
+IS/b_nt 在/other 叙利亚/b_country 一/other 村庄/other 屠杀/other 约/other 300/other 名/other 平民/b_role ,/other 叙/b_nt 政府/i_nt 谴责/other
+美/b_country 军机/b_dev 在/other 夏威夷/b_ns 上空/i_ns 相撞/other 坠毁/other ,/other 飞机/b_dev 碎片/other 漂浮/other 海面/other
+美军/b_nt 拟/other 扩展/other 电磁导/other 轨炮/other 技术/other ,/other 用于/other 更/other 小型/b_dev 武器/i_dev 装备/other
+美媒/b_nt 曝光/other 朝鲜/b_country 核基地/other 在建/other 反应堆/other 冷却/other 水道/other 完工/other
+探秘/other 俄/b_country 核武/b_dev 工厂/other ：/other 生产/other 的/other 导弹/b_dev 可/other 毁灭/other 美国/b_country 十几/other 次/other
+日本/b_country 拟/other 与/other 菲律宾/b_country 越南/b_country 等/other 国/other 首/other 次/other 签/other 情报/other 共享/other 协定/other
+伊朗/b_country 完成/other 伊核/b_ns 协议/other 准备/other 步骤/other ,/other 美/b_country 欧/b_ns 宣布/other 解除/other 制裁/other
+台湾/b_ns 大选/other 前/other 美/b_nt 国务院/i_nt 发言/other ：/other 连/other 说/other 三/other 遍/other 一个/other 中国/b_country
+菲律宾/b_country 提议/other 美菲/other 共同/other 巡航/other 南海/b_ns ,/other 美军/b_nt 高官/b_role 不/other 吭声/other
+俄/b_country 防空兵/b_role 举行/other 10/other 场/other 大军/b_nt 演/other ,/other S400S300/b_dev 同时/other 出动/other
+美/b_country 相撞/other 军机/b_dev 12/other 名/other 机组/b_role 人员/i_role 恐/other 全/other 遇难/other ,/other 已/other 发现/other 残骸/other
+美军/b_nt 两/other 架/other 直升机/b_dev 训练/other 时/other 相撞/other 坠毁/other ,/other 12/other 人/other 全部/other 失踪/other
+俄/b_country 叙/b_country 首/other 次/other 对/other IS/b_nt 实施/other 联合/other 空袭/other ,/other 叙/b_country 战机/b_dev 为/other 俄机/b_dev 护航/other
+IS/b_nt 正/other 全力/other “/other 开疆/other 拓/other 土/b_country ”/other ,/other 东南亚/b_ns 如临大敌防/other 恐袭/other
+印度/b_country 防展/other 拒/other 邀请/other 中国/b_country 巴基斯坦/b_country ,/other 不/other 展示/other 中国/b_country 技术/other
+叙/b_country 局势/other 各方/other 就/other 停火/other 掀/other “/other 嘴仗/other ”/other ,/other 互相/other 指责/other 违反/other 协议/other
+美/b_country 韩/b_country 部署/other 萨德/b_dev 遇阻/other 将/other 推迟/other ,/other 中/b_country 俄/b_country 此前/other 曾/other 强力/other 反对/other
+美/b_country 国务卿/b_role ：/other 若/other 无/other 俄方/b_country 参与/other 就/other 无法/other 达成/other 叙/b_country 停火/other 协议/other
+印媒/b_nt ：/other 枭龙/other 怕/other 印度/b_country LCA/b_dev 战机/i_dev 抢风头/other 退出/other 巴林/b_nt 航展/i_nt
+安倍/b_nr 拒/other 奥巴马/b_nr “/other 勿/other 访/other 俄/b_country ”/other 要求/other ,/other 日/b_country 美/b_country 关系/other 或/other 脱轨/other
+维基/b_nr 解密/other ：/other 美国/b_country 国安局/other 曾/other 窃听/other 各国/other 多/other 位/other 领导人/other
+韩青瓦台/b_nr 回应/other 中国/b_country 驻/b_role 韩/i_role 大使/i_role 言论/other ：/other 萨德/b_dev 属/other 防卫/other 性质/other
+外媒/b_nt ：/other 逾/other 800/other 人/other 从/other 德国/b_country 赴/other 土/b_country 叙/b_country 两/other 国/other 加入/other 极端/other 组织/other
+英/b_country 外长/b_role 嘲讽/other 俄/b_nt 军/i_nt 从/other 叙利亚/b_country 撤退/other ,/other 俄方/b_country 强硬/other 回击/other
+俄智库/b_nt 批土/other 背叛/other 叙利亚/b_country ：/other 被/other 奉若/other 上宾/other 却/other 最先/other 翻脸/other
+日/b_country 那/other 霸/b_nt 议会/i_nt 抗议/other 美军/b_nt 性侵/other 事件/other ,/other 要求/other 美军/b_nt 整肃/other 纲纪/other
+俄/b_nt 军/i_nt 列装/other 新型/other 便携式/other 防空/b_dev 导弹/i_dev ,/other 号称/other 世界/other 领先/other 水平/other
+美/b_country 在/other 亚太/b_ns 部署/other 两/other 艘/other 航母/b_dev 图谋啥/other ？/other 欲/other 构建/other 新/other 军事/other 秩序/other
+特朗普堪/other 比/other “/other 大规模/other 恐袭/other ”/other ,/other 英智库/other 评估/other 全球/other 风险/other
+美/b_country 出台/other 对/other 朝/b_country 新/other 制裁/other 措施/other ,/other 俄方/b_country ：/other 不/other 承认/other 单方/other 制裁/other
+美媒/b_nt ：/other 洛马/other 造/other 出/other 可/other 部署/other 激光/b_dev 武器/i_dev ,/other 今年/other 交付/other 美军/b_nt
+菲律宾/b_nt 空军/i_nt 司令/b_role 上任/other 就/other 诉苦/other ：/other 内忧/other 外困/other 任务/other 艰巨/other
+印法/other “/other 阵风/other ”/other 战斗机/b_dev 协议/other 签订/other 延迟/other ,/other 价格/other 分歧/other 巨大/other
+印度/b_nt 陆军/i_nt 拟/other 购/other 1800/other 架/other 小型/b_dev 无人机/i_dev ,/other 飞行/other 半径/other 10/other 千/other 米/other
+伊拉克/b_country 总理/b_role 下令/other 将/other 解放/other 费卢杰市/b_ns ,/other 夺/other 回/other IS/b_nt 手中/other 失地/other
+特朗普/b_nr 炮轰/other 奥巴马/b_nr 访问/other 广岛/b_ns ：/other 为何/other 不/other 谈/other 日本/b_country 偷袭/other 珍珠港/b_ns
+韩/b_country 将/other 建造/other 新型/other 宙斯盾/other 驱逐舰/b_dev ,/other 提升/other 拦截/other 弹道导弹/b_dev 能力/other
+驻/other 日本/b_country 冲绳/b_ns 美军/b_nt 颁禁/other 酒令/other ,/other 称为/other 哀悼/other 抛尸案/other 受害者/b_role
+军网/other ：/other 俄/b_country 崩溃/other 是/other 西方/other 臆断/other ,/other 战斗/other 民族/other 标签/other 不/other 恰当/other
+伊拉克/b_ns 首都/i_ns 两/other 起/other 爆炸/other 袭击/other 致/other 9/other 人/other 死亡/other ,/other 30/other 人/other 受伤/other
+外媒/b_nt ：/other 印法/other 阵风/other 交易/other 还/other 在/other 扯皮/other ,/other 谈/other 成/other 可能性/other 不/other 大/other
+日媒/b_nt ：/other 日本/b_country 防卫/other 相/other 发出/other 针对/other 朝鲜/b_country 导弹/b_dev “/other 摧毁/other 令/other ”/other
+外媒/b_nt ：/other 美军/b_nt 支援/other 下/other ,/other 伊/b_nt 政府军/i_nt 攻/other 入/other IS/b_nt 控制/other 重镇/b_ns 南部/i_ns
+外媒/b_nt ：/other 中国/b_country 成/other 世界/other 第3/other 大/other 武器/b_dev 出口国/other ,/other 出口值/other 飙增/other
+俄罗斯/b_country 计划/other 2017年/other 底/other 前/other 启动/other 全球/other 最/other 强大/other 激光/b_dev 装置/other
+韩媒/b_nt ：/other 朝鲜/b_country 试射/other 疑似/other 舞水端/other 中程/b_dev 导弹/i_dev ,/other 以/other 失败/other 告终/other
+伊拉克/b_nt 军队/i_nt 进攻/other 费卢杰/other 遇阻/other ,/other 受/other 困/other 平民/b_role 处境/other 艰难/other
+美军派/b_dev U2/i_dev 侦察机/i_dev 对付/other 伊斯兰国/b_nt ,/other 被/other 赞/other 性能/other 他国/other 难/other 比/other
+韩/b_country 称/other 朝鲜/b_country 导弹/b_dev 在/other 发射车/other 爆炸/other ,/other 已/other 连续/other 3/other 次/other 试射/other 失败/other
+俄/b_country 外长/b_role 称/other 俄/b_country 永远/other 不/other 给/other 日本/b_country 南/b_ns 千岛/i_ns 群岛/i_ns ,/other 态度/other 强硬/other
+安理会/b_nt 谴责/other 朝鲜/b_country 试射/other 弹道导弹/b_dev ,/other 一点/other 与/other 以往/other 不同/other
+伊拉克/b_nt 军队/i_nt 围攻/other 费卢杰/other ,/other 联合国/b_nt ：/other 2万/other 儿童/other 面临/other 困境/other
+揭秘/other 俄/b_country 日岛/b_ns 争/other 始末/other ,/other 数百/other 年/other 来/other 四/other 岛/other 领土/other 主权/other 争端/other 不断/other
+基地/b_ns 分支/other 声称/other 袭击/other 马里/b_country 维和/b_nt 部队/i_nt ,/other 一/other 天/other 之内/other 两/other 次/other 袭击/other
+芬兰/b_country 居民/b_role 误/other 将/other 本国/other 军演/other 当/other 外敌/other 入侵/other ,/other 军方/b_nt ：/other 忘/other 了/other 通知/other
+菲/b_country 候任/other 外长/b_role ：/other 菲/b_country 不/other 会/other 远离/other 美国/b_country ,/other 但/other 不/other 会/other 奉承/other 外国/other 势力/other
+自卫队/b_nt 将/other 首访/other 二战/other 激战/other 地/other 贝里/other 琉岛/b_ns ,/other 将/other 进行/other 悼念/other
+由/other “/other 死敌/other ”/other 到/other “/other 伙伴/other ”/other ,/other 美/b_country 越/b_country 军事/other 合作/other 能/other 走/other 多/other 远/other ？/other
+外媒/b_nt ：/other 日本/b_country “/other 金援/other ”/other 越南/b_country 购/other 更/other 多/other 巡逻艇/b_dev ,/other 菲/b_country 曾/other 受益/other
+印度/b_ns 中部/i_ns 一/other 弹药库/other 发生/other 大/other 爆炸/other ,/other 致/other 17/other 人/other 死/other 19/other 人/other 受伤/other
+广岛/b_ns 之/other 行/other 争议/other 不/other 断/other ,/other 奥巴马/b_nr 为/other 安倍/b_nr 再/other 添/other 修/other 宪/other 借口/other
+俄/b_country 战略/b_dev 核潜艇/i_dev 会/other 在/other 北极/b_ns 及/other 全世界/other 海域/other 进行/other 定期/other 巡逻/other
+俄/b_country 外长/b_role 提/other 恢复/other 俄/b_country 土/b_country 关系/other 条件/other :/other 对/other 击落/other 俄/b_country 战机/b_dev 道歉/other
+土耳其/b_country 总统/b_role ：/other 想/other 恢复/other 与/other 俄/b_country 关系/other ,/other 但/other 不知/other 如何/other 开始/other
+塔利班/b_nt 在/other 阿富汗/b_ns 北部/i_ns 突袭/other ,/other 劫持/other 45/other 名/other 乘客/other 射杀/other 16/other 人/other
+美/b_country 防长/b_role 称/other 将/other 很快/other 在/other 韩/b_country 部署/other “/other 萨德/b_dev ”/other ,/other 韩方/other 连忙/other 否认/other
+MH17/b_dev 事故/other 调查/other 将/other 出炉/other ,/other 或/other 公布/other 导弹/b_dev 型号/other 及/other 发射/other 地/other
+叙/b_nt 政府军/i_nt 向/other “/other 伊斯兰国/b_nt ”/other 腹地/other 挺进/other ,/other 俄/b_country 或/other 空袭/other 助阵/other
+俄/b_country 印/b_country 计划/other 打造/other 高超/other 声速/other 布拉莫斯/other ,/other 速度/other 超/other 6/other 马赫/other
+北约/b_nt 称/other 不/other 会/other 介入/other 南海/b_ns 争端/other ,/other 望/other 与/other 东盟/b_ns 展开/other 情报/other 合作/other
+以色列/b_country 首/other 批/other 2/other 架/other F-35/b_dev 将/other 交付/other ,/other 可/other 挂载/other 以军/b_nt 自制/other 导弹/b_dev
+北约/b_nt 将领/b_role ：/other 没/other 理由/other 反对/other 日本/b_country 向/other “/other 正常/other ”/other 国家/other 迈进/other
+继/other 空前/other 军事/other 部署/other 后/other ,/other 俄/b_country 在/other 千岛/b_ns 群岛/i_ns “/other 连续/other 出/other 拳/other ”/other
+日本/b_nt 自卫队/i_nt 曝/other 东海/b_ns 最新/other 图/other ：/other 中国/b_country 油气田/other 喷/other 出/other 火焰/other
+韩国/b_country 渔民/other 直接/other 抓捕/other 中国/b_country 渔船/b_dev ,/other 称/other 其/other 涉嫌/other 非法/other 捕捞/other
+美国/b_country 同意/other 解除/other 对/other 日军/b_nt 备/other 进口/other 限制/other ,/other 方便日/other 对/other 美/b_country 军售/other
+叙利亚/b_nt 政府军/i_nt 逼近/other IS/b_nt “/other 首都/other ”/other ,/other 俄罗斯/b_nt 空军/i_nt 助阵/other
+阿富汗/b_ns 首都/i_ns 发生/other 爆炸/other 袭击/other 事件/other ,/other 一/other 名/other 国会/b_nt 议员/b_role 身亡/other
+日本/b_country 各党/other 就/other 参院/b_nt 选举/other 展开/other 舌战/other ,/other 安倍绝口/b_ns 不/other 提/other 下台/other
+日/b_country 美/b_country 拟/other 不/other 修改/other 地位/other 协定/other ,/other 与/other 冲绳县/b_ns 分歧/other 难以/other 弥合/other
+美刊/other 揭秘/other 升级版/other 艾布拉姆斯/b_dev 坦克/i_dev ,/other 打败/other 阿玛塔/other ？/other
+美/b_country 军官/b_role 承认/other 对/other 伊/b_nt 军队/i_nt 培训/other 失败/other ,/other 伊/b_country 军官/b_role 抵制/other 培训/other
+北约/b_nt 在/other 波兰/b_country 搞/other 3万/other 人/other 大军/other 演/other ,/other 称/other 东部/other 面临/other 混合战争/other
+德/b_country 否认/other 新版/other 白皮书/other 称/other 俄罗斯/b_country 为/other 敌人/other ：/other 翻译/other 不/other 正确/other
+日本/b_country 向/other 泰国/b_country 推销/other 多/other 款/other 军机/b_dev ,/other 技术/other 先进/other 可/other 配/other 多种/other 武器/b_dev
+日本/b_country 防长/b_role 与/other 昂山/b_ns 素季/other 会谈/other ,/other 将/other 向/other 缅甸/b_nt 军方/i_nt 提供/other 援助/other
+美/b_country 将/other 举行/other 大型/other 网络/other 攻击/other 演习/other ,/other 模拟/other 核心/other 设备/other 遭/other 袭击/other
+俄/b_country 官员/b_role ：/other 俄/b_country 没有/other 任何/other 进攻/other 波兰/b_country 计划/other ,/other 这/other 很/other 荒谬/other
+美军/b_nt 连/other 遭/other 羞辱/other ！/other 美/b_country 官员/b_role 支招/other 如何/other 打/other 赢/other 未来/other 坦克/b_dev 大战/other
+英媒/b_nt ：/other 美国/b_country 将/other 向/other 越南/b_country 韩国/b_country 出售/other 二手/other P3/b_dev 反潜/other 巡逻机/other
+俄/b_country 外长/b_role ：/other 北约/b_nt 视/other 俄/b_country 为/other 威胁/other 目的/other 是/other 为/other 保障/other 美国/b_country 霸权/other
+北约/b_nt 已/other 把/other 俄罗斯/b_country 逼/other 到/other 墙角/other ,/other 俄/b_country 不甘示弱/other 强硬/other 反制/other
+朝鲜/b_country ：/other 韩方捕/other 中国/b_country 渔船/b_dev 为/other 自保/other ,/other 害怕/other 遭/other 朝军/b_nt 痛击/other
+美国/b_country 向/other 全体/other 驻/b_nt 日/i_nt 海军/i_nt 官兵/b_role 下达/other 禁酒令/other ,/other 还/other 将/other 限制/other 外出/other
+日媒/b_nt ：/other 领土/other 问题/other 解决/other 无望/other ,/other 安倍/b_nr 或/other 要/other 进/other 普京/b_nr “/other 虎穴/other ”/other
+美/b_country 神盾舰/b_dev 进入/other 黑海/b_ns 逼近/other 俄/b_country 门口/other ,/other 俄/b_country 称/other 必/other 予以/other 回应/other
+奥巴马/b_nr 批准/other 驻/other 阿富汗/b_country 美军/b_nt 新/other 授权/other ,/other 放松/other 对/other 空袭/other 限制/other
+印度/b_country 航空母舰/b_dev 发生/other 毒气/other 泄漏/other 事件/other ,/other 造成/other 两/other 人/other 死亡/other
+叙利亚/b_ns 首都/i_ns 发生/other 恐怖/other 袭击/other ,/other 爆炸/other 致/other 2/other 人/other 死亡/other 3/other 人/other 受伤/other
+印尼/b_nt 军队/i_nt 收编/other 地/other 痞流氓/other ,/other 要求/other 新/other 征女兵/other 是/other 处女/other
+美军/b_nt 超级/other 空运/other 支撑/other 海湾/other 战争/other ,/other 两/other 月/other 运/other 物资/other 20亿/other 吨公里/other
+两/other 名/other 劫匪/other 打劫/other 麦当劳/b_nt ,/other 遇/other 法军/b_nt 精英/i_nt 部队/i_nt 在/other 店/other 用餐/other
+美/b_country 日/b_country 印/b_country 将/other 在/other 中国/b_ns 附近/i_ns 海上/other 演习/other ,/other 牵制/other 中方/b_country 东海/b_ns 行动/other
+日媒/b_nt ：/other 日/b_country 高官/b_role 凌晨/other 被/other 解放军/b_nt 惊醒/other ,/other 怕/other 事态/other 难以/other 预料/other
+英派/other 单价/other 10亿/other 镑45型/b_dev 驱逐舰/i_dev 打/other IS/b_nt ,/other 竟/other 被/other 高温/other 击败/other
+美国/b_country 遭受/other 911/other 后/other 最/other 惨烈/other 恐怖/other 袭击/other ,/other IS/b_nt 已/other 宣称/other 负责/other ！/other
+张召忠/b_nr ：/other 朝鲜/b_country 危机/other 让/other 谁/other 获利/other 最/other 大/other ,/other 已/other 助/other 日本/b_country 快速/other 崛起/other
+中国/b_nt 航空/i_nt 发动机/i_nt 集团/i_nt 正式/other 启动/other ,/other 组建/other 进入/other 实质性/other 阶段/other
+美/b_nt 国务院/i_nt 同意/other 售/other 台湾/b_ns 2/other 艘/other 巡防舰/b_dev ,/other 价值/other 1.9亿/other 美元/other
+解放军/b_nt 3/other 枚/other 反/other 坦克/b_dev 导弹/i_dev 击中/other 1/other 辆/other 退役/other 坦克/b_dev ,/other 未能/other 有效/other 毁/other 伤/other ,/other
+俄/b_country 航母/b_dev 接连/other 故障/other 未来/other 几/other 年/other 无法/other 使用/other ,/other 找/other 个/other 地方/other 修/other 都/other 难/other ,/other
+国内/other 民众/b_role 普遍/other 认为/other 军费/other 增长/other 过/other 低/other ,/other 我军/b_nt 大校/b_role 披露/other 内情/other ,/other
+延期/other 1/other 年/other 后/other 斯里兰卡/b_country 终/other 批准/other 重/other 启/other 中资/b_ns 港口/i_ns ,/other 脱华/other 闹剧/other 落幕/other
+空军/b_nt 大修厂/other 送/other 回/other 5/other 台/other 修好/other 设备/other ,/other 我军/b_nt 士官/other 仍/other 全/other 查出/other 故障/other ,/other
+专家/b_role 警告/other 中国/b_country 在/other 南海/b_ns 战略/other 透支/other 风险/other 大/other 增/other ,/other 维权/other 也/other 要/other 维稳/other
+普京/b_nr 撤军/other 是/other 胜利/other 还是/other 认怂/other ,/other 中国/b_country 更/other 精明/other 只/other 需/other 做/other 好/other 一/other 件/other 事/other
+解放军/b_nt 五/other 大/other 战区/other 司令/b_role 相继/other 发声/other ：/other 同时/other 表态/other 准备/other 打仗/other
+中国/b_country 正在/other 建立/other 南海/b_ns 海啸/other 预警/other 中心/other ,/other 已经/other 联合国/b_nt 批准/other
+中国/b_country 无人机/b_dev “/other 空袭/other ”/other 令/other 韩/b_country 恐慌/other ,/other 或/other 将/other 彻底/other 压倒/other 韩国/b_country 制造/other
+俄/b_country 民众/b_role 抱怨/other 对/other 叙/b_country 军事/other 行动/other ,/other 普京/b_nr 撤兵/other 或/other 为/other 大选/other 布局/other ,/other
+冷战/other 美国/b_country 特种/other 兵/other 噩梦/other ：/other 背着/other 核弹/b_dev 去/other 敌后/other 爆破/other
+中国/b_country 新型/b_dev 导弹/i_dev 技术/other 获/other 突破/other 填补/other 国内/other 空白/other ,/other 仅/other 几/other 国/other 能/other 掌握/other
+朝鲜/b_country 今日/other 再次/other 发生/other 人工/other 地震/other ,/other 由/other 爆破/other 作业/other 引发/other
+俄/b_country 媒评/b_nt 俄/i_nt 军/i_nt 从/other 叙/b_country 撤兵/other ：/other 摧毁/other IS/b_nt 的/other 目标/other 仍/other 遥不可及/other
+日本/b_country 国产/other C-2/b_dev 运输机/i_dev 试飞/other 成功/other ，/other 内部/other 首/other 曝光/other
+军情室/b_nt ：/other 直击/other 俄/b_nt 军/i_nt 苏/b_dev 34/i_dev 撤出/other 叙利亚/b_country ,/other 巴沙尔/other 会/other 被/other 推翻/other 吗/other
+少将/b_role 列/other 美/b_country 在/other 南海/b_ns 四/other 条/other 罪状/other ：/other 派/other 航母/b_dev 碰瓷/other 还/other 编/other 瞎话/other
+日本/b_country 两/other 军舰/b_dev 将/other 横穿/other 南海/b_ns 停靠/other 越南/b_country 金兰湾/b_ns ,/other 系/other 自卫队/b_nt 首/other 次/other ,/other
+美/b_country 韩/b_country 在/other 半岛/b_ns 集结/other 30万/other 重兵/other ,/other 朝鲜/b_country 急/other 致信/other 向/other 联合国/b_nt 求救/other
+菲媒/b_nt ：/other 应/other 请/other 阿根廷/b_nt 海军/i_nt 来/other 帮/other 菲律宾/b_country 击沉/other 更/other 多/other 的/other 船/b_dev
+美/b_nt 媒/i_nt 称/other 叙利亚/b_country 或/other 成/other 中国/b_country 歼/b_dev 10/i_dev 战机/i_dev 出口/other 潜在/other 客户/other
+歼7/b_dev 战机/i_dev 救生/other 装置/other 1.5/other 秒/other 需/other 做/other 17/other 个/other 动作/other ,/other 曾/other 5/other 次/other 弹射/other 全/other 败/other
+英国/b_country 外长/b_role 讽刺/other 俄/b_country 从/other 叙利亚/b_country 撤军/other ：/other 停止/other 家暴/other 自己/other 妻子/other
+朴/b_nr 槿惠/i_nr 鼓舞/other 韩国/b_country 军人/b_role ：/other 备战/other 状态/other 就/other 会/other 令/other 朝鲜/b_country 害怕/other
+朝鲜/b_country 今日/other 再次/other 向/other 半岛/b_ns 东部/i_ns 海域/i_ns 发射/other 导弹/b_dev ,/other 或/other 落/other 在/other 陆地/other
+朝鲜/b_country 频繁/other 进行/other 无人机/b_dev 试飞/other ,/other 韩军/b_nt 1/other 天/other 能/other 捕捉/other 到/other 8/other 次/other
+中国/b_country 防长/b_role 赴/other 中/b_ns 越/i_ns 边境/i_ns ,/other 越南/b_country 民众/b_role 聚集/other 大呼/other 开心/other
+俄/b_country 在/other 南海/b_ns 力挺/other 中国/b_country ：/other 有/other 必要/other 部署/other 核/b_dev 导弹/i_dev 摧毁/other 驻/other 菲/b_country 美军/b_nt ,/other
+美军/b_nt 2017年/other 向/other 东欧/b_ns 增派/other 一个/other 旅/other ,/other 应/other 对/other 俄罗斯/b_country
+简氏/b_nr 称/other 中国/b_country 公布/other VD-200/b_dev 垂直/other 起降/other 飞翼/other 无人机/b_dev (/other 图/other )/other
+美菲/b_nt 军演/i_nt 今日/other 在/other 南海/b_ns 争议区/i_ns 附近/i_ns 打响/other ,/other 美/b_country 出动/other 55/other 架/other 战机/b_dev
+德国/b_nt 情报/i_nt 部门/i_nt 被/other 曝/other 长期/other 监听/other 西方/b_country 盟友/b_role 政要/other
+叙利亚/b_country 总统/b_role ：/other 吸取/other 的/other 最/other 重要/other 教训/other 是/other 西方/other 不可/other 信/other 不/other 真诚/other
+日本/b_country 海保/other 12/other 艘/other 武装/b_nt 炮舰/other 将/other 巡航/other 钓鱼岛/b_ns ,/other 对抗/other 中国/b_country 海警船/b_dev
+俄罗斯/b_nt 军队/i_nt 再次/other 订购/other 30/other 架/other 苏/b_dev 30SM/i_dev 战机/i_dev ,/other 2/other 年/other 后/other 服役/other
+俄/b_nt 国防部/i_nt ：/other 叙利亚/b_country 停火/other 最近/other 一/other 昼夜/other 内/other 遭/other 破坏/other 11/other 次/other
+外媒称/other IS/b_nt 用/other 大学/b_nt 实验室/other 研制/other 炸弹/b_dev ,/other 相关/other 技术/other 已/other 扩散/other
+叙利亚/b_nt 政府军/i_nt 或/other 进攻/other IS/b_nt 首都/other ,/other 俄/b_country 战机/b_dev 已/other 到/other 巴尔米拉/other
+全/other 过程/other 图解/other ：/other 歼/b_dev 10/other 所/other 用/other AL-31/b_dev 发动机/i_dev 是/other 怎样/other 炼/other 成/other 的/other
+美/b_country 防长/b_role 绕开/other 中国/b_country 访问/other 印度/b_country 谈/other 防务/other 合作/other ,/other 暗示/other 反制/other 中国/b_country
+美国/b_country 拟/other 向/other 叙利亚/b_country 伊拉克/b_country 增加/other 5/other 倍/other 兵力/other ,/other 为/other 打击/other IS/b_nt
+军内/b_role 人士/i_role 解读/other 东风/b_dev 41/i_dev ：/other 不/other 能/other 靠/other 北斗/b_dev 系统/i_dev 增加/other 导弹/b_dev 精度/other
+日本/b_country 外相/b_role 称/other 将/other 获/other 李克强/b_nr 接见/other ,/other 欲/other 实现/other 中/b_country 日/b_country 高层/b_role 会谈/other
+中国/b_country 警告/other 美/b_country 不要/other 再/other 向/other 台湾/b_ns 售武/other ,/other 敦促/other 日本/b_country 归还/other 钓鱼岛/b_ns
+美/b_nt 国防部/i_nt ：/other 中国/b_country 拒绝/other 美斯坦尼斯号/other 航母/b_dev 战斗/other 群/other 访/other 港/other
+美/b_country 部署/other 萨德/b_dev 或/other 引/other 军备/other 竞赛/other ,/other 将/other 刺激/other 中国/b_country 部署/other 中程/b_dev 导弹/i_dev
+军情室/b_nt ：/other 解放军/b_nt 歼11/b_dev 战机/i_dev 演练/other :/other 4/other 不/other 敌/other 泰国/b_country 战机/b_dev 真相/other 解析/other
+俄/b_nt 媒/i_nt 点评/other 中/b_country 俄/b_country 美/b_country 航母/b_dev ：/other 辽宁舰/b_dev 综合/other 战力/other 已/other 接近/other 美/b_country 俄/b_country
+奥巴马/b_nr ：/other 美国/b_country 将/other 想方设法/other 使/other 中国/b_country 对/other 其/other 南海/b_ns 行为/other 负责/other
+美媒/b_nt ：/other A10/b_dev 过于/other 老/other 旧/other 脆弱/other ,/other 无力/other 在/other 南海/b_ns 与/other 中国/b_country 对抗/other
+中国/b_country 已/other 攻克/other 战略/b_dev 轰炸机/i_dev 技术/other 障碍/other ,/other 或/other 达到/other 美/b_country B2/b_dev 水平/other
+英媒/b_nt ：/other 美/b_country 欲/other 解除/other 对/other 越/other 售武/other 限制/other 使/other 其/other 在/other 南海/b_ns 挑战/other 中国/b_country
+中国/b_country 南海/b_ns 新/other 策略/other 已/other 见/other 成效/other ：/other 美/b_country 不/other 会/other 在/other 南海/b_ns 进攻/other 中国/b_country
+日/b_country 外相/b_role 突然/other 急于/other 访华/other 有/other 何/other 内幕/other ：/other 想/other 用/other 中国/b_country 牵制/other 美国/b_country
+美媒/b_nt ：/other F35/b_dev 战机/i_dev 正/other 做/other 开战/other 准备/other 应/other 对/other 中/b_country 俄/b_country 军事/other 威胁/other
+苏丹/b_nt 外交部/i_nt 就/other 南海/b_ns 局势/other 发表/other 声明/other ,/other 坚决/other 支持/other 中国/b_country 立场/other
+汉/other 和/other 称/other 中国/b_country 研/other 铁路/other 发射/other 版/other 东风/b_dev 31/i_dev 与/other 东风/b_dev 41/i_dev ,/other 已/other 试验/other 多次/other
+媒体/b_nt ：/other 中国/b_country 给/other 菲律宾点/b_ns 颜色/other 瞧瞧/other 美国/b_country 将/other 进退两难/other
+军情室/b_nt ：/other 中国/b_country 正式/other 立项/other 隐身/other 轰炸机/b_dev ,/other 曝光/other 两/other 设计/other 方案/other
+外媒/b_nt 称/other 俄/b_country 高超/other 音速/other 武器/b_dev 领先/other 世界/other ,/other 有/other 两/other 大/other 事实/other 为/other 证/other
+金/b_nr 正恩/i_nr 评价/other 国产/other 新/other 导弹/b_dev ：/other 可/other 随时/other 对/other 美/b_country 实施/other 核/other 打击/other
+外媒揭/other MH17/b_dev 坠机/other 内情/other ：/other 目击者/other 称/other 其/other 被/other 乌/b_country 战机/b_dev 击落/other
+平壤/b_ns 将/other 有/other 大事/other ！/other 金/other 正恩/other 时隔/other 36/other 年/other 再/other 办/other 全国/other 党代会/other
+美军/b_nt F22/b_dev 战机/i_dev 首/other 次/other 进驻/other 黑海/b_ns 地区/other ,/other 意图/other 遏制/other 俄/b_nt 军/i_nt (/other 图/other )/other
+中国/b_country 海监/other 一/other 架/other 飞机/b_dev 失联/other 坠毁/other ,/other 4/other 名/other 机组/b_role 人员/i_role 遇难/other
+菲/b_country 称/other 中国/b_country 减少/other 在/other 黄岩岛/b_ns 拦截/other 菲船/b_dev 行动/other ,/other 对/other 菲/b_country 新/other 总统/b_role 示好/other
+台军/b_nt 说/other 错/other 一/other 句/other 话/other 把/other 大家/other 都/other 搞/other 紧张/other 了/other ,/other 事后/other 连忙/other 改口/other
+生死/other 37/other 秒/other ：/other 中国/b_country 赴/other 马里/b_country 维和/other 官兵/b_role 遭袭/other 当晚/other 经历/other 了/other 什么/other
+日/b_country 防务/other 专家/b_role 模拟/other 南海/b_ns 大战/other ：/other 中国/b_country 导弹/b_dev 在/other 黄岩岛/b_ns 全歼/other 美舰/b_dev
+英/b_nt 媒称/i_nt IS/b_nt 在/other 土叙/b_ns 边境/i_ns 加强/other 攻势/other ,/other 战火/other 烧/other 至/other 土耳其/b_country
+北约/b_nt 在/other 俄/b_country 门口/other 搞/other 冷战/other 后/other 最/other 大/other 军演/other ,/other 防克里米亚/b_ns 事件/other 重演/other
+美军/b_nt 坦克/b_dev 在/other 欧洲/b_ns 惨败/other ,/other 美/b_country 官员/b_role 发声/other 提升/other 坦克/b_dev 战力/other
+俄/b_country 外长/b_role ：/other 北约/b_nt 视/other 俄/b_country 为/other 威胁/other 目的/other 是/other 为/other 保障/other 美国/b_country 霸权/other
+日本/b_country 防相/b_role 称/other 将/other 援助/other 缅甸/b_nt 军队/i_nt ,/other 因/other 其/other 地缘/other 位置/other 重要/other
+日/b_country 少数民族/other 受/other 歧视/other ：/other 冲绳/b_ns 人/other 愤怒/other 到/other 极/other 点/other 独立/other 情绪/other 抬头/other
+德/b_nt 军方/i_nt 称/other G36/b_dev 步枪/i_dev 系/other 伪劣/other 产品/other ,/other 德/b_nt 法院/i_nt 不服/other 要/other 为/other 该/other 枪/b_dev 正名/other
+叙利亚/b_nt 政府军/i_nt 向/other IS/b_nt 首都/other 逼近/other ,/other 俄罗斯/b_nt 空军/i_nt 掩护/other
+伙伴/other 变/other 对手/other ：/other 德国/b_country 新版/other 国防/other 白皮书/other 将/other 俄/b_country 列为/other 十/other 大/other 威胁/other
+IS/b_nt 欲/other 吞/other 并/other 土耳其/b_country 二/other 省/other 已/other 开展/other 炮击/other ,/other 土/b_nt 安全局/i_nt 下达/other 通知/other
+印媒/b_nt 称/other 印度/b_country 将/other 新建/other 46/other 座/other 雷达/b_dev 基站/other ,/other 遏制/other 中国/b_country 海上/other 行动/other
+中/b_country 美/b_country 就/other 南海/b_ns 问题/other 再次/other 摊牌/other ,/other 美/b_country 防长/b_role 表态/other 暴露/other 其/other 野心/other
+日媒/b_nt 终于/other 意识/other 到/other 中/b_country 日/b_country 海警/i_country 力量/other 已/other 逆转/other ：/other 差距/other 不断/other 拉/other 大/other
+折戟沉沙/other 铁/other 未/other 销/other ：/other 二战/other 德日/b_country 苏/b_country 美/b_country 及/other 志愿军/b_nt 火力/other 对比/other
+国防部/b_nt 回应/other 歼/b_dev 10/i_dev 东海/b_ns 拦/other 美/b_country 军机/b_dev ：/other 中方/b_country 飞行员/b_role 操作/other 专业/other ,/other
+日媒/b_nt 称/other 中国/b_country 军舰/b_dev 无意/other 驶/other 近/other 钓鱼岛/b_ns ：/other 似/other 在/other 追随/other 俄/b_dev 舰/i_dev
+美军/b_nt 演练/other 大规模/other 混合战争/other ,/other 备战/other 崛起/other 中/other 的/other 中国/b_nt 军队/i_nt
+中国/b_nt 火箭军/i_nt “/other 蓝军/other ”/other 曝光/other ,/other 与/other 东风/b_nt 21D/i_nt 部队/i_nt 进行/other 对抗/other
+美/b_country 印日/other 在/other 南海/b_ns 附近/i_ns 军演/other ,/other 印媒/b_nt 称/other 系/other 打击/other 过分/other 自信/other 的/other 中国/b_country
+日本/b_nt 自卫队/i_nt 高官/b_role ：/other 若/other 中国/b_country 军舰/b_dev 进/other 日本/b_ns 领海/i_ns 将/other 采取/other 行动/other
+菲/b_country 前/b_role 高官/i_role 批/other 西方/other 妖魔化/other 中国/b_country :/other 加剧/other 南海/b_ns 紧张/other 的/other 是/other 菲律宾/b_country
+美/b_country 威胁/other 在/other 南海/b_ns 部署/other B52/b_dev 武力/other 恐吓/other ,/other 中国/b_country 使/other 出/other 祖传/other 杀手/other 锏/other
+外媒/b_nt ：/other 日本/b_country 称/other 中/b_country 俄/b_country 战舰/b_dev 赴/other 钓鱼岛/b_ns 使/other 紧张/other 态势/other 升级/other
+美媒/b_nt :/other 中国/b_country 导弹/b_dev 密集/other 打击/other 可/other 对/other 美/b_country 航母/b_dev 构成/other 致命/other 威胁/other
+中国/b_country 驻/b_nt 美/i_nt 使馆/i_nt ：/other 美/b_country 应/other 以/other 实际/other 行动/other 缓解/other 南海/b_ns 局势/other
+美/b_country 威胁/other 在/other 南海/b_ns 部署/other B52/b_dev ,/other 中国/b_country 出/other 一/other 奇/other 招/other 强硬/other 回击/other
+美国/b_country 重申/other 钓鱼岛/b_ns 属于/other 日/b_country 美/b_country 安保/other 条约/other 适用/other 范围/other
+日本/b_country 将/other 向/other 菲律宾/b_country 交付/other 巡逻船/b_dev ,/other 曾/other 在/other 钓鱼岛/b_ns 海域/i_ns 出没/other
+日/b_country 将/other 区别/other 对待/other 驶入/other 钓鱼岛/b_ns 中/b_country 俄/b_country 战舰/b_dev ,/other 只/other 抗议/other 中方/b_country
+日本/b_country 出/other 招离间/other 中/b_country 泰/other 关系/other ：/other 欲/other 阻止/other 中/b_country 泰/other 军事/other 交流/other
+外媒/b_nt ：/other 美军/b_nt 派/other 双/other 航母/b_dev 巡航/other 南海/b_ns ,/other 对/other 中国/b_country 发出/other 警告/other
+军报/b_nt 透露/other 一/other 重要/other 设施/other 升级/other ,/other 被/other 指/other 为/other 部署/other 东风/b_dev 41/i_dev 做/other 准备/other
+美/b_country 华裔/other 女子/other 被/other 控/other 向/other 中国/b_country 走私/other F22/b_dev 战机/i_dev 及/other 无人机/b_dev 引擎/other (/other 图/other )/other
+土媒/b_nt 发布/other 俄/b_nt 军/i_nt 燃烧/other 弹/other 轰炸/other 叙利亚/b_country 画面/other ,/other 场面/other 震撼/other (/other 图/other )/other
+外媒/b_nt 称/other 中国/b_country 将/other 在/other 南海3/b_ns 千/other 米/other 深处/other 建/other 实验室/other ,/other 监测/other 美军/b_nt 潜艇/b_dev
+日/b_country 称/other 将/other 区别/other 对待/other 驶入/other 钓鱼岛/b_ns 中/b_country 俄/b_country 战舰/b_dev ,/other 只/other 对/other 中方/b_country 提/other 抗议/other
+印尼/b_nt 军方/i_nt 招收/other 街头/other 小/other 混混/other 军训/other ：/other 保护/other 国家/other 流氓/other 有责/other
+印度/b_country 航母/b_dev 又/other 出/other 事故/other ,/other 发生/other 毒气/other 泄漏/other 致/other 两/other 死/other 两/other 入院/other
+沙特/b_country 主导/other 的/other 联军/b_nt 被/other 移/other 出/other 联合国/b_nt 儿童/other 保护/other 黑/other 名单/other
+俄罗斯/b_nt 外交部/i_nt 称/other 在/other 南海/b_ns 问题/other 上/other 不/other 会/other 选边站/other
+北约/b_nt 进行/i_nt 海军/i_nt 联合/other 演习/other ,/other 要/other 打破/other 俄/b_nt 军/i_nt 一/other 战略/other (/other 图/other )/other
+俄/b_country 称/other 中国/b_country 建/other 吉布提/b_ns 基地/i_ns 向/other 俄/b_country 取经/other ,/other 类似/other 俄/b_nt 军/i_nt 驻/other 叙/b_ns 基地/i_ns
+大校/b_role 称歼/other 20/other 研发/other 速度/other 远/other 超/other 美/b_country 俄/b_country 同类机/other ,/other 美/b_country 将/other 研六代机/b_dev 应/other 对/other
+西方/b_country 多/other 国/other 欲/other 派/other 战舰/b_dev 闯/other 南海/b_ns ,/other 或/other 将/other 组建/other 新/other 八国联军/other
+俄方/b_country ：/other 对/other 军舰/b_dev 通过/other 钓岛/b_ns 海域/i_ns 受到/other 日本/b_country 提醒/other 表/other 惊讶/other
+数千/other 人/other 包围/other 在/other 德/b_ns 美军/i_ns 基地/i_ns ,/other 抗议/other 美/b_country 无人机/b_dev 戮害/other 平民/b_role
+美媒/b_nt 称/other 沙特/b_country 官员/b_role 涉嫌/other 支持/other 911恐袭/other ,/other 美国/b_country 官方/other 回应/other
+法国/b_country 军舰/b_dev 三/other 闯/other 南海/b_ns 重塑/other 大国/other 形象/other ,/other 开创/other 遏华/other 新/other 模式/other
+军情室/b_nt ：/other 俄军/b_nt 靠近/other 钓鱼岛/b_ns 或/other 为/other 抄/other 近路/other ,/other 曾/other 擅/other 闯/other 蒙古/b_ns 领空/i_ns 被/other 拒/other
+抗美援朝/b_nt 电视剧/other 破/other 禁开/other 播释/other 信号/other ,/other 不再/other 怕/other 刺激/other 美国/b_country
+美媒/b_nt 称/other 中国/b_country 还/other 不/other 是/other 超级大国/other ,/other 军力/other 比/other 美/b_country 还/other 差/other 得/other 远/other
+印媒/b_nt 称/other 美/b_country 日/b_country 印/b_country 重兵/other 演练/other 猎杀/other 中国/b_country 潜艇/b_dev ,/other 拿印/other 海军/b_nt 当枪/other 使/other
+菲/b_nt 青年/i_nt 团体/i_nt 欲/other 登/other 黄岩岛/b_ns 插/other 国旗/other ,/other 被/other 中国/b_country 海警/b_dev 船/i_dev 拦截/other
+美/b_nt 日/i_nt 同盟/i_nt 危害/other 亚太/b_ns 和平/other ,/other 中/b_country 俄/b_country 海/b_nt 空军/i_nt 合作/other 将/other 是/other 日本/b_country 噩梦/other
+中国/b_country 将/other 在/other 琉球/b_ns 海沟/i_ns 台/i_ns 东部/i_ns 海域/i_ns 与/other 南海/b_ns 建/other 海啸/other 监测网/other
+土耳其/b_country 战机/b_dev 空袭/other 库尔德/b_nt 工人党/i_nt ,/other 致/other 13/other 人/other 死亡/other
+中国/b_country 建设/other 世界/other 一流/b_nt 空军/i_nt ：/other 做/other 好/other 这/other 5/other 点/other 就/other 能/other 成为/other 现实/other
+王印芳/b_nr 少将/b_role 出任/other 38/other 军/other 军长/b_role ,/other 此前/other 担任/other 该/other 军/other 参谋长/b_role
+第13/b_nt 集团军/i_nt "/other 半截/other 皮带/other "/other 传承/other 80年/other ,/other 现/other 内幕/other 曝光/other
+南海/b_nt 舰队/i_nt 前/other 副/b_role 司令/i_role 患/other 肺癌/other 去世/other ,/other 临终/other 再/other 登/other 潜艇/b_dev 码头/other
+张家口/b_nt 军分区/i_nt 实战化/other 野炊/other 比武/other ,/other 拒绝/other “/other 雕龙刻凤/other ”/other
+解放军/b_nt 航空兵/other 新/other 突破/other ：/other 转/other 场/other 高原/other 当日/other 即可/other 升空/other 作战/other
+军媒/b_nt ：/other 南京/b_nt 军区/i_nt 将/other 落/other 下/other 帷幕/other ,/other 撤降/other 并/other 改/other 毫不犹豫/other
+中方/b_country 再/other 回应/other 永暑礁/b_ns 机场/i_ns 试飞/other ：/other 对/other 越方/other 举动/other 震惊/other 不解/other
+永兴岛/b_ns 今年/other 将/other 开通/other 机场/b_ns 民航/other 业务/other ,/other 岛/other 上/other WIFI/other 全/other 覆盖/other
+揭秘/other 解放军/b_nt 科研/other 创新/other 团队/other ,/other 曾/other 解决/other 舰船/b_dev 心脏病/other 难题/other
+军报/b_nt ：/other 军委/other 机关/other 各/other 部门/b_nt 必须/other 有/other 很/other 强/other 的/other 服务/other 意识/other
+军委/b_nt 国防/other 动员部/other 严/other 字/other 当头/other 建/other “/other 四/other 铁/other ”/other 军委/other 机关/other
+外交部/b_nt ：/other 印尼/b_country 爆炸案/other 目前/other 没有/other 中国/b_country 公民/b_role 伤亡/other 报告/other
+军工/other 科研/other 院所/other 改革/other 方案/other 将/other 发布/other ,/other 军工/other 产业/other 将/other 重构/other
+火箭军/b_nt 某/other 旅/b_nt 训练/other 计划/other 采纳/other 官兵/b_role 建议/other ,/other 多/other 给/other 营/b_nt 连/other 自主权/other
+军报/b_nt 揭秘/other 战略/other 支援/other 部队/b_nt :/other 已/other 研发/other 新型/other 作战/other 装备/other
+中方/b_country ：/other 奉劝/other 日本/b_country 不要/other 在/other 钓鱼岛/b_ns 挑衅/other 否则/other 后果/other 自负/other
+中航/b_nt 沈飞/other 2015年/other 承担/other 科研/other 任务/other 和/other 批产/other 飞机/b_dev 数量/other 空前/other
+中国/b_country 解决/other 先进/other 战机/b_dev 、/other 高超/b_dev 声速/i_dev 飞行器/i_dev 关键/other 气动/other 问题/other
+解放军/b_nt 报/other 述评/other ：/other 按/other 能/other 打仗/other 打/other 胜仗/other 要求/other 阔步/other 前行/other
+第39/b_nt 集团军/i_nt 各级/other 首长/other 机关/other 以上/other 率/other 下/other 大/other 抓/other 冬季/other 训练/other
+解放军/b_nt 31/other 名/other 退役/other 士官/other 得/other 安置/other ,/other 按/other 积分/other 排序/other 选/other 工作/other
+中国/b_nt 空军/i_nt 新型/b_dev 战机/i_dev 遭遇/other 无/other 先例/other 重大/other 险情/other ,/other 17/other 秒/other 处置/other
+中国/b_nt 武装/i_nt 海警/b_dev 船/i_dev 2016年/other 第二/other 次/other 巡航/other 钓鱼岛/b_ns 12/other 海里/other
+军委/b_nt 机关/other 各/other 部门/b_nt 集体/other 表态/other ,/other 建设/other “/other 四/other 铁/other ”/other 军委/other 机关/other
+中国/b_country 新型/b_dev 驱逐舰/i_dev 实现/other 多/other 武器/b_dev 冷热/other 兼容/other 垂直/other 发射/other
+中国/b_country 最/other 南端/other 女/other 军人/b_role 亮相/other ,/other 有时/other 两/other 人/other 用/other 绳捆/other 一起/other 作业/other
+解放军/b_nt 炮兵团/i_nt 撤编/other 团长/b_role 变/other 工程师/b_nt ,/other 一/other 年/other 后/other 再/other 任/other 团长/b_role
+德国/b_country 总理/b_role 与/other 北约/b_nt 秘书长/b_role 相继/other 发声/other 挽留/other 英国/b_country
+美/b_country 防长/b_role 赴/other 新加坡/b_country 出席/other 香格里拉/b_nt 对话会/i_nt
+美国/b_country 众议长/other 宣布/other 将/other 在/other 总统/b_role 大选/other 中/other 支持/other 特朗普/b_nr
+孙建国/b_nr 会见/other 柬埔寨/b_country 副/b_role 首相/i_role 兼/other 国防/other 大臣/b_role 迪班/b_nr
+张高丽/b_nr 访问/other 格鲁吉亚/b_country
+IS/b_nt 变/other 战术/other 优先/other 发动/other 轰动性/other 恐袭/other ,/other 可能/other 已/other 瞄准/other 美国/b_country
+阿联酋/b_country 计划/other 向/other 意大利/b_country 采购/other AW-609/b_dev 型/other 倾/other 转/other 旋翼机/other
+土耳其/b_country 击落/other 俄机/b_dev 被/other 指/other 系/other 美国/b_country 阴谋/other ,/other 高官/b_role 曾/other 放狠话/other
+专家/b_role ：/other 若/other 俄/b_country 忍受/other 屈辱/other 此前/other 空袭/other 成果/other 将/other 化为乌有/other
+普京/b_nr ：/other 俄/b_country 被/other 恐怖/b_role 分子/i_role 的/other 共/other 犯/other 捅/other 了/other 一/other 刀/other ,/other 不/other 能/other 容忍/other
+土耳其/b_country 击落/other 俄/b_country 战机/b_dev 震惊/other 全球/other ,/other 俄/b_country 是否/other 会/other 对/other 土/b_country 动手/other ？/other
+俄/b_country 米/b_dev 8/i_dev 直升机/i_dev 遭/other 叙/b_country 反对派/b_role 击落/other ,/other 一/other 名/other 俄/b_country 军人/b_role 被/other 打/other 死/other
+北约/b_nt ：/other 坚定/other 站/other 在/other 土耳其/b_country 一/other 方/other ,/other 但/other 应/other 避免/other 局势/other 失控/other
+美/b_country 发言人/b_role 自相矛盾/other ,/other 暗示/other 叙/b_country 反对派/b_role 有/other 权/other 对/other 俄/b_country 自卫/other
+捷克/b_country 总统/b_role 指责/other 土耳其/b_country ,/other 怀疑/other 其/other 与/other ISIS/b_nt 互相/other 策应/other
+英媒/b_nt ：/other 美国/b_country 已/other 确认/other 俄罗斯/b_country 军机/b_dev 在/other 叙利亚/b_country 领空/other 爆炸/other
+俄/b_country 向/other 叙/b_country 海域/other 派出/other 导弹/b_dev 巡洋舰/i_dev ,/other 奉命/other 摧毁/other 危险/other 目标/other
+韩/b_nt 防卫厅/i_nt 被/other 指/other 武断/other 行事/other ,/other 月/other 内/other 恐/other 难/other 转移/other 战机/b_dev 技术/other
+日/b_country 防相/b_role 首/other 次/other 表示/other 拟/other 引进/other 新/other 反导/other 系统/b_dev ,/other 应对/other 朝鲜/b_country 导弹/b_dev
+俄/b_country 驻/b_role 北约/i_role 代表/i_role ：/other 土/b_country 迫使/other 北约/b_nt 为/other 其/other 辩护/other ,/other 借/other 此/other 掩护/other 自己/other
+俄/b_country 记者/b_role 在/other 叙/b_country 参访/other 时/other 遇袭/other ,/other 反/other 坦克/b_dev 导弹/i_dev 在/other 车/other 旁/other 爆炸/other
+土/b_country 总统/b_role ：/other 俄/b_country 空袭/other 未/other 打击/other 恐怖主义/other ,/other 只是/other 轰炸/other 平民/b_role
+俄/b_nt 军方/i_nt ：/other 俄/b_country 将/other 派/other 歼击机/b_dev 将/other 掩护/other 轰炸机/b_dev 的/other 所有/other 行动/other
+奥巴马/b_nr 痛/other 批/other “/other 伊斯兰国/b_nt ”/other 野蛮/other ,/other 誓言/other 要/other 将/other 其/other 歼灭/other
+日本/b_country 出口/other 水上/other 飞机/b_dev ：/other 盼/other 买家/other 在/other 东海/b_ns 南海/b_ns 问题/other 支持/other
+日媒/b_nt ：/other 美/b_country 无/other 人/other 潜艇/b_dev 装/other 第五/other 代/other 声/other 呐/other 可/other 跟踪/other 中/b_country 俄/b_country 潜艇/b_dev
+图解/other 俄罗斯/b_country 叙/b_country 土/b_ns 边境/i_ns 坠机/other ,/other 距/other 俄/b_country 驻/other 叙/b_ns 空军/i_ns 基地/i_ns 很/other 近/other
+日媒/b_nt 评/i_nt 自卫队/i_nt 七大/other 未来/other 兵器/other ,/other 一/other 装备/other 美军/b_nt 感/other 兴趣/other
+日本/b_country 靖国神社/b_ns 发生/other 爆炸/other ,/other 恐袭/other 阴云/other 让/other 世界/other 绷/other 紧/other 神经/other
+印度/b_country 欢呼/other 反导/other 拦截/other 成功/other ,/other 号称/other 能/other 摧毁/other 任何/other 弹道导弹/b_dev
+日本/b_country 打/other “/other 盟友牌/other ”/other 卖/other 潜艇/b_dev ,/other 澳大利亚/b_country 不/other 为/other 所/other 动/other
+日媒/b_nt ：/other 安倍外/other 访/other 成效/other 欠佳/other ,/other 被/other 批/other 表情/other 生硬/other 问题/other 重重/other
+多/other 国/other 舰机/b_dev 密集/other 搜索/other 俄/b_country 潜艇/b_dev ,/other 俄媒/b_nt ：/other 这/other 是/other 反/other 俄/b_country 大合唱/other
+美/b_country 媒用/other 俄/b_nt 空天/i_nt 部队/i_nt 空袭/other 视频/other 混充/other 美/b_nt 空军/i_nt 作战/other 视频/other
+靖国神社/b_ns 爆炸/other 嫌犯/b_role 锁定/other 可疑/other 男子/other ,/other 日/b_nt 警方/i_nt 严阵以待/other
+土媒体/b_nt 发布/other 的/other 俄/b_country 坠毁/other 苏24/b_ns 飞行/other 路线/other 称/other 曾/other 入/other 土/b_ns 境内/i_ns
+土耳其/b_country F16/b_dev 在/other 靠近/other 叙/b_ns 边境/i_ns 击落/other 1/other 架/other 军机/b_dev ,/other 飞行员/b_role 跳伞/other
+菲律宾/b_country 从/other 韩国/b_country 购/other 12/other 架/other FA-50/b_dev 战机/i_dev ,/other 重/other 回/other 超音速/other 时代/other
+俄媒/b_nt ：/other 俄/b_country 战舰/b_dev 险/other 遭/other 土耳其/b_country 渔船/b_dev 撞击/other ,/other “/other 被/other 逼/other ”/other 开火/other
+俄/b_country 称/other S500/b_dev 导弹/i_dev 试验/other 已/other 接近/other 尾声/other ,/other 优于/other 美/b_country 萨德/b_dev 系统/i_dev
+伊拉克/b_country 为何/other 不/other 对/other 土耳其/b_country 开战/other ：/other 鞭长莫及/other ,/other 打/other 不/other 过/other
+美/b_nt 媒称/i_nt IS/b_nt 有/other 印制/other 护照/other 机器/other ,/other 武装/b_role 分子/i_role 或/other 已/other 嵌入/other 美国/b_country
+澳/b_nt 首/other 次/other 证实/other 美/b_country 曾/other 请求/other 提供/other 更/other 多/other 军事/other 援助/other 以/other 打击/other IS/b_nt
+菲律宾/b_nt 政府军/i_nt 遭/other 反/b_nt 政府/i_nt 武装/i_nt 地雷/b_dev 袭击/other ,/other 致/other 3/other 死/other 14/other 伤/other
+巴基斯坦/b_country 市场/other 爆炸/other 致/other 24/other 人/other 死亡/other ,/other 极端/b_nt 组织/i_nt 声称/other 负责/other
+俄/b_country 向/other 土/b_country 强硬/other 表态/other ：/other 鲁莽/other 行动/other 可能/other 导致/other 致命/other 后果/other
+日本/b_country 民众/b_role 举行/other 集会/other ,/other 要求/other 安倍/b_nt 政府/i_nt 正视/other 侵略/other 历史/other
+俄/b_country 或/other 将/other 因/other IS/b_nt 石油/b_dev 走私/other 问题/other 在/other 安理会/b_nt 对/other 土提起/other 制裁/other
+日本/b_country 右翼/other 学者/b_role 欲/other 改/other 美/b_country 教科书/other ,/other 不满/other 涉/other 慰安妇/b_role 表述/other
+两/other 名/other 恐怖/b_role 分子/i_role 嫌犯/b_role 在/other 瑞士/b_country 被捕/other ,/other 涉嫌/other 酝酿/other 恐怖/other 袭击/other
+枪支/other 暴力/other 成/other 美国/b_country 社会/other 难以/other 迈/other 过/other 的/other 门槛/other ,/other 控/other 枪/b_dev 难/other 实现/other
+美/b_country 最新/other 濒海/b_dev 战舰/i_dev 发生/other 故障/other ,/other 被/other 拖行/other 40/other 海里/other 回/other 基地/b_ns
+叙军/b_nt “/other 90/other 后/other ”/other 死守/other 第一/other 道/other 防线/other ,/other 赞/other 俄军/b_nt 战机/b_dev 给力/other
+外媒/b_nt ：/other 俄/b_nt 军/i_nt 向/other 叙利亚/b_country 增派/other 4/other 架/other 苏/b_dev -34/i_dev 战斗/other 轰炸机/b_dev
+伊拉克/b_ns 首都/i_ns 爆发/other 游行/other 示威/other ,/other 抗议/other 土/b_nt 军队/i_nt 滞留/other 伊/b_ns 境内/i_ns
+乌克兰/b_ns 前线/i_ns 出现/other 慰安/other 活动/other :/other 姑娘/other 自愿/other 服务/other 士兵/b_role (/other 图/other )/other
+朝鲜/b_country 功勋/other 国家/other 合唱团/other 和/other 牡丹峰/other 乐团/other 未能/other 如期/other 演出/other
+伊拉克/b_country 议员/b_role 曝/other 多/other 国/b_nt 部队/i_nt 十万/other 名/other 士兵/b_role 在/other 伊/b_country 部署/other 计划/other
+普京/b_nr 发狠话/other ：/other 俄军/b_nt 将/other 在/other 叙利亚/b_country 消灭/other 所有/other 威胁/other 目标/other
+土/b_country 总统/b_role 拒绝/other 撤军/other 更/other 反/other 咬/other 一/other 口/other ：/other 伊/b_country 总理/b_role 请/other 我们/other 驻军/other
+俄媒/b_nt ：/other 希腊/b_country 出动/other 2/other 架/other F16/b_dev 拦截/other 并/other 长/other 时/other 锁定/other 土/b_dev 战机/i_dev
+俄/b_nt 军/i_nt 打/other IS/b_nt 美军/b_nt 借机/other 大肆/other 偷情报/other ：/other 要/other 学习/other 咋/other 打败/other 他们/other
+土耳其/b_country 受/other 欧/b_ns 美/b_country 倚重/other 感觉/other 良好/other ,/other 借/other 中东/b_ns 动荡/other 做/other 帝国/other 梦/other
+朝鲜/b_country 首/other 次/other 公开/other 宣布/other 拥有/other 氢弹/b_dev ,/other 韩方/other ：/other 朝鲜/b_country 没/other 能力/other 造/other
+专家/b_role ：/other 美国/b_country 军火商/other 在/other 对/other IS/b_nt 战斗/other 中/other “/other 大发战争/other 财/other ”/other
+安倍/b_nr 个人/other 网站/other 遭/other 黑客/b_role 攻击/other ,/other 多/other 家/other 日本/b_country 重要/other 网站/other 中/other 招/other
+俄/b_nt 媒/i_nt ：/other 土耳其/b_country 开始/other 沿/other 叙/b_country 土/b_ns 边境/i_ns 建筑/other 高墙/other 隔绝/other IS/b_nt
+美/b_country 发言人/b_role 拒/other 评/other 土耳其/b_country “/other 入侵/other ”/other 伊拉克/b_country ：/other 我/other 不/other 想/other
+外媒/b_nt ：/other IS/b_nt 领袖/b_role 巴格达迪/b_nr 在/other 空袭/other 中/other 受伤/other ,/other 已/other 逃/other 利比亚/b_country
+俄媒/b_nt ：/other 法/b_country 议员/b_role 称/other 俄/b_country 法/b_country 应/other 限制/other 土/b_country 飞机/b_dev 在/other 叙/b_country 领空/other 出现/other
+港媒/b_nt ：/other 氢弹/b_dev 威力/other 比/other 原子/other 弹强/other 千/other 倍/other ,/other 美国/b_country 最先/other 试验/other
+美国/b_country 一/other 日/other 内/other 试射/other 3/other 种/other 反导/b_dev 系统/i_dev ,/other 全部/other 获得/other 成功/other
+俄/b_nt 媒/i_nt ：/other 伊拉克/b_country 将/other 土告/other 上/other 安理会/b_nt ,/other 请/other 五常/b_ns 统一/other 立场/other
+日本/b_country 官房长官/other 否认/other 该国/other 自卫队/b_nt 将/other 支援/other 美军/b_nt 打击/other IS/b_nt
+印度/b_country 有意/other 采购/other 日本/b_country 武器/b_dev 装备/other ,/other 包括/other 2/other 架/other 两/other 栖/other 反/other 潜机/other
+美/b_country “/other 拉森/b_dev ”/i_dev 号/i_dev 宙斯/i_dev 盾舰/i_dev 离开/other 基地/b_ns ,/other 曾/other 擅/other 闯/other 中国/b_country 南海/b_ns
+美媒/b_nt ：/other 2.5万/other 驻/b_nt 韩/i_nt 美军/i_nt 等待/other 应对/other 朝鲜/b_country 下/other 一/other 步/other 措施/other
+吉布提/b_country 断绝/other 与/other 伊朗/b_country 外交/other 关系/other ,/other 谴责/other 沙特/b_nt 使馆/i_nt 遇/other 袭/other 事件/other
+美媒/b_nt ：/other 美/b_country 需/other 投入/other 更/other 多/other 破冰/other 船/b_dev 否则/other 将/other 输/other 掉/other 北极/b_ns 争夺战/other
+俄/b_country 议员/b_role ：/other 俄/b_country 解决/other 危机/other 令/other 美/b_country 嫉妒/other ,/other 或/other 可/other 调解/other 半岛/b_ns 局势/other
+美国/b_country 国务卿/b_role 克里/b_nr ：/other 美国/b_country 不/other 会/other 承认/other 朝鲜/b_country 是/other 核强国/other
+美国/b_country 研制/other 通用/other 导弹/b_dev 舱/other ,/other 拟/other 用于/other 美/b_country 英/b_country 未来/other 战略/b_dev 核潜艇/i_dev
+俄/b_nt 媒/i_nt ：/other 沙特/b_country 若/other 与/other 伊朗/b_country 开战/other 将/other 被/other 摧毁/other ,/other 难/other 获/other 美/b_country 支持/other
+外媒/b_nt ：/other 沙特/b_country 伊朗/b_country 危机/other 是/other 奥巴马/b_nr 外交/other 无能/other 的/other 苦果/other ,/other
+奥巴马/b_nr 公布/other 枪控/other 行政令/other ,/other 追忆/other 枪/b_dev 下/other 亡魂/other 潸然落泪/other
+IS/b_nt 自/other 曝/other 攻克/other 导弹/b_dev 技术/other 难题/other ,/other 新/other 武器/b_dev “/other 可/other 击落/other 客机/b_dev ”/other ,/other
+美媒/b_nt ：/other 朝鲜/b_country 核威胁/other 走/other 进/other 现实/other ,/other 终结/other 核武/b_dev “/other 筹码论/other ”/other
+美媒/b_nt ：/other 印度/b_country 自主/other 研发/other 无人机/b_dev 交付/other 军方/b_nt 4/other 架/other 后/other 全/other 坠毁/other
+日媒/b_nt ：/other 朝/b_country 氢弹/b_dev 试验/other 为/other 彰显/other 国威/other ,/other 将/other 陷/other 孤立/other 处境/other
+白宫/b_nt ：/other 尚/other 无法/other 确认/other 朝鲜/b_country 试/other 爆/other 氢弹/b_dev ,/other 不/other 接受/other 有/other 核朝鲜/other
+韩/b_nt 军方/i_nt 上调/other 对/other 朝/b_country 警戒/other 级别/other ,/other 紧急/other 联系/other 驻/b_nt 韩/i_nt 美军/i_nt 司令/b_role
+美/b_country 日/b_country 要求/other 安理会/b_nt 就/other 朝鲜/b_country 氢弹/b_dev 试验/other 召开/other 紧急/other 会议/other
+朝鲜/b_country 宣布/other 氢弹/b_dev 试验/other 完美/other ,/other 成/other 拥有/other 最/other 强/other 核/other 遏制/other 力/other 民族/other
+朝鲜/b_country 宣布/other 特别/other 重大/other 消息/other ：/other 第一/other 枚/other 氢弹/b_dev 试验/other 成功/other
+俄/b_nt 媒/i_nt 称/other 中国/b_country 连续/other 两/other 年/other 成为/other 俄罗斯/b_country 新/other 武器/b_dev 首/other 个/other 买家/other ,/other
+蔡英文/b_nr 上台/other 后/other 或/other 大肆/other 购美/other 武器/b_dev ,/other 出卖/other 主权/other 求/other 美/b_country 遏制/other 大陆/other
+美媒/b_nt 称/other 中国/b_country 军舰/b_dev 在/other 南海/b_ns 拦住/other 美舰/b_dev 前往/other 美济礁/other 路线/other (/other 图/other )/other
+俄/b_country 称/other 苏/b_dev 35/i_dev 合同/other 未/other 生效/other 今年/other 无法/other 交付/other ,/other 国防部/b_nt 回应/other
+国防部/b_nt 回应/other 美舰/b_dev 南海/b_ns 遭/other 我军/b_nt 拦截/other ：/other 建议/other 美军/b_nt 好/other 自/other 为/other 之/other
+军情室/b_nt :/other 菲律宾/b_country 购/other 俄/b_country 潜艇/b_dev 对抗/other 中国/b_country ？/other 日/b_country 印/b_country 越/other 都/other 坐/other 不/other 住/other 了/other
+中国/b_nt 军方/i_nt 回应/other 日本/b_nt 自卫队/i_nt 抵/other 近/other 钓鱼岛/b_ns 部署/other
+中国/b_nt 军方/i_nt 回应/other 运/b_dev 20/i_dev 运输机/i_dev 今年/other 能否/other 服役/other
+习近平/b_nr 访/other 美/b_country 敲打/other 奥巴马/b_nr ：/other 在/other 韩/b_country 部署/other 萨德/b_dev 反导/other 损人/other 不利己/other
+中国/b_country 军舰/b_dev 南海/b_ns 拦截/other 美舰/b_dev 录音/other 曝光/other ：/other 这/other 几/other 天/other 我/other 一直/other 跟着/other 你/other
+日本/b_country 加入/other 隐形/other 战斗机/b_dev 俱乐部/other ,/other 心神/other 机动/other 性能/other 将/other 比肩/other F22/b_dev
+美/b_country 曝/other 中/b_country 美/b_country 战舰/b_dev 南海/b_ns 交锋/other 有/other 何/other 阴谋/other ,/other 让/other 中方/b_country 舆论/other 战先/other 输/other 1/other 招/other
+安倍/b_nr 在/other 核峰会/other 上/other 要求/other 会见/other 习/b_nr 近平/i_nr ,/other 中方/b_country 根本/other 不予/other 理睬/other
+中国/b_country 军机/b_dev 在/other 闯/other 南海/b_ns 美舰/i_ns 上空/i_ns 不/other 停/other 盘旋/other ,/other 质问/other 美军/b_nt 一/other 件/other 事/other
+俄/b_country 从/other 朝鲜/b_country 发展/other 导弹/b_dev 技术/other 有/other 秘笈/other ,/other 不/other 会/other 比/other 50/other 年/other 前/other 的/other 中国/b_country 差/other
+朝鲜/b_country 今日/other 再/other 向/other 半岛/b_ns 东部/i_ns 海域/i_ns 发射/other 飞行物/other ,/other 疑/other 为/other 弹道导弹/b_dev
+美/b_country 确认/other 朝鲜/b_country 新型/other KN14/b_dev 洲际/i_dev 导弹/i_dev ,/other 射程/other 更/other 远/other 用/other 中国/b_country 越野车/b_dev
+日本/b_country 着急/other ：/other 请/other 中国/b_country 外长/b_role 访/other 日/b_country 未/other 获/other 回应/other ,/other 日/b_country 外相/b_role 急于/other 访华/other
+美媒/b_nt 称/other 印尼/b_country 不/other 愿/other 在/other 南海/b_ns 对抗/other 中国/b_country ,/other 还/other 得/other 求/other 中国/b_country 一/other 事/other
+日媒/b_nt 称/other 邀/other 中国/b_country 外长/b_role 访/other 日/b_country 未/other 获/other 回应/other ,/other 日本/b_country 急于/other 再/other 访华/other
+90/other 后/other 记忆/other 中/other 81192/other 号/other 歼8/b_dev 战机/i_dev ：/other 那些/other 年/other 国外/other 侵略/other 留/other 刺/other 痛/other ,/other
+张召忠/b_nr ：/other 中/b_country 美/b_country 南海/b_ns 撞机/other 事件/other 当天/other 究竟/other 发生/other 了/other 什么/other
+军报/b_nt 披露/other 2014/other 朱日/other 和/other 军演/other 导弹/b_dev 意外/other 爆炸/other ,/other 士兵/b_role 牺牲/other
+印/b_country 称/other 空军/b_nt 失去/other 对/other 中/b_country 巴/b_country 优势/other ：/other 先进/other 战机/b_dev 数量/other 已/other 少于/other 中巴/other
+越南/b_country 扣留/other 一/other 艘/other 中国/b_country 船只/other 及/other 3/other 名/other 中国/b_country 船员/b_role ,/other 称/other 其/other 侵犯/other 领海/other
+日本/b_country 潜艇/b_dev 时隔/other 15/other 年/other 重返/other 菲律宾/b_country ,/other 要/other 在/other 南海/b_ns 牵制/other 中国/b_country (/other 图/other )/other
+亚美尼亚/b_country 与/other 阿塞拜疆/b_country 爆发/other 22/other 年/other 来/other 最/other 严重/other 激战/other (/other 图/other )/other
+武直/b_dev 10/i_dev 或/other 换/other 装/other 涡轴/other 16/other 发动机/other ,/other 可/other 升级/other 到/other 美军/b_nt 阿帕奇/other 水平/other
+美军/b_nt 计划/other 第3/other 次/other 闯/other 中国/b_country 南海/b_ns 岛礁/i_ns ,/other 地点/other 或/other 在/other 美济礁/b_ns 附近/i_ns
+俄/b_nt 军/i_nt 撤出/other 后/other 美/b_country 或/other 向/other 叙利亚/b_country 增派/other 特种部队/b_nt ,/other 疑建/other 空军/b_ns 基地/i_ns
+深度/other ：/other 中国/b_country 建成/other 世界/other 最/other 大/other 两/other 栖/other 装甲/other 战队/other ,/other 辖/other 1200/other 辆/other 战车/other
+普京/b_nr 逼/other 白宫/other 做/other 交易/other 对/other 中国/b_country 有/other 何/other 启示/other ：/other 解决/other 南海/b_ns 就要/other 种/other 岛/other
+美/b_nt 组织/i_nt 20/other 多/other 国/other 举行/other 对/other 朝鲜/b_country 兵棋/other 推演/other ,/other 韩/b_country 日/b_country 实现/other 情报/other 共享/other
+“/other 印/b_country 日/b_country 美/b_country 在/other 靠近/other 南/other 中国海/b_ns 的/other 水域/other 举行/other ‘/other 马拉巴尔/other ’/other 联合/other 海军/b_nt 演习/other ”/other
+中国/b_country 专家/b_role 指出/other ，/other “/other 马拉巴尔/other ”/other 演习/other 原本/other 是/other 印/b_country 美/b_country 之间/other 的/other 双边/other 演习/other ，/other 日本/b_country 加入/other 后/other 试图/other 将/other 重心/other 转移/other 到/other 南海/b_ns 甚至/other 东海/b_ns
+军情室/b_nt ：/other 俄军/b_nt 靠近/other 钓鱼岛/b_ns 或/other 为/other 抄/other 近路/other ,/other 曾/other 擅/other 闯/other 蒙古/b_ns 领空/i_ns 被/other 拒/other
+6月/other 8日/other 晚间/other 至/other 9日/other 凌晨/other ，/other 俄/b_country 中/b_country 两/other 国/other 海军/b_nt 舰艇/b_dev 先后/other 出现/other 在/other 钓鱼岛/b_ns 附近/i_ns 海域/i_ns ，/other 日本/b_country 防卫省/b_nt 事后/other 表示/other ，/other 这/other 是/other 中国/b_country 军舰/b_dev 首/other 次/other 进入/other 钓鱼岛/b_ns 附近/i_ns 海域/i_ns ，/other 也/other 是/other 中/b_country 俄/b_country 两/other 国/other 军舰/b_dev 首/other 次/other 同时/other 出现/other 在/other 该/other 海域/other
+这/other 一/other 过程/other 中/other ，/other 美国/b_country 力图/other 借助/other 南海/b_ns 重整/other 北约/b_nt 力量/other
+法国/b_country 大国/other 形象/other 再/other 设计/other ,/other 首先/other ，/other 法国/b_country 试图/other 重新/other 设计/other 自身/other 的/other 大国/other 形象/other ，/other 改变/other 一贯/other 的/other 欧洲/b_ns 反美主义/other 桥头堡/other 形象/other ，/other 介入/other 南海/b_ns 是/other 奥朗德/b_nr 政府/other 调整/other 东亚/b_ns 事务/other 政策/other 的/other 一个/other 信号/other
+法国/b_country 国防部长/b_role 的/other 此次/other 表态/other 试图/other 以/other 南海/b_ns 作为/other “/other 场域/other ”/other 进一步/other 宣示/other 自身/other 的/other 大国/other 形象/other ，/other 释放/other 的/other 正是/other 积极/other 介入/other 南海/b_ns 事务/other ，/other 号召/other 欧盟/other 介入/other 南海/b_ns ，/other 认同/other 美式/other 的/other 南海/b_ns 干涉/other 价值观/other ，/other 一/other 改/other 自身/other 坚持/other 欧洲/b_ns 事务/other 主导/other 国/other 并/other 执行/other 相对/other 独立/other 外交/other 政策/other 的/other 风格/other
+美国/b_nt 媒体/i_nt 此前/other 报道/other 称/other ，/other “/other 9·11/other ”/other 恐怖/other 袭击/other 调查/other 委员会/b_nt 2002年/other 的/other 一/other 份/other 报告/other 中/other 有/other 28/other 页/other 秘密/other 内容/other ，/other 据称/other ，/other 其中/other 涉及/other 沙特/b_country 官员/b_role 对/other 制造/other “/other 9·11/other ”/other 袭击/other 的/other 恐怖/b_role 分子/i_role 的/other 支持/other
+白宫/b_ns 发言人/b_role 厄内斯特/b_nr 稍后/other 表示/other ，/other 美国/b_country 不/other 掌握/other 有关/other 沙特/b_country 参与/other 恐袭/other 的/other 可靠/other 证据/other
+布伦南/b_ns 5月/other 时/other 曾/other 表示/other ，/other 公布/other “/other 9·11/other ”/other 恐怖/other 袭击/other 的/other 报告/other 全文/other 或/other 将/other 损害/other 美国/b_country 与/other 沙特/b_country 的/other 关系/other
+他们/other （/other 委员会/b_nt ）/other 得出/other 结论/other ，/other 没有/other 证据/other 指向/other 沙特/b_nt 政府/i_nt 作为/other 组织/other 机构/other ，/other 以及/other 沙特/b_country 高官/b_role 个人/other 支持/other ‘/other 9·11/other ’/other 恐怖/other 袭击/other
+沙特阿拉伯/b_nt 政府/i_nt 曾/other 就/other 此/other 事件/other 对/other 美方/b_country 表达/other 强烈/other 抗议/other ，/other 并/other 威胁/other 道/other 如果/other 美国/b_country 通过/other 司法/other 程序/other ，/other 认定/other 沙特/b_nt 政府/i_nt 与/other “/other 9·11/other ”/other 恐袭/other 有关/other ，/other 将/other 廉价/other 出售/other 持有/other 的/other 美国/b_country 国债/other 和/other 在/other 美/b_country 资产/other ，/other 最高/other 可/other 达/other 7500亿/other 美元/other
+美国/b_nt 中央/i_nt 情报局/i_nt 局长/b_role 约翰·布伦南/b_nr 表示/other ，/other 纽约/b_ns 911恐怖/other 袭击/other 调查/other 委员会/b_nt 没有/other 发现/other 沙特/b_country 参与/other 组织/b_nt 袭击/other 的/other 证据/other
+4月/other 初/other 有/other 消息/other 称/other ，/other 美国/b_country 总统/b_role 奥巴马/b_nr 将/other 在/other 60/other 天/other 内/other 决定/other 是否/other 公布/other 一/other 批/other 关于/other 纽约/b_ns “/other 9·11/other ”/other 恐怖/other 袭击/other 调查/other 的/other 机密/other 文件/other
+西方/b_country 多/other 国/other 欲/other 派/other 战舰/b_dev 闯/other 南海/b_ns ,/other 或/other 将/other 组建/other 新/other 八国联军/other
+俄/b_country 称/other 中国/b_country 建/other 吉布提/b_ns 基地/i_ns 向/other 俄/b_country 取经/other ,/other 类似/other 俄/b_nt 军/i_nt 驻/other 叙/b_ns 基地/i_ns
+不久前/other ，/other 媒体/b_nt 援引/other 俄/b_nt 国防部/i_nt 消息/other 人士/b_role 的/other 话/other 报道/other 称/other ，/other 北京/b_ns 早/other 前/other 向/other 莫斯科/b_ns 咨询/other 如何/other 在/other 海外/other 快速/other 、/other 有效/other 和/other 秘密/other 地/other 部署/other 军事/other 设施/other
+俄/b_country 外交/other 人士/b_role 说/other ，/other 这/other 是/other 指/other 在/other 吉布提/b_country 建设/other 海军/b_nt 物资/other 技术/other 补给站/other ，/other 类似/other 于/other 俄/b_country 在/other 叙利亚/b_country 塔尔图斯/b_ns 的/other 补给站/other
+消息/b_role 人士/i_role 表示/other ，/other 今后/other 吉布提/b_country 的/other 基地/b_ns 将/other 成为/other 中国/b_country 最/other 大/other 的/other 海外/other 军事/other 设施/other 和/other 在/other 非洲/b_ns 进行/other 新/other “/other 力量/other 投射/other ”/other 的/other 后勤/other 基地/b_ns
+外媒/b_nt 称/other 中国/b_country 将/other 在/other 南海3/b_ns 千/other 米/other 深处/other 建/other 实验室/other ,/other 监测/other 美军/b_nt 潜艇/b_dev
+中国/b_country 将/other 集中/other 力量/other 建设/other 南海/b_ns 深水/other 平台/other ，/other 对/other 水下/other 的/other 矿藏/other 进行/other 研究/other ，/other 但/other 同时/other 也/other 可能/other 用于/other 军事/other 目的/other
+报道/other 称/other ，/other 中国/b_country 科学/other 技术部/other （/other Science/other ，/other Ministry/other ）/other 的/other 一/other 份/other 陈述/other 中/other 显示/other ，/other 这/other 座/other 实验室/other 将/other 健在/other 南海/b_ns 在/other 3/other 千/other 米/other （/other 约/other 9800/other 尺/other ）/other 深处/other
+土媒/b_nt 发布/other 俄/b_nt 军/i_nt 燃烧/other 弹/other 轰炸/other 叙利亚/b_country 画面/other ,/other 场面/other 震撼/other (/other 图/other )/other
+土耳其/b_country 和/other 西方/b_nt 媒体/i_nt 指责/other 俄方/b_country 的/other 轰炸/other 造成/other 了/other 平民/b_role 伤亡/other ，/other 俄方/b_country 对于/other 类似/other 的/other 指责/other 早/other 有/other 回应/other ，/other 所谓/other “/other 用/other 霹雳/other 手段/other 方/other 显/other 菩萨心肠/other ”/other ——/other 轰炸/other 都/other 是/other 针对/other 恐怖/b_role 分子/i_role 阵地/other 的/other ，/other 他们/other 不/other 受/other 国际/other 公约/other 保护/other
+军报/b_nt 透露/other 一/other 重要/other 设施/other 升级/other ,/other 被/other 指/other 为/other 部署/other 东风/b_dev 41/i_dev 做/other 准备/other
+这/other 一/other 天/other ，/other 中国/b_nt 人民/i_nt 解放军/i_nt 火箭/i_nt 军/i_nt 宣告/other 成立/other ，/other 习/b_nr 主席/b_role 向/other 火箭军/b_nt 授予/other 军旗/other 并/other 致/other 训词/other
+这/other 是/other 我国/b_nt 官方/i_nt 媒体/i_nt 首/other 次/other 公开/other 发出/other 东风/b_dev -41/i_dev 洲际/i_dev 导弹/i_dev 即将/other 部署/other 的/other 相关/other 信号/other
+英媒/b_nt :/other 印/b_country 不顾/other 中国/b_country 反对/other 加紧/other 向/other 越/b_country 出售/other 航母/b_dev 杀手/i_dev 导弹/i_dev
+报道/other 称/other ，/other 印度/b_country 出售/other 与/other 俄罗斯/b_country 联合/other 研制/other 的/other “/other 布拉莫斯/other ”/other 超音速/other 巡航/other 导弹/b_dev ，/other 标志/other 着/other 印度/b_country 作为/other 世界/other 最/other 大/other 武器/b_dev 进口国/other 的/other 角色/other 发生/other 了/other 转变/other
+报道/other 称/other ，/other 印尼/b_country 和/other 菲律宾/b_country 也/other 提出/other 有意/other 购买/other “/other 布拉莫斯/other ”/other 导弹/b_dev
+报道/other 称/other ，/other 美国/b_country 对外/other 政策/b_nt 理事会/i_nt 亚洲/b_ns 安全/other 计划/other 负责人/b_role 杰夫·史密斯/b_nr 说/other ：/other “/other 印度/b_country 的/other 决策者/other 们/other 长期以来/other 一直/other 保持/other 克制/other ，/other 他们/other 认为/other ，/other 与/other 华盛顿/b_ns 或/other 河内/b_ns 开展/other 高级/other 防务/other 合作/other ，/other 可能/other 招致/other 北京/b_ns 做出/other 他们/other 不/other 愿/other 看到/other 的/other 强烈/other 反应/other
+报道/other 称/other ，/other 印度/b_country 一直/other 抱怨/other 中国/b_country 对/other 其/other 主要/other 对头/other 巴基斯坦/b_country 的/other 军事/other 援助/other ，/other 并/other 在/other 私下/other 里/other 对/other 中国/b_country 潜艇/b_dev 停靠/other 距离/other 家门口/other 不/other 远/other 的/other 斯里兰卡/b_ns 港口/i_ns 恼火/other 不已/other
+日/b_country 将/other 区别/other 对待/other 驶入/other 钓鱼岛/b_ns 中/b_country 俄/b_country 战舰/b_dev ,/other 只/other 抗议/other 中方/b_country
+防卫/other 相中/other 谷元/other 9日/other 上午/other 指出/other ，/other 中国/b_country 军舰/b_dev 此次/other 进入/other 钓鱼岛/b_ns 周边/i_ns 毗连区/i_ns “/other 有/other 可能/other 是/other 为了/other 展示/other 绝不/other 妥协/other 的/other 姿态/other
+防卫省/b_nt 正/other 与/other 美军/b_nt 合作/other 追踪/other 中国/b_country 军舰/b_dev 的/other 动向/other ，/other 提高/other 了/other 警戒/other
+日本/b_country 将/other 向/other 菲律宾/b_country 交付/other 巡逻船/b_dev ,/other 曾/other 在/other 钓鱼岛/b_ns 海域/i_ns 出没/other
+菲律宾/b_nt 交通部/i_nt 表示/other MRRV/b_dev 艇/i_dev 将/other 执行/other 搜救/other 、/other 海洋/other 污染/other 管控/other 、/other 护渔/other 等/other 任务/other ，/other 该艇/other 入役/other 后/other 将/other 马上/other 投入/other 使用/other
+根据/other 菲律宾/b_nt 政府/i_nt 与/other 日本/b_ns 海洋/i_ns 联合/other 株式会社/other 的/other 协议/other ，/other 日本/b_country 将/other 为/other 菲律宾/b_country 赠送/other 10/other 艘/other 新/other 造/other 的/other 巡逻艇/b_dev ，/other 这/other 其中/other 首艇/b_dev 被/other 命名/other 为/other “/other 图巴塔哈/other ”/other 号/other ，/other 已/other 于/other 5月/other 12日/other 下水/other
+这次/other 将要/other 交付/other 的/other MRRV/b_dev 型/i_dev 巡逻艇/i_dev 是/other 菲律宾/b_nt 海岸/i_nt 警卫队/i_nt 订购/other （/other PCG/other ）/other ，/other 日本/b_ns 海洋/i_ns 联合/other 株式会社/other 在/other 6月/other 9日/other 向/other 简氏/other 防务/other 周刊/other 透露/other 了/other 这/other 一/other 消息/other
+美国/b_nt 国务院/i_nt 副/b_role 发言人/i_role 托纳/b_nr 在/other 当天/other 的/other 记者会/other 表示/other 了/other 关切/other
+日本/b_nt 防卫省/i_nt 9日/other 称/other ，/other 一/other 艘/other 中国/b_nt 海军/i_nt 护卫舰/b_dev 当天/other 凌晨/other 驶入/other 钓鱼岛/b_ns 附近/i_ns 海域/i_ns
+日本/b_nt 媒体/i_nt 称/other ，/other 中国/b_country 海警船/b_dev 频繁/other 在/other 钓鱼岛/b_ns 附近/i_ns 航行/other ，/other 但/other 发现/other 中国/b_country 军舰/b_dev 尚/other 属/other 首/other 次/other
+对/other 此/other ，/other 中国/b_nt 国防部/i_nt 新闻局/other 在/other 回应/other 问询/other 时/other 表示/other ，/other 钓鱼岛/b_ns 及其/other 附属/other 岛屿/other 是/other 中国/b_country 固有/other 领土/other ，/other 中国/b_country 军舰/b_dev 在/other 本国/other 管辖/other 海域/other 航行/other 合理/other 合法/other ，/other 他国/other 无权/other 说三道四/other
+防卫省/b_nt 还/other 称/other ，/other 同一/other 时间段/other 3/other 艘/other 俄罗斯/b_country 军舰/b_dev 也/other 一度/other 在/other 钓鱼岛/b_ns 附近/i_ns 海域/i_ns 航行/other
+中国/b_country 驻/b_role 英/i_role 大使/i_role 在/other 英媒/b_nt 发文/other ：/other 劝菲/other 不要/other 在/other 南海/b_ns 玩火/other
+英国/b_country 主流/other 报纸/other 《/other 每日/other 电讯报/other 》/other 纸质/other 版/other 和/other 网络版/other 10/other 号/other 刊登/other 驻/other 英国/b_country 大使/b_role 刘晓明/b_nr 题/other 为/other 《/other 不要/other 在/other 南海/b_ns 玩火/other 》/other 的/other 署名/other 文章/other
+美军/b_nt 演练/other 大规模/other 混合战争/other ,/other 备战/other 崛起/other 中/other 的/other 中国/b_nt 军队/i_nt
+陆军/b_nt 参谋长/b_role 马克·米利/b_nr 上将/b_role 在/other 接受/other 采访/other 时/other 说/other ：/other “/other 在/other 讨论/other 一/other 种/other 更/other 高端/other 威胁/other 时/other ，/other 审视/other 的/other 是/other 不同/other 层次/other 的/other 能力/other ，/other 美国/b_nt 陆军/i_nt 已经/other 很/other 久/other 没有/other 与/other 此/other 种/other 敌手/other 作战/other 了/other
+海军/b_nt 陆战队/i_nt 司令/b_role 罗伯特·内勒/b_nr 上将/b_role 说/other ：/other “/other 我们/other 所有/other 人/other ，/other 从/other 陆军/b_nt 到/other 海军/b_nt 再/other 到/other 海军/b_nt 陆战队/i_nt ，/other 15/other 年/other 来/other 针对/other 一个/other 劲敌/other 英勇/other 作战/other
+防务/b_nt 部门/i_nt 官员/b_role 说/other ，/other 战争/other 性质/other 改变/other 要求/other 军种/other 间/other 进行/other 更/other 密切/other 合作/other
+但是/other ，/other 俄罗斯/b_country 入侵/other 克里米亚/b_nr 、/other 中国/b_country 的/other 崛起/other 已/other 促使/other 美军/b_nt 指挥官/b_role 要求/other 确保/other 陆军/b_nt 、/other 海军/b_nt 、/other 空军/b_nt 和/i_nt 海军/i_nt 陆战队/i_nt 进行/other 常规战/other 训练/other
+国防部/b_nt 回应/other 歼/b_dev 10/i_dev 东海/b_ns 拦/other 美/b_country 军机/b_dev ：/other 中方/b_country 飞行员/b_role 操作/other 专业/other
+中/b_country 美/b_country 就/other 南海/b_ns 问题/other 再次/other 摊牌/other ,/other 美/b_country 防长/b_role 表态/other 暴露/other 其/other 野心/other
+单/other 从/other 杨洁篪/other 和/other 克里/b_nr 的/other 讲话/other 看/other ，/other 南海/b_ns 问题/other 波澜不惊/other ，/other 其实/other 大家/other 都/other 很/other 清楚/other ，/other 随着/other 美国/b_country 军舰/b_dev 军机/i_dev 抵近/other 侦察/other 南海/b_ns 越来越/other 频繁/other 甚至/other 常态化/other ，/other 南海/b_ns 问题/other 的/other 紧张/other 局面/other 正在/other 加剧/other
+印媒/b_nt 称/other 印度/b_country 将/other 新建/other 46/other 座/other 雷达/b_dev 基站/other ,/other 遏制/other 中国/b_country 海上/other 行动/other
+同时/other ，/other 印度/b_country 的/other 沿海/other 监视/other 网络/other 建设/other 工作/other 也/other 已/other 启动/other ，/other 包括/other 在/other 内地/other 建立/other 36/other 座/other 雷达/b_dev 基站/other ，/other 在/other 拉克沙/b_ns 群岛/i_ns 和/other 米尼科伊岛/b_ns 建立/other 6/other 座/other ，/other 在/other 安达曼/other 和/other 尼科巴/b_ns 群岛/i_ns 建立/other 4/other 座/other
+另外/other ，/other 该/other 规划/other 还/other 包括/other 在/other 安达曼/other 和/other 尼科巴/b_nt 司令部/i_nt 建立/other 军用/other 基础/other 设施/other ，/other 以/other 遏制/other 中国/b_country 在/other 太平洋/b_ns 的/other 战略/other 举动/other ，/other 确保/other 通往/other 马六甲/b_ns 海峡/other 的/other 航线/other 安全/other

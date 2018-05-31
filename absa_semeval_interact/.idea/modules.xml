@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:/master4/SemevalProject/absa_semeval_baseline/.idea/absa_semeval_baseline.iml" filepath="G:/master4/SemevalProject/absa_semeval_baseline/.idea/absa_semeval_baseline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/absa_semeval_cd.iml" filepath="$PROJECT_DIR$/.idea/absa_semeval_cd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/absa_semeval_interact.iml" filepath="$PROJECT_DIR$/.idea/absa_semeval_interact.iml" />
+    </modules>
+  </component>
+</project>
